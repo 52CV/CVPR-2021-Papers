@@ -38,7 +38,7 @@
 
 ## 21.Transformer 
 
-- [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<bar>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br>
+- [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<br>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br>
 - [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>
 - [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 
@@ -55,8 +55,8 @@
 
 ## 19.模型压缩
 
-- [Learning Student Networks in the Wild](https://arxiv.org/pdf/1904.01186.pdf)<br>:stars:[code](https://github.com/huawei-noah/DAFL)<br>
-- [Rethinking Channel Dimensions for Efficient Model Design](https://arxiv.org/abs/2007.00992)<br>:stars:[code](https://github.com/clovaai/rexnet)<br>
+- [Learning Student Networks in the Wild](https://arxiv.org/pdf/1904.01186.pdf)<br>:star:[code](https://github.com/huawei-noah/DAFL)<br>
+- [Rethinking Channel Dimensions for Efficient Model Design](https://arxiv.org/abs/2007.00992)<br>:star:[code](https://github.com/clovaai/rexnet)<br>
 - Manifold Regularized Dynamic Network Pruning（动态剪枝的过程中考虑样本复杂度与网络复杂度的约束）<br>
 
 <a name="18"/> 
@@ -71,7 +71,7 @@
 ## 17.超分辨率
 
 - Data-Free Knowledge Distillation For Image Super-Resolution(DAFL算法的SR版本)<br><br>
-- 【AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:stars:[code](https://github.com/huawei-noah/AdderNet)<br>
+- 【AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
 
 <a name="16"/> 
 
@@ -85,7 +85,7 @@
 
 ## 15.GAN
 - Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing<br>
-- [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:stars:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
+- [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
 - [Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs](https://arxiv.org/pdf/2011.14107.pdf)<br>
 
 <a name="14"/> 
@@ -106,7 +106,7 @@
 
 ## 12.图像质量
 
-[Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:stars:[code](https://github.com/swz30/MPRNet)<br>
+[Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:star:[code](https://github.com/swz30/MPRNet)<br>
 
 <a name="11"/> 
 
@@ -143,9 +143,9 @@
 
 ## 7.目标检测
 
-- [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:stars:[code](https://github.com/yuantn/MIAL)<br>
+- [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
-- Open-world object detection(开放世界中的目标检测)<br>:stars:[code](https://github.com/JosephKJ/OWOD)<br>
+- Open-world object detection(开放世界中的目标检测)<br>:star:[code](https://github.com/JosephKJ/OWOD)<br>
 
 <a name="6"/> 
 
@@ -163,13 +163,13 @@
 
 ## 4.弱监督学习
 
-- [Weakly Supervised Learning of Rigid 3D Scene Flow](https://arxiv.org/pdf/2102.08945.pdf)<br>:stars:[code](https://arxiv.org/pdf/2102.08945.pdf):house:[project](https://3dsceneflow.github.io/)<br>
+- [Weakly Supervised Learning of Rigid 3D Scene Flow](https://arxiv.org/pdf/2102.08945.pdf)<br>:star:[code](https://arxiv.org/pdf/2102.08945.pdf):house:[project](https://3dsceneflow.github.io/)<br>
 
 <a name="3"/> 
 
 ## 3.点云
 
--[PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:stars:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
+-[PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
 
 <a name="2"/> 
 
@@ -182,25 +182,25 @@
 ## 1.未分类
 
 - Coarse-Fine Networks for Temporal Activity Detection in Videos(用于视频中的时间活动检测的粗细网络)<br>
-- [Instance Localization for Self-supervised Detection Pretraining](https://arxiv.org/pdf/2102.08318.pdf)<bar>:stars:[code](https://github.com/limbo0000/InstanceLoc)<br>
-- [FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation](https://arxiv.org/pdf/2012.08512.pdf)<bar>:stars:[code](https://tarun005.github.io/FLAVR/Code):house:[project](https://tarun005.github.io/FLAVR/)<br>
-- [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<bar>:stars:[code](https://github.com/naver-ai/relabel_imagenet)<br>
+- [Instance Localization for Self-supervised Detection Pretraining](https://arxiv.org/pdf/2102.08318.pdf)<br>:star:[code](https://github.com/limbo0000/InstanceLoc)<br>
+- [FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation](https://arxiv.org/pdf/2012.08512.pdf)<br>:star:[code](https://tarun005.github.io/FLAVR/Code):house:[project](https://tarun005.github.io/FLAVR/)<br>
+- [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
 - Rainbow Memory: Continual Learning with a Memory of Diverse Samples（不断学习与多样本的记忆）<br>
 - Reconsidering Representation Alignment for Multi-view Clustering(重新考虑多视图聚类的表示对齐方式)<br>
 - Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map(道路动力学和成本图的自监督式多步同时预测)<br>
 - [IIRC: Incremental Implicitly-Refined Classification](https://arxiv.org/abs/2012.12477)<br>:house:[project](https://chandar-lab.github.io/IIRC/)<br>
-- [Fair Attribute Classification through Latent Space De-biasing](https://arxiv.org/abs/2012.01469)<bar>:stars:[code](https://github.com/princetonvisualai/gan-debiasing):house:[project](https://princetonvisualai.github.io/gan-debiasing/)<br>
+- [Fair Attribute Classification through Latent Space De-biasing](https://arxiv.org/abs/2012.01469)<br>:star:[code](https://github.com/princetonvisualai/gan-debiasing):house:[project](https://princetonvisualai.github.io/gan-debiasing/)<br>
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
 - Few-shot Open-set Recognition by Transformation Consistency(转换一致性很少的开放集识别)<br>
 - UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining(UC2：通用跨语言跨模态视觉和语言预培训)<br>
-- [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<bar>:stars:[code](https://github.com/jayleicn/ClipBERT)<br>
+- [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:star:[code](https://github.com/jayleicn/ClipBERT)<br>
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)<br>:house:[project](https://www.albertpumarola.com/research/D-NeRF/index.html)<br>
 - Distilling Object Detectors via Decoupled Features（前景背景分离的蒸馏技术） <br>
 - Inverting the Inherence of Convolution for Visual Recognition（颠倒卷积的固有性以进行视觉识别）<br>
 - Representative Batch Normalization with Feature Calibration（具有特征校准功能的代表性批量归一化）<br>
 - Learning the Superpixel in a Non-iterative and Lifelong Manner(以非迭代和终身的方式学习超像素)<br>
-- [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<bar>:stars:[code](https://github.com/megvii-model/RepVGG)<br>
+- [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
 
 
 

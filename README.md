@@ -202,6 +202,7 @@
 - [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)
 - [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](https://rl.uni-freiburg.de/)<br>
 - [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>
+- [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜力。
 
 <a name="6"/> 
 

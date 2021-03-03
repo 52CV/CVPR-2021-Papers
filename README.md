@@ -295,6 +295,6 @@
   * [CVPR 2021大赛， 安全AI 之防御模型的「白盒对抗攻击」解析](https://mp.weixin.qq.com/s/OJ9_xaQ6GyuCUrph8boxYA)
   * [还在刷榜ImageNet？找出模型的脆弱之处更有价值！](https://mp.weixin.qq.com/s/nbAudiGJX_l69zaSEiWJFA)
 
-## 扫码CV君微信（注明：CVPR）拉你入CVPR微信交流群：
+## 扫码CV君微信（注明：CVPR）入微信交流群：
 
 ![image](https://user-images.githubusercontent.com/62801906/109789529-655e4380-7c4b-11eb-9f1a-58c5cb097428.png)

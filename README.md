@@ -19,18 +19,23 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |----|-----|----|-----|-----|
-|#|#|#|[22.医学影像](#22)|[21.Transformer](#21)|
+|#|#|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
 |[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像质量](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+<a name="23"/> 
+
+## 23.自动驾驶
+
+- [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition](https://arxiv.org/abs/2103.01486)<br>:star:[github](https://github.com/QVPR/Patch-NetVLAD)
 
 <a name="22"/> 
 
 ## 22.医学影像
 
-- [3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management(https://arxiv.org/abs/2012.04701)<br>用纯多模态 CT 影像可替代目前 JHMI 的需要做肿瘤化学检测和 DNA 测序+医学影像的综合多模态诊断流程，从诊断准确度上有可比较性，定量诊断精度更优<br>
+- [3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management](https://arxiv.org/abs/2012.04701)<br>用纯多模态 CT 影像可替代目前 JHMI 的需要做肿瘤化学检测和 DNA 测序+医学影像的综合多模态诊断流程，从诊断准确度上有可比较性，定量诊断精度更优<br>
 - [Deep Lesion Tracker: Monitoring Lesions in 4D Longitudinal Imaging Studies](https://arxiv.org/abs/2012.04872)<br>肿瘤影像里面智能 PACS 辅助医生读片的重要功能<br>
 - [Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://arxiv.org/abs/2012.07947)<br>基于CT 影像的骨折/骨质疏松系统<br>
 
@@ -113,6 +118,8 @@
 ## 11. 人脸技术
 
 - [A 3D GAN for Improved Large-pose Facial Recognition](https://arxiv.org/pdf/2012.10545.pdf)<br>
+- [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:star:[github](https://github.com/Hzzone/MTLFace)<br>
+
 
 <a name="10"/> 
 
@@ -146,6 +153,7 @@
 - [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
 - Open-world object detection(开放世界中的目标检测)<br>:star:[code](https://github.com/JosephKJ/OWOD)<br>
+- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)
 
 <a name="6"/> 
 
@@ -170,6 +178,7 @@
 ## 3.点云
 
 - [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
+- [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/abs/2103.01458)<br>:star:[code](https://github.com/luost26/diffusion-point-cloud)<br>
 
 <a name="2"/> 
 

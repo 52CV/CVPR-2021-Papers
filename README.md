@@ -77,7 +77,7 @@
 
 ## 23.自动驾驶
 
-- [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition](https://arxiv.org/abs/2103.01486)<br>:star:[github](https://github.com/QVPR/Patch-NetVLAD)
+- [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition](https://arxiv.org/abs/2103.01486)<br>:star:[github](https://github.com/QVPR/Patch-NetVLAD) ECCV 2020 Facebook Mapillary Visual Place Recognition Challenge 冠军方案
 
 <a name="22"/> 
 

@@ -17,13 +17,20 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |----|-----|----|-----|-----|
-|:sa:|:sa:|:sa:|:sa:|[* Workshop征稿](#*)|
+|:sa:|:sa:|:sa:|[* Workshop征稿](#*)|[31. 开放集识别](#31)|
 |[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
 |[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像增强](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="31"/>
+
+## 31. 开放集识别
+
+- [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)<br>:star:[code](https://github.com/yue-zhongqi/gcm-cf)<br>
+- Few-shot Open-set Recognition by Transformation Consistency<br>
 
 <a name="30"/>
 
@@ -251,7 +258,6 @@
 - [IIRC: Incremental Implicitly-Refined Classification](https://arxiv.org/abs/2012.12477)<br>:house:[project](https://chandar-lab.github.io/IIRC/)<br>
 - [Fair Attribute Classification through Latent Space De-biasing](https://arxiv.org/abs/2012.01469)<br>:star:[code](https://github.com/princetonvisualai/gan-debiasing):house:[project](https://princetonvisualai.github.io/gan-debiasing/)<br>
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
-- Few-shot Open-set Recognition by Transformation Consistency<br>
 - UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
 - [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:star:[code](https://github.com/jayleicn/ClipBERT)<br>
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
@@ -260,7 +266,6 @@
 - Representative Batch Normalization with Feature Calibration<br>
 - Learning the Superpixel in a Non-iterative and Lifelong Manner<br>
 - [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
-- [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)<br>:star:[code](https://github.com/yue-zhongqi/gcm-cf)<br>
 - [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
 - [Learning the Predictability of the Future](https://arxiv.org/abs/2101.01600)<br>预测未来<br>:star:[code](https://github.com/cvlab-columbia/hyperfuture):house:[project](https://hyperfuture.cs.columbia.edu/):tv:[video](https://www.youtube.com/watch?v=-Uy92jvT_90)<br>
 - [Vab-AL: Incorporating Class Imbalance and Difficulty with Variational Bayes for Active Learning]
@@ -268,7 +273,7 @@
 
 <a name="*"/>
 
-## Workshop 征稿
+## Workshop 征稿ing
 
 - [Visual Perception for Navigation in Human Environments](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)<br>第二届人类环境导航视觉感知征稿 :warning:4月15截止
 - [UG 2 + Challenge](http://cvpr2021.ug2challenge.org/index.html)<br>旨在通过应用图像恢复和增强算法提高分析性能，推动对 "difficult"图像的分析。参与者任务是开发新的算法，以改进对在问题条件下拍摄的图像分析。<br>:crown:10K美元奖金<br>
@@ -284,3 +289,9 @@
   * Overall Challenge winner: 				1,000 USD  + 500 USD worth of Huawei cloud credits (HUAWEI)
   * Supervised-Learning track winner: 		500 USD (HUAWEI)
   * Reinforcement-Learning track winner: 	500 USD (ServiceNow)
+
+- [第四届UG2研讨会和竞赛：弥合计算成像与视觉识别之间的鸿沟](https://mp.weixin.qq.com/s/u7YDi7tAsDn77P0hb-dmFg)
+
+- [10万美元奖金！CVPR 2021 重磅赛事，安全AI挑战者计划](https://mp.weixin.qq.com/s/1d8RL9_YqKp9stVf2M1N-Q)
+  * [CVPR 2021大赛， 安全AI 之防御模型的「白盒对抗攻击」解析](https://mp.weixin.qq.com/s/OJ9_xaQ6GyuCUrph8boxYA)
+  * [还在刷榜ImageNet？找出模型的脆弱之处更有价值！](https://mp.weixin.qq.com/s/nbAudiGJX_l69zaSEiWJFA)

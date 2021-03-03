@@ -16,18 +16,27 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |----|-----|----|-----|-----|
-|[* Workshop征稿](#*)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
+|----|-----|----|-----|[* Workshop征稿](#*)|
+|[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
 |[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像增强](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+<a name="30"/>
+
+## 30.新视角合成
+
+- [DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490)<br>:house:[project](https://ubc-vision.github.io/derf/)<br>
+- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)<br>:house:[project](https://www.albertpumarola.com/research/D-NeRF/index.html)<br>
+
 <a name="29"/>
 
 ## 29.姿态估计
 
 - [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607)<br>:tv:[video](https://twitter.com/i/status/1334395954644930560)<br>通过消除 location-dependent 透视效果来改进3D人体姿势估计技术工作。<br>
+- [CanonPose: Self-supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679)
 
 <a name="28"/>
 
@@ -79,6 +88,7 @@
 - [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>
 - [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 - 3D Vision Transformers for Action Recognition<br>用于动作识别的3D视觉Transformer
+- [MIST: Multiple Instance Spatial Transformer Network](https://arxiv.org/abs/1811.10725)<br>试图从热图中进行可微的top-K选择(MIST)（目前在自然图像上也有了一些结果；) 用它可以在没有任何定位监督的情况下进行检测和分类（并不是它唯一能做的事情!）
 
 
 
@@ -243,7 +253,6 @@
 - UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining(UC2：通用跨语言跨模态视觉和语言预培训)<br>
 - [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:star:[code](https://github.com/jayleicn/ClipBERT)<br>
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
-- [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)<br>:house:[project](https://www.albertpumarola.com/research/D-NeRF/index.html)<br>
 - Distilling Object Detectors via Decoupled Features（前景背景分离的蒸馏技术） <br>
 - Inverting the Inherence of Convolution for Visual Recognition（颠倒卷积的固有性以进行视觉识别）<br>
 - Representative Batch Normalization with Feature Calibration（具有特征校准功能的代表性批量归一化）<br>
@@ -251,6 +260,9 @@
 - [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
 - [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)<br>:star:[code](https://github.com/yue-zhongqi/gcm-cf)<br>
 - [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
+- [Learning the Predictability of the Future](https://arxiv.org/abs/2101.01600)<br>预测未来<br>:star:[code](https://github.com/cvlab-columbia/hyperfuture):house:[project](https://hyperfuture.cs.columbia.edu/):tv:[video](https://www.youtube.com/watch?v=-Uy92jvT_90)<br>
+- [Vab-AL: Incorporating Class Imbalance and Difficulty with Variational Bayes for Active Learning]
+- [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>
 
 <a name="*"/>
 
@@ -264,3 +276,9 @@
    * [黑暗视频中的动作识别](http://cvpr2021.ug2challenge.org/track2.html)
       * 黑暗中进行完全监督动作识别
       * 黑暗中进行半监督动作识别
+
+- [Continual Learning in Computer Vision 征稿中](https://sites.google.com/view/clvision2021/overview?authuser=0)<br>旨在聚集学术界和工业界的研究人员和工程师，讨论持续学习的最新进展。<br>
+  * Best paper award: 					500 USD + 500 USD worth of Huawei cloud credits (HUAWEI)
+  * Overall Challenge winner: 				1,000 USD  + 500 USD worth of Huawei cloud credits (HUAWEI)
+  * Supervised-Learning track winner: 		500 USD (HUAWEI)
+  * Reinforcement-Learning track winner: 	500 USD (ServiceNow)

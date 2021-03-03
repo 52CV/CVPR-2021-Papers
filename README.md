@@ -16,7 +16,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |----|-----|----|-----|-----|
-|:soon:|:soon:|:soon:|[27.活体检测](#27)|[26.视频编解码](#26)|
+|[* Workshop](#*)|:soon:|:soon:|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
 |[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像增强](#12)|[11.人脸技术](#11)|
@@ -238,5 +238,8 @@
 - [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
 - [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)<br>:star:[code](https://github.com/yue-zhongqi/gcm-cf)
 
+<a name="*"/>
 
+## * Workshop
 
+- [Visual Perception for Navigation in Human Environments](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)<br>第二届人类环境导航视觉感知征稿:warning:[4月15截止

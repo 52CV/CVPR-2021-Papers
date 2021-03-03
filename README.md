@@ -294,3 +294,8 @@
 - [10万美元奖金！CVPR 2021 重磅赛事，安全AI挑战者计划](https://mp.weixin.qq.com/s/1d8RL9_YqKp9stVf2M1N-Q)
   * [CVPR 2021大赛， 安全AI 之防御模型的「白盒对抗攻击」解析](https://mp.weixin.qq.com/s/OJ9_xaQ6GyuCUrph8boxYA)
   * [还在刷榜ImageNet？找出模型的脆弱之处更有价值！](https://mp.weixin.qq.com/s/nbAudiGJX_l69zaSEiWJFA)
+
+请扫码CV君微信（注明：CVPR）拉你入CVPR微信交流群：
+
+![image](https://user-images.githubusercontent.com/62801906/109789043-e0732a00-7c4a-11eb-983a-79545d393c82.png)
+

@@ -70,8 +70,8 @@
 
 ## 17.超分辨率
 
-- Data-Free Knowledge Distillation For Image Super-Resolution(DAFL算法的SR版本)<br><br>
-- 【AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
+- Data-Free Knowledge Distillation For Image Super-Resolution(DAFL算法的SR版本)<br>
+- [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
 
 <a name="16"/> 
 

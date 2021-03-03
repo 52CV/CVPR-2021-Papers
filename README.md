@@ -1,7 +1,7 @@
 # CVPR2021接受论文/代码(持续更新)
 
 
-本贴是对CVPR22021已接受论文的粗略汇总，后期会有更详细的总结。期待ing......
+本贴是对 CVPR2021 已接受论文的粗略汇总，后期会有更详细的总结。期待ing......
 
 # CVPR2021最新信息及论文下载贴（Papers/Codes/Project/等）
 
@@ -106,7 +106,7 @@
 
 ## 12.图像质量
 
-[Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:star:[code](https://github.com/swz30/MPRNet)<br>
+- [Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:star:[code](https://github.com/swz30/MPRNet)<br>
 
 <a name="11"/> 
 
@@ -169,13 +169,13 @@
 
 ## 3.点云
 
--[PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
+- [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
 
 <a name="2"/> 
 
 ## 2.图卷积网络GNN
 
--[Sequential Graph Convolutional Network for Active Learning](https://arxiv.org/pdf/2006.10219.pdf)<br>
+- [Sequential Graph Convolutional Network for Active Learning](https://arxiv.org/pdf/2006.10219.pdf)<br>
 
 <a name="1"/> 
 

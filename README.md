@@ -258,9 +258,9 @@
 
 - [Visual Perception for Navigation in Human Environments](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)<br>第二届人类环境导航视觉感知征稿 :warning:4月15截止
 - [UG 2 + Challenge](http://cvpr2021.ug2challenge.org/index.html)<br>旨在通过应用图像恢复和增强算法提高分析性能，推动对 "difficult"图像的分析。参与者任务是开发新的算法，以改进对在问题条件下拍摄的图像分析。<br>:crown:10K美元奖金<br>
-* [低能见度环境下的目标检测](https://www.deepl.com/translator#en/zh/OBJECT%20DETECTION%20IN%20POOR%20VISIBILITY%20ENVIRONMENTS)
-    * 雾霾条件下的(半)监督目标检测
-    * (半)低光条件下的人脸检测
-* [黑暗视频中的动作识别](http://cvpr2021.ug2challenge.org/track2.html)
-    * 黑暗中进行完全监督动作识别
-    * 黑暗中进行半监督动作识别
+   * [低能见度环境下的目标检测](https://www.deepl.com/translator#en/zh/OBJECT%20DETECTION%20IN%20POOR%20VISIBILITY%20ENVIRONMENTS)
+      * 雾霾条件下的(半)监督目标检测
+      * (半)低光条件下的人脸检测
+   * [黑暗视频中的动作识别](http://cvpr2021.ug2challenge.org/track2.html)
+      * 黑暗中进行完全监督动作识别
+      * 黑暗中进行半监督动作识别

@@ -38,7 +38,7 @@
 
 ## 21.Transformer 
 
-- [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<bar>:stars:[code](https://github.com/hila-chefer/Transformer-Explainability)<br>
+- [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<bar>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br>
 - [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>
 - [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 

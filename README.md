@@ -96,7 +96,7 @@
 
 ## 20.人员重识别
 
-- [39.Meta Batch-Instance Normalization for Generalizable Person Re-Identification](https://arxiv.org/abs/2011.14670)<br>
+- [Meta Batch-Instance Normalization for Generalizable Person Re-Identification](https://arxiv.org/abs/2011.14670)<br>
 
 <a name="19"/> 
 

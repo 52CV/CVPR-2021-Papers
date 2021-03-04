@@ -50,7 +50,7 @@
 ## 31.开放集识别
 
 - [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)<br>:star:[code](https://github.com/yue-zhongqi/gcm-cf)<br>
-- Few-shot Open-set Recognition by Transformation Consistency<br>
+- [Few-shot Open-set Recognition by Transformation Consistency](https://arxiv.org/abs/2103.01537)<br>
 
 <a name="30"/>
 

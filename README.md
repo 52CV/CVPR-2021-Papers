@@ -17,7 +17,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-[Workshop征稿](#*)
+||||[Workshop征稿](#*)|[46.图像字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
 |[40.模型偏见消除](#40)|[39.类增量学习](#39)|[38.持续学习](#38)|[37.视频插帧](#37)|[36.动作检测与识别](#36)|
 |[35.图像聚类](#35)|[34.图像分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
@@ -28,6 +28,7 @@
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+<a name="46"/>
 
 ## 46.图像字幕
 
@@ -81,8 +82,7 @@
 ## 38.持续学习
 
 - Rainbow Memory: Continual Learning with a Memory of Diverse Samples<br>
-- Reconsidering Representation Alignment for Multi-view Clustering<br>
-- Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map<br>
+
 
 <a name="37"/>
 
@@ -95,7 +95,6 @@
 ## 36.动作检测与识别
 
 - [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302)<br>
-- [Instance Localization for Self-supervised Detection Pretraining](https://arxiv.org/pdf/2102.08318.pdf)<br>:star:[code](https://github.com/limbo0000/InstanceLoc)<br>
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
 
 <a name="35"/>
@@ -189,7 +188,7 @@
 - [3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management](https://arxiv.org/abs/2012.04701)<br>用纯多模态 CT 影像可替代目前 JHMI 的需要做肿瘤化学检测和 DNA 测序+医学影像的综合多模态诊断流程，从诊断准确度上有可比较性，定量诊断精度更优<br>
 - [Deep Lesion Tracker: Monitoring Lesions in 4D Longitudinal Imaging Studies](https://arxiv.org/abs/2012.04872)<br>肿瘤影像里面智能 PACS 辅助医生读片的重要功能<br>
 - [Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://arxiv.org/abs/2012.07947)<br>基于CT 影像的骨折/骨质疏松系统<br>
-- [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术<br>:star:[code](https://github.com/guopengf/FL-MRCM)
+- [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>:star:[code](https://github.com/guopengf/FL-MRCM)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术
 
 <a name="21"/> 
 
@@ -298,7 +297,7 @@
 ## 9.目标跟踪
 - [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>
-- Track to Detect and Segment: An Online Multi-Object Tracker<bar>:house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://www.youtube.com/watch?v=oGNtSFHRZJA)<br>
+- Track to Detect and Segment: An Online Multi-Object Tracker<br>:house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://www.youtube.com/watch?v=oGNtSFHRZJA)<br>
 
 
 <a name="8"/> 
@@ -307,12 +306,11 @@
 
 - [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
 - [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>
-- [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>用于域自适应全景分割的跨视图正则化方法<br>:open_mouth:oral<br>
+- [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
-- UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
 - [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:star:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
 - [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
-- [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）
+- [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）
 - Part-aware Panoptic Segmentation<br>
 
 
@@ -329,8 +327,7 @@
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
 - Distilling Object Detectors via Decoupled Features<br>
-- Inverting the Inherence of Convolution for Visual Recognition<br>
-- Representative Batch Normalization with Feature Calibration<br>
+
 
 <a name="6"/> 
 
@@ -371,6 +368,12 @@
 
 ## 1.未分类
 
+- Inverting the Inherence of Convolution for Visual Recognition<br>
+- Representative Batch Normalization with Feature Calibration<br>
+- UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
+- Reconsidering Representation Alignment for Multi-view Clustering<br>
+- Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map<br>
+- [Instance Localization for Self-supervised Detection Pretraining](https://arxiv.org/pdf/2102.08318.pdf)<br>:star:[code](https://github.com/limbo0000/InstanceLoc)<br>
 - Model-Contrastive Federated Learning<br>提出模型对比学习来解决联合学习中的非IID数据问题<br>
 - [Neural Geometric Level of Detail:Real-time Rendering with Implicit 3D Surfaces](https://arxiv.org/abs/2101.10994)<br>:open_mouth:Oral:star:[code](https://github.com/nv-tlabs/nglod):house:[project](https://nv-tlabs.github.io/nglod/)<br>
 - [Data-Free Model Extraction](https://arxiv.org/abs/2011.14779)<br>:star:[code](https://github.com/cake-lab/datafree-model-extraction)<br>

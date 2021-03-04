@@ -29,7 +29,7 @@
 
 ## 34.图像分类
 
--[PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
+- [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
 
 <a name="33"/>
 

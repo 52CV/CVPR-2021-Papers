@@ -11,13 +11,13 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月4日新增 30 篇（1目标检测+2点云+1半监督+1医学+5分割+1域泛化+1人脸+1视图合成+16D位姿+2分类+1跟踪+1图像增强+1GAN+1GNN+1图像字幕+1三维+8未分）
+### :fireworks::fireworks::fireworks:更新提示：3月4日新增 33 篇（2目标检测+3点云+1半监督+1医学+5分割+1域泛化+1人脸+1视图合成+16D位姿+2分类+1跟踪+1图像增强+1GAN+1GNN+1图像字幕+1三维+1相机定位+8未分）
 
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|:x:|:x:|:x:|[Workshop征稿](#*)|[46.图像字幕](#46)|
+|:x:|:x:|[Workshop征稿](#*)|[47.相机定位](#47)|[46.图像字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
 |[40.模型偏见消除](#40)|[39.类增量学习](#39)|[38.持续学习](#38)|[37.视频插帧](#37)|[36.动作检测与识别](#36)|
 |[35.图像聚类](#35)|[34.图像分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
@@ -27,6 +27,12 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="47"/>
+
+## 47.相机定位(Camera Localization)
+
+- [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](https://arxiv.org/abs/2012.04746)
 
 <a name="46"/>
 
@@ -327,7 +333,7 @@
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
 - Distilling Object Detectors via Decoupled Features<br>
-
+- [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2012.04355)<br>:open_mouth:oral:star:[code](https://github.com/thu17cyz/3DIoUMatch):house:[project]():tv:[video](https://youtu.be/nuARjhkQN2U)<br>更多：[CVPR 2021|利用IoU预测进行半监督式3D目标检测](https://zhuanlan.zhihu.com/p/354618636)
 
 <a name="6"/> 
 
@@ -356,6 +362,7 @@
 - [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/abs/2103.01458)<br>:star:[code](https://github.com/luost26/diffusion-point-cloud)<br>
 - [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)<br>
 - [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)<br>:star:[code](https://github.com/QingyongHu/SpinNet)
+- [MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization](https://arxiv.org/abs/2101.06605)<br>:open_mouth:oral:star:[code](https://github.com/huangjh-pub/multibody-sync)
 
 <a name="2"/> 
 

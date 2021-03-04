@@ -20,7 +20,7 @@
 |[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
-|[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像增强](#12)|[11.人脸技术](#11)|
+|[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
@@ -112,20 +112,20 @@
 
 - [Learning Student Networks in the Wild](https://arxiv.org/pdf/1904.01186.pdf)<br>:star:[code](https://github.com/huawei-noah/DAFL)<br>
 - [Rethinking Channel Dimensions for Efficient Model Design](https://arxiv.org/abs/2007.00992)<br>:star:[code](https://github.com/clovaai/rexnet)<br>
-- Manifold Regularized Dynamic Network Pruning（动态剪枝的过程中考虑样本复杂度与网络复杂度的约束）<br>
+- Manifold Regularized Dynamic Network Pruning<br>
 
 <a name="18"/> 
 
 ## 18.航空影像
 
-- Dogfight: Detecting Drones from Drone Videos（从无人机视频中检测无人机）<br>
-- PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation(语义流经点以进行航空图像分割)<br>
+- Dogfight: Detecting Drones from Drone Videos<br>
+- PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation<br>
 
 <a name="17"/> 
 
 ## 17.超分辨率
 
-- Data-Free Knowledge Distillation For Image Super-Resolution(DAFL算法的SR版本)<br>
+- Data-Free Knowledge Distillation For Image Super-Resolution<br>
 - [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
 
 <a name="16"/> 
@@ -213,7 +213,7 @@
 
 <a name="6"/> 
 
-## 6.数据增强
+## 6.数据增广
 
 - [KeepAugment: A Simple Information-Preserving Data Augmentation](https://arxiv.org/pdf/2011.11778.pdf)<br>
 

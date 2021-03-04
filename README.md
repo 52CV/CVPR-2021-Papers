@@ -11,25 +11,100 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月4日新增 10 篇（目标检测/点云/自监督/医学/分割/小样本/人脸/视图合成/6D位姿/分类各一篇）
+### :fireworks::fireworks::fireworks:更新提示：3月4日新增 10 篇（目标检测/点云/自监督/医学/分割/域泛化/人脸/视图合成/6D位姿/分类各一篇）
 
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
-|----|-----|----|-----|-----|
-|[Workshop征稿](#*)|[34.图像分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
+|------|------|------|------|------|
+[Workshop征稿](#*)
+|[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
+|[40.模型偏见消除](#40)|[39.类增量学习](#39)|[38.持续学习](#38)|[37.视频插帧](#37)|[36.动作检测与识别](#36)|
+|[35.图像聚类](#35)|[34.图像分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
 |[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
-|[15.GAN](#15)|[14.少样本学习](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
+|[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="45"/>
+
+## 45.主动学习
+
+- [Vab-AL: Incorporating Class Imbalance and Difficulty with Variational Bayes for Active Learning]
+
+<a name="44"/>
+
+## 44.动作预测
+
+- [Learning the Predictability of the Future](https://arxiv.org/abs/2101.01600)<br>预测未来<br>:star:[code](https://github.com/cvlab-columbia/hyperfuture):house:[project](https://hyperfuture.cs.columbia.edu/):tv:[video](https://www.youtube.com/watch?v=-Uy92jvT_90)<br>
+
+<a name="43"/>
+
+## 43.表示学习（图像+字幕）
+
+- [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
+
+<a name="42"/>
+
+## 42.超像素
+
+- Learning the Superpixel in a Non-iterative and Lifelong Manner<br>
+
+<a name="41"/>
+
+## 41.视频语言学习（video-and-language learning）
+
+- [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:star:[code](https://github.com/jayleicn/ClipBERT)<br>
+
+
+<a name="40"/>
+
+## 40.模型偏见消除
+
+- [Fair Attribute Classification through Latent Space De-biasing](https://arxiv.org/abs/2012.01469)<br>:star:[code](https://github.com/princetonvisualai/gan-debiasing):house:[project](https://princetonvisualai.github.io/gan-debiasing/)<br>
+
+<a name="39"/>
+
+## 39.类增量学习（class-incremental learning）
+
+- [IIRC: Incremental Implicitly-Refined Classification](https://arxiv.org/abs/2012.12477)<br>:house:[project](https://chandar-lab.github.io/IIRC/)<br>
+
+<a name="38"/>
+
+## 38.持续学习
+
+- Rainbow Memory: Continual Learning with a Memory of Diverse Samples<br>
+- Reconsidering Representation Alignment for Multi-view Clustering<br>
+- Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map<br>
+
+<a name="37"/>
+
+## 37.视频插帧
+
+- [FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation](https://arxiv.org/pdf/2012.08512.pdf)<br>:star:[code](https://tarun005.github.io/FLAVR/Code):house:[project](https://tarun005.github.io/FLAVR/)<br>
+
+<a name="36"/>
+
+## 36.动作检测与识别
+
+- [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302)<br>
+- [Instance Localization for Self-supervised Detection Pretraining](https://arxiv.org/pdf/2102.08318.pdf)<br>:star:[code](https://github.com/limbo0000/InstanceLoc)<br>
+- [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
+
+<a name="35"/>
+
+## 35.图像聚类
+
+- [Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/abs/2012.11150)<br>:star:[code](https://github.com/deu30303/RUC)<br>利用鲁棒学习改进无监督图像聚类技术<br>
 
 <a name="34"/>
 
 ## 34.图像分类
 
 - [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
+- [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
 
 <a name="33"/>
 
@@ -135,6 +210,7 @@
 - [Learning Student Networks in the Wild](https://arxiv.org/pdf/1904.01186.pdf)<br>:star:[code](https://github.com/huawei-noah/DAFL)<br>
 - [Rethinking Channel Dimensions for Efficient Model Design](https://arxiv.org/abs/2007.00992)<br>:star:[code](https://github.com/clovaai/rexnet)<br>
 - Manifold Regularized Dynamic Network Pruning<br>
+- [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
 
 <a name="18"/> 
 
@@ -169,11 +245,12 @@
 <a name="14"/> 
 
 
-## 14.小样本学习
+## 14.小/零样本学习，域适应，域泛化
 
 - Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning<br>
 - [Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning](https://arxiv.org/abs/2103.01315)<br>
 - [FSDR: Frequency Space Domain Randomization for Domain Generalization](https://arxiv.org/abs/2103.02370)<br>受 JPEG 将空间图像转换为多个频率分量(FCs)的启发，提出频率空间域随机化(FSDR)，通过保留域变量FCs(DIFs)和只随机化域变量FCs(DVFs)来随机化频率空间的图像。
+- [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>
 
 <a name="11"/> 
 
@@ -221,7 +298,8 @@
 - [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
 - [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>
 - [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>用于域自适应全景分割的跨视图正则化方法<br>:open_mouth:oral<br>
-
+- [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
+- UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
 
 
 <a name="7"/> 
@@ -236,6 +314,9 @@
 - [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜力。
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
+- Distilling Object Detectors via Decoupled Features<br>
+- Inverting the Inherence of Convolution for Visual Recognition<br>
+- Representative Batch Normalization with Feature Calibration<br>
 
 <a name="6"/> 
 
@@ -274,29 +355,7 @@
 
 ## 1.未分类
 
-- [Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/abs/2012.11150)<br>:star:[code](https://github.com/deu30303/RUC)<br>利用鲁棒学习改进无监督图像聚类技术<br>
-- [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302)<br>
-- [Instance Localization for Self-supervised Detection Pretraining](https://arxiv.org/pdf/2102.08318.pdf)<br>:star:[code](https://github.com/limbo0000/InstanceLoc)<br>
-- [FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation](https://arxiv.org/pdf/2012.08512.pdf)<br>:star:[code](https://tarun005.github.io/FLAVR/Code):house:[project](https://tarun005.github.io/FLAVR/)<br>
-- [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
-- Rainbow Memory: Continual Learning with a Memory of Diverse Samples<br>
-- Reconsidering Representation Alignment for Multi-view Clustering<br>
-- Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map<br>
-- [IIRC: Incremental Implicitly-Refined Classification](https://arxiv.org/abs/2012.12477)<br>:house:[project](https://chandar-lab.github.io/IIRC/)<br>
-- [Fair Attribute Classification through Latent Space De-biasing](https://arxiv.org/abs/2012.01469)<br>:star:[code](https://github.com/princetonvisualai/gan-debiasing):house:[project](https://princetonvisualai.github.io/gan-debiasing/)<br>
-- [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
-- UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
-- [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:star:[code](https://github.com/jayleicn/ClipBERT)<br>
-- [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
-- Distilling Object Detectors via Decoupled Features<br>
-- Inverting the Inherence of Convolution for Visual Recognition<br>
-- Representative Batch Normalization with Feature Calibration<br>
-- Learning the Superpixel in a Non-iterative and Lifelong Manner<br>
-- [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
-- [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
-- [Learning the Predictability of the Future](https://arxiv.org/abs/2101.01600)<br>预测未来<br>:star:[code](https://github.com/cvlab-columbia/hyperfuture):house:[project](https://hyperfuture.cs.columbia.edu/):tv:[video](https://www.youtube.com/watch?v=-Uy92jvT_90)<br>
-- [Vab-AL: Incorporating Class Imbalance and Difficulty with Variational Bayes for Active Learning]
-- [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>
+
 
 <a name="*"/>
 

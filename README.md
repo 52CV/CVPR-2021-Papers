@@ -408,7 +408,7 @@
   * [CVPR 2021大赛， 安全AI 之防御模型的「白盒对抗攻击」解析](https://mp.weixin.qq.com/s/OJ9_xaQ6GyuCUrph8boxYA)
   * [还在刷榜ImageNet？找出模型的脆弱之处更有价值！](https://mp.weixin.qq.com/s/nbAudiGJX_l69zaSEiWJFA)
 
-- [Responsible Computer Vision](https://sites.google.com/view/rcv-cvpr2021/home)<br>:warning:3月25日<br>本次研讨会将广泛讨论计算机视觉背景下负责任的人工智能的三个主要方面：公平性；可解释性和透明度；以及隐私。
+- [Responsible Computer Vision](https://sites.google.com/view/rcv-cvpr2021/home)<br>:warning:3月25日截止<br>本次研讨会将广泛讨论计算机视觉背景下负责任的人工智能的三个主要方面：公平性；可解释性和透明度；以及隐私。
 
 ## 扫码CV君微信（注明：CVPR）入微信交流群：
 

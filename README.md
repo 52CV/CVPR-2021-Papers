@@ -61,7 +61,7 @@
 
 ## 41.视频语言学习（video-and-language learning）
 
-- [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:star:[code](https://github.com/jayleicn/ClipBERT)<br>
+- [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jayleicn/ClipBERT)<br>
 
 
 <a name="40"/>
@@ -170,6 +170,7 @@
 ## 25.三维视觉
 
 - [A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261)<br>
+- [Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://arxiv.org/abs/2012.01451)<br>:open_mouth:oral:house:[project](https://aljazbozic.github.io/neural_deformation_graphs/):tv:[video](https://www.youtube.com/watch?v=vyq36eFkdWo)
 
 <a name="24"/> 
 
@@ -247,6 +248,7 @@
 - [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
 - [Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs](https://arxiv.org/pdf/2011.14107.pdf)<br>
 - [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:star:[code](https://github.com/imlixinyang/HiSD)
+- [Efficient Conditional GAN Transfer with Knowledge Propagation across Classes](https://arxiv.org/abs/2102.06696)<br>:star:[code](https://github.com/mshahbazi72/cGANTransfer)
 
 <a name="14"/> 
 
@@ -309,6 +311,9 @@
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
 - UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
 - [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:star:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
+- [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
+- [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）
+- Part-aware Panoptic Segmentation<br>
 
 
 <a name="7"/> 
@@ -350,7 +355,7 @@
 
 ## 3.点云
 
-- [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
+- [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:open_mouth:oral:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
 - [Diffusion Probabilistic Models for 3D Point Cloud Generation](https://arxiv.org/abs/2103.01458)<br>:star:[code](https://github.com/luost26/diffusion-point-cloud)<br>
 - [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)<br>
 - [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)<br>:star:[code](https://github.com/QingyongHu/SpinNet)
@@ -360,6 +365,7 @@
 ## 2.图卷积网络GNN
 
 - [Sequential Graph Convolutional Network for Active Learning](https://arxiv.org/pdf/2006.10219.pdf)<br>
+- [Quantifying Explainers of Graph Neural Networks in Computational Pathology](https://arxiv.org/abs/2011.12646)<br>
 
 <a name="1"/> 
 
@@ -371,6 +377,8 @@
 - Single-Stage Instance Shadow Detection with Bidirectional Relation Learning<br>:open_mouth:oral<br>
 - [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/abs/2012.04324)<br>:open_mouth:oral
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
+- [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning]
+- [Semantic Palette: Guiding Scene Generation with Class Proportions]
 
 <a name="*"/>
 
@@ -396,6 +404,8 @@
 - [10万美元奖金！CVPR 2021 重磅赛事，安全AI挑战者计划](https://mp.weixin.qq.com/s/1d8RL9_YqKp9stVf2M1N-Q)
   * [CVPR 2021大赛， 安全AI 之防御模型的「白盒对抗攻击」解析](https://mp.weixin.qq.com/s/OJ9_xaQ6GyuCUrph8boxYA)
   * [还在刷榜ImageNet？找出模型的脆弱之处更有价值！](https://mp.weixin.qq.com/s/nbAudiGJX_l69zaSEiWJFA)
+
+- [Responsible Computer Vision](https://sites.google.com/view/rcv-cvpr2021/home)<br>:warn:3月25日<br>本次研讨会将广泛讨论计算机视觉背景下负责任的人工智能的三个主要方面：公平性；可解释性和透明度；以及隐私。
 
 ## 扫码CV君微信（注明：CVPR）入微信交流群：
 

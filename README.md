@@ -11,13 +11,13 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月4日新增 5 篇（目标检测/点云/自监督/医学/分割各一篇）
+### :fireworks::fireworks::fireworks:更新提示：3月4日新增 10 篇（目标检测/点云/自监督/医学/分割/小样本/人脸/视图合成/6D位姿/分类各一篇）
 
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |----|-----|----|-----|-----|
-|:sa:|:sa:|:sa:|[* Workshop征稿](#*)|[31. 开放集识别](#31)|
+|[Workshop征稿](#*)|[34.图像分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
 |[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别](#20)|[19.模型压缩](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
@@ -25,9 +25,29 @@
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+<a name="34"/>
+
+## 34.图像分类
+
+-[PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
+
+<a name="33"/>
+
+## 33.6D位姿估计
+
+- [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/abs/2103.02242)<br>:star:[code](https://github.com/ethnhe/FFB6D)<br>
+
+
+<a name="32"/>
+
+## 32.视图合成
+
+- [ID-Unet: Iterative Soft and Hard Deformation for View Synthesis](https://arxiv.org/abs/2103.02264)
+
+
 <a name="31"/>
 
-## 31. 开放集识别
+## 31.开放集识别
 
 - [Counterfactual Zero-Shot and Open-Set Visual Recognition](https://arxiv.org/abs/2103.00887)<br>:star:[code](https://github.com/yue-zhongqi/gcm-cf)<br>
 - Few-shot Open-set Recognition by Transformation Consistency<br>
@@ -149,10 +169,11 @@
 <a name="14"/> 
 
 
-## 14.少样本学习
+## 14.小样本学习
 
 - Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning<br>
 - [Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning](https://arxiv.org/abs/2103.01315)<br>
+- [FSDR: Frequency Space Domain Randomization for Domain Generalization](https://arxiv.org/abs/2103.02370)<br>受 JPEG 将空间图像转换为多个频率分量(FCs)的启发，提出频率空间域随机化(FSDR)，通过保留域变量FCs(DIFs)和只随机化域变量FCs(DVFs)来随机化频率空间的图像。
 
 <a name="11"/> 
 
@@ -174,6 +195,7 @@
 
 - [A 3D GAN for Improved Large-pose Facial Recognition](https://arxiv.org/pdf/2012.10545.pdf)<br>
 - [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:star:[github](https://github.com/Hzzone/MTLFace)<br>
+- [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
 
 
 <a name="10"/> 

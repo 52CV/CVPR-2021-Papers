@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月5日新增 21 篇（2点云+1人脸+1自监督+1姿态+1三维+1模型+1医学+1SR+2GAN+1检索+1HOI+1跟踪+1人群计数+1动作检测+1视频字幕+4未分）
+### :fireworks::fireworks::fireworks:更新提示：3月5日新增 23 篇（2点云+1人脸+1自监督+2姿态+1三维+1模型+1医学+1SR+2GAN+1检索+1HOI+1跟踪+1人群计数+1动作检测+1视频字幕+5未分）
 :fireworks::fireworks::fireworks:更新提示：3月4日新增 33 篇（2目标检测+3点云+1半监督+1医学+5分割+1域泛化+1人脸+1视图合成+16D位姿+2分类+1跟踪+1图像增强+1GAN+1GNN+1图像字幕+1三维+1相机定位+8未分）
 
 # 目录
@@ -162,6 +162,7 @@
 - [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607)<br>:tv:[video](https://twitter.com/i/status/1334395954644930560)<br>通过消除 location-dependent 透视效果来改进3D人体姿势估计技术工作。<br>
 - [CanonPose: Self-supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679)
 - [Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration](https://arxiv.org/abs/2103.02845)<br>:star:[code](https://github.com/SeanChenxy/HandMesh)<br>
+- [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)
 
 <a name="28"/>
 
@@ -417,7 +418,7 @@
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
 - [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)
-
+- Simpler Certified Radius Maximization by Propagating Covariances<br>:open_mouth:oral:tv:[video](https://www.youtube.com/watch?v=1V9sBzlfuwY)
 
 <a name="*"/>
 
@@ -446,6 +447,7 @@
 
 - [Responsible Computer Vision](https://sites.google.com/view/rcv-cvpr2021/home)<br>:warning:3月25日截止<br>本次研讨会将广泛讨论计算机视觉背景下负责任的人工智能的三个主要方面：公平性；可解释性和透明度；以及隐私。
 - [Holistic Video Understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)<br>目的是建立一个整合所有语义概念联合识别的视频基准，因为每个任务的单一类标签往往不足以描述视频的整体内容。
+- [ThreeDWorld Transport Challenge](http://tdw-transport.csail.mit.edu/)<br>:warning:6月1截止<br>:tv:[video](https://www.youtube.com/watch?v=WcJTpiRC4Zo)
 
 ## 扫码CV君微信（注明：CVPR）入微信交流群：
 

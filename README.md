@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月5日新增 14 篇（2点云+1人脸+1自监督+1姿态+1三维+1模型+1医学+1SR+1GAN+1检索+1HOI+2未分）
+### :fireworks::fireworks::fireworks:更新提示：3月5日新增 15 篇（2点云+1人脸+1自监督+1姿态+1三维+1模型+1医学+1SR+1GAN+1检索+1HOI+1跟踪+2未分）
 :fireworks::fireworks::fireworks:更新提示：3月4日新增 33 篇（2目标检测+3点云+1半监督+1医学+5分割+1域泛化+1人脸+1视图合成+16D位姿+2分类+1跟踪+1图像增强+1GAN+1GNN+1图像字幕+1三维+1相机定位+8未分）
 
 # 目录
@@ -320,7 +320,7 @@
 - [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>
 - Track to Detect and Segment: An Online Multi-Object Tracker<br>:house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://www.youtube.com/watch?v=oGNtSFHRZJA)<br>
-
+- Multiple Object Tracking with Correlation Learning
 
 <a name="8"/> 
 

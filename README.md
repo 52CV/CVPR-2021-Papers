@@ -43,9 +43,10 @@
 
 <a name="46"/>
 
-## 46.图像字幕
+## 46.图像/视频字幕
 
 - [Scan2Cap: Context-aware Dense Captioning in RGB-D Scans](https://arxiv.org/abs/2012.02206)<br>:star:[code](https://github.com/daveredrum/Scan2Cap):house:[project](https://daveredrum.github.io/Scan2Cap/):tv:[video](https://youtu.be/AgmIpDbwTCY)
+- [VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs](https://arxiv.org/abs/2101.12059)<br>视频字幕、视频问答和视频对话任务的多模式框架
 
 <a name="45"/>
 
@@ -58,6 +59,7 @@
 ## 44.动作预测
 
 - [Learning the Predictability of the Future](https://arxiv.org/abs/2101.01600)<br>预测未来<br>:star:[code](https://github.com/cvlab-columbia/hyperfuture):house:[project](https://hyperfuture.cs.columbia.edu/):tv:[video](https://www.youtube.com/watch?v=-Uy92jvT_90)<br>
+
 
 <a name="43"/>
 
@@ -109,6 +111,7 @@
 
 - [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302)<br>
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
+- [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
 
 <a name="35"/>
 
@@ -211,7 +214,7 @@
 ## 21.Transformer 
 
 - [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<br>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br>
-- [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>
+- [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br><br>:open_mouth:oral:star:[code](https://github.com/dddzg/up-detr)
 - [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 - 3D Vision Transformers for Action Recognition<br>用于动作识别的3D视觉Transformer
 - [MIST: Multiple Instance Spatial Transformer Network](https://arxiv.org/abs/1811.10725)<br>试图从热图中进行可微的top-K选择(MIST)（目前在自然图像上也有了一些结果；) 用它可以在没有任何定位监督的情况下进行检测和分类（并不是它唯一能做的事情!）
@@ -269,6 +272,7 @@
 - [Efficient Conditional GAN Transfer with Knowledge Propagation across Classes](https://arxiv.org/abs/2102.06696)<br>:star:[code](https://github.com/mshahbazi72/cGANTransfer)
 - [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243)<br>:star:[code](https://github.com/mit-han-lab/anycost-gan):house:[project](https://hanlab.mit.edu/projects/anycost-gan/):tv:[video](https://www.youtube.com/watch?v=_yEziPl9AkM&t=90s)<br>Anycost GAN，可适应广泛的硬件和延迟要求，以及实现交互式图像编辑
 - [TediGAN: Text-Guided Diverse Image Generation and Manipulation](https://arxiv.org/abs/2012.03308)<br>:star:[code](https://github.com/weihaox/TediGAN):house:[project](https://xiaweihao.com/projects/tedigan/):tv:[video](https://www.youtube.com/watch?v=L8Na2f5viAM)
+- [Generative Hierarchical Features from Synthesizing Images](https://arxiv.org/abs/2007.10379)<br>:open_mouth:oral:star:[code](https://github.com/genforce/ghfeat):house:[project](https://genforce.github.io/ghfeat/)<br>作者称预训练 GAN 生成器可以当作是一种学习的多尺度损失。用它进行训练可以带来高度竞争的层次化和分离的视觉特征，称之为生成层次化特征（GH-Feat）。并进一步表明，GH-Feat不仅有利于生成性任务，更重要的是有利于分辨性任务，包括人脸验证、关键点检测、layout prediction、迁移学习、style mixing、图像编辑等。
 
 <a name="14"/> 
 
@@ -345,7 +349,7 @@
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
 - [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)
 - [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](https://rl.uni-freiburg.de/)<br>
-- [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>
+- [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>:open_mouth:oral<br>
 - [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜力。
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
@@ -411,6 +415,10 @@
 - [Semantic Palette: Guiding Scene Generation with Class Proportions]
 - Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors<br>:open_mouth:oral
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
+- [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
+- [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)
+
+
 <a name="*"/>
 
 ## Workshop 征稿ing
@@ -437,6 +445,7 @@
   * [还在刷榜ImageNet？找出模型的脆弱之处更有价值！](https://mp.weixin.qq.com/s/nbAudiGJX_l69zaSEiWJFA)
 
 - [Responsible Computer Vision](https://sites.google.com/view/rcv-cvpr2021/home)<br>:warning:3月25日截止<br>本次研讨会将广泛讨论计算机视觉背景下负责任的人工智能的三个主要方面：公平性；可解释性和透明度；以及隐私。
+- [Holistic Video Understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)<br>目的是建立一个整合所有语义概念联合识别的视频基准，因为每个任务的单一类标签往往不足以描述视频的整体内容。
 
 ## 扫码CV君微信（注明：CVPR）入微信交流群：
 

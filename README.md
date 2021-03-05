@@ -151,6 +151,7 @@
 
 - [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607)<br>:tv:[video](https://twitter.com/i/status/1334395954644930560)<br>通过消除 location-dependent 透视效果来改进3D人体姿势估计技术工作。<br>
 - [CanonPose: Self-supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679)
+- [Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration](https://arxiv.org/abs/2103.02845)<br>:star:[code](https://github.com/SeanChenxy/HandMesh)<br>
 
 <a name="28"/>
 
@@ -175,7 +176,8 @@
 ## 25.三维视觉
 
 - [A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261)<br>
-- [Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://arxiv.org/abs/2012.01451)<br>:open_mouth:oral:house:[project](https://aljazbozic.github.io/neural_deformation_graphs/):tv:[video](https://www.youtube.com/watch?v=vyq36eFkdWo)
+- [Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://arxiv.org/abs/2012.01451)<br>:open_mouth:oral:house:[project](https://aljazbozic.github.io/neural_deformation_graphs/):tv:[video](https://www.youtube.com/watch?v=vyq36eFkdWo)<br>
+- [Deep Implicit Templates for 3D Shape Representation](https://arxiv.org/abs/2011.14565)<br>:open_mouth:oral:star:[code](https://github.com/ZhengZerong/DeepImplicitTemplates):house:[project](http://www.liuyebin.com/dit/dit.html):tv:[video](http://www.liuyebin.com/dit/assets/supp_vid.mp4)<br>[CVPR 2021 Oral，清华学者提出Deep Implicit Templates，极大扩展DIF能力](https://zhuanlan.zhihu.com/p/354737798)<br>
 
 <a name="24"/> 
 
@@ -194,7 +196,8 @@
 - [3D Graph Anatomy Geometry-Integrated Network for Pancreatic Mass Segmentation, Diagnosis, and Quantitative Patient Management](https://arxiv.org/abs/2012.04701)<br>用纯多模态 CT 影像可替代目前 JHMI 的需要做肿瘤化学检测和 DNA 测序+医学影像的综合多模态诊断流程，从诊断准确度上有可比较性，定量诊断精度更优<br>
 - [Deep Lesion Tracker: Monitoring Lesions in 4D Longitudinal Imaging Studies](https://arxiv.org/abs/2012.04872)<br>肿瘤影像里面智能 PACS 辅助医生读片的重要功能<br>
 - [Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://arxiv.org/abs/2012.07947)<br>基于CT 影像的骨折/骨质疏松系统<br>
-- [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>:star:[code](https://github.com/guopengf/FL-MRCM)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术
+- [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>:star:[code](https://github.com/guopengf/FL-MRCM)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术<br>
+- [DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images]()<br>:open_mouth:oral:star:[code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)<br>DeepTag: 一种无监督的深度学习方法，用于心脏标记磁共振图像的运动跟踪<br>
 
 <a name="21"/> 
 
@@ -223,6 +226,7 @@
 - [Rethinking Channel Dimensions for Efficient Model Design](https://arxiv.org/abs/2007.00992)<br>:star:[code](https://github.com/clovaai/rexnet)<br>
 - Manifold Regularized Dynamic Network Pruning<br>
 - [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
+- [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907)
 
 <a name="18"/> 
 
@@ -237,6 +241,7 @@
 
 - Data-Free Knowledge Distillation For Image Super-Resolution<br>
 - [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
+- [Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images](https://arxiv.org/abs/2011.14631)<br>:house:[project](http://www.liuyebin.com/crossMPI/crossMPI.html):tv:[video](http://www.liuyebin.com/crossMPI/assets/supp_vid.mp4)<br>[CVPR 2021，Cross-MPI以底层场景结构为线索的端到端网络，在大分辨率（x8）差距下也可完成高保真的超分辨率](https://zhuanlan.zhihu.com/p/354752197)
 
 <a name="16"/> 
 
@@ -254,6 +259,8 @@
 - [Hijack-GAN: Unintended-Use of Pretrained, Black-Box GANs](https://arxiv.org/pdf/2011.14107.pdf)<br>
 - [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:star:[code](https://github.com/imlixinyang/HiSD)
 - [Efficient Conditional GAN Transfer with Knowledge Propagation across Classes](https://arxiv.org/abs/2102.06696)<br>:star:[code](https://github.com/mshahbazi72/cGANTransfer)
+- [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243)<br>:star:[code](https://github.com/mit-han-lab/anycost-gan):house:[project](https://hanlab.mit.edu/projects/anycost-gan/):tv:[video](https://www.youtube.com/watch?v=_yEziPl9AkM&t=90s)<br>Anycost GAN，可适应广泛的硬件和延迟要求，以及实现交互式图像编辑
+
 
 <a name="14"/> 
 
@@ -271,6 +278,7 @@
 ## 13.图像检索
 
 - [Probabilistic Embeddings for Cross-Modal Retrieval](https://arxiv.org/abs/2101.05068)<br>
+- [QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval](https://arxiv.org/abs/2103.02927)
 
 <a name="12"/> 
 
@@ -287,6 +295,7 @@
 - [A 3D GAN for Improved Large-pose Facial Recognition](https://arxiv.org/pdf/2012.10545.pdf)<br>
 - [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:star:[github](https://github.com/Hzzone/MTLFace)<br>
 - [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
+- MagFace: A Universal Representation for Face Recognition and Quality Assessment<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
 
 
 <a name="10"/> 
@@ -352,7 +361,8 @@
 ## 4.自/半/弱监督学习
 
 - [Weakly Supervised Learning of Rigid 3D Scene Flow](https://arxiv.org/pdf/2102.08945.pdf)<br>:star:[code](https://arxiv.org/pdf/2102.08945.pdf):house:[project](https://3dsceneflow.github.io/)<br>
-- [Adaptive Consistency Regularization for Semi-Supervised Transfer Learning](https://arxiv.org/abs/2103.02193)<br>:star:[code](https://github.com/SHI-Labs/Semi-Supervised-Transfer-Learning)
+- [Adaptive Consistency Regularization for Semi-Supervised Transfer Learning](https://arxiv.org/abs/2103.02193)<br>:star:[code](https://github.com/SHI-Labs/Semi-Supervised-Transfer-Learning)<br>
+- [Self-supervised Geometric Perception](https://arxiv.org/abs/2103.03114)<br>:open_mouth:oral:star:[code](https://github.com/theNded/SGP)<br>作者称 SGP 是第一个在几何感知中进行特征学习的通用框架，不需要任何来自 ground-truth 几何标签的监督。SGP以EM方式运行，它迭代执行几何模型的鲁棒估计以生成伪标签，并在噪声伪标签的监督下进行特征学习。将 SGP 应用于相机姿势估计和点云配准，并证明在大规模真实数据集中，SGP 的性能等同于甚至优于监督的权威。
 
 <a name="3"/> 
 
@@ -363,6 +373,8 @@
 - [Style-based Point Generator with Adversarial Rendering for Point Cloud Completion](https://arxiv.org/abs/2103.02535)<br>
 - [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)<br>:star:[code](https://github.com/QingyongHu/SpinNet)
 - [MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization](https://arxiv.org/abs/2101.06605)<br>:open_mouth:oral:star:[code](https://github.com/huangjh-pub/multibody-sync)
+- [TPCN: Temporal Point Cloud Networks for Motion Forecasting](https://arxiv.org/abs/2103.03067)<br>用于运动预测的时空点云网络<br>
+- [PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/abs/2103.03046)
 
 <a name="2"/> 
 
@@ -389,7 +401,8 @@
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
 - [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning]
 - [Semantic Palette: Guiding Scene Generation with Class Proportions]
-
+- Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors<br>:open_mouth:oral
+- POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 <a name="*"/>
 
 ## Workshop 征稿ing

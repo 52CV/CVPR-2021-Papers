@@ -11,8 +11,16 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月5日新增 23 篇（2点云+1人脸+1自监督+2姿态+1三维+1模型+1医学+1SR+2GAN+1检索+1HOI+1跟踪+1人群计数+1动作检测+1视频字幕+5未分）
-:fireworks::fireworks::fireworks:更新提示：3月4日新增 33 篇（2目标检测+3点云+1半监督+1医学+5分割+1域泛化+1人脸+1视图合成+16D位姿+2分类+1跟踪+1图像增强+1GAN+1GNN+1图像字幕+1三维+1相机定位+8未分）
+
+### :fireworks::fireworks::fireworks:更新提示：3月8日新增5篇
+
+- [Unsupervised Learning for Robust Fitting:A Reinforcement Learning Approach](https://arxiv.org/abs/2103.03501)
+- [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://arxiv.org/abs/2103.03467)
+- [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)
+- [GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation](http://arxiv.org/abs/2102.12145)<br>:star:[code](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)
+- [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://arxiv.org/abs/2103.03375)
+
+
 
 # 目录
 
@@ -28,6 +36,12 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="49"/>
+
+## 49.视觉语言导航vision-language navigation
+
+- [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)
 
 <a name="48"/>
 
@@ -132,6 +146,7 @@
 ## 33.6D位姿估计
 
 - [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/abs/2103.02242)<br>:star:[code](https://github.com/ethnhe/FFB6D)<br>
+- [GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation](http://arxiv.org/abs/2102.12145)<br>:star:[code](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)
 
 
 <a name="32"/>
@@ -195,6 +210,7 @@
 ## 24.强化学习
 - [Hierarchical and Partially Observable Goal-driven Policy Learning with Goals Relational Graph](https://arxiv.org/abs/2103.01350)<br>
 <a name="23"/> 
+- [Unsupervised Learning for Robust Fitting:A Reinforcement Learning Approach](https://arxiv.org/abs/2103.03501)
 
 ## 23.自动驾驶
 
@@ -274,6 +290,7 @@
 - [Anycost GANs for Interactive Image Synthesis and Editing](https://arxiv.org/abs/2103.03243)<br>:star:[code](https://github.com/mit-han-lab/anycost-gan):house:[project](https://hanlab.mit.edu/projects/anycost-gan/):tv:[video](https://www.youtube.com/watch?v=_yEziPl9AkM&t=90s)<br>Anycost GAN，可适应广泛的硬件和延迟要求，以及实现交互式图像编辑
 - [TediGAN: Text-Guided Diverse Image Generation and Manipulation](https://arxiv.org/abs/2012.03308)<br>:star:[code](https://github.com/weihaox/TediGAN):house:[project](https://xiaweihao.com/projects/tedigan/):tv:[video](https://www.youtube.com/watch?v=L8Na2f5viAM)
 - [Generative Hierarchical Features from Synthesizing Images](https://arxiv.org/abs/2007.10379)<br>:open_mouth:oral:star:[code](https://github.com/genforce/ghfeat):house:[project](https://genforce.github.io/ghfeat/)<br>作者称预训练 GAN 生成器可以当作是一种学习的多尺度损失。用它进行训练可以带来高度竞争的层次化和分离的视觉特征，称之为生成层次化特征（GH-Feat）。并进一步表明，GH-Feat不仅有利于生成性任务，更重要的是有利于分辨性任务，包括人脸验证、关键点检测、layout prediction、迁移学习、style mixing、图像编辑等。
+- [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://arxiv.org/abs/2103.03467)
 
 <a name="14"/> 
 
@@ -284,6 +301,7 @@
 - [Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning](https://arxiv.org/abs/2103.01315)<br>
 - [FSDR: Frequency Space Domain Randomization for Domain Generalization](https://arxiv.org/abs/2103.02370)<br>受 JPEG 将空间图像转换为多个频率分量(FCs)的启发，提出频率空间域随机化(FSDR)，通过保留域变量FCs(DIFs)和只随机化域变量FCs(DVFs)来随机化频率空间的图像。
 - [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>:open_mouth: Oral
+- [Goal-Oriented Gaze Estimation for Zero-Shot Learning](https://arxiv.org/abs/2103.03433):star:[code](https://github.com/osierboy/GEM-ZSL)
 
 <a name="11"/> 
 
@@ -419,6 +437,7 @@
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
 - [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)
 - Simpler Certified Radius Maximization by Propagating Covariances<br>:open_mouth:oral:tv:[video](https://www.youtube.com/watch?v=1V9sBzlfuwY)
+- [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://arxiv.org/abs/2103.03375)
 
 <a name="*"/>
 

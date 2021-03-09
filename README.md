@@ -301,13 +301,16 @@
 
 ## 21.Transformer 
 
-- [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<br>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br>
-- [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>:open_mouth:oral:star:[code](https://github.com/dddzg/up-detr)
-- [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
-- 3D Vision Transformers for Action Recognition<br>用于动作识别的3D视觉Transformer
+- [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<br>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br> 
 - [MIST: Multiple Instance Spatial Transformer Network](https://arxiv.org/abs/1811.10725)<br>试图从热图中进行可微的top-K选择(MIST)（目前在自然图像上也有了一些结果；) 用它可以在没有任何定位监督的情况下进行检测和分类（并不是它唯一能做的事情!）
-- [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
-
+* 动作识别检测
+ * 3D Vision Transformers for Action Recognition<br>用于动作识别的3D视觉Transformer
+* 目标检测
+ * [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>:open_mouth:oral:star:[code](https://github.com/dddzg/up-detr)
+* 图像处理
+ * [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
+* 人机交互
+ * [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
 
 
 <a name="20"/> 
@@ -436,7 +439,6 @@
 - [AttentiveNAS: Improving Neural Architecture Search via Attentive](https://arxiv.org/pdf/2011.09011.pdf)<br>
 - [HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens](https://arxiv.org/pdf/2005.14446.pdf)<br>
 - [ReNAS: Relativistic Evaluation of Neural Architecture Search](https://arxiv.org/pdf/1910.01523.pdf)<br>
-- [Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search]
 - [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object](https://arxiv.org/abs/2103.04507)
 - Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search<br>北京大学人工智能研究院机器学习研究中心
 

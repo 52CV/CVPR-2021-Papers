@@ -11,8 +11,11 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
+### :fireworks::fireworks::fireworks:更新提示：3月8日新增1篇
 
-### :fireworks::fireworks::fireworks:更新提示：3月8日新增7篇(1强化+1GAN+1VLN+1图像表示+6D位姿+2未分)
+- [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
+
+:fireworks::fireworks::fireworks:更新提示：3月8日新增7篇(1强化+1GAN+1VLN+1图像表示+6D位姿+2未分)
 
 - [Unsupervised Learning for Robust Fitting:A Reinforcement Learning Approach](https://arxiv.org/abs/2103.03501)
 - [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://arxiv.org/abs/2103.03467)
@@ -448,6 +451,7 @@
 - Simpler Certified Radius Maximization by Propagating Covariances<br>:open_mouth:oral:tv:[video](https://www.youtube.com/watch?v=1V9sBzlfuwY)
 - [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://arxiv.org/abs/2103.03375)
 - [Discovering Hidden Physics Behind Transport Dynamics](https://arxiv.org/abs/2011.12222)<br>:open_mouth:oral
+- [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
 
 <a name="*"/>
 

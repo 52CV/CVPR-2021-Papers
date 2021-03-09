@@ -11,10 +11,49 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月8日新增2篇
+### :fireworks::fireworks::fireworks:更新提示：3月8日新增25篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+1姿态+1点云+1类增量学习+1对抗学习+1OCR+1SR+1Reid+1transformer+3未分）
 
-- [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
-- [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://arxiv.org/abs/2009.00960)<br>:star:[code](https://github.com/machanic/MetaSimulator)<br>黑盒对抗攻击
+* 分割
+  * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
+  * [Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation](https://arxiv.org/abs/2103.04705)
+  * [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing](https://arxiv.org/abs/2103.04570)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/MG-HumanParsing)
+  * [Learning Statistical Texture for Semantic Segmentation](https://arxiv.org/abs/2103.04133)
+  * [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04133)
+* 目标检测
+  * [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)
+  * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心
+* 图像增强
+  * [Robust Reflection Removal with Reflection-free Flash-only Cues](https://arxiv.org/abs/2103.04273)<br>:star:[ccode](https://github.com/ChenyangLEI/flash-reflection-removal)
+  * [ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)
+* NAS
+  * [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object](https://arxiv.org/abs/2103.04507)
+  * Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search<br>北京大学人工智能研究院机器学习研究中心
+* GAN
+  * [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023)<br>:star:[code](https://github.com/Zhangjinso/PISE)
+  * [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)
+* 人脸
+  * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
+* 姿态
+  * [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
+* 点云
+  * [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://arxiv.org/abs/2103.04256)<br>:star:[code](https://github.com/fukexue/RGM)
+* 类增量学习
+  * [Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2103.04059)
+* 对抗学习
+  * [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://arxiv.org/abs/2009.00960)<br>:star:[code](https://github.com/machanic/MetaSimulator)<br>黑盒对抗攻击
+* OCR
+  * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
+* SR
+  * [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)<br>:star:[code](https://github.com/Xiangtaokong/ClassSR)
+* Reid
+  * [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
+* transformer
+  * [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
+* 未分
+  * [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
+  * [Deep Gradient Projection Networks for Pan-sharpening](https://arxiv.org/abs/2103.04584)<br>:star:[code](https://github.com/xsxjtu/GPPNN)
+  * [Consensus Maximisation Using Influences of Monotone Boolean Functions](https://arxiv.org/abs/2103.04200)<br>:open_mouth:oral
+
 
 
 :fireworks::fireworks::fireworks:更新提示：3月8日新增7篇(1强化+1GAN+1VLN+1图像表示+6D位姿+2未分)
@@ -33,7 +72,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|:x:|:x:|:x:|[Workshop征稿](#*)|[51.对抗学习](#51)|
+|:x:|:x:|[Workshop征稿](#*)|[52.OCR](#52)|[51.对抗学习](#51)|
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
 |[40.模型偏见消除](#40)|[39.类增量学习](#39)|[38.持续学习](#38)|[37.视频插帧](#37)|[36.动作检测与识别](#36)|
@@ -44,6 +83,13 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="52"/>
+
+## 52.OCR
+
+* 场景文本检测
+  * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
 
 <a name="51"/>
 
@@ -126,6 +172,7 @@
 ## 39.类增量学习（class-incremental learning）
 
 - [IIRC: Incremental Implicitly-Refined Classification](https://arxiv.org/abs/2012.12477)<br>:house:[project](https://chandar-lab.github.io/IIRC/)<br>
+- [Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2103.04059)
 
 <a name="38"/>
 
@@ -199,6 +246,7 @@
 - [CanonPose: Self-supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679)
 - [Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration](https://arxiv.org/abs/2103.02845)<br>:star:[code](https://github.com/SeanChenxy/HandMesh)<br>
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)
+- [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
 
 <a name="28"/>
 
@@ -257,6 +305,7 @@
 - [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 - 3D Vision Transformers for Action Recognition<br>用于动作识别的3D视觉Transformer
 - [MIST: Multiple Instance Spatial Transformer Network](https://arxiv.org/abs/1811.10725)<br>试图从热图中进行可微的top-K选择(MIST)（目前在自然图像上也有了一些结果；) 用它可以在没有任何定位监督的情况下进行检测和分类（并不是它唯一能做的事情!）
+- [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
 
 
 
@@ -265,6 +314,7 @@
 ## 20.人员重识别
 
 - [Meta Batch-Instance Normalization for Generalizable Person Re-Identification](https://arxiv.org/abs/2011.14670)<br>
+- [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
 
 * 拥挤人群计数
 
@@ -298,6 +348,7 @@
 - Data-Free Knowledge Distillation For Image Super-Resolution<br>
 - [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
 - [Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images](https://arxiv.org/abs/2011.14631)<br>:house:[project](http://www.liuyebin.com/crossMPI/crossMPI.html):tv:[video](http://www.liuyebin.com/crossMPI/assets/supp_vid.mp4)<br>[CVPR 2021，Cross-MPI以底层场景结构为线索的端到端网络，在大分辨率（x8）差距下也可完成高保真的超分辨率](https://zhuanlan.zhihu.com/p/354752197)
+- [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)<br>:star:[code](https://github.com/Xiangtaokong/ClassSR)
 
 <a name="16"/> 
 
@@ -319,6 +370,8 @@
 - [TediGAN: Text-Guided Diverse Image Generation and Manipulation](https://arxiv.org/abs/2012.03308)<br>:star:[code](https://github.com/weihaox/TediGAN):house:[project](https://xiaweihao.com/projects/tedigan/):tv:[video](https://www.youtube.com/watch?v=L8Na2f5viAM)
 - [Generative Hierarchical Features from Synthesizing Images](https://arxiv.org/abs/2007.10379)<br>:open_mouth:oral:star:[code](https://github.com/genforce/ghfeat):house:[project](https://genforce.github.io/ghfeat/)<br>作者称预训练 GAN 生成器可以当作是一种学习的多尺度损失。用它进行训练可以带来高度竞争的层次化和分离的视觉特征，称之为生成层次化特征（GH-Feat）。并进一步表明，GH-Feat不仅有利于生成性任务，更重要的是有利于分辨性任务，包括人脸验证、关键点检测、layout prediction、迁移学习、style mixing、图像编辑等。
 - [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://arxiv.org/abs/2103.03467)
+- [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023)<br>:star:[code](https://github.com/Zhangjinso/PISE)
+- [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)
 
 <a name="14"/> 
 
@@ -352,10 +405,12 @@
   * [Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:star:[code](https://github.com/swz30/MPRNet)<br>
 * 去阴影
   * [Auto-Exposure Fusion for Single-Image Shadow Removal](https://arxiv.org/abs/2103.01255)<br>:star:[code](https://github.com/tsingqguo/exposure-fusion-shadow-removal)<br>
-
 * 去模糊
   * [DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)<br>:star:[code](https://github.com/rozumden/DeFMO):tv:[video](https://www.youtube.com/watch?v=pmAynZvaaQ4)<br>
-
+  * [ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)
+* 去反射
+  * [Robust Reflection Removal with Reflection-free Flash-only Cues](https://arxiv.org/abs/2103.04273)<br>:star:[ccode](https://github.com/ChenyangLEI/flash-reflection-removal)
+  
 <a name="11"/> 
 
 ## 11. 人脸技术
@@ -364,6 +419,7 @@
   * [A 3D GAN for Improved Large-pose Facial Recognition](https://arxiv.org/pdf/2012.10545.pdf)<br>
   * [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:star:[github](https://github.com/Hzzone/MTLFace)<br>
   * MagFace: A Universal Representation for Face Recognition and Quality Assessment<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
+  * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
 
 * Deepfake检测
 
@@ -378,7 +434,8 @@
 - [HourNAS: Extremely Fast Neural Architecture Search Through an Hourglass Lens](https://arxiv.org/pdf/2005.14446.pdf)<br>
 - [ReNAS: Relativistic Evaluation of Neural Architecture Search](https://arxiv.org/pdf/1910.01523.pdf)<br>
 - [Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search]
-
+- [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object](https://arxiv.org/abs/2103.04507)
+- Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search<br>北京大学人工智能研究院机器学习研究中心
 
 <a name="9"/> 
 
@@ -398,6 +455,7 @@
 ## 8.图像分割
 
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
+- [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04133)
 
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
@@ -407,6 +465,11 @@
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>
   * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:star:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
+  * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
+  * [Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation](https://arxiv.org/abs/2103.04705)
+  * [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing](https://arxiv.org/abs/2103.04570)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/MG-HumanParsing)
+  * [Learning Statistical Texture for Semantic Segmentation](https://arxiv.org/abs/2103.04133)
+  
 
 * 场景理解
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
@@ -421,14 +484,15 @@
 
 - [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
-- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)
-
-- [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)
+- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>
+- [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)<br>
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
 - Distilling Object Detectors via Decoupled Features<br>
+- * [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
 
 #### * 少样本目标检测
-  * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。       * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection]
+  * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
+  * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心<br>
 
 #### * 多目标检测
   * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](https://rl.uni-freiburg.de/)<br>
@@ -473,6 +537,7 @@
 - [MultiBodySync: Multi-Body Segmentation and Motion Estimation via 3D Scan Synchronization](https://arxiv.org/abs/2101.06605)<br>:open_mouth:oral:star:[code](https://github.com/huangjh-pub/multibody-sync)
 - [TPCN: Temporal Point Cloud Networks for Motion Forecasting](https://arxiv.org/abs/2103.03067)<br>用于运动预测的时空点云网络<br>
 - [PointGuard: Provably Robust 3D Point Cloud Classification](https://arxiv.org/abs/2103.03046)
+- [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://arxiv.org/abs/2103.04256)<br>:star:[code](https://github.com/fukexue/RGM)
 
 <a name="2"/> 
 
@@ -507,6 +572,8 @@
 - [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://arxiv.org/abs/2103.03375)
 - [Discovering Hidden Physics Behind Transport Dynamics](https://arxiv.org/abs/2011.12222)<br>:open_mouth:oral
 - [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
+- [Deep Gradient Projection Networks for Pan-sharpening](https://arxiv.org/abs/2103.04584)<br>:star:[code](https://github.com/xsxjtu/GPPNN)
+- [Consensus Maximisation Using Influences of Monotone Boolean Functions](https://arxiv.org/abs/2103.04200)<br>:open_mouth:oral
 
 <a name="*"/>
 

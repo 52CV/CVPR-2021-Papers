@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月8日新增26篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+1姿态+1点云+1类增量学习+1对抗学习+1对比学习+1OCR+1SR+2Reid+1transformer+3未分）
+### :fireworks::fireworks::fireworks:更新提示：3月8日新增30篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+2姿态+1点云+1类增量学习+1对抗学习+1对比学习+1OCR+1SR+2Reid+1transformer+6未分）
 
 * 分割
   * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
@@ -35,6 +35,7 @@
   * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
 * 姿态
   * [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
+  * Context Modeling in 3D Human Pose Estimation: A Unified Perspective
 * 点云
   * [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://arxiv.org/abs/2103.04256)<br>:star:[code](https://github.com/fukexue/RGM)
 * 类增量学习
@@ -56,6 +57,9 @@
   * [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
   * [Deep Gradient Projection Networks for Pan-sharpening](https://arxiv.org/abs/2103.04584)<br>:star:[code](https://github.com/xsxjtu/GPPNN)
   * [Consensus Maximisation Using Influences of Monotone Boolean Functions](https://arxiv.org/abs/2103.04200)<br>:open_mouth:oral
+  * Forecasting Irreversible Disease via Progression Learning
+  * Causal Hidden Markov Model for Time Series Disease Forecasting
+  * Towards Unified Surgical Skill Assessment
 
 
 
@@ -128,7 +132,7 @@
 
 ## 47.相机定位(Camera Localization)
 
-- [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](https://arxiv.org/abs/2012.04746)
+- [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](https://arxiv.org/abs/2012.04746)<br>
 
 <a name="46"/>
 
@@ -255,6 +259,8 @@
 - [Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration](https://arxiv.org/abs/2103.02845)<br>:star:[code](https://github.com/SeanChenxy/HandMesh)<br>
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)
 - [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
+- Context Modeling in 3D Human Pose Estimation: A Unified Perspective
+
 
 <a name="28"/>
 
@@ -588,6 +594,9 @@
 - [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
 - [Deep Gradient Projection Networks for Pan-sharpening](https://arxiv.org/abs/2103.04584)<br>:star:[code](https://github.com/xsxjtu/GPPNN)
 - [Consensus Maximisation Using Influences of Monotone Boolean Functions](https://arxiv.org/abs/2103.04200)<br>:open_mouth:oral
+* Forecasting Irreversible Disease via Progression Learning
+* Causal Hidden Markov Model for Time Series Disease Forecasting
+* Towards Unified Surgical Skill Assessment
 
 <a name="*"/>
 

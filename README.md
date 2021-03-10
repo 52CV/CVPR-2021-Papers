@@ -11,12 +11,12 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-###  :fireworks::fireworks::fireworks:更新提示：3月8日新增（）
+###  :fireworks::fireworks::fireworks:更新提示：3月10日新增1篇（1图像生成）
 
 * 图像生成
   * [Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)<br>:house:[project](https://tamarott.github.io/ASAPNet_web/)<br>采用超网络和隐式函数，极快的图像到图像翻译速度（比基线快18倍）
 
- :fireworks::fireworks::fireworks:更新提示：3月8日新增30篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+2姿态+1点云+1类增量学习+1对抗学习+1对比学习+1OCR+1SR+2Reid+1transformer+6未分）
+ :fireworks::fireworks::fireworks:更新提示：3月9日新增30篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+2姿态+1点云+1类增量学习+1对抗学习+1对比学习+1OCR+1SR+2Reid+1transformer+6未分）
 
 * 分割
   * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
@@ -83,6 +83,7 @@
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
 <a name="54"/>
+
 ## 54.图像生成Image Generation
 
 - [Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)<br>:house:[project](https://tamarott.github.io/ASAPNet_web/)<br>采用超网络和隐式函数，极快的图像到图像翻译速度（比基线快18倍）
@@ -90,7 +91,7 @@
 <a name="53"/>
 
 ## 53.对比学习
-* [AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries](https://arxiv.org/abs/2011.08435)<br>:star:[code](https://arxiv.org/abs/2011.08435)<br>解读:|[CVPR 2021接收论文：AdCo基于对抗的对比学习](https://mp.weixin.qq.com/s/u7Lhzh8uYEEHfWiM32-4yQ)
+* [AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries](https://arxiv.org/abs/2011.08435)<br>:star:[code](https://arxiv.org/abs/2011.08435)<br>解读:[CVPR 2021接收论文：AdCo基于对抗的对比学习](https://mp.weixin.qq.com/s/u7Lhzh8uYEEHfWiM32-4yQ)
 
 <a name="52"/>
 
@@ -329,7 +330,6 @@
 - [Meta Batch-Instance Normalization for Generalizable Person Re-Identification](https://arxiv.org/abs/2011.14670)<br>
 - [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
 - [Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.04618)<br>:star:[code](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
-
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 
@@ -394,11 +394,9 @@
 * 小样本学习
   * Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning<br>
   * [Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning](https://arxiv.org/abs/2103.01315)<br>
-
 * 域泛化
   * [FSDR: Frequency Space Domain Randomization for Domain Generalization](https://arxiv.org/abs/2103.02370)<br>受 JPEG 将空间图像转换为多个频率分量(FCs)的启发，提出频率空间域随机化(FSDR)，通过保留域变量FCs(DIFs)和只随机化域变量FCs(DVFs)来随机化频率空间的图像。
   * [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>:open_mouth: Oral
-
 * 零样本学习
   * [Goal-Oriented Gaze Estimation for Zero-Shot Learning](https://arxiv.org/abs/2103.03433):star:[code](https://github.com/osierboy/GEM-ZSL)
 
@@ -433,7 +431,6 @@
   * [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:star:[github](https://github.com/Hzzone/MTLFace)<br>
   * MagFace: A Universal Representation for Face Recognition and Quality Assessment<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
   * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
-
 * Deepfake检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
 
@@ -453,13 +450,10 @@
 ## 9.目标跟踪
 
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>
-
 * 多目标跟踪
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
   * Track to Detect and Segment: An Online Multi-Object Tracker<br>:house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://www.youtube.com/watch?v=oGNtSFHRZJA)<br>
   * Multiple Object Tracking with Correlation Learning
-
-
 
 <a name="8"/> 
 
@@ -467,12 +461,10 @@
 
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
 - [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04133)
-
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
   * Part-aware Panoptic Segmentation<br>
-
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>
   * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:star:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
@@ -482,7 +474,6 @@
   * [Learning Statistical Texture for Semantic Segmentation](https://arxiv.org/abs/2103.04133)
 * 场景理解
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
-
 * 抠图
   * [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）<br>解读：[单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位](https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA)<br>[最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）](https://zhuanlan.zhihu.com/p/337028483)
 

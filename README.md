@@ -28,10 +28,10 @@
   * [QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://arxiv.org/abs/2103.05399)<br>:star:[code](https://github.com/hitachi-rd-cv/qpic)
 * 动作识别
   * [Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack](https://arxiv.org/abs/2103.05347)
-  * [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)
+  * [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)<br>:tv:[video](https://www.youtube.com/watch?v=PjWgwnAkV8g)
   * [TDN: Temporal Difference Networks for Efficient Action Recognition]( https://arxiv.org/abs/2012.10071)<br>:star:[code](https://github.com/MCG-NJU/TDN)
 * 视图合成
-  * [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project](https://nex-mpi.github.io/)<br>利用神经基础扩展的实时视图合成技术
+  * [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project](https://nex-mpi.github.io/):tv:[video](https://www.youtube.com/watch?v=HyfkF7Z-ddA)<br>利用神经基础扩展的实时视图合成技术
 * 图像生成
   * [Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)<br>:house:[project](https://tamarott.github.io/ASAPNet_web/)<br>采用超网络和隐式函数，极快的图像到图像翻译速度（比基线快18倍）
 * 目标检测
@@ -239,7 +239,7 @@
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
 - [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
 - [Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack](https://arxiv.org/abs/2103.05347)
-- [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)
+- [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)<br>:tv:[video](https://www.youtube.com/watch?v=PjWgwnAkV8g)
 - [TDN: Temporal Difference Networks for Efficient Action Recognition]( https://arxiv.org/abs/2012.10071)<br>:star:[code](https://github.com/MCG-NJU/TDN)
 
 <a name="35"/>
@@ -269,7 +269,7 @@
 ## 32.视图合成
 
 - [ID-Unet: Iterative Soft and Hard Deformation for View Synthesis](https://arxiv.org/abs/2103.02264)
-- [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project](https://nex-mpi.github.io/)<br>利用神经基础扩展的实时视图合成技术
+- [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project]:tv:[video](https://www.youtube.com/watch?v=HyfkF7Z-ddA)(https://nex-mpi.github.io/)<br>利用神经基础扩展的实时视图合成技术
 
 <a name="31"/>
 

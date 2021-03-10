@@ -11,10 +11,12 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-###  :fireworks::fireworks::fireworks:更新提示：3月10日新增1篇（1图像生成）
+###  :fireworks::fireworks::fireworks:更新提示：3月10日新增2篇（1图像生成+1目标检测）
 
 * 图像生成
   * [Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)<br>:house:[project](https://tamarott.github.io/ASAPNet_web/)<br>采用超网络和隐式函数，极快的图像到图像翻译速度（比基线快18倍）
+* 目标检测
+  * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 
  :fireworks::fireworks::fireworks:更新提示：3月9日新增30篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+2姿态+1点云+1类增量学习+1对抗学习+1对比学习+1OCR+1SR+2Reid+1transformer+6未分）
 
@@ -497,6 +499,8 @@
 * 3D目标检测
   * [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>:open_mouth:oral<br>
   * [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2012.04355)<br>:open_mouth:oral:star:[code](https://github.com/thu17cyz/3DIoUMatch):house:[project]():tv:[video](https://youtu.be/nuARjhkQN2U)<br>更多：[CVPR 2021|利用IoU预测进行半监督式3D目标检测](https://zhuanlan.zhihu.com/p/354618636)
+* 旋转目标检测
+  * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 
 <a name="6"/> 
 

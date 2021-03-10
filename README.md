@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-###  :fireworks::fireworks::fireworks:更新提示：3月10日新增18篇（3分割+1人脸+2点云+1医学+1人机交互+3动作识别+1视图合成+1图像生成+2目标检测+1视频字幕+1NAS+1未分）
+###  :fireworks::fireworks::fireworks:更新提示：3月10日新增21篇（3分割+1人脸+2点云+1医学+1人机交互+3动作识别+1视图合成+1图像生成+2目标检测+1视频字幕+1NAS+3SR+1未分）
 
 * 分割
   * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解
@@ -41,6 +41,10 @@
   * [Open-book Video Captioning with Retrieve-Copy-Generate Network](https://arxiv.org/abs/2103.05284)
 * NAS
   * [Contrastive Neural Architecture Search with Neural Architecture Comparators](https://arxiv.org/abs/2103.05471)<br>:star:[code](https://arxiv.org/abs/2103.05471)
+* SR
+  * Robust Reference-based Super-Resolution via C²-Matching
+  * [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)<br>:open_mouth:oral:house:[project](https://ckkelvinchan.github.io/projects/GLEAN/)
+  * [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)<br>:star:[code](https://github.com/ckkelvinchan/BasicVSR-IconVSR):house:[project](https://ckkelvinchan.github.io/projects/BasicVSR/)
 * 未分
   * [Knowledge Evolution in Neural Networks](https://arxiv.org/abs/2103.05152)<br>:open_mouth:oral:star:[code](https://github.com/ahmdtaha/knowledge_evolution)
 
@@ -397,6 +401,9 @@
 - [AdderSR: Towards Energy Efficient Image Super-Resolution](https://arxiv.org/pdf/2009.08891.pdf)<br>:star:[code](https://github.com/huawei-noah/AdderNet)<br>
 - [Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images](https://arxiv.org/abs/2011.14631)<br>:house:[project](http://www.liuyebin.com/crossMPI/crossMPI.html):tv:[video](http://www.liuyebin.com/crossMPI/assets/supp_vid.mp4)<br>[CVPR 2021，Cross-MPI以底层场景结构为线索的端到端网络，在大分辨率（x8）差距下也可完成高保真的超分辨率](https://zhuanlan.zhihu.com/p/354752197)
 - [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)<br>:star:[code](https://github.com/Xiangtaokong/ClassSR)
+* Robust Reference-based Super-Resolution via C²-Matching
+* [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)<br>:open_mouth:oral:house:[project](https://ckkelvinchan.github.io/projects/GLEAN/)
+* [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)<br>:star:[code](https://github.com/ckkelvinchan/BasicVSR-IconVSR):house:[project](https://ckkelvinchan.github.io/projects/BasicVSR/)
 
 <a name="16"/> 
 

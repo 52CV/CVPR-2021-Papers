@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月11日新增24篇（2分割+4人脸+1小样本+2图像增强+3目标检测+2动作识别+1对抗学习+1细粒度识别+1SR+1GAN+Reid+TFM）
+### :fireworks::fireworks::fireworks:更新提示：3月11日新增24篇（2分割+4人脸+1小样本+2图像增强+3目标检测+1动作识别+1对抗学习+1细粒度识别+1SR+1GAN+1Reid+1TFM+5未分）
 
 * 分割
   * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)

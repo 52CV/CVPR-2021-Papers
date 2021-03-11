@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月11日新增33篇（3分割+4人脸+1剪枝+1医学+1小样本+1人机交互+2图像增强+4目标检测+1动作识别+1对抗学习+1细粒度识别+1视频相关技术+1SR+1GAN+1Reid+1TFM+8未分）
+### :fireworks::fireworks::fireworks:更新提示：3月11日新增33篇（3分割+4人脸+1剪枝+1医学+1小样本+1数据集+1人机交互+2图像增强+4目标检测+1动作识别+1对抗学习+1细粒度识别+1视频相关技术+1SR+1GAN+1Reid+1TFM+8未分）
 
 * 分割
   * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -28,6 +28,8 @@
   * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
 * 小样本
   * [Learning Dynamic Alignment via Meta-filter for Few-shot Learning]<br>[作者主页](https://yanweifu.github.io/page3.html)<br>通过元卷积核实现基于动态对齐的小样本学习<br>解读：[17](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 数据集
+  * [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)<br>:sunflower:[dataset](https://github.com/google-research-datasets/conceptual-12m)
 * 人机交互
   * [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)
 * 图像增强
@@ -108,7 +110,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|:x:|:x:|:x:|:x:|[Workshop征稿](#*)|
+|:x:|:x:|:x:|[Workshop征稿](#*)|[56.数据集](#56)|
 |[55.视频相关技术](#55)|[54.图像生成](#54)|[53.对比学习](#53)|[52.OCR](#52)|[51.对抗学习](#51)|
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
@@ -120,6 +122,11 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="56"/>
+
+## 56.数据集
+  * [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)<br>:sunflower:[dataset](https://github.com/google-research-datasets/conceptual-12m)
 
 <a name="55"/>
 

@@ -299,7 +299,7 @@
 ## 32.视图合成
 
 - [ID-Unet: Iterative Soft and Hard Deformation for View Synthesis](https://arxiv.org/abs/2103.02264)
-- [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project]:tv:[video](https://www.youtube.com/watch?v=HyfkF7Z-ddA)(https://nex-mpi.github.io/)<br>利用神经基础扩展的实时视图合成技术
+- [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project](https://nex-mpi.github.io/):tv:[video](https://www.youtube.com/watch?v=HyfkF7Z-ddA)<br>利用神经基础扩展的实时视图合成技术
 
 <a name="31"/>
 

@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月11日新增34篇（3分割+4人脸+1剪枝+1医学+1小样本+1数据集+1人机交互+2图像增强+4目标检测+1动作识别+1对抗学习+1细粒度识别+1视频相关技术+1SR+1GAN+1Reid+1TFM+8未分）
+### :fireworks::fireworks::fireworks:更新提示：3月11日新增34篇（3分割+4人脸+1剪枝+1医学+1小样本+1数据集+1人机交互+2图像增强+4目标检测+1动作识别+1对抗学习+1细粒度识别+1视频相关技术+1SR+1GAN+1Reid+1TFM+9未分）
 
 * 分割
   * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -59,12 +59,14 @@
 * 未分
   * RSTNet: Captioning with Adaptive Attention on Visual and Non-Visual Words<br>RSTNet: 基于可区分视觉词和非视觉词的自适应注意力机制的图像描述生成模型<br>解读：[14](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [Removing the Background by Adding the Background: Towards a Background Robust Self-supervised Video Representation Learning](https://arxiv.org/abs/2009.05769)<br>通过添加背景来去除背景影响：背景鲁棒的自监督视频表征学习<br>解读：[11](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-  * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法<br>解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Learning Compositional Representation for 4D Captures with Neural ODE
   * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)
   * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
   * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)
   * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)
+  * [Meta Pseudo Labels](https://arxiv.org/abs/2003.10580)<br>:star:[code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels):tv:[video](https://www.youtube.com/watch?v=yhItocvAaq0)<br>最先进的 ImageNet 技术，90.2% 的 top-1 精度
+  * [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)<br>:open_mouth:oral
 
 
  :fireworks::fireworks::fireworks:更新提示：3月10日新增22篇（3分割+1人脸+2点云+1医学+1人机交互+4动作识别+1视图合成+1图像生成+2目标检测+1视频字幕+1NAS+3SR+1未分）

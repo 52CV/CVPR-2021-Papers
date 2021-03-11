@@ -11,23 +11,26 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月11日新增24篇（2分割+4人脸+1小样本+2图像增强+3目标检测+1动作识别+1对抗学习+1细粒度识别+1SR+1GAN+1Reid+1TFM+5未分）
+### :fireworks::fireworks::fireworks:更新提示：3月11日新增33篇（3分割+4人脸+1剪枝+1医学+1小样本+1人机交互+2图像增强+4目标检测+1动作识别+1对抗学习+1细粒度识别+1视频相关技术+1SR+1GAN+1Reid+1TFM+8未分）
 
 * 分割
   * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation<br>联合物体和物质挖掘的弱监督全景分割<br>解读：[15](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)<br>:star:[code](https://github.com/elnino9ykl/WildPASS)
 
 * 人脸
   * Consistent Instance False Positive Improves Fairness in Face Recognition<br>基于实例误报一致性的人脸识别公平性提升方法<br>解读：[7](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-  * SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://arxiv.org/abs/2103.05977)<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
   * Spherical Confidence Learning for Face Recognition<br>:open_mouth:oral<br>基于超球流形置信度学习的人脸识别
-
-
-
+* 剪枝
+  * [Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
+* 医学
+  * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
 * 小样本
   * [Learning Dynamic Alignment via Meta-filter for Few-shot Learning]<br>[作者主页](https://yanweifu.github.io/page3.html)<br>通过元卷积核实现基于动态对齐的小样本学习<br>解读：[17](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-
+* 人机交互
+  * [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)
 * 图像增强
   * Learning to Restore Hazy Video: A New Real-World Dataset and A New Method<br>学习复原有雾视频：一种新的真实数据集及算法<br>解读：[9](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Contrastive Learning for Compact Single Image Dehazing<br>基于对比学习的紧凑图像去雾方法<br>解读：[5](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -36,13 +39,15 @@
   * [Unveiling the Potential of Structure-Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523v1)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)目标定位
   * Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
   * Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection
+  * [FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding](https://arxiv.org/abs/2103.05950)<br>:star:[code](https://github.com/bsun0802/FSCE)
 * 动作识别
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 对抗学习
   * Delving into Data: Effectively Substitute Training for Black-box Attack<br>基于高效训练替代模型的黑盒攻击方法<br>解读：[8](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 细粒度识别
   * Graph-based High-Order Relation Discovery for Fine-grained Recognition<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-
+* 视频相关技术
+  * [VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905)<br>:star:[code](https://github.com/tinapan-pt/VideoMoCo)
 * SR
   * [Temporal Modulation Network for Controllable Space-Time Video Super-Resolution]<br>[作者主页](https://csjunxu.github.io/)<br>基于时空特征可控插值的视频超分辨率网络<br>解读：[18](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * GAN
@@ -59,6 +64,9 @@
   * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Learning Compositional Representation for 4D Captures with Neural ODE
   * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)
+  * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
+  * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)
+  * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)
 
 
  :fireworks::fireworks::fireworks:更新提示：3月10日新增22篇（3分割+1人脸+2点云+1医学+1人机交互+4动作识别+1视图合成+1图像生成+2目标检测+1视频字幕+1NAS+3SR+1未分）
@@ -104,7 +112,8 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[54.图像生成](#54)|[53.对比学习](#53)|[52.OCR](#52)|[51.对抗学习](#51)|
+|:x:|:x:|:x:|[55.视频相关技术](#55)|[Workshop征稿](#*)|
+||[54.图像生成](#54)|[53.对比学习](#53)|[52.OCR](#52)|[51.对抗学习](#51)|
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
 |[40.模型偏见消除](#40)|[39.类增量学习](#39)|[38.持续学习](#38)|[37.视频插帧](#37)|[36.动作检测与识别](#36)|
@@ -115,6 +124,12 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="55"/>
+
+## 55.视频相关技术
+
+* [VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905)<br>:star:[code](https://github.com/tinapan-pt/VideoMoCo)
 
 <a name="54"/>
 
@@ -160,6 +175,7 @@
 
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://arxiv.org/abs/2103.02758)
 - [QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://arxiv.org/abs/2103.05399)<br>:star:[code](https://github.com/hitachi-rd-cv/qpic)
+- [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)
 
 <a name="47"/>
 
@@ -354,6 +370,8 @@
 - [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>:star:[code](https://github.com/guopengf/FL-MRCM)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术<br>
 - [DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images]()<br>:open_mouth:oral:star:[code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)<br>DeepTag: 一种无监督的深度学习方法，用于心脏标记磁共振图像的运动跟踪<br>
 - [Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles](https://arxiv.org/abs/2103.05121)
+* 医学图像分割
+  * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
 
 <a name="21"/> 
 
@@ -394,6 +412,7 @@
 - [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907)<br>:star:[code](https://github.com/Andrew-Qibin/CoordAttention)
 * 剪枝
   * Manifold Regularized Dynamic Network Pruning<br>
+  * [Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
 
 
 <a name="18"/> 
@@ -496,7 +515,7 @@
 * Deepfake检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
 * 人脸质量评估
-  * SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://arxiv.org/abs/2103.05977)<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 3D人脸重建
   * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
   
@@ -528,6 +547,7 @@
 
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
 - [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04011)<br>:star:[code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
+- [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)<br>:star:[code](https://github.com/elnino9ykl/WildPASS)
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
@@ -562,9 +582,10 @@
 - Distilling Object Detectors via Decoupled Features<br>
 - [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
 - Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
-* 少样本目标检测
+* 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心<br>
+  * [FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding](https://arxiv.org/abs/2103.05950)<br>:star:[code](https://github.com/bsun0802/FSCE)
 * 多目标检测
   * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](https://rl.uni-freiburg.de/)<br>
 * 3D目标检测
@@ -661,6 +682,9 @@
   * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Learning Compositional Representation for 4D Captures with Neural ODE
   * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)
+  * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
+  * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)
+  * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)
 
 <a name="*"/>
 

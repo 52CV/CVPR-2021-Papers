@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月11日新增22篇
+### :fireworks::fireworks::fireworks:更新提示：3月11日新增24篇（2分割+4人脸+1小样本+2图像增强+3目标检测+2动作识别+1对抗学习+1细粒度识别+1SR+1GAN+Reid+TFM）
 
 * 分割
   * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -32,8 +32,10 @@
   * Learning to Restore Hazy Video: A New Real-World Dataset and A New Method<br>学习复原有雾视频：一种新的真实数据集及算法<br>解读：[9](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Contrastive Learning for Compact Single Image Dehazing<br>基于对比学习的紧凑图像去雾方法<br>解读：[5](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 
-* 目标定位
-  * [Unveiling the Potential of Structure-Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523v1)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 目标检测
+  * [Unveiling the Potential of Structure-Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523v1)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)目标定位
+  * Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
+  * Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection
 * 动作识别
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 对抗学习
@@ -55,6 +57,8 @@
   * RSTNet: Captioning with Adaptive Attention on Visual and Non-Visual Words<br>RSTNet: 基于可区分视觉词和非视觉词的自适应注意力机制的图像描述生成模型<br>解读：[14](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [Removing the Background by Adding the Background: Towards a Background Robust Self-supervised Video Representation Learning](https://arxiv.org/abs/2009.05769)<br>通过添加背景来去除背景影响：背景鲁棒的自监督视频表征学习<br>解读：[11](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * Learning Compositional Representation for 4D Captures with Neural ODE
+  * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)
 
 
  :fireworks::fireworks::fireworks:更新提示：3月10日新增22篇（3分割+1人脸+2点云+1医学+1人机交互+4动作识别+1视图合成+1图像生成+2目标检测+1视频字幕+1NAS+3SR+1未分）
@@ -95,55 +99,6 @@
 * 未分
   * [Knowledge Evolution in Neural Networks](https://arxiv.org/abs/2103.05152)<br>:open_mouth:oral:star:[code](https://github.com/ahmdtaha/knowledge_evolution)
 
- :fireworks::fireworks::fireworks:更新提示：3月9日新增30篇（5分割+2目标检测+2图像增强+2NAS+2GAN+1人脸+2姿态+1点云+1类增量学习+1对抗学习+1对比学习+1OCR+1SR+2Reid+1transformer+6未分）
-
-* 分割
-  * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
-  * [Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation](https://arxiv.org/abs/2103.04705)
-  * [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing](https://arxiv.org/abs/2103.04570)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/MG-HumanParsing)
-  * [Learning Statistical Texture for Semantic Segmentation](https://arxiv.org/abs/2103.04133)
-  * [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04011)<br>:star:[code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
-* 目标检测
-  * [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)
-  * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心
-* 图像增强
-  * [Robust Reflection Removal with Reflection-free Flash-only Cues](https://arxiv.org/abs/2103.04273)<br>:star:[ccode](https://github.com/ChenyangLEI/flash-reflection-removal)
-  * [ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)
-* NAS
-  * [OPANAS: One-Shot Path Aggregation Network Architecture Search for Object](https://arxiv.org/abs/2103.04507)
-  * Towards Improving the Consistency, Efficiency, and Flexibility of Differentiable Neural Architecture Search<br>北京大学人工智能研究院机器学习研究中心
-* GAN
-  * [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023)<br>:star:[code](https://github.com/Zhangjinso/PISE)
-  * [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)
-* 人脸
-  * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
-* 姿态
-  * [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
-  * Context Modeling in 3D Human Pose Estimation: A Unified Perspective
-* 点云
-  * [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://arxiv.org/abs/2103.04256)<br>:star:[code](https://github.com/fukexue/RGM)
-* 类增量学习
-  * [Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2103.04059)
-* 对抗学习
-  * [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://arxiv.org/abs/2009.00960)<br>:star:[code](https://github.com/machanic/MetaSimulator)<br>黑盒对抗攻击
-* OCR
-  * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
-* 对比学习
-  * [AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries](https://arxiv.org/abs/2011.08435)<br>:star:[code](https://arxiv.org/abs/2011.08435)<br>解读:[CVPR 2021接收论文：AdCo基于对抗的对比学习](https://mp.weixin.qq.com/s/u7Lhzh8uYEEHfWiM32-4yQ)
-* SR
-  * [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)<br>:star:[code](https://github.com/Xiangtaokong/ClassSR)
-* Reid
-  * [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
-  * [Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.04618)<br>:star:[code](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
-* transformer
-  * [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
-* 未分
-  * [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)
-  * [Deep Gradient Projection Networks for Pan-sharpening](https://arxiv.org/abs/2103.04584)<br>:star:[code](https://github.com/xsxjtu/GPPNN)
-  * [Consensus Maximisation Using Influences of Monotone Boolean Functions](https://arxiv.org/abs/2103.04200)<br>:open_mouth:oral
-  * Forecasting Irreversible Disease via Progression Learning
-  * Causal Hidden Markov Model for Time Series Disease Forecasting
-  * Towards Unified Surgical Skill Assessment
 
 # 目录
 
@@ -153,7 +108,7 @@
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
 |[40.模型偏见消除](#40)|[39.类增量学习](#39)|[38.持续学习](#38)|[37.视频插帧](#37)|[36.动作检测与识别](#36)|
-|[35.图像聚类](#35)|[34.图像分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
+|[35.图像聚类](#35)|[34.图像/细粒度分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
 |[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频编解码](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
 |[20.人员重识别/人群计数](#20)|[19.量化、剪枝、蒸馏、模型压缩与优化](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
@@ -184,6 +139,7 @@
 ## 51.对抗学习
 
 - [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://arxiv.org/abs/2009.00960)<br>:star:[code](https://github.com/machanic/MetaSimulator)<br>黑盒对抗攻击
+- Delving into Data: Effectively Substitute Training for Black-box Attack<br>基于高效训练替代模型的黑盒攻击方法<br>解读：[8](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 
 
 <a name="50"/>
@@ -283,12 +239,16 @@
 ## 36.动作检测与识别
 
 - [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302)<br>
-- [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>
-- [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
+- [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br> 
 - [Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack](https://arxiv.org/abs/2103.05347)
 - [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)<br>:tv:[video](https://www.youtube.com/watch?v=PjWgwnAkV8g)
 - [TDN: Temporal Difference Networks for Efficient Action Recognition]( https://arxiv.org/abs/2012.10071)<br>:star:[code](https://github.com/MCG-NJU/TDN)
 - ACTION-Net: Multipath Excitation for Action Recognition
+
+* 时序动作定位
+  * [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
+  * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+
 
 <a name="35"/>
 
@@ -303,6 +263,7 @@
 - [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
 - [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
 - [Fine-grained Angular Contrastive Learning with Coarse Labels](https://arxiv.org/abs/2012.03515)<br>:open_mouth:oral<br>使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。
+- Graph-based High-Order Relation Discovery for Fine-grained Recognition<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 
 <a name="33"/>
 
@@ -408,7 +369,8 @@
   * [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 * 人机交互
   * [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
-
+* 图像分割
+  * [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)<br>:star:[code](https://github.com/fudan-zvg/SETR):house:[project](https://fudan-zvg.github.io/SETR/)<br>基于Transformers从序列到序列的角度重新思考语义分割<br>解读：[16](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)<br>解读：[Transformer 在语义分割中的应用，曾位ADE20K 榜首（44.42% mIoU）](https://zhuanlan.zhihu.com/p/341768446)
 
 <a name="20"/> 
 
@@ -417,6 +379,7 @@
 - [Meta Batch-Instance Normalization for Generalizable Person Re-Identification](https://arxiv.org/abs/2011.14670)<br>
 - [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
 - [Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.04618)<br>:star:[code](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
+- [Self-supervised 3D Reconstruction and Re-Projection for Texture Insensitive Person Re-identification]<br>基于自监督三维重建和重投影的纹理不敏感行人重识别<br>解读：[12](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 
@@ -452,6 +415,7 @@
 * Robust Reference-based Super-Resolution via C²-Matching
 * [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)<br>:open_mouth:oral:house:[project](https://ckkelvinchan.github.io/projects/GLEAN/)
 * [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)<br>:star:[code](https://github.com/ckkelvinchan/BasicVSR-IconVSR):house:[project](https://ckkelvinchan.github.io/projects/BasicVSR/)
+* [Temporal Modulation Network for Controllable Space-Time Video Super-Resolution]<br>[作者主页](https://csjunxu.github.io/)<br>基于时空特征可控插值的视频超分辨率网络<br>解读：[18](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 
 <a name="16"/> 
 
@@ -475,6 +439,7 @@
 - [Teachers Do More Than Teach: Compressing Image-to-Image Models](https://arxiv.org/abs/2103.03467)
 - [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023)<br>:star:[code](https://github.com/Zhangjinso/PISE)
 - [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)
+- [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
 
 <a name="14"/> 
 
@@ -484,6 +449,7 @@
 * 小样本学习
   * Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning<br>
   * [Exploring Complementary Strengths of Invariant and Equivariant Representations for Few-Shot Learning](https://arxiv.org/abs/2103.01315)<br>
+  * [Learning Dynamic Alignment via Meta-filter for Few-shot Learning]<br>[作者主页](https://yanweifu.github.io/page3.html)<br>通过元卷积核实现基于动态对齐的小样本学习<br>解读：[17](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 域泛化
   * [FSDR: Frequency Space Domain Randomization for Domain Generalization](https://arxiv.org/abs/2103.02370)<br>受 JPEG 将空间图像转换为多个频率分量(FCs)的启发，提出频率空间域随机化(FSDR)，通过保留域变量FCs(DIFs)和只随机化域变量FCs(DVFs)来随机化频率空间的图像。
   * [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>:open_mouth: Oral
@@ -511,7 +477,10 @@
   * [ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)
 * 去反射
   * [Robust Reflection Removal with Reflection-free Flash-only Cues](https://arxiv.org/abs/2103.04273)<br>:star:[ccode](https://github.com/ChenyangLEI/flash-reflection-removal)
-  
+* 去雾
+  * Learning to Restore Hazy Video: A New Real-World Dataset and A New Method<br>学习复原有雾视频：一种新的真实数据集及算法<br>解读：[9](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * Contrastive Learning for Compact Single Image Dehazing<br>基于对比学习的紧凑图像去雾方法<br>解读：[5](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+
 <a name="11"/> 
 
 ## 11. 人脸技术
@@ -522,10 +491,15 @@
   * MagFace: A Universal Representation for Face Recognition and Quality Assessment<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
   * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
   * [ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis](https://arxiv.org/abs/2103.05630)<br>:open_mouth:oral:house:[project](https://yinanhe.github.io/projects/forgerynet.html):tv:[video](https://youtu.be/e8XIL3Di2Y8) 
+  * Spherical Confidence Learning for Face Recognition<br>:open_mouth:oral<br>基于超球流形置信度学习的人脸识别
+  * Consistent Instance False Positive Improves Fairness in Face Recognition<br>基于实例误报一致性的人脸识别公平性提升方法<br>解读：[7](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * Deepfake检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
-
-
+* 人脸质量评估
+  * SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 3D人脸重建
+  * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
+  
 <a name="10"/> 
 
 ## 10.神经架构搜索
@@ -558,6 +532,7 @@
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
   * Part-aware Panoptic Segmentation<br>
+  * Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation<br>联合物体和物质挖掘的弱监督全景分割<br>解读：[15](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>
   * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:star:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
@@ -572,7 +547,8 @@
   * [Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation](https://arxiv.org/abs/2103.05271)<br>场景图生成---场景解析
 * 抠图
   * [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）<br>解读：[单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位](https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA)<br>[最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）](https://zhuanlan.zhihu.com/p/337028483)
-
+* 视频动作分割
+  * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 
 <a name="7"/> 
 
@@ -585,6 +561,7 @@
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
 - Distilling Object Detectors via Decoupled Features<br>
 - [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
+- Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
 * 少样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心<br>
@@ -594,9 +571,12 @@
   * [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>:open_mouth:oral<br>
   * [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2012.04355)<br>:star:[code](https://github.com/thu17cyz/3DIoUMatch):house:[project](https://thu17cyz.github.io/3DIoUMatch/):tv:[video](https://youtu.be/nuARjhkQN2U)<br>更多：[CVPR 2021|利用IoU预测进行半监督式3D目标检测](https://zhuanlan.zhihu.com/p/354618636)
   * [ST3D: Self-training for Unsupervised Domain Adaptation on 3D ObjectDetection](https://arxiv.org/abs/2103.05346)<br>:star:[code](https://github.com/CVMI-Lab/ST3D)
+  * Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
-
+* 目标定位
+  * [Unveiling the Potential of Structure-Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523v1)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  
 <a name="6"/> 
 
 ## 6.数据增广
@@ -676,7 +656,11 @@
 * Causal Hidden Markov Model for Time Series Disease Forecasting
 * Towards Unified Surgical Skill Assessment
 - [Knowledge Evolution in Neural Networks](https://arxiv.org/abs/2103.05152)<br>:open_mouth:oral:star:[code](https://github.com/ahmdtaha/knowledge_evolution)
-
+* RSTNet: Captioning with Adaptive Attention on Visual and Non-Visual Words<br>RSTNet: 基于可区分视觉词和非视觉词的自适应注意力机制的图像描述生成模型<br>解读：[14](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * [Removing the Background by Adding the Background: Towards a Background Robust Self-supervised Video Representation Learning](https://arxiv.org/abs/2009.05769)<br>通过添加背景来去除背景影响：背景鲁棒的自监督视频表征学习<br>解读：[11](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * Learning Compositional Representation for 4D Captures with Neural ODE
+  * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)
 
 <a name="*"/>
 

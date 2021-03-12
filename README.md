@@ -11,9 +11,33 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月12日新增1篇（1目标检测）
+### :fireworks::fireworks::fireworks:更新提示：3月12日新增12篇（1人脸+2分割+1深度图匹配+1目标检测+1模型扩展+1航空影像+1情感预测+1OCR+1GAN+13D+1未分）
 
-- You Only Look One-level Feature (YOLOF)<>:star:[code](https://github.com/megvii-model/YOLOF)<br>不需要 FPN 的有效目标检测器
+* 人脸
+  * [MagFace: A Universal Representation for Face Recognition and Quality Assessment](https://arxiv.org/abs/2103.06627)<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。论文公开
+* 分割
+  * [Temporal Action Segmentation from Timestamp Supervision](https://arxiv.org/abs/2103.06669)<br>:star:[code](https://github.com/ZheLi2020/TimestampActionSeg)
+  * [Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations](https://arxiv.org/abs/2103.06342)
+* 图匹配
+  * [Deep Graph Matching under Quadratic Constraint](https://arxiv.org/abs/2103.06643)
+* 目标检测
+  * You Only Look One-level Feature (YOLOF)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>不需要 FPN 的有效目标检测器
+* 模型扩展
+  * [Fast and Accurate Model Scaling](https://arxiv.org/abs/2103.06877)<br>:star:[code](https://github.com/facebookresearch/pycls)
+* 航空影像
+  * [PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation](https://arxiv.org/abs/2103.06564)<br>:star:[code](https://github.com/lxtGH/PFSegNets)论文公开
+* 情感预测
+  * [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541)<br>:house:[project](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/)
+* 场景本文识别
+  * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
+* GAN
+  * [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
+* 3D
+  * [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871)<br>:house:[project](http://www.iri.upc.edu/people/ecorona/smplicit/)
+
+* 未分
+  * [Diverse Semantic Image Synthesis via Probability Distribution Modeling](https://arxiv.org/abs/2103.06878)<br>:star:[code](https://github.com/tzt101/INADE)
+
 
  :fireworks::fireworks::fireworks:更新提示：3月11日新增34篇（3分割+4人脸+1剪枝+1医学+1小样本+1数据集+1人机交互+2图像增强+4目标检测+1动作识别+1对抗学习+1细粒度识别+1视频相关技术+1SR+1GAN+1Reid+1TFM+9未分）
 
@@ -77,7 +101,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|:x:|:x:|:x:|[Workshop征稿](#*)|[56.数据集](#56)|
+|:x:|[Workshop征稿](#*)|[58.图匹配](#58)|[57.情感预测](#57)|[56.数据集](#56)|
 |[55.视频相关技术](#55)|[54.图像生成](#54)|[53.对比学习](#53)|[52.OCR](#52)|[51.对抗学习](#51)|
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
@@ -89,6 +113,16 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="58"/>
+
+## 58.图匹配
+  * [Deep Graph Matching under Quadratic Constraint](https://arxiv.org/abs/2103.06643)
+
+<a name="57"/>
+
+## 57.情感预测
+  * [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541)<br>:house:[project](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/)
 
 <a name="56"/>
 
@@ -118,6 +152,7 @@
 
 * 场景文本检测
   * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
+  * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
 
 <a name="51"/>
 
@@ -317,6 +352,7 @@
 - [A Deep Emulator for Secondary Motion of 3D Characters](https://arxiv.org/abs/2103.01261)<br>
 - [Neural Deformation Graphs for Globally-consistent Non-rigid Reconstruction](https://arxiv.org/abs/2012.01451)<br>:open_mouth:oral:house:[project](https://aljazbozic.github.io/neural_deformation_graphs/):tv:[video](https://www.youtube.com/watch?v=vyq36eFkdWo)<br>
 - [Deep Implicit Templates for 3D Shape Representation](https://arxiv.org/abs/2011.14565)<br>:open_mouth:oral:star:[code](https://github.com/ZhengZerong/DeepImplicitTemplates):house:[project](http://www.liuyebin.com/dit/dit.html):tv:[video](http://www.liuyebin.com/dit/assets/supp_vid.mp4)<br>[CVPR 2021 Oral，清华学者提出Deep Implicit Templates，极大扩展DIF能力](https://zhuanlan.zhihu.com/p/354737798)<br>
+- [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871)<br>:house:[project](http://www.iri.upc.edu/people/ecorona/smplicit/)
 
 <a name="24"/> 
 
@@ -374,7 +410,7 @@
 <a name="19"/> 
 
 
-## 19.量化、剪枝、蒸馏、模型压缩与优化
+## 19.量化、剪枝、蒸馏、模型压缩/扩展与优化
 
 - Learning Student Networks in the Wild<br>
 - [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)<br>:star:[code](https://github.com/clovaai/rexnet)<br>
@@ -382,15 +418,16 @@
 - [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907)<br>:star:[code](https://github.com/Andrew-Qibin/CoordAttention)
 * 剪枝
   * [Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
-
-
+* 模型扩展
+  * [Fast and Accurate Model Scaling](https://arxiv.org/abs/2103.06877)<br>:star:[code](https://github.com/facebookresearch/pycls)
+  
 <a name="18"/> 
 
 ## 18.航空影像
 
 - Dogfight: Detecting Drones from Drone Videos<br>
 * 航空影像分割
-  * PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation<br>
+  * [PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation](https://arxiv.org/abs/2103.06564)<br>:star:[code](https://github.com/lxtGH/PFSegNets)
 
 <a name="17"/> 
 
@@ -428,6 +465,7 @@
 - [PISE: Person Image Synthesis and Editing with Decoupled GAN](https://arxiv.org/abs/2103.04023)<br>:star:[code](https://github.com/Zhangjinso/PISE)
 - [LOHO: Latent Optimization of Hairstyles via Orthogonalization](https://arxiv.org/abs/2103.03891)
 - [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
+- [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
 
 <a name="14"/> 
 
@@ -476,7 +514,7 @@
 * 人脸识别
   * [A 3D GAN for Improved Large-pose Facial Recognition](https://arxiv.org/pdf/2012.10545.pdf)<br>
   * [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:star:[github](https://github.com/Hzzone/MTLFace)<br>
-  * MagFace: A Universal Representation for Face Recognition and Quality Assessment<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
+  * [MagFace: A Universal Representation for Face Recognition and Quality Assessment](https://arxiv.org/abs/2103.06627)<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
   * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
   * [ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis](https://arxiv.org/abs/2103.05630)<br>:open_mouth:oral:house:[project](https://yinanhe.github.io/projects/forgerynet.html):tv:[video](https://youtu.be/e8XIL3Di2Y8) 
   * Spherical Confidence Learning for Face Recognition<br>:open_mouth:oral<br>基于超球流形置信度学习的人脸识别
@@ -530,6 +568,7 @@
   * [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing](https://arxiv.org/abs/2103.04570)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/MG-HumanParsing)
   * [Learning Statistical Texture for Semantic Segmentation](https://arxiv.org/abs/2103.04133)
   * [MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2103.05254)<br>:star:[code](https://github.com/cyang-cityu/MetaCorrection)<br>语义分割中的无监督域适应的域感知元损失校正
+  * [Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations](https://arxiv.org/abs/2103.06342)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解
@@ -538,6 +577,8 @@
   * [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）<br>解读：[单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位](https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA)<br>[最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）](https://zhuanlan.zhihu.com/p/337028483)
 * 视频动作分割
   * [Global2Local: Efficient Structure Search for Video Action Segmentation](https://arxiv.org/abs/2101.00910)<br>从全局到局部：面向视频动作分割的高效网络结构搜索<br>解读：[19](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 时序动作分割
+  * [Temporal Action Segmentation from Timestamp Supervision](https://arxiv.org/abs/2103.06669)<br>:star:[code](https://github.com/ZheLi2020/TimestampActionSeg)
 
 <a name="7"/> 
 
@@ -551,6 +592,7 @@
 - Distilling Object Detectors via Decoupled Features<br>
 - [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
 - Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
+- You Only Look One-level Feature (YOLOF)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>不需要 FPN 的有效目标检测器
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心<br>

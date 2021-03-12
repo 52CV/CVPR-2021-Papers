@@ -718,6 +718,45 @@
 - [Responsible Computer Vision](https://sites.google.com/view/rcv-cvpr2021/home)<br>:warning:3月25日截止<br>本次研讨会将广泛讨论计算机视觉背景下负责任的人工智能的三个主要方面：公平性；可解释性和透明度；以及隐私。
 - [Holistic Video Understanding](https://holistic-video-understanding.github.io/workshops/cvpr2021.html)<br>目的是建立一个整合所有语义概念联合识别的视频基准，因为每个任务的单一类标签往往不足以描述视频的整体内容。
 - [ThreeDWorld Transport Challenge](http://tdw-transport.csail.mit.edu/)<br>:warning:6月1截止<br>:tv:[video](https://www.youtube.com/watch?v=WcJTpiRC4Zo)
+- [FGVC 8](https://sites.google.com/view/fgvc8)<br>第八届细粒度视觉分类研讨会（FGVC8）将通过细粒度视觉理解的视角，探讨细粒度学习、自监督学习、半监督学习、matching(匹配)、localization(定位)、域适应、迁移学习、小样本学习、机器教学、多模态学习（如音频和视频）、众包和分类学预测等相关话题。<br>:warning:[论文截稿日期](https://sites.google.com/view/fgvc8/submission)为4月2日<br>征稿主题包含以下几个方面
+  * Fine-grained categorization细粒度分类
+    * Novel datasets and data collection strategies for fine-grained categorization用于细粒度分类的新型数据集和数据收集策略
+    * Appropriate error metrics for fine-grained categorization细粒度分类的适当误差指标
+    * Low/few shot learning少/小样本学习
+    * Self-supervised learning自监督学习
+    * Semi-supervised learning半监督学习
+    * Transfer-learning from known to novel subcategories
+    * Attribute and part based approaches
+    * Taxonomic predictions
+    * Addressing long-tailed distributions
+  * Human-in-the-loop
+    * Fine-grained categorization with humans in the loop
+    * Embedding human experts’ knowledge into computational models
+    * Machine teaching
+    * Interpretable fine-grained models
+  * Multi-modal learning
+    * Using audio and video data
+    * Using geographical priors
+    * Learning shape
+  * Fine-grained applications
+    * Product recognition 
+    * Animal biometrics and camera traps 
+    * Museum collections
+    * Agricultural 
+    * Medical 
+    * Fashion
+  * 相关挑战赛如下（部分已在Kaggle网站开始）
+    * [GeoLifeCLEF2021](https://www.kaggle.com/c/geolifeclef-2021)<br>利用观测结果与航空图像和环境特征配对，预测物种的存在
+    * [Semi-iNat2021](https://www.kaggle.com/c/semi-inat-2021)<br>由iNaturalist的数据组成的半监督细粒度图像分类
+    * [iNatChallenge2021](https://www.kaggle.com/c/inaturalist-2021)<br>对1万类动植物进行图像分类挑战赛
+    * [iMet2021](https://www.kaggle.com/c/imet-2021-fgvc8)<br>对艺术品进行细粒度属性分类
+    * [iMat-Fashion2021](未开始)<br>服装实例分割和细粒度属性分类
+    * [Hotel-ID 2021](https://www.kaggle.com/c/hotel-id-2021-fgvc8)<br>从图像中识别酒店房间
+    * [HerbariumChallenge2021](https://www.kaggle.com/c/herbarium-2021-fgvc8)<br>从数据集中识别标本，该数据集包含来自美洲、大洋洲和太平洋地区的近66,000种 vascular plant species（维管束植物）的 2.5M 图像
+    * [iWildCam2021](https://www.kaggle.com/c/iwildcam2021-fgvc8)<br>对图像序列中每个物种的动物数量计数
+    * [PlantPathologyChallenge2021](未开始)<br>对病害植物的图像进行分类
+    
+
 
 ## 扫码CV君微信（注明：CVPR）入微信交流群：
 

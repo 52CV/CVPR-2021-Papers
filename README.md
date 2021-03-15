@@ -11,28 +11,45 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月15日新增10篇（1人脸+1分割+13D+1成像+1量化+1动作识别+1视频生成+1GAN+1NAS+16D）
+### :fireworks::fireworks::fireworks:更新提示：3月15日新增20篇（1人脸+3分割+13D+1成像+1医学+1量化+1动作识别+1持续学习+1视频生成+1Reid+1VQA+2GAN+1NAS+16D+3未分）
 
 * 人脸
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
 * 分割
   * [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion](https://arxiv.org/abs/2103.07074)<br>:star:[code](https://github.com/ShiQiu0419/BAAF-Net)
+  * [Rethinking BiSeNet For Real-time Semantic Segmentation]<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)
+  * [Modular Interactive Video Object Segmentation:Interaction-to-Mask, Propagation and Difference-Aware Fusion]()<br>:open_mouth:oral:star:[code](https://github.com/hkchengrex/MiVOS):house:[project](https://hkchengrex.github.io/MiVOS/):tv:[video](https://hkchengrex.github.io/MiVOS/video.html)
 * 三维
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
 * 成像
   * [Deep Gaussian Scale Mixture Prior for Spectral Compressive Imaging](https://arxiv.org/abs/2103.07152)<br>:star:[code](https://github.com/TaoHuang95/DGSMP):house:[project](https://see.xidian.edu.cn/faculty/wsdong/Projects/DGSM-SCI.htm)
+* 医学
+  * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
 * 量化
   * [Learnable Companding Quantization for Accurate Low-bit Neural Networks](https://arxiv.org/abs/2103.07156)
 * 动作识别
   * [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372)<br>:star:[code](https://github.com/V-Sense/ACTION-Net)<br>新出论文
+* 持续学习
+  * [Training Networks in Null Space for Continual Learning]()<br>:open_mouth:oral:star:[code](https://github.com/ShipengWang/Adam-NSCL)
 * 图像视频生成
   * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
+* Reid
+  * Intra-Inter Camera Similarity for Unsupervised Person Re-Identification<br>:star:[code](https://github.com/SY-Xuan/IICS)
+* VQA
+  * [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)<br>:star:[code](https://github.com/yuleiniu/cfvqa)
 * GAN
   * [HumanGAN: A Generative Model of Humans Images](https://arxiv.org/abs/2103.06902)
+  * [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)<br>:star:[code](https://github.com/mahmoudnafifi/HistoGAN)
 * NAS
   * [Searching by Generating: Flexible and Efficient One-Shot NAS with Architecture Generator](https://arxiv.org/abs/2103.07289)<br>:star:[code](https://github.com/eric8607242/SGNAS)
 * 6D
   * [FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism](https://arxiv.org/abs/2103.07054)<br>:open_mouth:oral:star:[code](https://github.com/DC1991/FS-Net)<br>新出论文
+
+* 未分
+  * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](http://wellyzhang.github.io/attach/cvpr21zhang_prae.pdf)<br>:star:[code](https://github.com/WellyZhang/PrAE)
+  * CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
+  * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
+
 
 :fireworks::fireworks::fireworks:更新提示：3月12日新增23篇（1人脸+3分割+1深度图匹配+3目标检测+1目标跟踪+1图像增强+2图像生成+1模型扩展+1航空影像+1情感预测+2密集预测+1OCR+16D+1GAN+13D+1TFM+1未分）
 
@@ -239,6 +256,7 @@
 ## 38.持续学习
 
 - Rainbow Memory: Continual Learning with a Memory of Diverse Samples<br>
+- [Training Networks in Null Space for Continual Learning]()<br>:open_mouth:oral:star:[code](https://github.com/ShipengWang/Adam-NSCL)
 
 
 <a name="37"/>
@@ -372,6 +390,7 @@
 - [Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles](https://arxiv.org/abs/2103.05121)
 * 医学图像分割
   * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
+  * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
 
 <a name="21"/> 
 
@@ -399,6 +418,7 @@
 - [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
 - [Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.04618)<br>:star:[code](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
 - [Self-supervised 3D Reconstruction and Re-Projection for Texture Insensitive Person Re-identification]<br>基于自监督三维重建和重投影的纹理不敏感行人重识别<br>解读：[12](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+- Intra-Inter Camera Similarity for Unsupervised Person Re-Identification<br>:star:[code](https://github.com/SY-Xuan/IICS)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 
@@ -445,7 +465,7 @@
 ## 16.视觉问答
 
 - Weakly-supervised Grounded Visual Question Answering using Capsules<br>
-
+* [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)<br>:star:[code](https://github.com/yuleiniu/cfvqa)
 
 <a name="14"/> 
 
@@ -464,6 +484,7 @@
 - [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
 - [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
 - [HumanGAN: A Generative Model of Humans Images](https://arxiv.org/abs/2103.06902)
+- [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)<br>:star:[code](https://github.com/mahmoudnafifi/HistoGAN)
 
 <a name="14"/> 
 
@@ -572,6 +593,7 @@
   * [MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2103.05254)<br>:star:[code](https://github.com/cyang-cityu/MetaCorrection)<br>语义分割中的无监督域适应的域感知元损失校正
   * [Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations](https://arxiv.org/abs/2103.06342)
   * [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion](https://arxiv.org/abs/2103.07074)<br>:star:[code](https://github.com/ShiQiu0419/BAAF-Net)
+  * [Rethinking BiSeNet For Real-time Semantic Segmentation]<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解
@@ -584,6 +606,9 @@
   * [Temporal Action Segmentation from Timestamp Supervision](https://arxiv.org/abs/2103.06669)<br>:star:[code](https://github.com/ZheLi2020/TimestampActionSeg)
 * 雷达分割
   * [Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation](https://arxiv.org/abs/2011.10033)<br>:open_mouth:oral:star:[code](https://github.com/xinge008/Cylinder3D)<br>在 SemanticKITTI 榜单排名第一（until CVPR DDL），在 nuScenes 中获得 SOTA，并对其他基于激光雷达的任务保持了良好的泛化能力，包括激光雷达全景分割和激光雷达三维检测，其中就基于此工作，在 SemanticKITTI 全景分割榜单也排名第一。
+* 视频目标分割
+  * [Modular Interactive Video Object Segmentation:Interaction-to-Mask, Propagation and Difference-Aware Fusion]()<br>:open_mouth:oral:star:[code](https://github.com/hkchengrex/MiVOS):house:[project](https://hkchengrex.github.io/MiVOS/):tv:[video](https://hkchengrex.github.io/MiVOS/video.html)
+
 
 <a name="7"/> 
 
@@ -704,6 +729,10 @@
 * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
 * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)
 * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)
+* [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](http://wellyzhang.github.io/attach/cvpr21zhang_prae.pdf)<br>:star:[code](https://github.com/WellyZhang/PrAE)
+* CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
+* [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
+
 
 <a name="*"/>
 

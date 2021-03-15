@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月15日新增23篇
+### :fireworks::fireworks::fireworks:更新提示：3月15日新增9篇（1人脸+1分割+13D+1成像+1量化+1动作识别+1GAN+1NAS+16D）
 
 * 人脸
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)

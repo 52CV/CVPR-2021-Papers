@@ -739,7 +739,7 @@
 - Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors<br>:open_mouth:oral
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
-- [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)
+- [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)<br>:star:[code](https://github.com/ml-research/NeSyXIL)
 - Simpler Certified Radius Maximization by Propagating Covariances<br>:open_mouth:oral:tv:[video](https://www.youtube.com/watch?v=1V9sBzlfuwY)
 - [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://arxiv.org/abs/2103.03375)
 - [Discovering Hidden Physics Behind Transport Dynamics](https://arxiv.org/abs/2011.12222)<br>:open_mouth:oral

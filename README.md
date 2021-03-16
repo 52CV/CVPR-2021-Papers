@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月16日新增19篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1GAN+1GNN+4未分)
+### :fireworks::fireworks::fireworks:更新提示：3月16日新增20篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1视频预测+1GAN+1GNN+4未分)
 
 * 人脸
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
@@ -36,6 +36,8 @@
   * [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273)<br>:star:[code](https://github.com/MingiJi/FRSKD)
 * 人物交互
   * [Detecting Human-Object Interaction via Fabricated Compositional Learning](https://arxiv.org/abs/2103.08214)<br>:star:[code](https://github.com/zhihou7/FCL)
+* 视频预测
+  * [Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction](https://arxiv.org/abs/2103.04174)<br>:house:[project](https://sites.google.com/view/ghvae):tv:[video](https://youtu.be/C8_-z8SEGOU)
 * GAN
   * [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)<br>:star:[code](https://github.com/ruiliu-ai/DivCo)
 * GNN
@@ -93,7 +95,8 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[59.光学、几何、光场成像](#59)|[58.图匹配](#58)|[57.情感预测](#57)|[56.数据集](#56)|
+|:x:|:x:|:x:|:x:|[Workshop征稿](#*)|
+|[60.视频预测](#60)|[59.光学、几何、光场成像](#59)|[58.图匹配](#58)|[57.情感预测](#57)|[56.数据集](#56)|
 |[55.视频相关技术](#55)|[54.图像/视频生成](#54)|[53.对比学习](#53)|[52.OCR](#52)|[51.对抗学习](#51)|
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
 |[45.主动学习](#45)|[44.动作预测](#44)|[43.表示学习（图像+字幕）](#43)|[42.超像素](#42)|[41.视频语言学习](#41)|
@@ -105,6 +108,11 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="60"/>
+
+## 60.视频预测
+  * [Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction](https://arxiv.org/abs/2103.04174)<br>:house:[project](https://sites.google.com/view/ghvae):tv:[video](https://youtu.be/C8_-z8SEGOU)
 
 <a name="59"/>
 

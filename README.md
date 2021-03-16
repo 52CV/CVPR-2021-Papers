@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月16日新增17篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1GAN+4未分)
+### :fireworks::fireworks::fireworks:更新提示：3月16日新增19篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1GAN+1GNN+4未分)
 
 * 人脸
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
@@ -20,6 +20,7 @@
   * [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
 * 三维
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
+  * [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos](https://arxiv.org/abs/2103.03319)<br>:open_mouth:oral:star:[code](https://github.com/yasaminjafarian/HDNet_TikTok):house:[project](https://www.yasamin.page/hdnet_tiktok):tv:[video](https://youtu.be/EFJ8WXdKghs)
 * 分割
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
 * 跟踪
@@ -37,6 +38,8 @@
   * [Detecting Human-Object Interaction via Fabricated Compositional Learning](https://arxiv.org/abs/2103.08214)<br>:star:[code](https://github.com/zhihou7/FCL)
 * GAN
   * [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)<br>:star:[code](https://github.com/ruiliu-ai/DivCo)
+* GNN
+  * [Binary Graph Neural Networks](https://arxiv.org/abs/2012.15823)
 * 未分
   * [Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging](https://arxiv.org/abs/2103.08292)<br>:open_mouth:oral
   * [Reconsidering Representation Alignment for Multi-view Clustering](https://arxiv.org/abs/2103.07738)<br>:star:[code](https://github.com/DanielTrosten/mvc)
@@ -360,6 +363,7 @@
 * 深度估计
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
+  * [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos](https://arxiv.org/abs/2103.03319)<br>:open_mouth:oral:star:[code](https://github.com/yasaminjafarian/HDNet_TikTok):house:[project](https://www.yasamin.page/hdnet_tiktok):tv:[video](https://youtu.be/EFJ8WXdKghs)
 
 
 <a name="24"/> 
@@ -704,6 +708,7 @@
 
 - [Sequential Graph Convolutional Network for Active Learning](https://arxiv.org/pdf/2006.10219.pdf)<br>
 - [Quantifying Explainers of Graph Neural Networks in Computational Pathology](https://arxiv.org/abs/2011.12646)<br>
+- [Binary Graph Neural Networks](https://arxiv.org/abs/2012.15823)
 
 <a name="1"/> 
 

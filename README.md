@@ -11,11 +11,38 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月16日新增篇
+### :fireworks::fireworks::fireworks:更新提示：3月16日新增17篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1GAN+4未分)
 
-* 图像去噪
+* 人脸
+  * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
+  * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
+* 姿态
+  * [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
+* 三维
+  * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
+* 分割
+  * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
+* 跟踪
+  * [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)<br>:star:[code](https://github.com/daip13/LPC_MOT)
+* 点云
+  * [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838)
+* 航拍
+  * [ReDet: A Rotation-equivariant Detector for Aerial Object Detection](https://arxiv.org/abs/2103.07733)<br>:star:[code](https://github.com/csuhan/ReDet)
+* 图像增强
   * [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](https://arxiv.org/abs/2101.02824)
-
+  * [Semi-Supervised Video Deraining with Dynamic Rain Generator](https://arxiv.org/abs/2103.07939)
+* 知识蒸馏
+  * [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273)<br>:star:[code](https://github.com/MingiJi/FRSKD)
+* 人物交互
+  * [Detecting Human-Object Interaction via Fabricated Compositional Learning](https://arxiv.org/abs/2103.08214)<br>:star:[code](https://github.com/zhihou7/FCL)
+* GAN
+  * [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)<br>:star:[code](https://github.com/ruiliu-ai/DivCo)
+* 未分
+  * [Rotation Coordinate Descent for Fast Globally Optimal Rotation Averaging](https://arxiv.org/abs/2103.08292)<br>:open_mouth:oral
+  * [Reconsidering Representation Alignment for Multi-view Clustering](https://arxiv.org/abs/2103.07738)<br>:star:[code](https://github.com/DanielTrosten/mvc)
+  * [Uncertainty-guided Model Generalization to Unseen Domains](https://arxiv.org/abs/2103.07531)
+  * [Student-Teacher Learning from Clean Inputs to Noisy Inputs](https://arxiv.org/abs/2103.07600)
+ 
  :fireworks::fireworks::fireworks:更新提示：3月15日新增20篇（1人脸+3分割+13D+1成像+1医学+1量化+1动作识别+1持续学习+1视频生成+1Reid+1VQA+2GAN+1NAS+16D+3未分）
 
 * 人脸
@@ -154,6 +181,7 @@
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://arxiv.org/abs/2103.02758)
 - [QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://arxiv.org/abs/2103.05399)<br>:star:[code](https://github.com/hitachi-rd-cv/qpic)
 - [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)
+* [Detecting Human-Object Interaction via Fabricated Compositional Learning](https://arxiv.org/abs/2103.08214)<br>:star:[code](https://github.com/zhihou7/FCL)
 
 <a name="47"/>
 
@@ -298,6 +326,7 @@
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)
 - [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
 - Context Modeling in 3D Human Pose Estimation: A Unified Perspective
+- [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
 
 
 <a name="28"/>
@@ -329,7 +358,10 @@
 - [Deep Implicit Templates for 3D Shape Representation](https://arxiv.org/abs/2011.14565)<br>:open_mouth:oral:star:[code](https://github.com/ZhengZerong/DeepImplicitTemplates):house:[project](http://www.liuyebin.com/dit/dit.html):tv:[video](http://www.liuyebin.com/dit/assets/supp_vid.mp4)<br>[CVPR 2021 Oral，清华学者提出Deep Implicit Templates，极大扩展DIF能力](https://zhuanlan.zhihu.com/p/354737798)<br>
 - [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871)<br>:house:[project](http://www.iri.upc.edu/people/ecorona/smplicit/)
 * 深度估计
-  [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
+  * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
+  * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
+
+
 <a name="24"/> 
 
 ## 24.强化学习
@@ -401,6 +433,9 @@
   * [Fast and Accurate Model Scaling](https://arxiv.org/abs/2103.06877)<br>:star:[code](https://github.com/facebookresearch/pycls)
 * 量化  
   * [Learnable Companding Quantization for Accurate Low-bit Neural Networks](https://arxiv.org/abs/2103.07156)
+* 知识蒸馏
+  * [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273)<br>:star:[code](https://github.com/MingiJi/FRSKD)
+
 
 <a name="18"/> 
 
@@ -409,6 +444,8 @@
 - Dogfight: Detecting Drones from Drone Videos<br>
 * 航空影像分割
   * [PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation](https://arxiv.org/abs/2103.06564)<br>:star:[code](https://github.com/lxtGH/PFSegNets)
+* 航空影像检测
+  * [ReDet: A Rotation-equivariant Detector for Aerial Object Detection](https://arxiv.org/abs/2103.07733)<br>:star:[code](https://github.com/csuhan/ReDet)
 
 <a name="17"/> 
 
@@ -449,6 +486,10 @@
 - [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
 - [HumanGAN: A Generative Model of Humans Images](https://arxiv.org/abs/2103.06902)
 - [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)<br>:star:[code](https://github.com/mahmoudnafifi/HistoGAN)
+- [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)<br>:star:[code](https://github.com/ruiliu-ai/DivCo)
+
+
+
 
 <a name="14"/> 
 
@@ -489,6 +530,10 @@
 * 去雾
   * Learning to Restore Hazy Video: A New Real-World Dataset and A New Method<br>学习复原有雾视频：一种新的真实数据集及算法<br>解读：[9](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * Contrastive Learning for Compact Single Image Dehazing<br>基于对比学习的紧凑图像去雾方法<br>解读：[5](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 去噪
+  * [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](https://arxiv.org/abs/2101.02824)
+* 去雨
+  * [Semi-Supervised Video Deraining with Dynamic Rain Generator](https://arxiv.org/abs/2103.07939)
 * 曝光校正
   * [Learning Multi-Scale Photo Exposure Correction](https://arxiv.org/abs/2003.11596)<br>:star:[code](https://github.com/mahmoudnafifi/Exposure_Correction)
 
@@ -505,12 +550,15 @@
   * Spherical Confidence Learning for Face Recognition<br>:open_mouth:oral<br>基于超球流形置信度学习的人脸识别
   * Consistent Instance False Positive Improves Fairness in Face Recognition<br>基于实例误报一致性的人脸识别公平性提升方法<br>解读：[7](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
+  * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
 * Deepfake检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
 * 人脸质量评估
   * [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://arxiv.org/abs/2103.05977)<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 3D人脸重建
   * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
+  * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
+  
   
 <a name="10"/> 
 
@@ -534,6 +582,8 @@
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
   * Track to Detect and Segment: An Online Multi-Object Tracker<br>:house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://www.youtube.com/watch?v=oGNtSFHRZJA)<br>
   * Multiple Object Tracking with Correlation Learning
+  * [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)<br>:star:[code](https://github.com/daip13/LPC_MOT)
+
 
 <a name="8"/> 
 
@@ -562,6 +612,7 @@
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解
   * [Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation](https://arxiv.org/abs/2103.05271)<br>场景图生成---场景解析
+  * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
 * 抠图
   * [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:open_mouth:oral:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）<br>解读：[单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位](https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA)<br>[最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）](https://zhuanlan.zhihu.com/p/337028483)
 * 视频动作分割
@@ -644,7 +695,8 @@
   * [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)<br>:star:[code](https://github.com/QingyongHu/SpinNet)
   * [Robust Point Cloud Registration Framework Based on Deep Graph Matching](https://arxiv.org/abs/2103.04256)<br>:star:[code](https://github.com/fukexue/RGM)
   * [PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency](https://arxiv.org/abs/2103.05465)<br>:star:[code](https://github.com/XuyangBai/PointDSC)
-  
+* 点云补全
+  * [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838)
 
 <a name="2"/> 
 
@@ -696,7 +748,9 @@
 * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](http://wellyzhang.github.io/attach/cvpr21zhang_prae.pdf)<br>:star:[code](https://github.com/WellyZhang/PrAE)
 * CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
 * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
-
+* [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](http://wellyzhang.github.io/attach/cvpr21zhang_prae.pdf)<br>:star:[code](https://github.com/WellyZhang/PrAE)
+* CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
+* [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
 
 <a name="*"/>
 

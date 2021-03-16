@@ -11,7 +11,12 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月15日新增20篇（1人脸+3分割+13D+1成像+1医学+1量化+1动作识别+1持续学习+1视频生成+1Reid+1VQA+2GAN+1NAS+16D+3未分）
+### :fireworks::fireworks::fireworks:更新提示：3月16日新增篇
+
+* 图像去噪
+  * [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](https://arxiv.org/abs/2101.02824)
+
+ :fireworks::fireworks::fireworks:更新提示：3月15日新增20篇（1人脸+3分割+13D+1成像+1医学+1量化+1动作识别+1持续学习+1视频生成+1Reid+1VQA+2GAN+1NAS+16D+3未分）
 
 * 人脸
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
@@ -51,48 +56,7 @@
   * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
 
 
-:fireworks::fireworks::fireworks:更新提示：3月12日新增23篇（1人脸+3分割+1深度图匹配+3目标检测+1目标跟踪+1图像增强+2图像生成+1模型扩展+1航空影像+1情感预测+2密集预测+1OCR+16D+1GAN+13D+1TFM+1未分）
 
-* 人脸
-  * [MagFace: A Universal Representation for Face Recognition and Quality Assessment](https://arxiv.org/abs/2103.06627)<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。论文公开
-* 分割
-  * [Temporal Action Segmentation from Timestamp Supervision](https://arxiv.org/abs/2103.06669)<br>:star:[code](https://github.com/ZheLi2020/TimestampActionSeg)
-  * [Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations](https://arxiv.org/abs/2103.06342)
-  * [Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation](https://arxiv.org/abs/2011.10033)<br>:open_mouth:oral:star:[code](https://github.com/xinge008/Cylinder3D)<br>在 SemanticKITTI 榜单排名第一（until CVPR DDL），在 nuScenes 中获得 SOTA，并对其他基于激光雷达的任务保持了良好的泛化能力，包括激光雷达全景分割和激光雷达三维检测，其中就基于此工作，在 SemanticKITTI 全景分割榜单也排名第一。
-* 图匹配
-  * [Deep Graph Matching under Quadratic Constraint](https://arxiv.org/abs/2103.06643)
-* 目标检测
-  * You Only Look One-level Feature (YOLOF)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>不需要 FPN 的有效目标检测器
-  * [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450)<br>:star:[code](https://github.com/PeizeSun/SparseR-CNN)
-  * [Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection]()<br>:star:[code](https://github.com/implus/GFocalV2)<br>解读：[目标检测无痛涨点之 Generalized Focal Loss V2](https://mp.weixin.qq.com/s/H3LuCuqKCUNFldzqiPWQXg)
-* 目标跟踪
-  * [Graph Attention Tracking](https://arxiv.org/abs/2011.11204)<br>:star:[code](https://github.com/ohhhyeahhh/SiamGAT)
-* 图像增强
-  * [Learning Multi-Scale Photo Exposure Correction](https://arxiv.org/abs/2003.11596)<br>:star:[code](https://github.com/mahmoudnafifi/Exposure_Correction)
-* 图像生成
-  * [Image Generators with Conditionally-Independent Pixel Synthesis](https://arxiv.org/abs/2011.13775)<br>:open_mouth:oral:star:[code](https://github.com/saic-mdal/CIPS)
-  * [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798)<br>:open_mouth:oral:star:[code](https://github.com/preddy5/Im2Vec):house:[project](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/)
-* 模型扩展
-  * [Fast and Accurate Model Scaling](https://arxiv.org/abs/2103.06877)<br>:star:[code](https://github.com/facebookresearch/pycls)
-* 航空影像
-  * [PointFlow: Flowing Semantics Through Points for Aerial Image Segmentation](https://arxiv.org/abs/2103.06564)<br>:star:[code](https://github.com/lxtGH/PFSegNets)论文公开
-* 情感预测
-  * [Affect2MM: Affective Analysis of Multimedia Content Using Emotion Causality](https://arxiv.org/abs/2103.06541)<br>:house:[project](https://gamma.umd.edu/researchdirections/affectivecomputing/affect2mm/)
-* 密集预测
-  * [Dense Contrastive Learning for Self-Supervised Visual Pre-Training](https://arxiv.org/abs/2011.09157)<br>:star:[code](https://github.com/WXinlong/DenseCL)
-  * [Propagate Yourself: Exploring Pixel-Level Consistency for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2011.10043)<br>:star:[code](https://github.com/zdaxie/PixPro)
-* 场景本文识别
-  * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
-* 6D姿态估计
-  * [FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism]<br>:star:[code](https://github.com/DC1991/FS-Net)
-* GAN
-  * [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
-* 3D
-  * [SMPLicit: Topology-aware Generative Model for Clothed People](https://arxiv.org/abs/2103.06871)<br>:house:[project](http://www.iri.upc.edu/people/ecorona/smplicit/)
-* Transformer
-  * [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)<br>:open_mouth:oral:star:[code](https://github.com/Epiphqny/VisTR)
-* 未分
-  * [Diverse Semantic Image Synthesis via Probability Distribution Modeling](https://arxiv.org/abs/2103.06878)<br>:star:[code](https://github.com/tzt101/INADE)
 
 
 # 目录

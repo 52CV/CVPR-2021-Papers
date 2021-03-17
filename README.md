@@ -11,7 +11,22 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月16日新增20篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1视频预测+1GAN+1GNN+4未分)
+### :fireworks::fireworks::fireworks:更新提示：3月17日新增6篇（1跟踪+2分割+1人脸+1相机定位+1手语识别）
+
+* 跟踪
+  * [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)<br>:star:[code](https://github.com/JialianW/TraDeS):house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://youtu.be/oGNtSFHRZJA)<br>论文公开<br>TraDeS ：CVPR 2021多目标跟踪算法，改进了目前联合检测与跟踪的在线方法，使用跟踪线索辅助检测，在多个数据集实现了大幅精度提升，作者来自纽约州立大学。代码将开源。
+* 分割
+  * [BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/2103.08907)<br>:star:[code](https://github.com/jbeomlee93/BBAM)
+  * [Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2103.08896)<br>:star:[code](https://github.com/jbeomlee93/AdvCAM)
+* 人脸
+  * [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)
+* 相机定位
+  * [Back to the Feature: Learning Robust Camera Localization from Pixels to Pose](https://arxiv.org/abs/2103.09213)<br>:star:[code](https://github.com/cvg/pixloc)
+* 手语识别
+  * [Skeleton Based Sign Language Recognition Using Whole-body Keypoints](https://arxiv.org/abs/2103.08833)<br>:star:[code](https://github.com/jackyjsy/CVPR21Chal-SLR)
+
+
+:fireworks::fireworks::fireworks:更新提示：3月16日新增20篇(2人脸+1姿态+1三维+1分割+1跟踪+1点云+1航拍+2图像增强+1知识蒸馏+1人物交互+1视频预测+1GAN+1GNN+4未分)
 
 * 人脸
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
@@ -48,54 +63,12 @@
   * [Uncertainty-guided Model Generalization to Unseen Domains](https://arxiv.org/abs/2103.07531)
   * [Student-Teacher Learning from Clean Inputs to Noisy Inputs](https://arxiv.org/abs/2103.07600)
  
- :fireworks::fireworks::fireworks:更新提示：3月15日新增20篇（1人脸+3分割+13D+1成像+1医学+1量化+1动作识别+1持续学习+1视频生成+1Reid+1VQA+2GAN+1NAS+16D+3未分）
-
-* 人脸
-  * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
-* 分割
-  * [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion](https://arxiv.org/abs/2103.07074)<br>:star:[code](https://github.com/ShiQiu0419/BAAF-Net)
-  * [Rethinking BiSeNet For Real-time Semantic Segmentation]<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)
-  * [Modular Interactive Video Object Segmentation:Interaction-to-Mask, Propagation and Difference-Aware Fusion]()<br>:open_mouth:oral:star:[code](https://github.com/hkchengrex/MiVOS):house:[project](https://hkchengrex.github.io/MiVOS/):tv:[video](https://hkchengrex.github.io/MiVOS/video.html)
-* 三维
-  * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
-* 成像
-  * [Deep Gaussian Scale Mixture Prior for Spectral Compressive Imaging](https://arxiv.org/abs/2103.07152)<br>:star:[code](https://github.com/TaoHuang95/DGSMP):house:[project](https://see.xidian.edu.cn/faculty/wsdong/Projects/DGSM-SCI.htm)
-* 医学
-  * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
-* 量化
-  * [Learnable Companding Quantization for Accurate Low-bit Neural Networks](https://arxiv.org/abs/2103.07156)
-* 动作识别
-  * [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372)<br>:star:[code](https://github.com/V-Sense/ACTION-Net)<br>新出论文
-* 持续学习
-  * [Training Networks in Null Space for Continual Learning]()<br>:open_mouth:oral:star:[code](https://github.com/ShipengWang/Adam-NSCL)
-* 图像视频生成
-  * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
-* Reid
-  * Intra-Inter Camera Similarity for Unsupervised Person Re-Identification<br>:star:[code](https://github.com/SY-Xuan/IICS)
-* VQA
-  * [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)<br>:star:[code](https://github.com/yuleiniu/cfvqa)
-* GAN
-  * [HumanGAN: A Generative Model of Humans Images](https://arxiv.org/abs/2103.06902)
-  * [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)<br>:star:[code](https://github.com/mahmoudnafifi/HistoGAN)
-* NAS
-  * [Searching by Generating: Flexible and Efficient One-Shot NAS with Architecture Generator](https://arxiv.org/abs/2103.07289)<br>:star:[code](https://github.com/eric8607242/SGNAS)
-* 6D
-  * [FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism](https://arxiv.org/abs/2103.07054)<br>:open_mouth:oral:star:[code](https://github.com/DC1991/FS-Net)<br>新出论文
-
-* 未分
-  * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](http://wellyzhang.github.io/attach/cvpr21zhang_prae.pdf)<br>:star:[code](https://github.com/WellyZhang/PrAE)
-  * CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
-  * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
-
-
-
-
 
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|:x:|:x:|:x:|:x:|[Workshop征稿](#*)|
+|:x:|:x:|:x:|[Workshop征稿](#*)|[61.手语识别](#61)|
 |[60.视频预测](#60)|[59.光学、几何、光场成像](#59)|[58.图匹配](#58)|[57.情感预测](#57)|[56.数据集](#56)|
 |[55.视频相关技术](#55)|[54.图像/视频生成](#54)|[53.对比学习](#53)|[52.OCR](#52)|[51.对抗学习](#51)|
 |[50.图像表示](#50)|[49.视觉语言导航VLN](#49)|[48.人物交互HOI](#48)|[47.相机定位](#47)|[46.图像/视频字幕](#46)|
@@ -108,6 +81,11 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="61"/>
+
+## 61.手语识别
+  * [Skeleton Based Sign Language Recognition Using Whole-body Keypoints](https://arxiv.org/abs/2103.08833)<br>:star:[code](https://github.com/jackyjsy/CVPR21Chal-SLR)
 
 <a name="60"/>
 
@@ -199,6 +177,7 @@
 ## 47.相机定位(Camera Localization)
 
 - [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](https://arxiv.org/abs/2012.04746)<br>:open_mouth:oral
+- [Back to the Feature: Learning Robust Camera Localization from Pixels to Pose](https://arxiv.org/abs/2103.09213)<br>:star:[code](https://github.com/cvg/pixloc)
 
 <a name="46"/>
 
@@ -563,14 +542,14 @@
   * Consistent Instance False Positive Improves Fairness in Face Recognition<br>基于实例误报一致性的人脸识别公平性提升方法<br>解读：[7](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
   * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
-* Deepfake检测
+* 合成人脸（Deepfake/Face Forgery）检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
+  * [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)
 * 人脸质量评估
   * [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://arxiv.org/abs/2103.05977)<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 3D人脸重建
   * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
-  
   
 <a name="10"/> 
 
@@ -592,10 +571,9 @@
 - [Graph Attention Tracking](https://arxiv.org/abs/2011.11204)<br>:star:[code](https://github.com/ohhhyeahhh/SiamGAT)
 * 多目标跟踪
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
-  * Track to Detect and Segment: An Online Multi-Object Tracker<br>:house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://www.youtube.com/watch?v=oGNtSFHRZJA)<br>
+  * [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)<br>:star:[code](https://github.com/JialianW/TraDeS):house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://youtu.be/oGNtSFHRZJA)<br>TraDeS ：CVPR 2021多目标跟踪算法，改进了目前联合检测与跟踪的在线方法，使用跟踪线索辅助检测，在多个数据集实现了大幅精度提升，作者来自纽约州立大学。代码将开源。
   * Multiple Object Tracking with Correlation Learning
   * [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)<br>:star:[code](https://github.com/daip13/LPC_MOT)
-
 
 <a name="8"/> 
 
@@ -620,6 +598,8 @@
   * [Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations](https://arxiv.org/abs/2103.06342)
   * [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion](https://arxiv.org/abs/2103.07074)<br>:star:[code](https://github.com/ShiQiu0419/BAAF-Net)
   * [Rethinking BiSeNet For Real-time Semantic Segmentation]<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)
+  * [BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/2103.08907)<br>:star:[code](https://github.com/jbeomlee93/BBAM)
+  * [Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2103.08896)<br>:star:[code](https://github.com/jbeomlee93/AdvCAM)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解

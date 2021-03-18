@@ -18,7 +18,7 @@
 * 量化
   * [Diversifying Sample Generation for Accurate Data-Free Quantization](https://arxiv.org/abs/2103.01049)
 * 目标检测
-  * [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>不需要 FPN 的有效目标检测器
+  * [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>[开源 YOLOF，无需 FPN，速度比 YOLOv4 快13%](https://zhuanlan.zhihu.com/p/357986047)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
 
@@ -594,7 +594,7 @@
 - Distilling Object Detectors via Decoupled Features<br>
 - [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
 - Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
-* [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>不需要 FPN 的有效目标检测器
+* [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>[开源 YOLOF，无需 FPN，速度比 YOLOv4 快13%](https://zhuanlan.zhihu.com/p/357986047)
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450)<br>:star:[code](https://github.com/PeizeSun/SparseR-CNN)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 

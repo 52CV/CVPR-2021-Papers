@@ -231,7 +231,7 @@
 - [Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack](https://arxiv.org/abs/2103.05347)
 - [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)<br>:tv:[video](https://www.youtube.com/watch?v=PjWgwnAkV8g)
 - [TDN: Temporal Difference Networks for Efficient Action Recognition]( https://arxiv.org/abs/2012.10071)<br>:star:[code](https://github.com/MCG-NJU/TDN)
-- [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372)<br>:star:[code](https://github.com/V-Sense/ACTION-Net)
+- [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372)<br>:star:[code](https://github.com/V-Sense/ACTION-Net)<br>解读：[CVPR 2021 | 用于动作识别，即插即用、混合注意力机制的 ACTION 模块](https://mp.weixin.qq.com/s/L2_lkhKbVhW8fjAaDdsyWQ)
 * 时序动作定位
   * [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -641,7 +641,7 @@
 - Distilling Object Detectors via Decoupled Features<br>
 - [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
 - Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
-* [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>[开源 YOLOF，无需 FPN，速度比 YOLOv4 快13%](https://zhuanlan.zhihu.com/p/357986047)
+* [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>[开源 YOLOF，无需 FPN，速度比 YOLOv4 快13%](https://zhuanlan.zhihu.com/p/357986047)<br>解读：[目标检测算法YOLOF：You Only Look One-level Feature](https://mp.weixin.qq.com/s/0ChHOljrqrXk8yWi_S6ITg)
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450)<br>:star:[code](https://github.com/PeizeSun/SparseR-CNN)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
@@ -751,7 +751,7 @@
 * [Removing the Background by Adding the Background: Towards a Background Robust Self-supervised Video Representation Learning](https://arxiv.org/abs/2009.05769)<br>通过添加背景来去除背景影响：背景鲁棒的自监督视频表征学习<br>解读：[11](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * Learning Compositional Representation for 4D Captures with Neural ODE
-* [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)
+* [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)<br>解读：[CVPR'21 | involution：超越convolution和self-attention的神经网络新算子](https://mp.weixin.qq.com/s/Kn7QJdldLhyBfYS1KiCdcA)
 * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
 * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)
 * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)

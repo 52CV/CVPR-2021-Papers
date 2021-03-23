@@ -32,12 +32,30 @@
   * [Intra-Inter Camera Similarity for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.11658)<br>:star:[code](https://github.com/SY-Xuan/IICS)<br>论文公开
   * [Anchor-Free Person Search](https://arxiv.org/abs/2103.11617)<br>:star:[code](https://github.com/daodaofr/AlignPS)
 * RGB-D 显著目标检测
-  * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:opem_mouth:oral
+  * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:open_mouth:oral
 * Transformer
   * [Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking](https://arxiv.org/abs/2103.11681)<br>:opem_mouth:oral:star:[code](https://github.com/594422814/TransformerTrack)
   * [Multimodal Motion Prediction with Stacked Transformers](https://arxiv.org/abs/2103.11624)<br>:star:[code](https://github.com/Mrmoore98/mmTransformer-Multimodal-Motion-Prediction-with-Stacked-Transformers):house:[project](https://decisionforce.github.io/mmTransformer/):tv:[video](https://youtu.be/ytqS8dgVcx0)
 * 未分
   * [PGT: A Progressive Method for Training Models on Long Videos](https://arxiv.org/abs/2103.11313)<br>:open_mouth:oral:star:[code](https://github.com/BoPang1996/PGT)
+
+
+### :fireworks::fireworks::fireworks:更新提示：3月22日新增7篇
+
+* 医学
+  * [XProtoNet: Diagnosis in Chest Radiography with Global and Local Explanations](https://arxiv.org/abs/2103.10663)
+* 点云
+  * [Skeleton Merger: an Unsupervised Aligned Keypoint Detector](https://arxiv.org/abs/2103.10814)<br>:star:[code](https://github.com/eliphatfs/SkeletonMerger)
+* 数据集
+  * [Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark](https://arxiv.org/abs/2103.10895)<br>:house:[project](https://vap.aau.dk/sewer-ml/)
+* 超像素
+  * [Learning the Superpixel in a Non-iterative and Lifelong Manner](https://arxiv.org/abs/2103.10681)<br>论文公开
+* 域适应
+  * [Dynamic Transfer for Multi-Source Domain Adaptation](https://arxiv.org/abs/2103.10583)<br>:star:[code](https://github.com/liyunsheng13/DRT)  
+* 模型压缩
+  * [CDFI: Compression-Driven Network Design for Frame Interpolation](https://arxiv.org/abs/2103.10559)<br>:star:[code](https://github.com/tding1/CDFI)
+* 未分
+  * [Generic Perceptual Loss for Modeling Structured Output Dependencies](https://arxiv.org/abs/2103.10571)
 
 # 目录
 
@@ -86,7 +104,7 @@
 
 ## 53.数据集
   * [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)<br>:sunflower:[dataset](https://github.com/google-research-datasets/conceptual-12m)
-
+  * [Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark](https://arxiv.org/abs/2103.10895)<br>:house:[project](https://vap.aau.dk/sewer-ml/)
 
 <a name="52"/>
 
@@ -123,7 +141,7 @@
 
 <a name="48"/>
 
-##48.图像表示Image Representation
+## 48.图像表示Image Representation
 
 - [Learning Continuous Image Representation with Local Implicit Image Function](https://arxiv.org/abs/2012.09161)<br>:open_mouth:oral:star:[code](https://github.com/yinboc/liif):house:[project](https://yinboc.github.io/liif/):tv:[video](https://youtu.be/6f2roieSY_8)
 
@@ -181,7 +199,7 @@
 
 ## 40.超像素
 
-- Learning the Superpixel in a Non-iterative and Lifelong Manner<br>
+- [Learning the Superpixel in a Non-iterative and Lifelong Manner](https://arxiv.org/abs/2103.10681)<br>论文公开
 
 <a name="39"/>
 
@@ -345,11 +363,13 @@
 - [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>:star:[code](https://github.com/guopengf/FL-MRCM)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术<br>
 - [DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images]()<br>:open_mouth:oral:star:[code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)<br>DeepTag: 一种无监督的深度学习方法，用于心脏标记磁共振图像的运动跟踪<br>
 - [Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles](https://arxiv.org/abs/2103.05121)
+* [XProtoNet: Diagnosis in Chest Radiography with Global and Local Explanations](https://arxiv.org/abs/2103.10663)
 * 医学图像分割
   * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
   * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
 * 医学图像合成
   * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:opem_mouth:ora
+
 
 <a name="21"/> 
 
@@ -406,6 +426,8 @@
   * [Refine Myself by Teaching Myself: Feature Refinement via Self-Knowledge Distillation](https://arxiv.org/abs/2103.08273)<br>:star:[code](https://github.com/MingiJi/FRSKD)
 * 可逆神经网络
   * [Neural Parts: Learning Expressive 3D Shape Abstractions with Invertible Neural Networks](https://arxiv.org/abs/2103.10429)<br>:house:[project](https://paschalidoud.github.io/neural_parts)
+* 模型压缩
+  * [CDFI: Compression-Driven Network Design for Frame Interpolation](https://arxiv.org/abs/2103.10559)<br>:star:[code](https://github.com/tding1/CDFI)
 
 <a name="18"/> 
 
@@ -438,7 +460,7 @@
 - Weakly-supervised Grounded Visual Question Answering using Capsules<br>
 * [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)<br>:star:[code](https://github.com/yuleiniu/cfvqa)
 
-<a name="14"/> 
+<a name="15"/> 
 
 ## 15.GAN
 - Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing<br>
@@ -458,9 +480,6 @@
 - [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)<br>:star:[code](https://github.com/mahmoudnafifi/HistoGAN)
 - [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)<br>:star:[code](https://github.com/ruiliu-ai/DivCo)
 
-
-
-
 <a name="14"/> 
 
 
@@ -475,8 +494,11 @@
   * [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)<br>:open_mouth: Oral
 * 零样本学习
   * [Goal-Oriented Gaze Estimation for Zero-Shot Learning](https://arxiv.org/abs/2103.03433):star:[code](https://github.com/osierboy/GEM-ZSL)
+* 域适应
+  * [Dynamic Transfer for Multi-Source Domain Adaptation](https://arxiv.org/abs/2103.10583)<br>:star:[code](https://github.com/liyunsheng13/DRT)  
 
-<a name="11"/> 
+
+<a name="13"/> 
 
 
 ## 13.图像/视频检索
@@ -639,7 +661,7 @@
 * 密集目标检测
   * [Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection]()<br>:star:[code](https://github.com/implus/GFocalV2)<br>解读：[目标检测无痛涨点之 Generalized Focal Loss V2](https://mp.weixin.qq.com/s/H3LuCuqKCUNFldzqiPWQXg)
 * RGB-D 显著目标检测
-  * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:opem_mouth:oral
+  * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:open_mouth:oral
   
 <a name="6"/> 
 
@@ -681,6 +703,9 @@
   * [PointDSC: Robust Point Cloud Registration using Deep Spatial Consistency](https://arxiv.org/abs/2103.05465)<br>:star:[code](https://github.com/XuyangBai/PointDSC)
 * 点云补全
   * [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838)
+* 点云关键点检测
+  * [Skeleton Merger: an Unsupervised Aligned Keypoint Detector](https://arxiv.org/abs/2103.10814)<br>:star:[code](https://github.com/eliphatfs/SkeletonMerger)
+
 
 <a name="2"/> 
 
@@ -737,7 +762,7 @@
 * CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
 * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
 * [PGT: A Progressive Method for Training Models on Long Videos](https://arxiv.org/abs/2103.11313)<br>:open_mouth:oral:star:[code](https://github.com/BoPang1996/PGT)
-
+* [Generic Perceptual Loss for Modeling Structured Output Dependencies](https://arxiv.org/abs/2103.10571)
 
 <a name="*"/>
 

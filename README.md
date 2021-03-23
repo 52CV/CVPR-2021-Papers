@@ -17,7 +17,7 @@
   * [Cross-Dataset Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.11351)
   * [Temporally-Weighted Hierarchical Clustering for Unsupervised Action Segmentation](https://arxiv.org/abs/2103.11264)<br>:star:[code](https://github.com/ssarfraz/FINCH-Clustering/tree/master/TW-FINCH)
 * 医学
-  * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:opem_mouth:ora
+  * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 度量学习（相似度学习）
@@ -368,7 +368,7 @@
   * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
   * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
 * 医学图像合成
-  * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:opem_mouth:ora
+  * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
 
 
 <a name="21"/> 

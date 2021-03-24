@@ -11,13 +11,15 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月24日新增15篇(1分割+1分类+1域适应+2目标检测+1图像编辑+1图像字幕+1视频理解+1三维重建+2新视角合成+1自注意力+1GAN+2re-id)
+### :fireworks::fireworks::fireworks:更新提示：3月24日新增21篇(1分割+1分类+1域适应+1表情识别+2目标检测+1图像编辑+1图像字幕+1视频理解+1三维重建+1视频合成+4新视角合成+1自注意力+1GAN+2re-id+2未分)
 * 分割
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
 * 分类
   * [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2103.12579)
 * 域适应
   * [Transferable Semantic Augmentation for Domain Adaptation](https://arxiv.org/abs/2103.12562)
+* 表情识别
+  * [Affective Processes: Stochastic modelling of temporal context for emotion and facial expression recognition](https://esanchezlozano.github.io/files/CVPR_2021_Affective_Processes.pdf)
 * 目标检测
   * [End-to-End Object Detection with Fully Convolutional Network](https://arxiv.org/abs/2012.03544)<br>:star:[code](https://github.com/Megvii-BaseDetection/DeFCN)<br>解读：[丢弃Transformer，FCN也可以实现E2E检测](https://zhuanlan.zhihu.com/p/332281368)
   * [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
@@ -29,9 +31,13 @@
   * [Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos](https://arxiv.org/abs/2103.12346)<br>:house:[project](https://sijiesong.github.io/co-grounding/)
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
+* 视频合成
+  * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)
 * 新视角合成
   * [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
   * [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
+  * [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190)<br>:star:[code](https://github.com/sxyu/pixel-nerf):house:[project](https://alexyu.net/pixelnerf/):tv:[video](https://youtu.be/voebZx7f32g)
+  * [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/abs/2102.13090)<br>:house:[project](https://ibrnet.github.io/)<br>备注：有学者评论pixelNeRF和IBRNet的工作思想相近，但IBRNet似乎更加成熟。
 * Self-attention自注意力机制
   * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral
 * GAN
@@ -39,6 +45,9 @@
 * re-id
   * [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
   * [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)[code](https://github.com/JDAI-CV/fast-reid)
+* 未分
+  * [Masksembles for Uncertainty Estimation](https://arxiv.org/abs/2012.08334)<br>:star:[code](https://github.com/nikitadurasov/masksembles):house:[project](https://nikitadurasov.github.io/projects/masksembles/)
+  * [Student-Teacher Learning from Clean Inputs to Noisy Inputs](https://arxiv.org/abs/2103.07600)
 
 ### :fireworks::fireworks::fireworks:更新提示：3月23日新增14篇
 
@@ -129,6 +138,7 @@
   * [Context-Aware Layout to Image Generation with Enhanced Object Appearance](https://arxiv.org/abs/2103.11897)<br>:star:[code](https://github.com/wtliao/layout2img) 
 * 视频生成
   * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
+  * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)
 
 <a name="51"/>
 
@@ -299,6 +309,8 @@
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)<br>:house:[project](https://www.albertpumarola.com/research/D-NeRF/index.html)<br>
 * [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
 * [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
+* [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190)<br>:star:[code](https://github.com/sxyu/pixel-nerf):house:[project](https://alexyu.net/pixelnerf/):tv:[video](https://youtu.be/voebZx7f32g)
+* [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/abs/2102.13090)<br>:house:[project](https://ibrnet.github.io/)<br>备注：有学者评论pixelNeRF和IBRNet的工作思想相近，但IBRNet似乎更加成熟。
 
 <a name="29"/>
 
@@ -583,6 +595,8 @@
 * 3D人脸重建
   * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
+* 人脸表情识别
+  * [Affective Processes: Stochastic modelling of temporal context for emotion and facial expression recognition](https://esanchezlozano.github.io/files/CVPR_2021_Affective_Processes.pdf)
   
 <a name="10"/> 
 
@@ -792,6 +806,8 @@
 * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
 * [PGT: A Progressive Method for Training Models on Long Videos](https://arxiv.org/abs/2103.11313)<br>:open_mouth:oral:star:[code](https://github.com/BoPang1996/PGT)
 * [Generic Perceptual Loss for Modeling Structured Output Dependencies](https://arxiv.org/abs/2103.10571)
+* [Masksembles for Uncertainty Estimation](https://arxiv.org/abs/2012.08334)<br>:star:[code](https://github.com/nikitadurasov/masksembles):house:[project](https://nikitadurasov.github.io/projects/masksembles/)
+  * [Student-Teacher Learning from Clean Inputs to Noisy Inputs](https://arxiv.org/abs/2103.07600)
 
 <a name="*"/>
 

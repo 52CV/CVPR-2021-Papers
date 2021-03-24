@@ -30,7 +30,7 @@
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
 * 新视角合成
-  * [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:Sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
+  * [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
   * [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
 * Self-attention自注意力机制
   * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral
@@ -297,7 +297,7 @@
 
 - [DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490)<br>:house:[project](https://ubc-vision.github.io/derf/)<br>
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)<br>:house:[project](https://www.albertpumarola.com/research/D-NeRF/index.html)<br>
-* [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:Sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
+* [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
 * [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
 
 <a name="29"/>
@@ -626,7 +626,7 @@
   * Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation<br>联合物体和物质挖掘的弱监督全景分割<br>解读：[15](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>:star:[code](https://github.com/arthurdouillard/CVPR2021_PLOP)
-  * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:Sunflower:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
+  * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:sunflower:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
   * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
   * [Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation](https://arxiv.org/abs/2103.04705)
   * [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing](https://arxiv.org/abs/2103.04570)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/MG-HumanParsing)

@@ -44,7 +44,7 @@
   * [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)<br>:open_mouth:oral:house:[project](https://marcoamonteiro.github.io/pi-GAN-website/):tv:[video](https://youtu.be/0HCdof9BGtw)<br>更多：[斯坦福学者提出周期性隐式生成对抗网络（π-GAN或pi-GAN），用于高质量的3D感知图像合成](https://zhuanlan.zhihu.com/p/336155077)<br>斯坦福大学
 * re-id
   * [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
-  * [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)[code](https://github.com/JDAI-CV/fast-reid)
+  * [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)|[code](https://github.com/JDAI-CV/fast-reid)
 * 未分
   * [Masksembles for Uncertainty Estimation](https://arxiv.org/abs/2012.08334)<br>:star:[code](https://github.com/nikitadurasov/masksembles):house:[project](https://nikitadurasov.github.io/projects/masksembles/)
   * [Student-Teacher Learning from Clean Inputs to Noisy Inputs](https://arxiv.org/abs/2103.07600)
@@ -439,7 +439,7 @@
 - [Intra-Inter Camera Similarity for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.11658)<br>:star:[code](https://github.com/SY-Xuan/IICS)<br>论文公开
 - [Anchor-Free Person Search](https://arxiv.org/abs/2103.11617)<br>:star:[code](https://github.com/daodaofr/AlignPS)
 * [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
-* [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)[code](https://github.com/JDAI-CV/fast-reid)
+* [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)|[code](https://github.com/JDAI-CV/fast-reid)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 

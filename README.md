@@ -11,6 +11,35 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
+### :fireworks::fireworks::fireworks:更新提示：3月24日新增15篇(1分割+1分类+1域适应+2目标检测+1图像编辑+1图像字幕+1视频理解+1三维重建+2新视角合成+1自注意力+1GAN+2re-id)
+* 分割
+  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers)<br>:star:[code](https://github.com/lkeab/BCNet)
+* 分类
+  * [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2103.12579)
+* 域适应
+  * [Transferable Semantic Augmentation for Domain Adaptation](https://arxiv.org/abs/2103.12562)
+* 目标检测
+  * [End-to-End Object Detection with Fully Convolutional Network](https://arxiv.org/abs/2012.03544)<br>:star:[code](https://github.com/Megvii-BaseDetection/DeFCN)<br>解读：[丢弃Transformer，FCN也可以实现E2E检测](https://zhuanlan.zhihu.com/p/332281368)
+  * [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
+* 图像编辑
+  * [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://arxiv.org/abs/2103.12723)<br>:star:[code](https://github.com/KumapowerLIU/DeFLOCNet)
+* 图像字幕
+  * [Human-like Controllable Image Captioning with Verb-specific Semantic Roles](https://arxiv.org/abs/2103.12204)<br>:star:[code](https://github.com/mad-red/VSR-guided-CIC)
+* 视频理解
+  * [Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos](https://arxiv.org/abs/2103.12346)<br>:house:[project](https://sijiesong.github.io/co-grounding/)
+* 三维重建
+  * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
+* 新视角合成
+  * [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:Sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
+  * [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
+* Self-attention自注意力机制
+  * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral
+* GAN
+  * [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)<br>:open_mouth:oral:house:[project](https://marcoamonteiro.github.io/pi-GAN-website/):tv:[video](https://youtu.be/0HCdof9BGtw)<br>更多：[斯坦福学者提出周期性隐式生成对抗网络（π-GAN或pi-GAN），用于高质量的3D感知图像合成](https://zhuanlan.zhihu.com/p/336155077)<br>斯坦福大学
+* re-id
+  * [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
+  * [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)[code](https://github.com/JDAI-CV/fast-reid)
+
 ### :fireworks::fireworks::fireworks:更新提示：3月23日新增14篇
 
 * 分割
@@ -40,23 +69,6 @@
   * [PGT: A Progressive Method for Training Models on Long Videos](https://arxiv.org/abs/2103.11313)<br>:open_mouth:oral:star:[code](https://github.com/BoPang1996/PGT)
 
 
-### :fireworks::fireworks::fireworks:更新提示：3月22日新增7篇
-
-* 医学
-  * [XProtoNet: Diagnosis in Chest Radiography with Global and Local Explanations](https://arxiv.org/abs/2103.10663)
-* 点云
-  * [Skeleton Merger: an Unsupervised Aligned Keypoint Detector](https://arxiv.org/abs/2103.10814)<br>:star:[code](https://github.com/eliphatfs/SkeletonMerger)
-* 数据集
-  * [Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark](https://arxiv.org/abs/2103.10895)<br>:house:[project](https://vap.aau.dk/sewer-ml/)
-* 超像素
-  * [Learning the Superpixel in a Non-iterative and Lifelong Manner](https://arxiv.org/abs/2103.10681)<br>论文公开
-* 域适应
-  * [Dynamic Transfer for Multi-Source Domain Adaptation](https://arxiv.org/abs/2103.10583)<br>:star:[code](https://github.com/liyunsheng13/DRT)  
-* 模型压缩
-  * [CDFI: Compression-Driven Network Design for Frame Interpolation](https://arxiv.org/abs/2103.10559)<br>:star:[code](https://github.com/tding1/CDFI)
-* 未分
-  * [Generic Perceptual Loss for Modeling Structured Output Dependencies](https://arxiv.org/abs/2103.10571)
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
@@ -68,7 +80,7 @@
 |[40.超像素](#40)|[39.模型偏见消除](#39)|[38.类增量学习](#38)|[37.持续学习](#37)|[36.动作检测与识别](#36)|
 |[35.图像聚类](#35)|[34.图像/细粒度分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
 |[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频相关技术](#26)|
-|[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer](#21)|
+|[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer/Self-attention](#21)|
 |[20.人员重识别/人群计数](#20)|[19.量化、剪枝、蒸馏、模型压缩与优化](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
@@ -174,6 +186,8 @@
 - [Scan2Cap: Context-aware Dense Captioning in RGB-D Scans](https://arxiv.org/abs/2012.02206)<br>:star:[code](https://github.com/daveredrum/Scan2Cap):house:[project](https://daveredrum.github.io/Scan2Cap/):tv:[video](https://youtu.be/AgmIpDbwTCY)
 - [VX2TEXT: End-to-End Learning of Video-Based Text Generation From Multimodal Inputs](https://arxiv.org/abs/2101.12059)<br>视频字幕、视频问答和视频对话任务的多模式框架
 - [Open-book Video Captioning with Retrieve-Copy-Generate Network](https://arxiv.org/abs/2103.05284)
+* 图像字幕
+  * [Human-like Controllable Image Captioning with Verb-specific Semantic Roles](https://arxiv.org/abs/2103.12204)<br>:star:[code](https://github.com/mad-red/VSR-guided-CIC)
 
 <a name="43"/>
 
@@ -247,10 +261,13 @@
 
 ## 34.图像分类
 
-- [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
 - [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
-- [Fine-grained Angular Contrastive Learning with Coarse Labels](https://arxiv.org/abs/2012.03515)<br>:open_mouth:oral<br>使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。
-- Graph-based High-Order Relation Discovery for Fine-grained Recognition<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 细粒度分类
+  * [Fine-grained Angular Contrastive Learning with Coarse Labels](https://arxiv.org/abs/2012.03515)<br>:open_mouth:oral<br>使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。
+  * Graph-based High-Order Relation Discovery for Fine-grained Recognition<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* 图像分类
+  * [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2103.12579)
+  * [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
 
 <a name="33"/>
 
@@ -280,6 +297,8 @@
 
 - [DeRF: Decomposed Radiance Fields](https://arxiv.org/abs/2011.12490)<br>:house:[project](https://ubc-vision.github.io/derf/)<br>
 - [D-NeRF: Neural Radiance Fields for Dynamic Scenes](https://arxiv.org/abs/2011.13961)<br>:house:[project](https://www.albertpumarola.com/research/D-NeRF/index.html)<br>
+* [Neural Lumigraph Rendering](https://arxiv.org/abs/2103.11571)<br>:Sunflower:[dataset](https://drive.google.com/file/d/1BBpIfrqwZNYmG1TiFljlCnwsmL2OUxNT/view):house:[project](http://www.computationalimaging.org/publications/nlr/):tv:[video](https://www.youtube.com/watch?v=maVF-7x9644)<br>斯坦福大学
+* [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
 
 <a name="29"/>
 
@@ -326,6 +345,7 @@
   * [Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction](https://arxiv.org/abs/2103.04174)<br>:house:[project](https://sites.google.com/view/ghvae):tv:[video](https://youtu.be/C8_-z8SEGOU)
 * 视频理解
   * [Context-aware Biaffine Localizing Network for Temporal Sentence Grounding](https://arxiv.org/abs/2103.11555)<br>:star:[code](https://github.com/liudaizong/CBLN)
+  * [Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos](https://arxiv.org/abs/2103.12346)<br>:house:[project](https://sijiesong.github.io/co-grounding/)
 
 <a name="25"/>
 
@@ -339,7 +359,8 @@
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
   * [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos](https://arxiv.org/abs/2103.03319)<br>:open_mouth:oral:star:[code](https://github.com/yasaminjafarian/HDNet_TikTok):house:[project](https://www.yasamin.page/hdnet_tiktok):tv:[video](https://youtu.be/EFJ8WXdKghs)
-
+* 三维重建
+  * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
 
 <a name="24"/> 
 
@@ -361,11 +382,11 @@
 - [Deep Lesion Tracker: Monitoring Lesions in 4D Longitudinal Imaging Studies](https://arxiv.org/abs/2012.04872)<br>肿瘤影像里面智能 PACS 辅助医生读片的重要功能<br>
 - [Automatic Vertebra Localization and Identification in CT by Spine Rectification and Anatomically-constrained Optimization](https://arxiv.org/abs/2012.07947)<br>基于CT 影像的骨折/骨质疏松系统<br>
 - [Multi-institutional Collaborations for Improving Deep Learning-based Magnetic Resonance Image Reconstruction Using Federated Learning](https://arxiv.org/abs/2103.02148)<br>:star:[code](https://github.com/guopengf/FL-MRCM)<br>多机构合作，利用联合学习改进基于深度学习的磁共振图像重建技术<br>
-- [DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images]()<br>:open_mouth:oral:star:[code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)<br>DeepTag: 一种无监督的深度学习方法，用于心脏标记磁共振图像的运动跟踪<br>
+- [DeepTag: An Unsupervised Deep Learning Method for Motion Tracking on Cardiac Tagging Magnetic Resonance Images](https://arxiv.org/abs/2103.02772)<br>:open_mouth:oral:star:[code](https://github.com/DeepTag/cardiac_tagging_motion_estimation)<br>DeepTag: 一种无监督的深度学习方法，用于心脏标记磁共振图像的运动跟踪<br>
 - [Multiple Instance Captioning: Learning Representations from Histopathology Textbooks and Articles](https://arxiv.org/abs/2103.05121)
 * [XProtoNet: Diagnosis in Chest Radiography with Global and Local Explanations](https://arxiv.org/abs/2103.10663)
 * 医学图像分割
-  * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)
+  * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)<br>:star:[code](https://github.com/liuquande/FedDG-ELCFS)
   * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
 * 医学图像合成
   * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
@@ -389,9 +410,11 @@
   * [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)<br>:star:[code](https://github.com/fudan-zvg/SETR):house:[project](https://fudan-zvg.github.io/SETR/)<br>基于Transformers从序列到序列的角度重新思考语义分割<br>解读：[16](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)<br>解读：[Transformer 在语义分割中的应用，曾位ADE20K 榜首（44.42% mIoU）](https://zhuanlan.zhihu.com/p/341768446)
   * [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)<br>:open_mouth:oral:star:[code](https://github.com/Epiphqny/VisTR)
 * 跟踪
-  * [Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking](https://arxiv.org/abs/2103.11681)<br>:open_mouth:oral:star:[code](https://github.com/594422814/TransformerTrack)
+  * [Transformer Meets Tracker: Exploiting Temporal Context for Robust Visual Tracking](https://arxiv.org/abs/2103.11681)<br>:open_mouth:oral:star:[code](https://github.com/594422814/TransformerTrack)<br>more:[Transformer再蓄力，跟踪任务中创新高，桥接独立帧，跨帧传递时域信息，CVPR 2021 Oral](https://zhuanlan.zhihu.com/p/359237554)
 * 动作预测
   * [Multimodal Motion Prediction with Stacked Transformers](https://arxiv.org/abs/2103.11624)<br>:star:[code](https://github.com/Mrmoore98/mmTransformer-Multimodal-Motion-Prediction-with-Stacked-Transformers):house:[project](https://decisionforce.github.io/mmTransformer/):tv:[video](https://youtu.be/ytqS8dgVcx0)  
+* Self-attention自注意力机制
+  * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral
 
 <a name="20"/> 
 
@@ -403,6 +426,8 @@
 - [Self-supervised 3D Reconstruction and Re-Projection for Texture Insensitive Person Re-identification]<br>基于自监督三维重建和重投影的纹理不敏感行人重识别<br>解读：[12](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 - [Intra-Inter Camera Similarity for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.11658)<br>:star:[code](https://github.com/SY-Xuan/IICS)<br>论文公开
 - [Anchor-Free Person Search](https://arxiv.org/abs/2103.11617)<br>:star:[code](https://github.com/daodaofr/AlignPS)
+* [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
+* [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)[code](https://github.com/JDAI-CV/fast-reid)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 
@@ -479,7 +504,8 @@
 - [HumanGAN: A Generative Model of Humans Images](https://arxiv.org/abs/2103.06902)
 - [HistoGAN: Controlling Colors of GAN-Generated and Real Images via Color Histograms](https://arxiv.org/abs/2011.11731)<br>:star:[code](https://github.com/mahmoudnafifi/HistoGAN)
 - [DivCo: Diverse Conditional Image Synthesis via Contrastive Generative Adversarial Network](https://arxiv.org/abs/2103.07893)<br>:star:[code](https://github.com/ruiliu-ai/DivCo)
-
+* [pi-GAN: Periodic Implicit Generative Adversarial Networks for 3D-Aware Image Synthesis](https://arxiv.org/abs/2012.00926)<br>:open_mouth:oral:house:[project](https://marcoamonteiro.github.io/pi-GAN-website/):tv:[video](https://youtu.be/0HCdof9BGtw)<br>更多：[斯坦福学者提出周期性隐式生成对抗网络（π-GAN或pi-GAN），用于高质量的3D感知图像合成](https://zhuanlan.zhihu.com/p/336155077)<br>斯坦福大学
+  
 <a name="14"/> 
 
 
@@ -496,7 +522,7 @@
   * [Goal-Oriented Gaze Estimation for Zero-Shot Learning](https://arxiv.org/abs/2103.03433):star:[code](https://github.com/osierboy/GEM-ZSL)
 * 域适应
   * [Dynamic Transfer for Multi-Source Domain Adaptation](https://arxiv.org/abs/2103.10583)<br>:star:[code](https://github.com/liyunsheng13/DRT)  
-
+  * [Transferable Semantic Augmentation for Domain Adaptation](https://arxiv.org/abs/2103.12562)
 
 <a name="13"/> 
 
@@ -507,8 +533,6 @@
   * [QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval](https://arxiv.org/abs/2103.02927)
 * 视频检索
   * [On Semantic Similarity in Video Retrieval](https://arxiv.org/abs/2103.10095)<br>:star:[code](https://github.com/mwray/Semantic-Video-Retrieval):house:[project](https://mwray.github.io/SSVR/):tv:[video](https://youtu.be/pS9qa_B771I)
-
-
 
 <a name="12"/> 
 
@@ -534,6 +558,8 @@
   * [Learning Multi-Scale Photo Exposure Correction](https://arxiv.org/abs/2003.11596)<br>:star:[code](https://github.com/mahmoudnafifi/Exposure_Correction)
 * 图像修复Image Inpainting
   * [Generating Diverse Structure for Image Inpainting With Hierarchical VQ-VAE](https://arxiv.org/abs/2103.10022)<br>:star:[code](https://github.com/USTC-JialunPeng/Diverse-Structure-Inpainting)
+* 图像编辑
+  * [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://arxiv.org/abs/2103.12723)<br>:star:[code](https://github.com/KumapowerLIU/DeFLOCNet)
 
 <a name="11"/> 
 
@@ -592,6 +618,7 @@
 - [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)<br>:star:[code](https://github.com/elnino9ykl/WildPASS)
 * 实例分割
   * [Zero-Shot Instance Segmentation]<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
+  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers)<br>:star:[code](https://github.com/lkeab/BCNet)
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
@@ -599,7 +626,7 @@
   * Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation<br>联合物体和物质挖掘的弱监督全景分割<br>解读：[15](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>:star:[code](https://github.com/arthurdouillard/CVPR2021_PLOP)
-  * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:star:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
+  * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:Sunflower:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
   * [Multi-Source Domain Adaptation with Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.04717)
   * [Semi-supervised Domain Adaptation based on Dual-level Domain Mixing for Semantic Segmentation](https://arxiv.org/abs/2103.04705)
   * [Differentiable Multi-Granularity Human Representation Learning for Instance-Aware Human Semantic Parsing](https://arxiv.org/abs/2103.04570)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/MG-HumanParsing)
@@ -643,6 +670,7 @@
 - Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral
 * [You Only Look One-level Feature](https://arxiv.org/abs/2103.09460)<br>:star:[code](https://github.com/megvii-model/YOLOF)<br>论文公开<br>[开源 YOLOF，无需 FPN，速度比 YOLOv4 快13%](https://zhuanlan.zhihu.com/p/357986047)<br>解读：[目标检测算法YOLOF：You Only Look One-level Feature](https://mp.weixin.qq.com/s/0ChHOljrqrXk8yWi_S6ITg)
 - [Sparse R-CNN: End-to-End Object Detection with Learnable Proposals](https://arxiv.org/abs/2011.12450)<br>:star:[code](https://github.com/PeizeSun/SparseR-CNN)
+- [End-to-End Object Detection with Fully Convolutional Network](https://arxiv.org/abs/2012.03544)<br>:star:[code](https://github.com/Megvii-BaseDetection/DeFCN)<br>解读：[丢弃Transformer，FCN也可以实现E2E检测](https://zhuanlan.zhihu.com/p/332281368)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection<br>北京大学人工智能研究院机器学习研究中心<br>
@@ -654,6 +682,7 @@
   * [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2012.04355)<br>:star:[code](https://github.com/thu17cyz/3DIoUMatch):house:[project](https://thu17cyz.github.io/3DIoUMatch/):tv:[video](https://youtu.be/nuARjhkQN2U)<br>更多：[CVPR 2021|利用IoU预测进行半监督式3D目标检测](https://zhuanlan.zhihu.com/p/354618636)
   * [ST3D: Self-training for Unsupervised Domain Adaptation on 3D ObjectDetection](https://arxiv.org/abs/2103.05346)<br>:star:[code](https://github.com/CVMI-Lab/ST3D)
   * Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection
+  * [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 * 目标定位

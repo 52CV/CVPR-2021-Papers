@@ -13,7 +13,7 @@
 
 ### :fireworks::fireworks::fireworks:更新提示：3月24日新增15篇(1分割+1分类+1域适应+2目标检测+1图像编辑+1图像字幕+1视频理解+1三维重建+2新视角合成+1自注意力+1GAN+2re-id)
 * 分割
-  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers)<br>:star:[code](https://github.com/lkeab/BCNet)
+  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
 * 分类
   * [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2103.12579)
 * 域适应
@@ -618,7 +618,7 @@
 - [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)<br>:star:[code](https://github.com/elnino9ykl/WildPASS)
 * 实例分割
   * [Zero-Shot Instance Segmentation]<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
-  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers)<br>:star:[code](https://github.com/lkeab/BCNet)
+  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>

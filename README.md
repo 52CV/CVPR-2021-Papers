@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月25日新增14篇(3分割+1人脸+1弱监督+1自动驾驶+1去阴影+1目标检测+3时序动作定位+1深度学习模型+1Transformer+1未分)
+### :fireworks::fireworks::fireworks:更新提示：3月25日新增17篇(3分割+1人脸+1弱监督+1自动驾驶+1去阴影+2目标检测+3时序动作定位+1深度学习模型+1Transformer+3未分)
 
 * 分割
   * [Coarse-to-Fine Domain Adaptive Semantic Segmentation with Photometric Alignment and Category-Center Regularization](https://arxiv.org/abs/2103.13041)
@@ -27,6 +27,7 @@
   * [From Shadow Generation to Shadow Removal](https://arxiv.org/abs/2103.12997)<br>:star:[code](https://github.com/hhqweasd/G2R-ShadowNet)
 * 目标检测
   * [M3DSSD: Monocular 3D Single Stage Object Detector](https://arxiv.org/abs/2103.13164)<br>:star:[code](https://github.com/mumianyuxin/M3DSSD)
+  * GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection<br>:tv:[video](https://www.youtube.com/watch?v=iR7jQF8ncME)
 * 动作检测识别
   * [The Blessings of Unlabeled Background in Untrimmed Videos](https://arxiv.org/abs/2103.13183)
   * [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141)
@@ -37,6 +38,8 @@
   * [Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning](https://arxiv.org/abs/2103.13061)<br>:star:[code](https://github.com/amzn/image-to-recipe-transformers)
 * 未分
   * [Scene-Intuitive Agent for Remote Embodied Visual Grounding](https://arxiv.org/abs/2103.12944)
+  * Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression
+  * Meta-Mining Discriminative Samples for Kinship Verification
 
  :fireworks::fireworks::fireworks:更新提示：3月24日新增21篇(1分割+1分类+1域适应+1表情识别+2目标检测+1图像编辑+1图像字幕+1视频理解+1三维重建+1视频合成+4新视角合成+1自注意力+1GAN+2re-id+2未分)
 * 分割
@@ -710,6 +713,7 @@
   * Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection
   * [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
   * [M3DSSD: Monocular 3D Single Stage Object Detector](https://arxiv.org/abs/2103.13164)<br>:star:[code](https://github.com/mumianyuxin/M3DSSD)
+  * GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection<br>:tv:[video](https://www.youtube.com/watch?v=iR7jQF8ncME)
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 * 目标定位
@@ -823,6 +827,8 @@
 * [Masksembles for Uncertainty Estimation](https://arxiv.org/abs/2012.08334)<br>:star:[code](https://github.com/nikitadurasov/masksembles):house:[project](https://nikitadurasov.github.io/projects/masksembles/)
 * [Student-Teacher Learning from Clean Inputs to Noisy Inputs](https://arxiv.org/abs/2103.07600)
 * [Scene-Intuitive Agent for Remote Embodied Visual Grounding](https://arxiv.org/abs/2103.12944)
+* Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression
+* Meta-Mining Discriminative Samples for Kinship Verification
 
   
 

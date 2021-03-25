@@ -18,7 +18,7 @@
   * [Efficient Regional Memory Network for Video Object Segmentation](https://arxiv.org/abs/2103.12934)<br>:star:[code](https://github.com/hzxie/RMNet):house:[project](https://infinitescript.com/project/rmnet)
   * [Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency](https://arxiv.org/abs/2103.12886)
 * 人脸
-  * [Structure-Aware Face Clustering on a Large-Scale Graph with 10……7 Nodes](https://arxiv.org/abs/2103.13225)<br>star:[code](https://github.com/sstzal/STAR-FC):house:[project](https://sstzal.github.io/STAR-FC/)
+  * [Structure-Aware Face Clustering on a Large-Scale Graph with 10^7 Nodes](https://arxiv.org/abs/2103.13225)<br>:star:[code](https://github.com/sstzal/STAR-FC):house:[project](https://sstzal.github.io/STAR-FC/)
 * 弱监督
   * [Relation-aware Instance Refinement for Weakly Supervised Visual Grounding](https://arxiv.org/abs/2103.12989)<br>:star:[code](https://github.com/youngfly11/ReIR-WeaklyGrounding.pytorch)
 * 自动驾驶
@@ -605,7 +605,7 @@
 * 人脸表情识别
   * [Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition](https://arxiv.org/abs/2103.13372)<br>
 * 人脸聚类 
-  * [Structure-Aware Face Clustering on a Large-Scale Graph with 10……7 Nodes](https://arxiv.org/abs/2103.13225)<br>star:[code](https://github.com/sstzal/STAR-FC):house:[project](https://sstzal.github.io/STAR-FC/)
+  * [Structure-Aware Face Clustering on a Large-Scale Graph with 10^7 Nodes](https://arxiv.org/abs/2103.13225)<br>:star:[code](https://github.com/sstzal/STAR-FC):house:[project](https://sstzal.github.io/STAR-FC/)
  
 <a name="10"/> 
 

@@ -833,7 +833,7 @@
 
 ## Workshop 征稿ing
 
- * [Transport Challenge with ThreeDWorld(http://tdw-transport.csail.mit.edu/)<br>:tv:[video](https://youtu.be/WRx41xsB_wo):warning:6月1截止
+ * [Transport Challenge with ThreeDWorld](http://tdw-transport.csail.mit.edu/)<br>:tv:[video](https://youtu.be/WRx41xsB_wo):warning:6月1截止
    * 论文：[The ThreeDWorld Transport Challenge: A Visually Guided Task-and-Motion Planning Benchmark for Physically Realistic Embodied AI](https://arxiv.org/abs/2103.14025)
 
 - [Visual Perception for Navigation in Human Environments](https://jrdb.stanford.edu/workshops/jrdb-cvpr21)<br>第二届人类环境导航视觉感知征稿 :warning:4月15截止

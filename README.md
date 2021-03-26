@@ -179,7 +179,7 @@
 
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://arxiv.org/abs/2103.02758)
 - [QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://arxiv.org/abs/2103.05399)<br>:star:[code](https://github.com/hitachi-rd-cv/qpic)
-- [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)
+- [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)<br>:star:[code](https://github.com/yoyomimi/AS-Net)
 * [Detecting Human-Object Interaction via Fabricated Compositional Learning](https://arxiv.org/abs/2103.08214)<br>:star:[code](https://github.com/zhihou7/FCL)
 
 <a name="45"/>

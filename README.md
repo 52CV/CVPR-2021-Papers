@@ -138,7 +138,7 @@
   * [Context-Aware Layout to Image Generation with Enhanced Object Appearance](https://arxiv.org/abs/2103.11897)<br>:star:[code](https://github.com/wtliao/layout2img) 
 * 视频生成
   * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
-  * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)
+  * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)<br>解读：[颠覆视频压缩的不一定是新压缩算法，而可能是GAN！英伟达新算法最高压缩90%流量](https://mp.weixin.qq.com/s/UpfgxiIaSU4iIjbrkS--zA)<br>Nvidia的新研究，使用人脸关键点+GAN重建视频通话，相比传统的H.264节省90%流量。代码未开源，但英伟达的GAN框架开源了。
 
 <a name="51"/>
 
@@ -311,6 +311,8 @@
 * [AutoInt: Automatic Integration for Fast Neural Volume Rendering](https://arxiv.org/abs/2012.01714)<br>:open_mouth:oral:house:[project](http://www.computationalimaging.org/publications/automatic-integration/):tv:[video](https://youtu.be/GYxFYbih0PU)<br>斯坦福大学
 * [pixelNeRF: Neural Radiance Fields from One or Few Images](https://arxiv.org/abs/2012.02190)<br>:star:[code](https://github.com/sxyu/pixel-nerf):house:[project](https://alexyu.net/pixelnerf/):tv:[video](https://youtu.be/voebZx7f32g)
 * [IBRNet: Learning Multi-View Image-Based Rendering](https://arxiv.org/abs/2102.13090)<br>:house:[project](https://ibrnet.github.io/)<br>备注：有学者评论pixelNeRF和IBRNet的工作思想相近，但IBRNet似乎更加成熟。
+* [Neural Body: Implicit Neural Representations with Structured Latent Codes for Novel View Synthesis of Dynamic Humans](https://arxiv.org/abs/2012.15838)<br>:star:[code](https://github.com/zju3dv/neuralbody):[project](https://zju3dv.github.io/neuralbody/):tv:[video](https://youtu.be/BPCAMeBCE-8)<br>浙大等学者发明的Neural Body算法，输入多角度视频可输出3D人体和新角度视图。
+* [NeRV: Neural Reflectance and Visibility Fields for Relighting and View Synthesis](https://arxiv.org/abs/2012.03927)<br>:house:[project](https://pratulsrinivasan.github.io/nerv/):tv:[video](https://youtu.be/4XyDdvhhjVo)<br>在任意照明条件下，根据一组输入图像生成完整的3D场景
 
 <a name="29"/>
 
@@ -319,7 +321,7 @@
 - [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607)<br>:tv:[video](https://twitter.com/i/status/1334395954644930560)<br>通过消除 location-dependent 透视效果来改进3D人体姿势估计技术工作。<br>
 - [CanonPose: Self-supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679)
 - [Camera-Space Hand Mesh Recovery via Semantic Aggregation and Adaptive 2D-1D Registration](https://arxiv.org/abs/2103.02845)<br>:star:[code](https://github.com/SeanChenxy/HandMesh)<br>
-- [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)
+- [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)<br>在电影动作特效中，人体运动捕捉是关键技术，高质量的捕捉往往需要特殊设备，而如果能使用普通RGB相机进行运动捕捉，将会使人人都是特效师。该视频来自清华、马普所等单位的学者发表于CVPR2021的论文结果，使用单目RGB相机的动作捕捉。
 - [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
 - Context Modeling in 3D Human Pose Estimation: A Unified Perspective
 - [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
@@ -693,7 +695,7 @@
 
 - [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
-- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>
+- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>深度估计是机器人和自动驾驶研究的重要内容，而这往往需要特殊设备，如RGB-D相机或激光雷达，如何使用RGB相机感知深度呢？研究人员曾经做了很多的尝试。该视频是CVPR 2021论文Depth from Camera Motion and Object Detection结果，通过使用“普通手机摄像头运动+目标检测的包围框”数据，设计RNN网络实现了达到最先进精度的目标深度估计。<br>
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)<br>
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
 - Distilling Object Detectors via Decoupled Features<br>
@@ -838,6 +840,7 @@
 * [Diverse Branch Block: Building a Convolution as an Inception-like Unit](https://arxiv.org/abs/2103.13425)<br>:star:[code](https://github.com/DingXiaoH/DiverseBranchBlock)
 * [OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations](https://arxiv.org/abs/2103.13843)
 * [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On](https://arxiv.org/abs/2103.09479)<br>:star:[code](https://github.com/ChongjianGE/DCTON)
+* [Stylized Neural Painting](https://arxiv.org/abs/2011.08114)<br>:star:[code](https://github.com/jiupinjia/stylized-neural-painting):house:[project](https://jiupinjia.github.io/neuralpainter/):tv:[video](https://youtu.be/oerb-nwrXhk)<br>风格化的神经绘画,Stylized Neural Painting,提出 image-to-painting 翻译方法，生成生动逼真、风格可控的绘画艺术作品 
 
 
 <a name="*"/>

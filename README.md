@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月26日新增13篇(1去雨+1检索+3小样本/域适应+2自/半监督+1持续学习+2目标检测+3未分)
+### :fireworks::fireworks::fireworks:更新提示：3月26日新增15篇(1去雨+1检索+3小样本/域适应+2自/半监督+1持续学习+2目标检测+1SLAM/机器人+4未分)
 * 去雨
   * [Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://arxiv.org/abs/2103.13660)
 * 检索
@@ -28,10 +28,13 @@
 * 目标检测
   * [Robust and Accurate Object Detection via Adversarial Learning](https://arxiv.org/abs/2103.13886)
   * [I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors](https://arxiv.org/abs/2103.13757)
+* SLAM/机器人
+  * [Tangent Space Backpropagation for 3D Transformation Groups](https://arxiv.org/abs/2103.12032)<br>:star:[code](https://github.com/princeton-vl/lietorch)
 * 未分
   * [Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression](https://arxiv.org/abs/2103.13629)<br>:star:[code](https://github.com/Li-Wanhua/POEs):tv:[video](https://www.youtube.com/watch?v=zCTPRxxlZsI&t=427s)<br>论文公开
   * [Diverse Branch Block: Building a Convolution as an Inception-like Unit](https://arxiv.org/abs/2103.13425)<br>:star:[code](https://github.com/DingXiaoH/DiverseBranchBlock)
   * [OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations](https://arxiv.org/abs/2103.13843)
+  * [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On](https://arxiv.org/abs/2103.09479)<br>:star:[code](https://github.com/ChongjianGE/DCTON)
 
 :fireworks::fireworks::fireworks:更新提示：3月25日新增18篇(4分割+1人脸+1弱监督+1自动驾驶+1去阴影+2目标检测+3时序动作定位+1深度学习模型+1Transformer+3未分)
 
@@ -68,7 +71,8 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
+|[Workshop征稿](#*)|
+|[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
 |[50.OCR](#50)|[49.对抗学习](#49)|[48.图像表示](#48)|[47.视觉语言导航VLN](#47)|[46.人物交互HOI](#46)|
 |[45.相机定位](#45)|[44.图像/视频字幕](#44)|[43.主动学习](#43)|[42.动作预测](#42)|[41.表示学习（图像+字幕）](#41)|
@@ -80,6 +84,11 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="60"/>
+
+## 60. SLAM/AR/机器人
+* [Tangent Space Backpropagation for 3D Transformation Groups](https://arxiv.org/abs/2103.12032)<br>:star:[code](https://github.com/princeton-vl/lietorch)
 
 <a name="59"/>
 
@@ -828,7 +837,9 @@
 * [Learning Probabilistic Ordinal Embeddings for Uncertainty-Aware Regression](https://arxiv.org/abs/2103.13629)<br>:star:[code](https://github.com/Li-Wanhua/POEs):tv:[video](https://www.youtube.com/watch?v=zCTPRxxlZsI&t=427s)<br>论文公开
 * [Diverse Branch Block: Building a Convolution as an Inception-like Unit](https://arxiv.org/abs/2103.13425)<br>:star:[code](https://github.com/DingXiaoH/DiverseBranchBlock)
 * [OTCE: A Transferability Metric for Cross-Domain Cross-Task Representations](https://arxiv.org/abs/2103.13843)
-  
+* [Disentangled Cycle Consistency for Highly-realistic Virtual Try-On](https://arxiv.org/abs/2103.09479)<br>:star:[code](https://github.com/ChongjianGE/DCTON)
+
+
 <a name="*"/>
 
 ## Workshop 征稿ing

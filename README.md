@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月29日新增
+### :fireworks::fireworks::fireworks:更新提示：3月29日新增11篇
 * 人脸
   * [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211)
 * 分类

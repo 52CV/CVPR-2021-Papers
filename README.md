@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月29日新增11篇
+### :fireworks::fireworks::fireworks:更新提示：3月29日新增12篇
 * 人脸
   * [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211)
 * 分类
@@ -24,8 +24,9 @@
 * 目标检测
   * [Distilling Object Detectors via Decoupled Features](https://arxiv.org/abs/2103.14475)<br>:star:[code](https://github.com/ggjy/DeFeat.pytorch)
   * [OTA: Optimal Transport Assignment for Object Detection](https://arxiv.org/abs/2103.14259)<br>:star:[code](https://github.com/Megvii-BaseDetection/OTA)
-* 场景理解
+* 分割
   * [Bidirectional Projection Network for Cross Dimension Scene Understanding](https://arxiv.org/abs/2103.14326)<br>:open_mouth:oral:star:[code](https://github.com/wbhu/BPNet)
+  * [Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2103.14581)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom)
 * 算法
   * [ACRE: Abstract Causal REasoning Beyond Covariation](https://arxiv.org/abs/2103.14232)<br>:star:[code](https://github.com/WellyZhang/ACRE):house:[project](http://wellyzhang.github.io/project/acre.html)
   * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/abs/2103.14230)<br>:star:[code](https://github.com/WellyZhang/PrAE):house:[project](http://wellyzhang.github.io/project/prae.html)
@@ -671,6 +672,7 @@
   * [Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2103.08896)<br>:star:[code](https://github.com/jbeomlee93/AdvCAM)
   * [Cross-Dataset Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.11351)
   * [Coarse-to-Fine Domain Adaptive Semantic Segmentation with Photometric Alignment and Category-Center Regularization](https://arxiv.org/abs/2103.13041)
+  * [Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2103.14581)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解

@@ -701,7 +701,7 @@
 
 - [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
-- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>深度估计是机器人和自动驾驶研究的重要内容，而这往往需要特殊设备，如RGB-D相机或激光雷达，如何使用RGB相机感知深度呢？研究人员曾经做了很多的尝试。该视频是CVPR 2021论文Depth from Camera Motion and Object Detection结果，通过使用“普通手机摄像头运动+目标检测的包围框”数据，设计RNN网络实现了达到最先进精度的目标深度估计。<br>
+- [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>通过使用“普通手机摄像头运动+目标检测的包围框”数据，设计RNN网络实现了达到最先进精度的目标深度估计。<br>
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)<br>
 - [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
 - Distilling Object Detectors via Decoupled Features<br>

@@ -15,7 +15,7 @@
 * 人脸
   * [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211)
 * 分类
-  * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project]()(https://www.kaihan.org/HybridLT/)
+  * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project](https://www.kaihan.org/HybridLT/)
 * 姿态
   * [Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling](https://arxiv.org/abs/2103.14338)<br>:star:[code](https://github.com/HuangZhiChao95/FewShotMotionTransfer):tv:[video](https://www.youtube.com/watch?v=ZJ15X-sdKSU)
 * 点云

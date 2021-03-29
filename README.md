@@ -703,7 +703,7 @@
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
 - [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>通过使用“普通手机摄像头运动+目标检测的包围框”数据，设计RNN网络实现了达到最先进精度的目标深度估计。<br>
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)<br>
-- [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>
+- [General Instance Distillation for Object Detection](https://arxiv.org/abs/2103.02340)<br>近年来，知识蒸馏已被证明是模型压缩的有效解决方案。可以使轻量级的学生模型获得从繁琐的教师模型中提取的知识，但以往的检测蒸馏方法对于不同的检测框架的泛化能力较弱，而且严重依赖ground truth（GT），忽略了实例之间有价值的关系信息。为此，作者在本文中提出新的基于判别性实例的检测任务蒸馏方法，不考虑 GT 区分的正负，命名为通用实例蒸馏（GID）。该方法包含一个通用实例选择模块(GISM)，可以充分利用基于特征、基于关系和基于响应的知识进行蒸馏。实验验证，学生模型在各种检测框架中可以实现显著的 AP 改进，甚至优于教师模型。具体来说，RetinaNet 与 ResNet-50 在 COCO 数据集上用 GID 实现了39.1% 的 mAP，比基线 36.2% 超出了 2.9%，甚至优于基于 ResNet-101 的教师模型 38.1% 的 AP。<br>
 - Distilling Object Detectors via Decoupled Features<br>
 - [MeGA-CDA: Memory Guided Attention for Category-Aware Unsupervised Domain Adaptive Object Detection](https://arxiv.org/abs/2103.04224)<br>
 - Informative and Consistent Correspondence Mining for Cross-Domain Weakly Supervised Object Detection<br>:open_mouth:oral

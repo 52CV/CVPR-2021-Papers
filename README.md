@@ -107,7 +107,7 @@
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
-<a name="63"/
+<a name="63"/>
 
 ## 63.图像处理
 * 图像信号处理
@@ -115,7 +115,7 @@
 * 光谱重建
   * [Tuning IR-cut Filter for Illumination-aware Spectral Reconstruction from RGB](https://arxiv.org/abs/2103.14708)<br>:open_mouth:oral
 
-<a name="62"/
+<a name="62"/>
 
 ## 62.手绘草图识别
   * [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/abs/2103.15536)

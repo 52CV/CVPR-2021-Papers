@@ -11,7 +11,7 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月30日新增25篇(1人脸+1检索+3分割+2跟踪+1分类+2姿态+1图像压缩+1量化+1点云+1视频+1域泛化+1机器人+1目标检测+1度量学习+1动作识别+1手绘草图识别+1新视角合成+1开放集识别+13D+1VQA+1未分)
+### :fireworks::fireworks::fireworks:更新提示：3月30日新增30篇(1人脸+1检索+3分割+2跟踪+1分类+2姿态+3图像压缩+1量化+1点云+1视频+1域泛化+1机器人+1目标检测+1度量学习+1动作识别+1手绘草图识别+1新视角合成+1开放集识别+2图像处理+1对抗检测+13D+1VQA+1未分)
 
 * 人脸
   * [High-Fidelity and Arbitrary Face Editing](https://arxiv.org/abs/2103.15814)
@@ -31,6 +31,8 @@
   * [From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/2103.14843)<br>:star:[code](https://github.com/chaneyddtt/UDA-Animal-Pose)
 * 压缩
   * [Attention-guided Image Compression by Deep Reconstruction of Compressive Sensed Saliency Skeleton](https://arxiv.org/abs/2103.15368)
+  * [Slimmable Compressive Autoencoders for Practical Neural Image Compression](https://arxiv.org/abs/2103.15726)<br>:star:[code](https://github.com/FireFYF/SlimCAE)
+  * [Checkerboard Context Model for Efficient Learned Image Compression](https://arxiv.org/abs/2103.15306)
 * 量化
   * [Zero-shot Adversarial Quantization](https://arxiv.org/abs/2103.15263)<br>:open_mouth:oral:star:[code](https://github.com/FLHonker/ZAQ-code)
 * 点云
@@ -47,6 +49,11 @@
   * [No frame left behind: Full Video Action Recognition](https://arxiv.org/abs/2103.15395)
 * 度量学习
   * [Embedding Transfer with Label Relaxation for Improved Metric Learning](https://arxiv.org/abs/2103.14908)
+* 对抗检测
+  * [LiBRe: A Practical Bayesian Approach to Adversarial Detection](https://arxiv.org/abs/2103.14835)<br>:star:[code](https://github.com/thudzj/ScalableBDL) 
+* 图像处理
+  * [Invertible Image Signal Processing](https://arxiv.org/abs/2103.15061)<br>:star:[code](https://github.com/yzxing87/Invertible-ISP):house:[project](https://yzxing87.github.io/InvISP/index.html)
+  * [Tuning IR-cut Filter for Illumination-aware Spectral Reconstruction from RGB](https://arxiv.org/abs/2103.14708)<br>:open_mouth:oral
 * 手绘草图识别
   * [Cloud2Curve: Generation and Vectorization of Parametric Sketches](https://arxiv.org/abs/2103.15536)
 * 新视角合成
@@ -59,7 +66,7 @@
   * [TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://arxiv.org/abs/2103.15538)<br>:star:[code](https://github.com/SUTDCV/SUTD-TrafficQA)
 * 未分
   * [Meta-Mining Discriminative Samples for Kinship Verification](https://arxiv.org/abs/2103.15108)<br>论文公开
-
+  
 :fireworks::fireworks::fireworks:更新提示：3月29日新增12篇
 * 人脸
   * [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211)
@@ -86,7 +93,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[62.手绘草图识别](#62)|[61.算法](#61)|
+|[Workshop征稿](#*)|[## 63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
 |[50.OCR](#50)|[49.对抗学习](#49)|[48.图像表示](#48)|[47.视觉语言导航VLN](#47)|[46.人物交互HOI](#46)|
@@ -99,6 +106,14 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="63"/
+
+## 63.图像处理
+* 图像信号处理
+  * [Invertible Image Signal Processing](https://arxiv.org/abs/2103.15061)<br>:star:[code](https://github.com/yzxing87/Invertible-ISP):house:[project](https://yzxing87.github.io/InvISP/index.html)
+* 光谱重建
+  * [Tuning IR-cut Filter for Illumination-aware Spectral Reconstruction from RGB](https://arxiv.org/abs/2103.14708)<br>:open_mouth:oral
 
 <a name="62"/
 
@@ -190,7 +205,7 @@
 
 - [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://arxiv.org/abs/2009.00960)<br>:star:[code](https://github.com/machanic/MetaSimulator)<br>黑盒对抗攻击
 - Delving into Data: Effectively Substitute Training for Black-box Attack<br>基于高效训练替代模型的黑盒攻击方法<br>解读：[8](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-
+- [LiBRe: A Practical Bayesian Approach to Adversarial Detection](https://arxiv.org/abs/2103.14835)<br>:star:[code](https://github.com/thudzj/ScalableBDL)
 
 <a name="48"/>
 
@@ -637,6 +652,8 @@
   * [DeFLOCNet: Deep Image Editing via Flexible Low-level Controls](https://arxiv.org/abs/2103.12723)<br>:star:[code](https://github.com/KumapowerLIU/DeFLOCNet)
 * 图像压缩
   * [Attention-guided Image Compression by Deep Reconstruction of Compressive Sensed Saliency Skeleton](https://arxiv.org/abs/2103.15368)
+  * [Slimmable Compressive Autoencoders for Practical Neural Image Compression](https://arxiv.org/abs/2103.15726)<br>:star:[code](https://github.com/FireFYF/SlimCAE)
+  * [Checkerboard Context Model for Efficient Learned Image Compression](https://arxiv.org/abs/2103.15306)
 
 <a name="11"/> 
 

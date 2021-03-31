@@ -11,7 +11,72 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-### :fireworks::fireworks::fireworks:更新提示：3月30日新增30篇(1人脸+1检索+3分割+2跟踪+1分类+2姿态+3图像压缩+1量化+1点云+1视频+1域泛化+1机器人+1目标检测+1度量学习+1动作识别+1手绘草图识别+1新视角合成+1开放集识别+2图像处理+1对抗检测+13D+1VQA+1未分)
+
+# CVPR2021最新信息及已接收论文/代码(持续更新)
+
+
+
+### :fireworks::fireworks::fireworks:更新提示：3月30日新增25篇(1修复+2人脸+5分割+1分类+1跟踪+1检索+2三维+1姿态+1医学+3
+
+* 修复
+  * [TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations](https://arxiv.org/abs/2103.15982)<br>:house:[project](https://yzhouas.github.io/projects/TransFill/index.html)
+* 人脸
+  * [Face Forensics in the Wild](https://arxiv.org/abs/2103.16076)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/FFIW)
+  * [High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation](https://arxiv.org/abs/2103.15876)<br>:house:[project](https://www.cs.rochester.edu/u/lchen63/):tv:[video](https://www.youtube.com/watch?v=dtz1LgZR8cc)
+* 分割
+  * [Boundary IoU: Improving Object-Centric Image Segmentation Evaluation](https://arxiv.org/abs/2103.16562)<br>:star:[code](https://github.com/bowenc0221/boundary-iou-api):house:[project](https://bowenc0221.github.io/boundary-iou/)
+  * [Source-Free Domain Adaptation for Semantic Segmentation](https://arxiv.org/abs/2103.16372)
+  * [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://arxiv.org/abs/2103.16284)
+  * [Self-Guided and Cross-Guided Learning for Few-Shot Segmentation](https://arxiv.org/abs/2103.16129)<br>:star:[code](https://github.com/zbf1991/SCL)
+  * [Fully Convolutional Scene Graph Generation](https://arxiv.org/abs/2103.16083)<br>:open_mouth:oral
+* 分类
+  * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
+* 跟踪
+  * [Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking](https://arxiv.org/abs/2103.16178)<br>:star:[code](https://github.com/jiaweihe1996/GMTracker)
+* 检索
+  * [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553)
+* 三维
+  * [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449)<br>:house:[project](https://sites.google.com/view/humanmeshboa)
+  * [Learning Parallel Dense Correspondence from Spatio-Temporal Descriptors for Efficient and Robust 4D Reconstruction](https://arxiv.org/abs/2103.16341)<br>:star:[code](https://github.com/tangjiapeng/LPDC-Net)
+* 姿态
+  * [Graph Stacked Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385)
+* 医学
+  * [DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.15954)
+* 零样本/域适应/域泛化
+  * [Contrastive Embedding for Generalized Zero-Shot Learning](https://arxiv.org/abs/2103.16173)<br>:star:[code](https://github.com/Hanzy1996/CE-GZSL)
+  * [Dynamic Domain Adaptation for Efficient Inference](https://arxiv.org/abs/2103.16403)<br>:star:[code](https://github.com/BIT-DA/DDA)
+  * [Progressive Domain Expansion Network for Single Domain Generalization](https://arxiv.org/abs/2103.16050)<br>:star:[code](https://github.com/lileicv/PDEN)
+* 数据集
+  * [Benchmarking Representation Learning for Natural World Image Collections](https://arxiv.org/abs/2103.16483)<br>:sunflower:[dataset](https://github.com/visipedia/newt)
+* 机器人
+  * [Visual Room Rearrangement](https://arxiv.org/abs/2103.16544)<br>:open_mouth:oral:house:[project](https://ai2thor.allenai.org/rearrangement/):tv:[video](https://www.youtube.com/watch?v=1APxaOC9U-A)
+* 目标检测
+  * [Exploring intermediate representation for monocular vehicle pose estimation](https://arxiv.org/abs/2011.08464)<br>:star:[code](https://github.com/Nicholasli1995/EgoNet)
+  * [Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16470)<br>:star:[code](https://github.com/fudan-zvg/DDMP)<br>论文公开
+  * [Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection](https://arxiv.org/abs/2103.16368)
+  * [Delving into Localization Errors for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16237)<br>:star:[code](https://github.com/xinzhuma/monodle)
+* 动作识别
+  * [Recognizing Actions in Videos from Unseen Viewpoints](https://arxiv.org/abs/2103.16516)
+  * [CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning](https://arxiv.org/abs/2103.16392)
+* 手语识别
+  * [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bslattend/)
+* 知识蒸馏
+  * [Complementary Relation Contrastive Distillation](https://arxiv.org/abs/2103.16367)
+* 度量学习
+  * [Noise-resistant Deep Metric Learning with Ranking-based Instance Selection](https://arxiv.org/abs/2103.16047)<br>:star:[code](https://github.com/alibaba-edu/Ranking-based-Instance-Selection)
+* 长尾视觉识别
+  * [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/abs/2103.16370)<br>:star:[code](https://github.com/Megvii-BaseDetection/DisAlign)
+* SR
+  * [Flow-based Kernel Prior with Application to Blind Super-Resolution](https://arxiv.org/abs/2103.15977)
+* VL
+  * [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110)<br>
+* VQA
+  * [AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning](https://arxiv.org/abs/2103.16002)
+  * [Domain-robust VQA with diverse datasets and methods but no target labels](https://arxiv.org/abs/2103.15974)
+* 未分
+  * [Repopulating Street Scenes](https://arxiv.org/abs/2103.16183)
+
+:fireworks::fireworks::fireworks:更新提示：3月30日新增30篇(1人脸+1检索+3分割+2跟踪+1分类+2姿态+3图像压缩+1量化+1点云+1视频+1域泛化+1机器人+1目标检测+1度量学习+1动作识别+1手绘草图识别+1新视角合成+1开放集识别+2图像处理+1对抗检测+13D+1VQA+1未分)
 
 * 人脸
   * [High-Fidelity and Arbitrary Face Editing](https://arxiv.org/abs/2103.15814)
@@ -67,28 +132,6 @@
 * 未分
   * [Meta-Mining Discriminative Samples for Kinship Verification](https://arxiv.org/abs/2103.15108)<br>论文公开
   
-:fireworks::fireworks::fireworks:更新提示：3月29日新增12篇
-* 人脸
-  * [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211)
-* 分类
-  * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project](https://www.kaihan.org/HybridLT/)
-* 姿态
-  * [Few-Shot Human Motion Transfer by Personalized Geometry and Texture Modeling](https://arxiv.org/abs/2103.14338)<br>:star:[code](https://github.com/HuangZhiChao95/FewShotMotionTransfer):tv:[video](https://www.youtube.com/watch?v=ZJ15X-sdKSU)
-* 点云
-  * [PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds](https://arxiv.org/abs/2103.14635)
-  * [Equivariant Point Network for 3D Point Cloud Analysis](https://arxiv.org/abs/2103.14147)<br>:star:[code](https://github.com/nintendops/EPN_PointCloud)
-* 目标检测
-  * [Distilling Object Detectors via Decoupled Features](https://arxiv.org/abs/2103.14475)<br>:star:[code](https://github.com/ggjy/DeFeat.pytorch)
-  * [OTA: Optimal Transport Assignment for Object Detection](https://arxiv.org/abs/2103.14259)<br>:star:[code](https://github.com/Megvii-BaseDetection/OTA)
-* 分割
-  * [Bidirectional Projection Network for Cross Dimension Scene Understanding](https://arxiv.org/abs/2103.14326)<br>:open_mouth:oral:star:[code](https://github.com/wbhu/BPNet)
-  * [Non-Salient Region Object Mining for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2103.14581)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/nsrom)
-* 算法
-  * [ACRE: Abstract Causal REasoning Beyond Covariation](https://arxiv.org/abs/2103.14232)<br>:star:[code](https://github.com/WellyZhang/ACRE):house:[project](http://wellyzhang.github.io/project/acre.html)
-  * [Abstract Spatial-Temporal Reasoning via Probabilistic Abduction and Execution](https://arxiv.org/abs/2103.14230)<br>:star:[code](https://github.com/WellyZhang/PrAE):house:[project](http://wellyzhang.github.io/project/prae.html)
-* 未分
-  * [Confluent Vessel Trees with Accurate Bifurcations](https://arxiv.org/abs/2103.14268)<br>:star:[code](https://vision.cs.uwaterloo.ca/code/)
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|

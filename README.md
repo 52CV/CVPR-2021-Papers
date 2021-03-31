@@ -16,7 +16,7 @@
 
 
 
-### :fireworks::fireworks::fireworks:更新提示：3月30日新增35篇(1修复+2人脸+5分割+1分类+1跟踪+1检索+2三维+1姿态+1医学+3零样本/域适应/域泛化+1数据集+1机器人+4目标检测+2动作识别+1手语识别+1知识蒸馏+1度量学习+1长尾视觉识别+1SR+1VL+2VQA+1未分
+### :fireworks::fireworks::fireworks:更新提示：3月31日新增35篇(1修复+2人脸+5分割+1分类+1跟踪+1检索+2三维+1姿态+1医学+3零样本/域适应/域泛化+1数据集+1机器人+4目标检测+2动作识别+1手语识别+1知识蒸馏+1度量学习+1长尾视觉识别+1SR+1VL+2VQA+1未分
 
 * 修复
   * [TransFill: Reference-guided Image Inpainting by Merging Multiple Color and Spatial Transformations](https://arxiv.org/abs/2103.15982)<br>:house:[project](https://yzhouas.github.io/projects/TransFill/index.html)

@@ -14,11 +14,12 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：3月31日新增35篇(1分割+1三维+2跟踪+1姿态+1点云+2分类+1视频+1剪枝+1检索+1成像+1域适应+1无人机+1图像压缩+2持续学习+5目标检测+2风格迁移+1视图合成+1相机定位+1类增量学习+2AR+2GAN+4未分)
+### :fireworks::fireworks::fireworks:更新提示：3月31日新增39篇(1分割+2三维+2跟踪+1姿态+2点云+2分类+1视频+1剪枝+1检索+1成像+2域适应+1无人机+1图像压缩+2持续学习+5目标检测+2风格迁移+1视图合成+1相机定位+1类增量学习+2AR+2GAN+5未分)
 * 分割
   * [PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering](https://arxiv.org/abs/2103.17070)
 * 三维
   * [Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans](https://arxiv.org/abs/2103.17266)
+  * [3D Packing for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1905.02693)<br>:open_mouth:oral:star:[code](https://github.com/TRI-ML/packnet-sfm)
 * 跟踪
   * [Towards More Flexible and Accurate Object Tracking with Natural Language: Algorithms and Benchmark](https://arxiv.org/abs/2103.16746)<br>:house:[project](https://sites.google.com/view/langtrackbenchmark/):tv:[video](https://www.youtube.com/watch?v=7lvVDlkkff0)
   * [SiamGAT: Graph Attention Tracking](https://arxiv.org/abs/2011.11204)<br>:star:[code](https://github.com/ohhhyeahhh/SiamGAT)
@@ -26,6 +27,7 @@
   * [Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](https://arxiv.org/abs/2103.17265)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/hps/)
 * 点云
   * [Denoise and Contrast for Category Agnostic Shape Completion](https://arxiv.org/abs/2103.16671)<br>:star:[code](https://github.com/antoalli/Deco)
+  * [Point2Skeleton: Learning Skeletal Representations from Point Clouds](https://arxiv.org/abs/2012.00230)<br>:open_mouth:oral:star:[code](https://github.com/clinplayer/Point2Skeleton):house:[project](https://enigma-li.github.io/projects/point2skeleton/point2skeleton.html)
 * 分类
   * Fine-Grained Few-Shot Classification with Feature Map Reconstruction Networks
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
@@ -39,6 +41,7 @@
   * [Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging](https://arxiv.org/abs/2103.16693)<br>:house:[project](https://light.princeton.edu/publication/mask-tof/)
 * 域适应
   * [Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://arxiv.org/abs/2103.16765)<br>:house:[project](http://xyue.io/pcs-fuda/)
+  * [Domain Consensus Clustering for Universal Domain Adaptation](http://reler.net/papers/guangrui_cvpr2021.pdf)<br>:star:[code](https://github.com/Solacex/Domain-Consensus-Clustering)
 * 无人机
   * [Dogfight: Detecting Drones from Drones Videos](https://arxiv.org/abs/2103.17242)
 * 图像压缩
@@ -72,6 +75,7 @@
   * Can We Characterize Tasks Without Labels or Features?
   * [Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding](https://arxiv.org/abs/2103.16848)
   * [Online Learning of a Probabilistic and Adaptive Scene Representation](https://arxiv.org/abs/2103.16832)
+  * [Generative Modelling of BRDF Textures from Flash Images](https://arxiv.org/abs/2102.11861)<br>:star:[code](https://github.com/henzler/neuralmaterial):house:[project](https://henzler.github.io/publication/neuralmaterial/)
 
 :fireworks::fireworks::fireworks:更新提示：3月30日新增35篇(1修复+2人脸+5分割+1分类+1跟踪+1检索+2三维+1姿态+1医学+3零样本/域适应/域泛化+1数据集+1机器人+4目标检测+2动作识别+1手语识别+1知识蒸馏+1度量学习+1长尾视觉识别+1SR+1VL+2VQA+1未分
 
@@ -519,6 +523,7 @@
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
   * [Learning High Fidelity Depths of Dressed Humans by Watching Social Media Dance Videos](https://arxiv.org/abs/2103.03319)<br>:open_mouth:oral:star:[code](https://github.com/yasaminjafarian/HDNet_TikTok):house:[project](https://www.yasamin.page/hdnet_tiktok):tv:[video](https://youtu.be/EFJ8WXdKghs)
+  * [3D Packing for Self-Supervised Monocular Depth Estimation](https://arxiv.org/abs/1905.02693)<br>:open_mouth:oral:star:[code](https://github.com/TRI-ML/packnet-sfm)
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
   * [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449)<br>:house:[project](https://sites.google.com/view/humanmeshboa)
@@ -708,6 +713,7 @@
   * [DRANet: Disentangling Representation and Adaptation Networks for Unsupervised Cross-Domain Adaptation](https://arxiv.org/abs/2103.13447)
   * [Dynamic Domain Adaptation for Efficient Inference](https://arxiv.org/abs/2103.16403)<br>:star:[code](https://github.com/BIT-DA/DDA)
   * [Prototypical Cross-domain Self-supervised Learning for Few-shot Unsupervised Domain Adaptation](https://arxiv.org/abs/2103.16765)<br>:house:[project](http://xyue.io/pcs-fuda/)
+  * [Domain Consensus Clustering for Universal Domain Adaptation](http://reler.net/papers/guangrui_cvpr2021.pdf)<br>:star:[code](https://github.com/Solacex/Domain-Consensus-Clustering)
   
 <a name="13"/> 
 
@@ -973,6 +979,7 @@
 - [TPCN: Temporal Point Cloud Networks for Motion Forecasting](https://arxiv.org/abs/2103.03067)<br>用于运动预测的时空点云网络<br>
 - [How Privacy-Preserving are Line Clouds? Recovering Scene Details from 3D Lines](https://arxiv.org/abs/2103.05086)<br>:star:[code](https://github.com/kunalchelani/Line2Point)
 - [PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds](https://arxiv.org/abs/2103.14635)
+- [Point2Skeleton: Learning Skeletal Representations from Point Clouds](https://arxiv.org/abs/2012.00230)<br>:open_mouth:oral:star:[code](https://github.com/clinplayer/Point2Skeleton):house:[project](https://enigma-li.github.io/projects/point2skeleton/point2skeleton.html)
 * 点云配准
   * [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:open_mouth:oral:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
   * [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)<br>:star:[code](https://github.com/QingyongHu/SpinNet)
@@ -1060,6 +1067,7 @@
 * Can We Characterize Tasks Without Labels or Features?
 * [Embracing Uncertainty: Decoupling and De-bias for Robust Temporal Grounding](https://arxiv.org/abs/2103.16848)
 * [Online Learning of a Probabilistic and Adaptive Scene Representation](https://arxiv.org/abs/2103.16832)
+* [Generative Modelling of BRDF Textures from Flash Images](https://arxiv.org/abs/2102.11861)<br>:star:[code](https://github.com/henzler/neuralmaterial):house:[project](https://henzler.github.io/publication/neuralmaterial/)
 
 
 <a name="*"/>

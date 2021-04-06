@@ -908,7 +908,7 @@
 * 雷达分割
   * [Cylindrical and Asymmetrical 3D Convolution Networks for LiDAR Segmentation](https://arxiv.org/abs/2011.10033)<br>:open_mouth:oral:star:[code](https://github.com/xinge008/Cylinder3D)<br>在 SemanticKITTI 榜单排名第一（until CVPR DDL），在 nuScenes 中获得 SOTA，并对其他基于激光雷达的任务保持了良好的泛化能力，包括激光雷达全景分割和激光雷达三维检测，其中就基于此工作，在 SemanticKITTI 全景分割榜单也排名第一。
 * 视频目标分割
-  * [Modular Interactive Video Object Segmentation:Interaction-to-Mask, Propagation and Difference-Aware Fusion]()<br>:open_mouth:oral:star:[code](https://github.com/hkchengrex/MiVOS):house:[project](https://hkchengrex.github.io/MiVOS/):tv:[video](https://hkchengrex.github.io/MiVOS/video.html)
+  * [Modular Interactive Video Object Segmentation:Interaction-to-Mask, Propagation and Difference-Aware Fusion](https://arxiv.org/abs/2103.07941)<br>:open_mouth:oral:star:[code](https://github.com/hkchengrex/MiVOS):house:[project](https://hkchengrex.github.io/MiVOS/):tv:[video](https://hkchengrex.github.io/MiVOS/video.html)
   * [Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild](https://arxiv.org/abs/2103.10391)<br>:star:[code](https://github.com/svip-lab/IVOS-W)
   * [Efficient Regional Memory Network for Video Object Segmentation](https://arxiv.org/abs/2103.12934)<br>:star:[code](https://github.com/hzxie/RMNet):house:[project](https://infinitescript.com/project/rmnet)
 * 视频实例分割

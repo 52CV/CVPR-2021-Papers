@@ -383,12 +383,12 @@
 * 图像分类
   * [MetaSAug: Meta Semantic Augmentation for Long-Tailed Visual Recognition](https://arxiv.org/abs/2103.12579)
   * [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
-  * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project]()(https://www.kaihan.org/HybridLT/)
+  * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project](https://www.kaihan.org/HybridLT/)
   * [Capsule Network is Not More Robust than Convolutional Network](https://arxiv.org/abs/2103.15459)
   * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
 * 半监督图像分类
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
-长尾视觉识别
+* 长尾视觉识别
   * [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/abs/2103.16370)<br>:star:[code](https://github.com/Megvii-BaseDetection/DisAlign)
   * [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/abs/2104.00466)<br>:star:[code](https://github.com/Jia-Research-Lab/MiSLAS)
 

@@ -13,7 +13,55 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月5日新增15篇(1人脸+2三维+1量化+1分割+1点云+1无人机+1域适应+1视频理解+3目标检测+1运动预测+1OCR+1未分)
+### :fireworks::fireworks::fireworks:更新提示：4月6日新增27篇(3分割+1光流+2图像质量+1医学+1手语+2人脸+1姿态+1视频+3小样本/域适应+2目标检测+1动作检测+1深度学习+2语音处理+1风格迁移+1自动驾驶+2OCR+1NAS+1未分)
+
+* 分割
+  * [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)<br>:open_mouth:oral:star:[code](github: https://github.com/yanwei-li/PanopticFCN)<br>粗解：[11](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/abs/2104.01893)<br>:star:[code](https://github.com/Reagan1311/ASGNet)
+  * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>
+* 光流
+  * [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* 图像质量
+  * [NBNet: Noise Basis Learning for Image Denoising with Subspace Projection](https://arxiv.org/abs/2012.15028)<br>粗解：[9](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)<br>:star:[code](https://github.com/zzh-tech/RSCD)
+* 医学
+  * [DARCNN: Domain Adaptive Region-based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images](https://arxiv.org/abs/2104.01325)<br>
+* 手语
+  * [Fingerspelling Detection in American Sign Language](https://arxiv.org/abs/2104.01291)
+* 人脸
+  * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
+* 姿态
+  * [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* 视频
+  * [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633)
+* 小样本/域适应
+  * [Generalized Few-Shot Object Detection without Forgetting]<br>粗解：[16](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.01286)<br>:star:[code](https://github.com/astuti/ILA-DA)
+  * [Unsupervised Multi-source Domain Adaptation Without Access to Source Data](https://arxiv.org/abs/2104.01845)
+* 目标检测
+  * [Points as Queries: Weakly Semi-supervised Object Detection by Points]<br>粗解：[6](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection]<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* 动作检测
+  * [Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories](https://arxiv.org/abs/2104.01198)
+* 深度学习
+  * [Activate or Not: Learning Customized Activation](https://arxiv.org/abs/2009.04759)<br>粗解：[4](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* 语音处理
+  * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
+  * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
+* 风格迁移
+  * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
+* 自动驾驶
+  * [SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction](https://arxiv.org/abs/2104.01528)<br>:star:[code](https://github.com/shuaishiliu/SGCN)
+* NAS
+  * [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* OCR
+  * [MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition](https://arxiv.org/abs/2104.01876)
+  * [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552)<br>:star:[code](https://github.com/lanfeng4659/STR-TDSL)
+* 未分
+  * [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243)<br>粗解：[14](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+
+:fireworks::fireworks::fireworks:更新提示：4月5日新增15篇(1人脸+2三维+1量化+1分割+1点云+1无人机+1域适应+1视频理解+3目标检测+1运动预测+1OCR+1未分)
 * 人脸
   * [Towards High Fidelity Face Relighting with Realistic Shadows](https://arxiv.org/abs/2104.00825)<br>:star:[code](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)
 * 三维
@@ -42,63 +90,12 @@
 * 未分
   * [Self-supervised Video Representation Learning by Context and Motion Decoupling](https://arxiv.org/abs/2104.00862)
 
-:fireworks::fireworks::fireworks:更新提示：4月2日新增27篇，另+1篇点云开源（1人脸+2姿态+5三维+2跟踪+1分类+1聚类+2分割+1成像+1去模糊+1自监督+1域适应+1长尾识别+1深度学习+1自动驾驶+1SR+2NAS+16D+1Transformer+1未分）
-* 人脸
-  * [Dive into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition](https://arxiv.org/abs/2104.00232)
-* 姿态
-  * [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/abs/2104.00683)<br>:open_mouth:oral:house:[project](https://www.ye-yuan.com/simpoe/)
-  * [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/Mirrored-Human):house:[project](https://zju3dv.github.io/Mirrored-Human/)
-* 三维
-  * [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/NeuralRecon):house:[project](https://zju3dv.github.io/neuralrecon/)
-  * [RGB-D Local Implicit Function for Depth Completion of Transparent Objects](https://arxiv.org/abs/2104.00622)<br>:house:[project](https://research.nvidia.com/publication/2021-03_RGB-D-Local-Implicit)
-  * [LED2-Net: Monocular 360 Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568)<br>:open_mouth:oral:star:[code](https://github.com/fuenwang/LED2-Net):house:[project](https://fuenwang.ml/project/led2net/)
-  * [Deep Two-View Structure-from-Motion Revisited](https://arxiv.org/abs/2104.00556)
-  * [Fostering Generalization in Single-view 3D Reconstruction by Learning a Hierarchy of Local and Global Shape Priors](https://arxiv.org/abs/2104.00476)
-* 跟踪
-  * [Online Multiple Object Tracking with Cross-Task Synergy](https://arxiv.org/abs/2104.00380)<br>:star:[code](https://github.com/songguocode/TADAM)
-  * [Learning to Track Instances without Video Annotations](https://arxiv.org/abs/2104.00287)<br>:open_mouth:oral:house:[project](https://oasisyang.github.io/projects/semi-track/index.html):tv:[video](https://youtu.be/-S7xtk-7pGk)
-* 分类
-  * [A Realistic Evaluation of Semi-Supervised Learning for Fine-Grained Classification](https://arxiv.org/abs/2104.00679)<br>:open_mouth:oral
-* 聚类
-  * [Jigsaw Clustering for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2104.00323)<br>:open_mouth:oral:star:[code](https://github.com/Jia-Research-Lab/JigsawClustering)
-* 分割
-  * [Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation](https://arxiv.org/abs/2104.00308)<br>:star:[code](https://github.com/Scarecrow0/BGNN-SGG)
-  * [FAPIS: A Few-shot Anchor-free Part-based Instance Segmenter](https://arxiv.org/abs/2104.00073)
-* 成像
-  * [Passive Inter-Photon Imaging](https://arxiv.org/abs/2104.00059)<br>:open_mouth:oral
-* 点云
-  * [PAConv: Position Adaptive Convolution with Dynamic Kernel Assembling on Point Clouds](https://arxiv.org/abs/2103.14635)<br>:star:[code](https://github.com/CVMI-Lab/PAConv)<br>新增开源
-* 去模糊
-  * [Explore Image Deblurring via Blur Kernel Space](https://arxiv.org/abs/2104.00317)
-* 域适应
-  * [Divergence Optimization for Noisy Universal Domain Adaptation](https://arxiv.org/abs/2104.00246)
-* 自监督
-  * [Self-supervised Motion Learning from Static Images](https://arxiv.org/abs/2104.00240)
-* 长尾识别
-  * [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/abs/2104.00466)<br>:star:[code](https://github.com/Jia-Research-Lab/MiSLAS)
-* 深度学习
-  * [Towards Evaluating and Training Verifiably Robust Neural Networks](https://arxiv.org/abs/2104.00447)<br>:open_mouth:oral:star:[code](https://github.com/ZhaoyangLyu/VerifiablyRobustNN)
-* 自动驾驶
-  * [LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents](https://arxiv.org/abs/2104.00249)
-* SR
-  * [Unsupervised Degradation Representation Learning for Blind Super-Resolution](https://arxiv.org/abs/2104.00416)<br>:star:[code](https://github.com/LongguangWang/DASR)
-* NAS
-  * [One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking](https://arxiv.org/abs/2104.00597)<br>:star:[code](https://github.com/researchmm/NEAS)
-  * [NetAdaptV2: Efficient Neural Architecture Search with Fast Super-Network Training and Architecture Optimization](https://arxiv.org/abs/2104.00031)<br>:house:[project](http://web.mit.edu/netadapt/)
-* 6D
-  * [Wide-Depth-Range 6D Object Pose Estimation in Space](https://arxiv.org/abs/2104.00337)<br>:star:[code](https://github.com/cvlab-epfl/wide-depth-range-pose)
-* Transformer
-  * [LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/abs/2104.00680)<br>:star:[code](https://github.com/zju3dv/LoFTR):house:[project](https://zju3dv.github.io/loftr/)
-* 未分
-  * [PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://arxiv.org/abs/2104.00674)<br>:house:[project](https://kai-46.github.io/PhySG-website/)
-
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[66.风格迁移](#66)|
-|[65.长尾视觉识别](#65)|[64.VL](#64)[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
+|[Workshop征稿](#*)|[67.光流估计](#67)|[66.风格迁移](#66)|
+|[65.语音处理](#65)|[64.VL](#64)[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
 |[50.OCR](#50)|[49.对抗学习](#49)|[48.图像表示](#48)|[47.视觉语言导航VLN](#47)|[46.人物交互HOI](#46)|
@@ -112,17 +109,26 @@
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+
+
+<a name="67"/>
+
+## 67.光流估计
+  * [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+ 
+
 <a name="66"/>
 
 ## 66.风格迁移
   * [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
   * [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
+  * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
 
 <a name="65"/>
 
-## 65.长尾视觉识别
-  * [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/abs/2103.16370)<br>:star:[code](https://github.com/Megvii-BaseDetection/DisAlign)
-  * [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/abs/2104.00466)<br>:star:[code](https://github.com/Jia-Research-Lab/MiSLAS)
+## 65.语音处理
+  * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
+  * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
 
 <a name="64"/>
 
@@ -168,6 +174,7 @@
 ## 59.深度学习模型
   * [Dynamic Slimmable Network](https://arxiv.org/abs/2103.13258)<br>:open_mouth:oral:star:[code](https://github.com/changlin31/DS-Net)
   * [Towards Evaluating and Training Verifiably Robust Neural Networks](https://arxiv.org/abs/2104.00447)<br>:open_mouth:oral:star:[code](https://github.com/ZhaoyangLyu/VerifiablyRobustNN)
+  * [Activate or Not: Learning Customized Activation](https://arxiv.org/abs/2009.04759)<br>粗解：[4](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 
 <a name="58"/>
 
@@ -181,6 +188,7 @@
 ## 57.手语识别
   * [Skeleton Based Sign Language Recognition Using Whole-body Keypoints](https://arxiv.org/abs/2103.08833)<br>:star:[code](https://github.com/jackyjsy/CVPR21Chal-SLR)
   * [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bslattend/)
+  * [Fingerspelling Detection in American Sign Language](https://arxiv.org/abs/2104.01291)
 
 <a name="56"/>
 
@@ -232,6 +240,9 @@
   * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
   * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
   * [MOST: A Multi-Oriented Scene Text Detector with Localization Refinement](https://arxiv.org/abs/2104.01070)
+  * [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552)<br>:star:[code](https://github.com/lanfeng4659/STR-TDSL)
+* 手写文本识别
+  * [MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition](https://arxiv.org/abs/2104.01876)
 
 <a name="49"/>
 
@@ -341,6 +352,7 @@
 - [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372)<br>:star:[code](https://github.com/V-Sense/ACTION-Net)<br>解读：[CVPR 2021 | 用于动作识别，即插即用、混合注意力机制的 ACTION 模块](https://mp.weixin.qq.com/s/L2_lkhKbVhW8fjAaDdsyWQ)
 - [No frame left behind: Full Video Action Recognition](https://arxiv.org/abs/2103.15395)
 * [Recognizing Actions in Videos from Unseen Viewpoints](https://arxiv.org/abs/2103.16516)
+* [Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories](https://arxiv.org/abs/2104.01198)
 * 时序动作定位
   * [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -374,12 +386,15 @@
   * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
 * 半监督图像分类
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
+长尾视觉识别
+  * [Distribution Alignment: A Unified Framework for Long-tail Visual Recognition](https://arxiv.org/abs/2103.16370)<br>:star:[code](https://github.com/Megvii-BaseDetection/DisAlign)
+  * [Improving Calibration for Long-Tailed Recognition](https://arxiv.org/abs/2104.00466)<br>:star:[code](https://github.com/Jia-Research-Lab/MiSLAS)
 
 <a name="33"/>
 
 ## 33.6D位姿估计
 
-- [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/abs/2103.02242)<br>:star:[code](https://github.com/ethnhe/FFB6D)<br>
+- [FFB6D: A Full Flow Bidirectional Fusion Network for 6D Pose Estimation](https://arxiv.org/abs/2103.02242)<br>:open_mouth:oral:star:[code](https://github.com/ethnhe/FFB6D)<br>
 - [GDR-Net: Geometry-Guided Direct Regression Network for Monocular 6D Object Pose Estimation](http://arxiv.org/abs/2102.12145)<br>:star:[code](https://github.com/THU-DA-6D-Pose-Group/GDR-Net)
 - [FS-Net: Fast Shape-based Network for Category-Level 6D Object Pose Estimation with Decoupled Rotation Mechanism](https://arxiv.org/abs/2103.07054)<br>:open_mouth:oral:star:[code](https://github.com/DC1991/FS-Net)
 - [Wide-Depth-Range 6D Object Pose Estimation in Space](https://arxiv.org/abs/2104.00337)<br>:star:[code](https://github.com/cvlab-epfl/wide-depth-range-pose)
@@ -422,6 +437,7 @@
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)<br>在电影动作特效中，人体运动捕捉是关键技术，高质量的捕捉往往需要特殊设备，而如果能使用普通RGB相机进行运动捕捉，将会使人人都是特效师。该视频来自清华、马普所等单位的学者发表于CVPR2021的论文结果，使用单目RGB相机的动作捕捉。
 - [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
 - [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
+- [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移
@@ -475,7 +491,8 @@
   * [Visual Semantic Role Labeling for Video Understanding](https://arxiv.org/abs/2104.00990)<br>:house:[project](https://vidsitu.org/)
 * 视频缩放
   * [Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling](https://arxiv.org/abs/2103.14858)<br>:star:[code](https://github.com/ding3820/MIMO-VRN):house:[project](https://ding3820.github.io/MIMO-VRN/)
-
+* 视频异常检测
+  * [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633)
 
 <a name="25"/>
 
@@ -518,6 +535,8 @@
 * [Convex Online Video Frame Subset Selection using Multiple Criteria for Data Efficient Autonomous Driving](https://arxiv.org/abs/2103.13021)
 * 车道线预测
   * [LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents](https://arxiv.org/abs/2104.00249)
+* 轨迹预测
+  * [SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction](https://arxiv.org/abs/2104.01528)<br>:star:[code](https://github.com/shuaishiliu/SGCN)
 
 <a name="22"/> 
 
@@ -534,6 +553,7 @@
   * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)<br>:star:[code](https://github.com/liuquande/FedDG-ELCFS)
   * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet)
   * [DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.15954)
+  * [DARCNN: Domain Adaptive Region-based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images](https://arxiv.org/abs/2104.01325)<br>
 * 医学图像合成
   * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
 
@@ -698,7 +718,9 @@
   * [Domain Consensus Clustering for Universal Domain Adaptation](http://reler.net/papers/guangrui_cvpr2021.pdf)<br>:star:[code](https://github.com/Solacex/Domain-Consensus-Clustering)
   * [Divergence Optimization for Noisy Universal Domain Adaptation](https://arxiv.org/abs/2104.00246)
   * [Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation](https://arxiv.org/abs/2104.00808)<br>:star:[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion):house:[project](https://roysubhankar.github.io/graph-coteaching-adaptation/)
-  
+  * [Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.01286)<br>:star:[code](https://github.com/astuti/ILA-DA)
+  * [Unsupervised Multi-source Domain Adaptation Without Access to Source Data](https://arxiv.org/abs/2104.01845)
+ 
 <a name="13"/> 
 
 
@@ -726,6 +748,7 @@
   * [DeFMO: Deblurring and Shape Recovery of Fast Moving Objects](https://arxiv.org/abs/2012.00595)<br>:star:[code](https://github.com/rozumden/DeFMO):tv:[video](https://www.youtube.com/watch?v=pmAynZvaaQ4)<br>
   * [ARVo: Learning All-Range Volumetric Correspondence for Video Deblurring](https://arxiv.org/abs/2103.04260)
   * [Explore Image Deblurring via Blur Kernel Space](https://arxiv.org/abs/2104.00317)
+  * [Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)<br>:star:[code](https://github.com/zzh-tech/RSCD)
 * 去反射Reflection Removal
   * [Robust Reflection Removal with Reflection-free Flash-only Cues](https://arxiv.org/abs/2103.04273)<br>:star:[ccode](https://github.com/ChenyangLEI/flash-reflection-removal)
 * 去雾
@@ -733,6 +756,7 @@
   * Contrastive Learning for Compact Single Image Dehazing<br>基于对比学习的紧凑图像去雾方法<br>解读：[5](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 去噪Denoising
   * [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](https://arxiv.org/abs/2101.02824)<br>解读：[CVPR 2021 | Neighbor2Neighbor：仅需噪声图像即可训练任意降噪网络的方法](https://mp.weixin.qq.com/s/Eg7vbjTILSd1Si3HSyz3CA)
+  * [NBNet: Noise Basis Learning for Image Denoising with Subspace Projection](https://arxiv.org/abs/2012.15028)<br>粗解：[9](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 去雨Deraining
   * [Semi-Supervised Video Deraining with Dynamic Rain Generator](https://arxiv.org/abs/2103.07939)
   * [Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://arxiv.org/abs/2103.13660)
@@ -764,6 +788,7 @@
   * Consistent Instance False Positive Improves Fairness in Face Recognition<br>基于实例误报一致性的人脸识别公平性提升方法<br>解读：[7](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
   * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
+  * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
 * 合成人脸（Deepfake/Face Forgery）检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
   * [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)
@@ -783,6 +808,8 @@
   * [High-Fidelity and Arbitrary Face Editing](https://arxiv.org/abs/2103.15814)
 * 人脸跟踪
   * [High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation](https://arxiv.org/abs/2103.15876)<br>:house:[project](https://www.cs.rochester.edu/u/lchen63/):tv:[video](https://www.youtube.com/watch?v=dtz1LgZR8cc)
+* 广角人脸矫正
+  * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 
 <a name="10"/> 
 
@@ -798,6 +825,7 @@
 - [Prioritized Architecture Sampling with Monto-Carlo Tree Search](https://arxiv.org/abs/2103.11922)<br>:star:[code](https://github.com/xiusu/NAS-Bench-Macro)
 * [One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking](https://arxiv.org/abs/2104.00597)<br>:star:[code](https://github.com/researchmm/NEAS)
 * [NetAdaptV2: Efficient Neural Architecture Search with Fast Super-Network Training and Architecture Optimization](https://arxiv.org/abs/2104.00031)<br>:house:[project](http://web.mit.edu/netadapt/)
+* [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 
 <a name="9"/> 
 
@@ -832,12 +860,14 @@
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
   * [Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency](https://arxiv.org/abs/2103.12886)
   * [FAPIS: A Few-shot Anchor-free Part-based Instance Segmenter](https://arxiv.org/abs/2104.00073)
+  * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
   * Part-aware Panoptic Segmentation<br>
   * Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation<br>联合物体和物质挖掘的弱监督全景分割<br>解读：[15](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation](https://arxiv.org/abs/2103.14962)<br>:star:[code](https://github.com/edwardzhou130/Panoptic-PolarNet)
+  * [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)<br>:open_mouth:oral:star:[code](github: https://github.com/yanwei-li/PanopticFCN)<br>粗解：[11](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>:star:[code](https://github.com/arthurdouillard/CVPR2021_PLOP)
   * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:sunflower:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
@@ -885,6 +915,7 @@
   * [SG-Net: Spatial Granularity Network for One-Stage Video Instance Segmentation](https://arxiv.org/abs/2103.10284)<br>:star:[code](https://github.com/goodproj13/SG-Net):tv:[video](https://www.youtube.com/watch?v=zft0T3YUgpM)<br>文章介绍一个简单有效的单阶段框架：SG-Net，与传统的两阶段框架相比，可以有效提高掩码质量和推理速度。
 * 小样本分割
   * [Self-Guided and Cross-Guided Learning for Few-Shot Segmentation](https://arxiv.org/abs/2103.16129)<br>:star:[code](https://github.com/zbf1991/SCL)
+  * [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/abs/2104.01893)<br>:star:[code](https://github.com/Reagan1311/ASGNet)
 
 <a name="7"/> 
 
@@ -908,10 +939,12 @@
 * [Scale-aware Automatic Augmentation for Object Detection](https://arxiv.org/abs/2103.17220)<br>:star:[code](https://github.com/Jia-Research-Lab/SA-AutoAug) 
 * [A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection](https://arxiv.org/abs/2103.17195)<br>:open_mouth:oral:house:[project](https://keshik6.github.io/Fourier-Discrepancies-CNN-Detection/)
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
+* [IQDet: Instance-wise Quality Distribution Sampling for Object Detection]<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>
   * [FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding](https://arxiv.org/abs/2103.05950)<br>:star:[code](https://github.com/bsun0802/FSCE)
+  * [Generalized Few-Shot Object Detection without Forgetting]<br>粗解：[16](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 多目标检测
   * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](https://rl.uni-freiburg.de/)<br>
 * 3D目标检测
@@ -936,6 +969,7 @@
   * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:open_mouth:oral
 * 半监督目标检测
  * [Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection](https://arxiv.org/abs/2103.16368)
+ * [Points as Queries: Weakly Semi-supervised Object Detection by Points]<br>粗解：[6](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 弱监督目标检测
   * [DAP: Detection-Aware Pre-training with Weak Supervision](https://arxiv.org/abs/2103.16651)
 * 长尾目标检测 
@@ -951,7 +985,7 @@
 
 ## 5.异常检测
 
-- [Multiresolution Knowledge Distillation for Anomaly Detection](https://arxiv.org/abs/2011.11108)<br>
+- [Multiresolution Knowledge Distillation for Anomaly Detection](https://arxiv.org/abs/2011.11108)<br>:star:[code](https://github.com/Niousha12/Knowledge_Distillation_AD)
 
 <a name="4"/> 
 
@@ -1069,6 +1103,7 @@
 * [Generative Modelling of BRDF Textures from Flash Images](https://arxiv.org/abs/2102.11861)<br>:star:[code](https://github.com/henzler/neuralmaterial):house:[project](https://henzler.github.io/publication/neuralmaterial/)
 * [PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://arxiv.org/abs/2104.00674)<br>:house:[project](https://kai-46.github.io/PhySG-website/)
 * [Self-supervised Video Representation Learning by Context and Motion Decoupling](https://arxiv.org/abs/2104.00862)
+* [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243)<br>粗解：[14](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 
 <a name="*"/>
 

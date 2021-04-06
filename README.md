@@ -264,7 +264,7 @@
 
 ## 47.视觉语言导航vision-language navigation
 
-- [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)
+- [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)<br>:star:[code](https://github.com/HanqingWangAI/SSM-VLN)
 
 <a name="46"/>
 
@@ -1052,7 +1052,7 @@
 - Model-Contrastive Federated Learning<br>提出模型对比学习来解决联合学习中的非IID数据问题<br>
 - [Neural Geometric Level of Detail:Real-time Rendering with Implicit 3D Surfaces](https://arxiv.org/abs/2101.10994)<br>:open_mouth:Oral:star:[code](https://github.com/nv-tlabs/nglod):house:[project](https://nv-tlabs.github.io/nglod/)<br>
 - [Data-Free Model Extraction](https://arxiv.org/abs/2011.14779)<br>:star:[code](https://github.com/cake-lab/datafree-model-extraction)<br>
-- Single-Stage Instance Shadow Detection with Bidirectional Relation Learning<br>:open_mouth:oral<br>:star:[code](https://github.com/stevewongv/SSIS)
+- Single-Stage Instance Shadow Detection with Bidirectional Relation Learning<br>:open_mouth:oral:star:[code](https://github.com/stevewongv/SSIS)
 - [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/abs/2012.04324)<br>:open_mouth:oral
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
 - [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning]
@@ -1074,7 +1074,7 @@
 * RSTNet: Captioning with Adaptive Attention on Visual and Non-Visual Words<br>RSTNet: 基于可区分视觉词和非视觉词的自适应注意力机制的图像描述生成模型<br>解读：[14](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * [Removing the Background by Adding the Background: Towards a Background Robust Self-supervised Video Representation Learning](https://arxiv.org/abs/2009.05769)<br>通过添加背景来去除背景影响：背景鲁棒的自监督视频表征学习<br>解读：[11](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * Representative Batch Normalization with Feature Calibration<br>:open_mouth:oral<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-* Learning Compositional Representation for 4D Captures with Neural ODE
+* [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
 * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)<br>解读：[CVPR'21 | involution：超越convolution和self-attention的神经网络新算子](https://mp.weixin.qq.com/s/Kn7QJdldLhyBfYS1KiCdcA)
 * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
 * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)

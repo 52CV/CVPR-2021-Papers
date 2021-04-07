@@ -41,7 +41,7 @@
 * 人员重识别
   * [Neural Feature Search for RGB-Infrared Person Re-Identification](https://arxiv.org/abs/2104.02366)
 * GAN
-* [Content-Aware GAN Compression](https://arxiv.org/abs/2104.02244)
+  * [Content-Aware GAN Compression](https://arxiv.org/abs/2104.02244)
 * Transformer
   * [Variational Transformer Networks for Layout Generation](https://arxiv.org/abs/2104.02416)
 

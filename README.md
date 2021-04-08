@@ -15,7 +15,7 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月8日新增12篇(1分类+1人脸+1三维+2视频+1分割+1增量学习+1语音处理+1强化+1VL+1HOI+1GAN)
+### :fireworks::fireworks::fireworks:更新提示：4月8日新增13篇(1分类+1人脸+1三维+2视频+1分割+1姿态+1增量学习+1语音处理+1强化+1VL+1HOI+1GAN)
 * 分类
   * [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
 * 人脸
@@ -27,6 +27,8 @@
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
 * 分割
   * [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
+* 姿态
+  * [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
 * 增量学习
   * [Few-Shot Incremental Learning with Continually Evolved Classifiers](https://arxiv.org/abs/2104.03047)
 * 语音处理
@@ -422,6 +424,7 @@
 - [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
 - [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 - [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)
+- [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移

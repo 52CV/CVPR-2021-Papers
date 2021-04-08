@@ -29,6 +29,7 @@
   * [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
 * 姿态
   * [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
+  * [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 * 增量学习
   * [Few-Shot Incremental Learning with Continually Evolved Classifiers](https://arxiv.org/abs/2104.03047)
 * 语音处理
@@ -425,6 +426,7 @@
 - [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 - [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)
 - [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
+- [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移

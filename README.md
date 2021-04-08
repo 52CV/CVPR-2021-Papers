@@ -11,11 +11,11 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 512+14 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 512+16 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月8日新增14篇(1分类+1人脸+1三维+2视频+1分割+1姿态+1增量学习+1语音处理+1强化+1VL+1HOI+1GAN)
+### :fireworks::fireworks::fireworks:更新提示：4月8日新增16篇(1分类+1人脸+1三维+2视频+1分割+1姿态+1增量学习+1表示学习+1语音处理+1强化+1VL+1HOI+1GAN+1未分)
 * 分类
   * [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
 * 人脸
@@ -32,6 +32,8 @@
   * [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 * 增量学习
   * [Few-Shot Incremental Learning with Continually Evolved Classifiers](https://arxiv.org/abs/2104.03047)
+* 表示学习
+  * [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)<br>:open_mouth:oral
 * 语音处理
   * [Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation](https://arxiv.org/abs/2104.02775)<br>:house:[project](https://caffnet.github.io/):tv:[video](https://youtu.be/9R2qQ7dGTp8)
 * 强化学习
@@ -42,6 +44,8 @@
   * [Affordance Transfer Learning for Human-Object Interaction Detection](https://arxiv.org/abs/2104.02867)<br>:star:[code](https://github.com/zhihou7/HOI-CL)
 * GAN
   * [Regularizing Generative Adversarial Networks under Limited Data](https://arxiv.org/abs/2104.03310)<br>:star:[code](https://github.com/google/lecam-gan):house:[project](https://hytseng0509.github.io/lecam-gan/)
+* 未分
+  * [Meta Pseudo Labels](https://arxiv.org/pdf/2003.10580.pdf)<br>:star:[code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels):tv:[video](https://www.youtube.com/watch?v=yhItocvAaq0)
 
 :fireworks::fireworks::fireworks:更新提示：4月7日新增17篇(2分割+1光流+3姿态+2视频+1三维+1人脸+3目标检测+1长尾+1重识别+1GAN+1Transformer)
 * 分割
@@ -292,6 +296,7 @@
 ## 41.表示学习（图像+字幕）
 
 - [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
+- [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)<br>:open_mouth:oral
 
 <a name="40"/>
 
@@ -1113,6 +1118,7 @@
 * [PhySG: Inverse Rendering with Spherical Gaussians for Physics-based Material Editing and Relighting](https://arxiv.org/abs/2104.00674)<br>:house:[project](https://kai-46.github.io/PhySG-website/)
 * [Self-supervised Video Representation Learning by Context and Motion Decoupling](https://arxiv.org/abs/2104.00862)
 * [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243)<br>粗解：[14](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [Meta Pseudo Labels](https://arxiv.org/pdf/2003.10580.pdf)<br>:star:[code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels):tv:[video](https://www.youtube.com/watch?v=yhItocvAaq0)
 
 <a name="*"/>
 

@@ -11,11 +11,11 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 512 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 512+14 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月8日新增13篇(1分类+1人脸+1三维+2视频+1分割+1姿态+1增量学习+1语音处理+1强化+1VL+1HOI+1GAN)
+### :fireworks::fireworks::fireworks:更新提示：4月8日新增14篇(1分类+1人脸+1三维+2视频+1分割+1姿态+1增量学习+1语音处理+1强化+1VL+1HOI+1GAN)
 * 分类
   * [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
 * 人脸

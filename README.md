@@ -15,7 +15,32 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月7日新增17篇(2分割+1光流+3姿态+2视频+1三维+1人脸+3目标检测+1长尾+1重识别+1GAN+1Transformer)
+### :fireworks::fireworks::fireworks:更新提示：4月8日新增12篇(1分类+1人脸+1三维+2视频+1分割+1增量学习+1语音处理+1强化+1VL+1HOI+1GAN)
+* 分类
+  * [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
+* 人脸
+  * [Everything's Talkin': Pareidolia Face Reenactment](https://arxiv.org/abs/2104.03061)
+* 三维
+  * [Self-supervised Learning of Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2104.02972)<br>:star:[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
+* 视频
+  * [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214)<br>:star:[code](https://github.com/wangxiang1230/SSTAP)
+  * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
+* 分割
+  * [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
+* 增量学习
+  * [Few-Shot Incremental Learning with Continually Evolved Classifiers](https://arxiv.org/abs/2104.03047)
+* 语音处理
+  * [Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation](https://arxiv.org/abs/2104.02775)<br>:house:[project](https://caffnet.github.io/):tv:[video](https://youtu.be/9R2qQ7dGTp8)
+* 强化学习
+  * [Unsupervised Visual Attention and Invariance for Reinforcement Learning](https://arxiv.org/abs/2104.02921)
+* VL
+  * [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135)
+* HOI
+  * [Affordance Transfer Learning for Human-Object Interaction Detection](https://arxiv.org/abs/2104.02867)<br>:star:[code](https://github.com/zhihou7/HOI-CL)
+* GAN
+  * [Regularizing Generative Adversarial Networks under Limited Data](https://arxiv.org/abs/2104.03310)<br>:star:[code](https://github.com/google/lecam-gan):house:[project](https://hytseng0509.github.io/lecam-gan/)
+
+:fireworks::fireworks::fireworks:更新提示：4月7日新增17篇(2分割+1光流+3姿态+2视频+1三维+1人脸+3目标检测+1长尾+1重识别+1GAN+1Transformer)
 * 分割
   * [Action Shuffle Alternating Learning for Unsupervised Action Segmentation](https://arxiv.org/abs/2104.02116)
   * [Anchor-Constrained Viterbi for Set-Supervised Action Segmentation](https://arxiv.org/abs/2104.02113)
@@ -45,63 +70,15 @@
 * Transformer
   * [Variational Transformer Networks for Layout Generation](https://arxiv.org/abs/2104.02416)
 
-:fireworks::fireworks::fireworks:更新提示：4月6日新增27篇(3分割+1光流+2图像质量+1医学+1手语+2人脸+1姿态+1视频+3小样本/域适应+2目标检测+1动作检测+1深度学习+2语音处理+1风格迁移+1自动驾驶+2OCR+1NAS+1未分)
-
-* 分割
-  * [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)<br>:open_mouth:oral:star:[code](https://github.com/yanwei-li/PanopticFCN)<br>粗解：[11](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/abs/2104.01893)<br>:star:[code](https://github.com/Reagan1311/ASGNet)
-  * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>
-* 光流
-  * [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-* 图像质量
-  * [NBNet: Noise Basis Learning for Image Denoising with Subspace Projection](https://arxiv.org/abs/2012.15028)<br>粗解：[9](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [Towards Rolling Shutter Correction and Deblurring in Dynamic Scenes](https://arxiv.org/abs/2104.01601)<br>:star:[code](https://github.com/zzh-tech/RSCD)
-* 医学
-  * [DARCNN: Domain Adaptive Region-based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images](https://arxiv.org/abs/2104.01325)<br>
-* 手语
-  * [Fingerspelling Detection in American Sign Language](https://arxiv.org/abs/2104.01291)
-* 人脸
-  * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
-* 姿态
-  * [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-* 视频
-  * [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633)
-* 小样本/域适应
-  * [Generalized Few-Shot Object Detection without Forgetting]<br>粗解：[16](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.01286)<br>:star:[code](https://github.com/astuti/ILA-DA)
-  * [Unsupervised Multi-source Domain Adaptation Without Access to Source Data](https://arxiv.org/abs/2104.01845)
-* 目标检测
-  * [Points as Queries: Weakly Semi-supervised Object Detection by Points]<br>粗解：[6](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection]<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-* 动作检测
-  * [Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories](https://arxiv.org/abs/2104.01198)
-* 深度学习
-  * [Activate or Not: Learning Customized Activation](https://arxiv.org/abs/2009.04759)<br>粗解：[4](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-* 语音处理
-  * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
-  * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
-* 风格迁移
-  * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
-* 自动驾驶
-  * [SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction](https://arxiv.org/abs/2104.01528)<br>:star:[code](https://github.com/shuaishiliu/SGCN)
-* NAS
-  * [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-* OCR
-  * [MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition](https://arxiv.org/abs/2104.01876)
-  * [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552)<br>:star:[code](https://github.com/lanfeng4659/STR-TDSL)
-* 未分
-  * [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243)<br>粗解：[14](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[67.光流估计](#67)|[66.风格迁移](#66)|
-|[65.语音处理](#65)|[64.VL](#64)[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
+|[Workshop征稿](#*)|[66.光流估计](#66)|[65.风格迁移](#65)|
+|[64.语音处理](#64)|[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
-|[50.OCR](#50)|[49.对抗学习](#49)|[48.图像表示](#48)|[47.视觉语言导航VLN](#47)|[46.人物交互HOI](#46)|
+|[50.OCR](#50)|[49.对抗学习](#49)|[48.图像表示](#48)|[47.视觉语言VL](#47)|[46.人物交互HOI](#46)|
 |[45.相机定位](#45)|[44.图像/视频字幕](#44)|[43.主动学习](#43)|[42.动作预测](#42)|[41.表示学习（图像+字幕）](#41)|
 |[40.超像素](#40)|[39.模型偏见消除](#39)|[38.类增量学习](#38)|[37.持续学习](#37)|[36.动作检测与识别](#36)|
 |[35.图像聚类](#35)|[34.图像/细粒度分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
@@ -113,30 +90,27 @@
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
 
-<a name="67"/>
+<a name="66"/>
 
-## 67.光流估计
+## 66.光流估计
   * [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
   * [Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)<br>:star:[code](https://github.com/zacjiang/scv)
  
+<a name="65"/>
 
-<a name="66"/>
-
-## 66.风格迁移
+## 65.风格迁移
   * [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
   * [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
   * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
 
-<a name="65"/>
-
-## 65.语音处理
-  * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
-  * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
-
 <a name="64"/>
 
-## 64.VL
-  * [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110)<br>
+## 64.语音处理
+  
+  * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
+* 视听分离
+  * [Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation](https://arxiv.org/abs/2104.02775)<br>:house:[project](https://caffnet.github.io/):tv:[video](https://youtu.be/9R2qQ7dGTp8)
+  * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
 
 <a name="63"/>
 
@@ -263,9 +237,11 @@
 
 <a name="47"/>
 
-## 47.视觉语言导航vision-language navigation
+## 47.视觉语言vision-language 
 
 - [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)<br>:star:[code](https://github.com/HanqingWangAI/SSM-VLN)
+* [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110)<br>
+* [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135)
 
 <a name="46"/>
 
@@ -275,6 +251,7 @@
 - [QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://arxiv.org/abs/2103.05399)<br>:star:[code](https://github.com/hitachi-rd-cv/qpic)
 - [Reformulating HOI Detection as Adaptive Set Prediction](https://arxiv.org/abs/2103.05983)<br>:star:[code](https://github.com/yoyomimi/AS-Net)
 * [Detecting Human-Object Interaction via Fabricated Compositional Learning](https://arxiv.org/abs/2103.08214)<br>:star:[code](https://github.com/zhihou7/FCL)
+* [Affordance Transfer Learning for Human-Object Interaction Detection](https://arxiv.org/abs/2104.02867)<br>:star:[code](https://github.com/zhihou7/HOI-CL)
 
 <a name="45"/>
 
@@ -332,6 +309,7 @@
 - [IIRC: Incremental Implicitly-Refined Classification](https://arxiv.org/abs/2012.12477)<br>:house:[project](https://chandar-lab.github.io/IIRC/)<br>
 - [Semantic-aware Knowledge Distillation for Few-Shot Class-Incremental Learning](https://arxiv.org/abs/2103.04059)
 - [DER: Dynamically Expandable Representation for Class Incremental Learning](https://arxiv.org/abs/2103.16788)<br>:star:[code](https://github.com/Rhyssiyan/DER-ClassIL.pytorch)
+- [Few-Shot Incremental Learning with Continually Evolved Classifiers](https://arxiv.org/abs/2104.03047)
 
 <a name="37"/>
 
@@ -376,6 +354,7 @@
 ## 34.图像分类
 
 - [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
+- [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
 * 细粒度分类
   * [Fine-grained Angular Contrastive Learning with Coarse Labels](https://arxiv.org/abs/2012.03515)<br>:open_mouth:oral<br>使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。
   * Graph-based High-Order Relation Discovery for Fine-grained Recognition<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -483,6 +462,7 @@
 * [Learning by Aligning Videos in Time](https://arxiv.org/abs/2103.17260)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
+  * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
 * 视频编解码
   * [MetaSCI: Scalable and Adaptive Reconstruction for Video Compressive Sensing](https://arxiv.org/abs/2103.01786)<br>:star:[code](https://github.com/xyvirtualgroup/MetaSCI-CVPR2021)
 * 视频插帧
@@ -502,6 +482,8 @@
   * [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633)
 * 视频声源定位
   * [Localizing Visual Sounds the Hard Way](https://arxiv.org/abs/2104.02691)<br>:star:[code](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way):house:[project](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
+* 视频分析
+  * [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214)<br>:star:[code](https://github.com/wangxiang1230/SSTAP)
 
 <a name="25"/>
 
@@ -523,6 +505,7 @@
   * [LED2-Net: Monocular 360 Layout Estimation via Differentiable Depth Rendering](https://arxiv.org/abs/2104.00568)<br>:open_mouth:oral:star:[code](https://github.com/fuenwang/LED2-Net):house:[project](https://fuenwang.ml/project/led2net/)
   * [S2R-DepthNet: Learning a Generalizable Depth-specific Structural Representation](https://arxiv.org/abs/2104.00877)<br>:open_mouth:oral
   * [Depth Completion with Twin Surface Extrapolation at Occlusion Boundaries](https://arxiv.org/abs/2104.02253)<br>:star:[code](https://github.com/imransai/TWISE)
+  * [Self-supervised Learning of Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2104.02972)<br>:star:[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
   * [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449)<br>:house:[project](https://sites.google.com/view/humanmeshboa)
@@ -536,6 +519,7 @@
 ## 24.强化学习
 - [Hierarchical and Partially Observable Goal-driven Policy Learning with Goals Relational Graph](https://arxiv.org/abs/2103.01350)<br>:star:[code](https://github.com/Xin-Ye-1/HRL-GRG):house:[project](https://xin-ye-1.github.io/HRL-GRG/)
 - [Unsupervised Learning for Robust Fitting:A Reinforcement Learning Approach](https://arxiv.org/abs/2103.03501)
+- [Unsupervised Visual Attention and Invariance for Reinforcement Learning](https://arxiv.org/abs/2104.02921)
 
 <a name="23"/> 
 
@@ -703,6 +687,7 @@
 * [ReMix: Towards Image-to-Image Translation with Limited Data](https://arxiv.org/abs/2103.16835)
 * [Unsupervised Disentanglement of Linear-Encoded Facial Semantics](https://arxiv.org/abs/2103.16605)
 * [Content-Aware GAN Compression](https://arxiv.org/abs/2104.02244)
+* [Regularizing Generative Adversarial Networks under Limited Data](https://arxiv.org/abs/2104.03310)<br>:star:[code](https://github.com/google/lecam-gan):house:[project](https://hytseng0509.github.io/lecam-gan/)
 
 <a name="14"/> 
 
@@ -790,6 +775,7 @@
 
 * [Towards High Fidelity Face Relighting with Realistic Shadows](https://arxiv.org/abs/2104.00825)<br>:star:[code](https://github.com/andrewhou1/Shadow-Mask-Face-Relighting)
 * [IronMask: Modular Architecture for Protecting Deep Face Template](https://arxiv.org/abs/2104.02239)
+* [Everything's Talkin': Pareidolia Face Reenactment](https://arxiv.org/abs/2104.03061)
 * 人脸识别
   * [A 3D GAN for Improved Large-pose Facial Recognition](https://arxiv.org/pdf/2012.10545.pdf)<br>
   * [When Age-Invariant Face Recognition Meets Face Age Synthesis: A Multi-Task Learning Framework](https://arxiv.org/abs/2103.01520)<br>:open_mouth:oral:star:[code](https://github.com/Hzzone/MTLFace)<br>
@@ -822,7 +808,7 @@
   * [High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation](https://arxiv.org/abs/2103.15876)<br>:house:[project](https://www.cs.rochester.edu/u/lchen63/):tv:[video](https://www.youtube.com/watch?v=dtz1LgZR8cc)
 * 广角人脸矫正
   * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  
+
 <a name="10"/> 
 
 ## 10.神经架构搜索
@@ -867,6 +853,7 @@
 - [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)<br>:star:[code](https://github.com/elnino9ykl/WildPASS)
 - [Boundary IoU: Improving Object-Centric Image Segmentation Evaluation](https://arxiv.org/abs/2103.16562)<br>:star:[code](https://github.com/bowenc0221/boundary-iou-api):house:[project](https://bowenc0221.github.io/boundary-iou/)
 * [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://arxiv.org/abs/2103.16284)
+* [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
 * 实例分割
   * [Zero-Shot Instance Segmentation]<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)

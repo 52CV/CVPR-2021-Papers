@@ -15,10 +15,11 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月9日新增14篇(2三维+2分割+1人脸+1跟踪+1剪枝+1光流+1修复+1点云+1自监督+16D+1de-rendering+1未分)
+### :fireworks::fireworks::fireworks:更新提示：4月9日新增16篇(3三维+2分割+1人脸+1跟踪+1剪枝+1光流+1修复+1点云+1自监督+1域适应+16D+1de-rendering+1未分)
 * 三维
   * [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/abs/2104.03866)<br>:star:[code](https://github.com/fabiotosi92/SMD-Nets)
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
+  * [Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://arxiv.org/abs/2011.13650)
 * 分割
   * [Panoptic Segmentation Forecasting](https://arxiv.org/abs/2104.03962)
   * [Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778)
@@ -36,6 +37,8 @@
   * [DeepI2P: Image-to-Point Cloud Registration via Deep Classification](https://arxiv.org/abs/2104.03501)<br>:star:[code](https://github.com/lijx10/DeepI2P)
 * 自监督
   * [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362)<br>:open_mouth:oral:star:[code](https://github.com/cvg/SOLD2)
+* 域适应
+  * [Domain Adaptation with Auxiliary Target Domain-Oriented Classifier](https://arxiv.org/pdf/2007.04171.pdf)<br>:star:[code](https://github.com/tim-learn/ATDOC)
 * 6D
   * [DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency](https://arxiv.org/abs/2104.03658)
 * de-rendering
@@ -510,6 +513,7 @@
 - [Semi-supervised Synthesis of High-Resolution Editable Textures for 3D Humans](https://arxiv.org/abs/2103.17266)
 * [RGB-D Local Implicit Function for Depth Completion of Transparent Objects](https://arxiv.org/abs/2104.00622)<br>:house:[project](https://research.nvidia.com/publication/2021-03_RGB-D-Local-Implicit)
 * [Deep Two-View Structure-from-Motion Revisited](https://arxiv.org/abs/2104.00556)
+* [Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://arxiv.org/abs/2011.13650)
 * 深度估计
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
@@ -732,6 +736,7 @@
   * [Curriculum Graph Co-Teaching for Multi-Target Domain Adaptation](https://arxiv.org/abs/2104.00808)<br>:star:[code](https://github.com/Evgeneus/Graph-Domain-Adaptaion):house:[project](https://roysubhankar.github.io/graph-coteaching-adaptation/)
   * [Instance Level Affinity-Based Transfer for Unsupervised Domain Adaptation](https://arxiv.org/abs/2104.01286)<br>:star:[code](https://github.com/astuti/ILA-DA)
   * [Unsupervised Multi-source Domain Adaptation Without Access to Source Data](https://arxiv.org/abs/2104.01845)
+  * [Domain Adaptation with Auxiliary Target Domain-Oriented Classifier](https://arxiv.org/pdf/2007.04171.pdf)<br>:star:[code](https://github.com/tim-learn/ATDOC)
  
 <a name="13"/> 
 

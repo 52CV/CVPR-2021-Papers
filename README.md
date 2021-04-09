@@ -35,7 +35,7 @@
 * 点云
   * [DeepI2P: Image-to-Point Cloud Registration via Deep Classification](https://arxiv.org/abs/2104.03501)<br>:star:[code](https://github.com/lijx10/DeepI2P)
 * 自监督
-* [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362)<br>:open_mouth:oral:star:[code](https://github.com/cvg/SOLD2)
+  * [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362)<br>:open_mouth:oral:star:[code](https://github.com/cvg/SOLD2)
 * 6D
   * [DSC-PoseNet: Learning 6DoF Object Pose Estimation via Dual-scale Consistency](https://arxiv.org/abs/2104.03658)
 * de-rendering

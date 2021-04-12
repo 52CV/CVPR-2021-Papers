@@ -16,7 +16,7 @@
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
 
-### :fireworks::fireworks::fireworks:更新提示：4月12日新增篇
+### :fireworks::fireworks::fireworks:更新提示：4月12日新增8篇
 
 * 三维
   * [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571)

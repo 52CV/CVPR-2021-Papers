@@ -15,7 +15,26 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月9日新增16篇(3三维+2分割+1人脸+1跟踪+1剪枝+1光流+1修复+1点云+1自监督+1域适应+16D+1de-rendering+1未分)
+
+### :fireworks::fireworks::fireworks:更新提示：4月12日新增篇
+
+* 三维
+  * [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571)
+* 人脸
+  * [Improving the Efficiency and Robustness of Deepfakes Detection through Precise Geometric Features](https://arxiv.org/abs/2104.04480)<br>:star:[code](https://github.com/frederickszk/LRNet)
+  * [FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems](https://arxiv.org/abs/2104.04107)
+* 目标检测
+  * [GATSBI: Generative Agent-centric Spatio-temporal Object Interaction](https://arxiv.org/abs/2104.04275)<br>:open_mouth:oral:star:[code](https://github.com/mch5048/gatsbi)
+* 缺陷检测
+  * [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://arxiv.org/abs/2104.04015)
+* re-id
+  * [Combined Depth Space based Architecture Search For Person Re-identification](https://arxiv.org/abs/2104.04163)
+* 未分
+  * [CondenseNet V2: Sparse Feature Reactivation for Deep Networks](https://arxiv.org/abs/2104.04382)<br>:star:[code](https://github.com/jianghaojun/CondenseNetV2)
+  * [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](https://arxiv.org/abs/2104.04314)<br>:star:[code](https://github.com/gallenszl/CFNet)
+
+
+:fireworks::fireworks::fireworks:更新提示：4月9日新增16篇(3三维+2分割+1人脸+1跟踪+1剪枝+1光流+1修复+1点云+1自监督+1域适应+16D+1de-rendering+1未分)
 * 三维
   * [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/abs/2104.03866)<br>:star:[code](https://github.com/fabiotosi92/SMD-Nets)
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
@@ -46,46 +65,11 @@
 * 未分
   * [PQA: Perceptual Question Answering](https://arxiv.org/abs/2104.03589)
 
-
-
-:fireworks::fireworks::fireworks:更新提示：4月8日新增16篇(1分类+1人脸+1三维+2视频+1分割+1姿态+1增量学习+1表示学习+1语音处理+1强化+1VL+1HOI+1GAN+1未分)
-* 分类
-  * [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
-* 人脸
-  * [Everything's Talkin': Pareidolia Face Reenactment](https://arxiv.org/abs/2104.03061)
-* 三维
-  * [Self-supervised Learning of Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2104.02972)<br>:star:[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
-* 视频
-  * [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214)<br>:star:[code](https://github.com/wangxiang1230/SSTAP)
-  * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
-* 分割
-  * [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
-* 姿态
-  * [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
-  * [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
-* 增量学习
-  * [Few-Shot Incremental Learning with Continually Evolved Classifiers](https://arxiv.org/abs/2104.03047)
-* 表示学习
-  * [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)<br>:open_mouth:oral
-* 语音处理
-  * [Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation](https://arxiv.org/abs/2104.02775)<br>:house:[project](https://caffnet.github.io/):tv:[video](https://youtu.be/9R2qQ7dGTp8)
-* 强化学习
-  * [Unsupervised Visual Attention and Invariance for Reinforcement Learning](https://arxiv.org/abs/2104.02921)
-* VL
-  * [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135)
-* HOI
-  * [Affordance Transfer Learning for Human-Object Interaction Detection](https://arxiv.org/abs/2104.02867)<br>:star:[code](https://github.com/zhihou7/HOI-CL)
-* GAN
-  * [Regularizing Generative Adversarial Networks under Limited Data](https://arxiv.org/abs/2104.03310)<br>:star:[code](https://github.com/google/lecam-gan):house:[project](https://hytseng0509.github.io/lecam-gan/)
-* 未分
-  * [Meta Pseudo Labels](https://arxiv.org/pdf/2003.10580.pdf)<br>:star:[code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels):tv:[video](https://www.youtube.com/watch?v=yhItocvAaq0)
-
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[66.光流估计](#66)|[65.风格迁移](#65)|
+|[Workshop征稿](#*)|[67.缺陷检测](#67)|[66.光流估计](#66)|[65.风格迁移](#65)|
 |[64.语音处理](#64)|[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
@@ -100,6 +84,11 @@
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+
+<a name="67"/>
+
+## 67.缺陷检测
+  * [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://arxiv.org/abs/2104.04015)
 
 <a name="66"/>
 
@@ -153,6 +142,7 @@
   * [Generalizing to the Open World: Deep Visual Odometry with Online Adaptation](https://arxiv.org/abs/2103.15279)
 * 机器人
   * [Visual Room Rearrangement](https://arxiv.org/abs/2103.16544)<br>:open_mouth:oral:house:[project](https://ai2thor.allenai.org/rearrangement/):tv:[video](https://www.youtube.com/watch?v=1APxaOC9U-A)
+  * [GATSBI: Generative Agent-centric Spatio-temporal Object Interaction](https://arxiv.org/abs/2104.04275)<br>:open_mouth:oral:star:[code](https://github.com/mch5048/gatsbi)
 * AR
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿
@@ -514,6 +504,7 @@
 * [RGB-D Local Implicit Function for Depth Completion of Transparent Objects](https://arxiv.org/abs/2104.00622)<br>:house:[project](https://research.nvidia.com/publication/2021-03_RGB-D-Local-Implicit)
 * [Deep Two-View Structure-from-Motion Revisited](https://arxiv.org/abs/2104.00556)
 * [Deformed Implicit Field: Modeling 3D Shapes with Learned Dense Correspondence](https://arxiv.org/abs/2011.13650)
+* [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571)
 * 深度估计
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
@@ -613,6 +604,7 @@
 * [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
 * [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)|[code](https://github.com/JDAI-CV/fast-reid)
 * [Neural Feature Search for RGB-Infrared Person Re-Identification](https://arxiv.org/abs/2104.02366)
+* [Combined Depth Space based Architecture Search For Person Re-identification](https://arxiv.org/abs/2104.04163)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 
@@ -813,11 +805,13 @@
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
   * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
   * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
+  * [FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems](https://arxiv.org/abs/2104.04107)
 * 合成人脸（Deepfake/Face Forgery）检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
   * [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)
   * [MagDR: Mask-guided Detection and Reconstruction for Defending Deepfakes](https://arxiv.org/abs/2103.14211)
   * [Face Forensics in the Wild](https://arxiv.org/abs/2103.16076)<br>:open_mouth:oral:star:[code](https://github.com/tfzhou/FFIW)
+  * [Improving the Efficiency and Robustness of Deepfakes Detection through Precise Geometric Features](https://arxiv.org/abs/2104.04480)<br>:star:[code](https://github.com/frederickszk/LRNet)
 * 人脸质量评估
   * [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://arxiv.org/abs/2103.05977)<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 3D人脸重建
@@ -1142,6 +1136,10 @@
 * [Dynamic Region-Aware Convolution](https://arxiv.org/abs/2003.12243)<br>粗解：[14](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * [Meta Pseudo Labels](https://arxiv.org/pdf/2003.10580.pdf)<br>:star:[code](https://github.com/google-research/google-research/tree/master/meta_pseudo_labels):tv:[video](https://www.youtube.com/watch?v=yhItocvAaq0)
 * [PQA: Perceptual Question Answering](https://arxiv.org/abs/2104.03589)
+* [CondenseNet V2: Sparse Feature Reactivation for Deep Networks](https://arxiv.org/abs/2104.04382)<br>:star:[code](https://github.com/jianghaojun/CondenseNetV2) 
+* [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](https://arxiv.org/abs/2104.04314)<br>:star:[code](https://github.com/gallenszl/CFNet)
+
+
 
 <a name="*"/>
 

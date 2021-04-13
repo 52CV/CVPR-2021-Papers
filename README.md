@@ -34,7 +34,7 @@
   * [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral
   * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
 * 自监督
-  * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:(https://github.com/islam-nassar/semco)
+  * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:[code](https://github.com/islam-nassar/semco)
 * 机器人
   * [DexYCB: A Benchmark for Capturing Hand Grasping of Objects](https://arxiv.org/abs/2104.04631)<br>:star:[code](https://github.com/NVlabs/dex-ycb-toolkit):house:[project](https://dex-ycb.github.io/):tv:[video](https://youtu.be/Q4wyBaZeBw0)
 * HOI
@@ -1049,7 +1049,7 @@
   * [Vectorization and Rasterization: Self-Supervised Learning for Sketch and Handwriting](https://arxiv.org/abs/2103.13716)<br>:star:[code](https://github.com/AyanKumarBhunia/Self-Supervised-Learning-for-Sketch)
   * [Self-supervised Motion Learning from Static Images](https://arxiv.org/abs/2104.00240)
   * [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362)<br>:open_mouth:oral:star:[code](https://github.com/cvg/SOLD2)
-  * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:(https://github.com/islam-nassar/semco)
+  * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:[code](https://github.com/islam-nassar/semco)
 
 <a name="3"/> 
 

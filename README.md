@@ -11,12 +11,29 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 550 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 567 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：4月14日新增8篇
+* 分割
+  * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
+* 姿态
+  * [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)
+* 光学
+  * [Shape and Material Capture at Home](https://arxiv.org/abs/2104.06397)<br>:star:[code](https://github.com/dlichy/ShapeAndMaterial):house:[project](https://dlichy.github.io/ShapeAndMaterialAtHome/)
+* 自监督
+  * [Global Transport for Fluid Reconstruction with Learned Self-Supervision](https://arxiv.org/abs/2104.06031)<br>:open_mouth:oral:star:[code](https://github.com/tum-pbs/Global-Flow-Transport)
+* 目标检测
+  * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052)
+* 图像合成
+  * [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
+* 语音处理
+  * [Visually Informed Binaural Audio Generation without Binaural Audios](https://arxiv.org/abs/2104.06162)<br>:star:[code](https://github.com/SheldonTsui/PseudoBinaural_CVPR2021):house:[project](https://sheldontsui.github.io/projects/PseudoBinaural):tv:[video](https://youtu.be/r-uC2MyAWQc)
+* 未分
+  * [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
 
-### :fireworks::fireworks::fireworks:更新提示：4月13日新增17篇(1三维+2人脸+3分割+1点云+1自动驾驶+2风格迁移+1自监督+1机器人+1HOI+2GAN+1NAS+1未分)
+:fireworks::fireworks::fireworks:更新提示：4月13日新增17篇(1三维+2人脸+3分割+1点云+1自动驾驶+2风格迁移+1自监督+1机器人+1HOI+2GAN+1NAS+1未分)
 * 三维
   * [CodedStereo: Learned Phase Masks for Large Depth-of-field Stereo](https://arxiv.org/abs/2104.04641)<br>:open_mouth:oral
 * 人脸
@@ -47,22 +64,6 @@
 * 未分
   * [Neural Camera Simulators](https://arxiv.org/abs/2104.05237)
 
-:fireworks::fireworks::fireworks:更新提示：4月12日新增8篇
-
-* 三维
-  * [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571)
-* 人脸
-  * [Improving the Efficiency and Robustness of Deepfakes Detection through Precise Geometric Features](https://arxiv.org/abs/2104.04480)<br>:star:[code](https://github.com/frederickszk/LRNet)
-  * [FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems](https://arxiv.org/abs/2104.04107)
-* 机器人
-  * [GATSBI: Generative Agent-centric Spatio-temporal Object Interaction](https://arxiv.org/abs/2104.04275)<br>:open_mouth:oral:star:[code](https://github.com/mch5048/gatsbi):tv:[video](https://www.youtube.com/watch?v=3urXFiU9kao)
-* 缺陷检测
-  * [CutPaste: Self-Supervised Learning for Anomaly Detection and Localization](https://arxiv.org/abs/2104.04015)
-* re-id
-  * [Combined Depth Space based Architecture Search For Person Re-identification](https://arxiv.org/abs/2104.04163)
-* 未分
-  * [CondenseNet V2: Sparse Feature Reactivation for Deep Networks](https://arxiv.org/abs/2104.04382)<br>:star:[code](https://github.com/jianghaojun/CondenseNetV2)
-  * [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](https://arxiv.org/abs/2104.04314)<br>:star:[code](https://github.com/gallenszl/CFNet)
 
 # 目录
 
@@ -110,6 +111,8 @@
 ## 64.语音处理
   
   * [Can audio-visual integration strengthen robustness under multimodal attacks?](https://arxiv.org/abs/2104.02000)<br>:star:[code](https://github.com/YapengTian/AV-Robustness-CVPR21)
+* 立体音频生成
+  * [Visually Informed Binaural Audio Generation without Binaural Audios](https://arxiv.org/abs/2104.06162)<br>:star:[code](https://github.com/SheldonTsui/PseudoBinaural_CVPR2021):house:[project](https://sheldontsui.github.io/projects/PseudoBinaural):tv:[video](https://youtu.be/r-uC2MyAWQc)
 * 视听分离
   * [Looking into Your Speech: Learning Cross-modal Affinity for Audio-visual Speech Separation](https://arxiv.org/abs/2104.02775)<br>:house:[project](https://caffnet.github.io/):tv:[video](https://youtu.be/9R2qQ7dGTp8)
   * [Cyclic Co-Learning of Sounding Object Visual Grounding and Sound Separation](https://arxiv.org/abs/2104.02026)<br>:star:[code](https://github.com/YapengTian/CCOL-CVPR21)
@@ -177,6 +180,7 @@
   * [Deep Gaussian Scale Mixture Prior for Spectral Compressive Imaging](https://arxiv.org/abs/2103.07152)<br>:star:[code](https://github.com/TaoHuang95/DGSMP):house:[project](https://see.xidian.edu.cn/faculty/wsdong/Projects/DGSM-SCI.htm)
   * [Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging](https://arxiv.org/abs/2103.16693)<br>:house:[project](https://light.princeton.edu/publication/mask-tof/)
   * [Passive Inter-Photon Imaging](https://arxiv.org/abs/2104.00059)<br>:open_mouth:oral
+  * [Shape and Material Capture at Home](https://arxiv.org/abs/2104.06397)<br>:star:[code](https://github.com/dlichy/ShapeAndMaterial):house:[project](https://dlichy.github.io/ShapeAndMaterialAtHome/)
 
 <a name="55"/>
 
@@ -431,6 +435,7 @@
 - [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)
 - [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
 - [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
+- [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移
@@ -708,7 +713,8 @@
   * [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
   * [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
   * [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
-
+* 图像合成
+  * [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
 
 <a name="14"/> 
 
@@ -923,6 +929,7 @@
   * [PiCIE: Unsupervised Semantic Segmentation using Invariance and Equivariance in Clustering](https://arxiv.org/abs/2103.17070)
   * [Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2104.00905)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/BANA/)
   * [Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778)
+  * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
@@ -1004,6 +1011,7 @@
   * [Delving into Localization Errors for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16237)<br>:star:[code](https://github.com/xinzhuma/monodle)
   * [HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902)
   * [Objects are Different: Flexible Monocular 3D Object Detection](https://arxiv.org/abs/2104.02323)<br>:star:[code](https://github.com/zhangyp15/MonoFlex)
+  * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052)
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 * 目标定位
@@ -1050,6 +1058,7 @@
   * [Self-supervised Motion Learning from Static Images](https://arxiv.org/abs/2104.00240)
   * [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362)<br>:open_mouth:oral:star:[code](https://github.com/cvg/SOLD2)
   * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:[code](https://github.com/islam-nassar/semco)
+  * [Global Transport for Fluid Reconstruction with Learned Self-Supervision](https://arxiv.org/abs/2104.06031)<br>:open_mouth:oral:star:[code](https://github.com/tum-pbs/Global-Flow-Transport)
 
 <a name="3"/> 
 
@@ -1157,6 +1166,8 @@
 * [CondenseNet V2: Sparse Feature Reactivation for Deep Networks](https://arxiv.org/abs/2104.04382)<br>:star:[code](https://github.com/jianghaojun/CondenseNetV2) 
 * [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](https://arxiv.org/abs/2104.04314)<br>:star:[code](https://github.com/gallenszl/CFNet)
 * [Neural Camera Simulators](https://arxiv.org/abs/2104.05237)
+* [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
+
 
 
 <a name="*"/>

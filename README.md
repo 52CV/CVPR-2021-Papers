@@ -11,11 +11,11 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 567 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 577 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月14日新增9篇
+### :fireworks::fireworks::fireworks:更新提示：4月14日新增10篇
 * 分割
   * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
   * [Learning Position and Target Consistency for Memory-based Video Object Segmentation](https://arxiv.org/abs/2104.04329)<br>在 DAVIS 和 Youtube-VOS 基准上都达到了最先进的性能，并在 DAVIS 2020 挑战半监督 VOS 任务中排名第一。

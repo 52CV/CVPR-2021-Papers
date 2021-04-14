@@ -19,6 +19,7 @@
 * 分割
   * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
   * [Learning Position and Target Consistency for Memory-based Video Object Segmentation](https://arxiv.org/abs/2104.04329)<br>在 DAVIS 和 Youtube-VOS 基准上都达到了最先进的性能，并在 DAVIS 2020 挑战半监督 VOS 任务中排名第一。
+  * [CoCoNets: Continuous Contrastive 3D Scene Representations](https://arxiv.org/abs/2104.03851)<br>:house:[project](https://mihirp1998.github.io/project_pages/coconets/):tv:[video](https://youtu.be/n_own_d7Fh8)
 * 姿态
   * [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)
 * 光学
@@ -936,6 +937,7 @@
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
   * [Bidirectional Projection Network for Cross Dimension Scene Understanding](https://arxiv.org/abs/2103.14326)<br>:open_mouth:oral:star:[code](https://github.com/wbhu/BPNet)
   * [RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening](https://arxiv.org/abs/2103.15597)<br>:open_mouth:oral:star:[code](https://github.com/shachoi/RobustNet)
+  * [CoCoNets: Continuous Contrastive 3D Scene Representations](https://arxiv.org/abs/2104.03851)<br>:house:[project](https://mihirp1998.github.io/project_pages/coconets/):tv:[video](https://youtu.be/n_own_d7Fh8)<br>来自CMU的学者提出一种3D场景表示方法，利用自监督对比学习和输入的RGB与RGBD场景数据学习而来，这种特征表示方法在目标跟踪、检测等下游任务中表现出良好的性能。
   * 场景图合成/分析
     * [SceneGraphFusion: Incremental 3D Scene Graph Prediction from RGB-D Sequences](https://arxiv.org/abs/2103.14898)<br>:house:[project](https://shunchengwu.github.io/SceneGraphFusion)
     * [Probabilistic Modeling of Semantic Ambiguity for Scene Graph Generation](https://arxiv.org/abs/2103.05271)<br>场景图生成---场景解析

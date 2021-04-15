@@ -15,11 +15,13 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月15日新增6篇
+### :fireworks::fireworks::fireworks:更新提示：4月15日新增7篇
 * 目标检测
   * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<论文公开>
 * 视图合成
   * [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
+* 图像生成
+  * [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
 * 语义线检测
   * [Harmonious Semantic Line Detection via Maximal Weight Clique Selection](https://arxiv.org/abs/2104.06903)<br>:star:[code](https://github.com/dongkwonjin)
 * GAN
@@ -191,6 +193,7 @@
 * [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798)<br>:open_mouth:oral:star:[code](https://github.com/preddy5/Im2Vec):house:[project](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/)
 * 图像生成
   * [Context-Aware Layout to Image Generation with Enhanced Object Appearance](https://arxiv.org/abs/2103.11897)<br>:star:[code](https://github.com/wtliao/layout2img) 
+  * [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
 * 视频生成
   * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
   * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)<br>解读：[颠覆视频压缩的不一定是新压缩算法，而可能是GAN！英伟达新算法最高压缩90%流量](https://mp.weixin.qq.com/s/UpfgxiIaSU4iIjbrkS--zA)<br>Nvidia的新研究，使用人脸关键点+GAN重建视频通话，相比传统的H.264节省90%流量。代码未开源，但英伟达的GAN框架开源了。

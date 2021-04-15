@@ -15,7 +15,20 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月14日新增10篇
+### :fireworks::fireworks::fireworks:更新提示：4月15日新增6篇
+* 目标检测
+  * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<论文公开>
+* 视图合成
+  * [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
+* 语义线检测
+  * [Harmonious Semantic Line Detection via Maximal Weight Clique Selection](https://arxiv.org/abs/2104.06903)<br>:star:[code](https://github.com/dongkwonjin)
+* GAN
+  * [Few-shot Image Generation via Cross-domain Correspondence](https://arxiv.org/abs/2104.06820)<br>:house:[project](https://utkarshojha.github.io/)
+  * [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)<br>:open_mouth:oral
+* Transformer
+  * [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976)<br>:star:[code](https://github.com/mlpc-ucsd/PRTR)
+
+:fireworks::fireworks::fireworks:更新提示：4月14日新增10篇
 * 分割
   * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
   * [Learning Position and Target Consistency for Memory-based Video Object Segmentation](https://arxiv.org/abs/2104.04329)<br>在 DAVIS 和 Youtube-VOS 基准上都达到了最先进的性能，并在 DAVIS 2020 挑战半监督 VOS 任务中排名第一。
@@ -35,38 +48,6 @@
 * 未分
   * [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
 
-:fireworks::fireworks::fireworks:更新提示：4月13日新增17篇(1三维+2人脸+3分割+1点云+1自动驾驶+2风格迁移+1自监督+1机器人+1HOI+2GAN+1NAS+1未分)
-* 三维
-  * [CodedStereo: Learned Phase Masks for Large Depth-of-field Stereo](https://arxiv.org/abs/2104.04641)<br>:open_mouth:oral
-* 人脸
-  * [Feature Decomposition and Reconstruction Learning for Effective Facial Expression Recognition](https://arxiv.org/abs/2104.05160)
-  * [Pixel Codec Avatars](https://arxiv.org/abs/2104.04638)<br>:open_mouth:oral
-* 分割
-  * [Spatial Feature Calibration and Temporal Fusion for Effective One-stage Video Instance Segmentation](https://arxiv.org/abs/2104.05606)<br>:star:[code](https://github.com/MinghanLi/STMask)
-  * [Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation](https://arxiv.org/abs/2104.05239)<br>:star:[code](https://github.com/tinyalpha/BPR)
-  * [Target-Aware Object Discovery and Association for Unsupervised Video Multi-Object Segmentation](https://arxiv.org/abs/2104.04782)
-* 点云
-  * [RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut 2D-Tree Representation](https://arxiv.org/abs/2104.05328)
-* 自动驾驶
-  * [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://arxiv.org/abs/2101.06549)
-* 风格迁移
-  * [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral
-  * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
-* 自监督
-  * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:[code](https://github.com/islam-nassar/semco)
-* 机器人
-  * [DexYCB: A Benchmark for Capturing Hand Grasping of Objects](https://arxiv.org/abs/2104.04631)<br>:star:[code](https://github.com/NVlabs/dex-ycb-toolkit):house:[project](https://dex-ycb.github.io/):tv:[video](https://youtu.be/Q4wyBaZeBw0)
-* HOI
-  * [Glance and Gaze: Inferring Action-aware Points for One-Stage Human-Object Interaction Detection](https://arxiv.org/abs/2104.05269)<br>:star:[code](https://github.com/SherlockHolmes221/GGNet)
-* GAN
-  * [Where and What? Examining Interpretable Disentangled Representations](https://arxiv.org/abs/2104.05622)<br>:star:[code](https://github.com/zhuxinqimac/PS-SC)
-  * [Memory-guided Unsupervised Image-to-image Translation](https://arxiv.org/abs/2104.05170)
-* NAS
-  * [Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search](https://arxiv.org/abs/2104.05309)<br>:star:[code](https://github.com/kcyu2014/nas-landmarkreg)
-* 未分
-  * [Neural Camera Simulators](https://arxiv.org/abs/2104.05237)
-
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
@@ -79,7 +60,7 @@
 |[45.相机定位](#45)|[44.图像/视频字幕](#44)|[43.主动学习](#43)|[42.动作预测](#42)|[41.表示学习（图像+字幕）](#41)|
 |[40.超像素](#40)|[39.模型偏见消除](#39)|[38.类增量学习](#38)|[37.持续学习](#37)|[36.动作检测与识别](#36)|
 |[35.图像聚类](#35)|[34.图像/细粒度分类](#34)|[33.6D位姿估计](#33)|[32.视图合成](#32)|[31. 开放集识别](#31)|
-|[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.活体检测](#27)|[26.视频相关技术](#26)|
+|[30.新视角合成](#30)|[29.姿态估计](#29)|[28.密集预测](#28)|[27.语义线检测](#27)|[26.视频相关技术](#26)|
 |[25.三维视觉](#25)|[24.强化学习](#24)|[23.自动驾驶](#23)|[22.医学影像](#22)|[21.Transformer/Self-attention](#21)|
 |[20.人员重识别/人群计数](#20)|[19.量化、剪枝、蒸馏、模型压缩与优化](#19)|[18.航空影像](#18)|[17.超分辨率](#17)|[16.视觉问答](#16)|
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
@@ -402,6 +383,7 @@
 - [ID-Unet: Iterative Soft and Hard Deformation for View Synthesis](https://arxiv.org/abs/2103.02264)<br>:open_mouth:oral
 - [NeX: Real-time View Synthesis with Neural Basis Expansion](https://arxiv.org/abs/2103.05606)<br>:open_mouth:oral:house:[project](https://nex-mpi.github.io/):tv:[video](https://www.youtube.com/watch?v=HyfkF7Z-ddA)<br>利用神经基础扩展的实时视图合成技术
 - [Layout-Guided Novel View Synthesis from a Single Indoor Panorama](https://arxiv.org/abs/2103.17022)<br>:star:[code](https://github.com/bluestyle97/PNVS)
+- [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
 
 <a name="31"/>
 
@@ -449,7 +431,7 @@
   * Context Modeling in 3D Human Pose Estimation: A Unified Perspective
   * [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607)<br>:tv:[video](https://twitter.com/i/status/1334395954644930560)<br>通过消除 location-dependent 透视效果来改进3D人体姿势估计技术工作。<br>
   * [Graph Stacked Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385)
-  * [Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](https://arxiv.org/abs/2103.17265)<br>:house:[project](http://virtualhumans.mpi-inf.mpg.de/hps/)
+  * [Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](https://arxiv.org/abs/2103.17265)<br>:open_mouth:oral:house:[project](http://virtualhumans.mpi-inf.mpg.de/hps/)
   * [SimPoE: Simulated Character Control for 3D Human Pose Estimation](https://arxiv.org/abs/2104.00683)<br>:open_mouth:oral:house:[project](https://www.ye-yuan.com/simpoe/)
   * [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/Mirrored-Human):house:[project](https://zju3dv.github.io/Mirrored-Human/)
   * [Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo](https://arxiv.org/abs/2104.02273)<br>:star:[code](https://github.com/jiahaoLjh/PlaneSweepPose)
@@ -466,10 +448,9 @@
 
 <a name="27"/>
 
-## 27.活体检测
-
-- [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>
-
+## 27.语义线检测
+* [Harmonious Semantic Line Detection via Maximal Weight Clique Selection](https://arxiv.org/abs/2104.06903)<br>:star:[code](https://github.com/dongkwonjin)
+ 
 <a name="26"/>
 
 ## 26.视频相关技术
@@ -602,6 +583,8 @@
   * [Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning](https://arxiv.org/abs/2103.13061)<br>:star:[code](https://github.com/amzn/image-to-recipe-transformers)
 * 特征匹配
   * [LoFTR: Detector-Free Local Feature Matching with Transformers](https://arxiv.org/abs/2104.00680)<br>:star:[code](https://github.com/zju3dv/LoFTR):house:[project](https://zju3dv.github.io/loftr/)
+* 姿势识别
+  * [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976)<br>:star:[code](https://github.com/mlpc-ucsd/PRTR)
 
 <a name="20"/> 
 
@@ -710,6 +693,8 @@
 * [Content-Aware GAN Compression](https://arxiv.org/abs/2104.02244)
 * [Regularizing Generative Adversarial Networks under Limited Data](https://arxiv.org/abs/2104.03310)<br>:star:[code](https://github.com/google/lecam-gan):house:[project](https://hytseng0509.github.io/lecam-gan/)
 * [Where and What? Examining Interpretable Disentangled Representations](https://arxiv.org/abs/2104.05622)<br>:star:[code](https://github.com/zhuxinqimac/PS-SC)
+* [Few-shot Image Generation via Cross-domain Correspondence](https://arxiv.org/abs/2104.06820)<br>:house:[project](https://utkarshojha.github.io/)
+* [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)<br>:open_mouth:oral
 * 图像到图像翻译
   * [Memory-guided Unsupervised Image-to-image Translation](https://arxiv.org/abs/2104.05170)
   * [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
@@ -848,6 +833,8 @@
   * [High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation](https://arxiv.org/abs/2103.15876)<br>:house:[project](https://www.cs.rochester.edu/u/lchen63/):tv:[video](https://www.youtube.com/watch?v=dtz1LgZR8cc)
 * 广角人脸矫正
   * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* 人脸活体检测
+  * [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>
 
 <a name="10"/> 
 
@@ -994,7 +981,7 @@
 * [Scale-aware Automatic Augmentation for Object Detection](https://arxiv.org/abs/2103.17220)<br>:star:[code](https://github.com/Jia-Research-Lab/SA-AutoAug) 
 * [A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection](https://arxiv.org/abs/2103.17195)<br>:open_mouth:oral:house:[project](https://keshik6.github.io/Fourier-Discrepancies-CNN-Detection/)
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
-* [IQDet: Instance-wise Quality Distribution Sampling for Object Detection]<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>

@@ -17,7 +17,7 @@
 
 ### :fireworks::fireworks::fireworks:更新提示：4月15日新增7篇
 * 目标检测
-  * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<论文公开>
+  * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>论文公开
 * 视图合成
   * [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
 * 图像生成

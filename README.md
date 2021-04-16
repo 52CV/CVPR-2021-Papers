@@ -1,7 +1,8 @@
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
 4月22日，CVPR 2021 论文分享会直播入口，欢迎扫码关注预约！
-![image](https://user-images.githubusercontent.com/62801906/115023433-5f69ac80-9ef1-11eb-86ba-42d7c947fd2d.png)
+![image](https://user-images.githubusercontent.com/62801906/115023824-def77b80-9ef1-11eb-929f-2543d3c84c1d.png)
+
 
 
 

@@ -15,7 +15,23 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月15日新增8篇
+### :fireworks::fireworks::fireworks:更新提示：4月16日新增7篇
+* 人脸
+  * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
+* 三维
+  * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
+* 机器人
+  * [ContactOpt: Optimizing Contact to Improve Grasps](https://arxiv.org/abs/2104.07267)<br>:star:[code](https://github.com/facebookresearch/contactopt)
+* 图像合成
+  * [StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis](https://arxiv.org/abs/2104.07098)
+* 图像恢复
+  * [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
+* CV 综合
+  * [A Decomposition Model for Stereo Matching](https://arxiv.org/abs/2104.07516)
+  * [Depth Completion using Plane-Residual Representation](https://arxiv.org/abs/2104.07350)
+
+
+:fireworks::fireworks::fireworks:更新提示：4月15日新增8篇
 * 分割
   * [Zero-Shot Instance Segmentation](https://arxiv.org/abs/2104.06601)<br>:star:[code](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)<br>论文公开
 * 目标检测
@@ -32,31 +48,11 @@
 * Transformer
   * [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976)<br>:star:[code](https://github.com/mlpc-ucsd/PRTR)
 
-:fireworks::fireworks::fireworks:更新提示：4月14日新增10篇
-* 分割
-  * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
-  * [Learning Position and Target Consistency for Memory-based Video Object Segmentation](https://arxiv.org/abs/2104.04329)<br>在 DAVIS 和 Youtube-VOS 基准上都达到了最先进的性能，并在 DAVIS 2020 挑战半监督 VOS 任务中排名第一。
-  * [CoCoNets: Continuous Contrastive 3D Scene Representations](https://arxiv.org/abs/2104.03851)<br>:house:[project](https://mihirp1998.github.io/project_pages/coconets/):tv:[video](https://youtu.be/n_own_d7Fh8)
-* 姿态
-  * [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)
-* 光学
-  * [Shape and Material Capture at Home](https://arxiv.org/abs/2104.06397)<br>:star:[code](https://github.com/dlichy/ShapeAndMaterial):house:[project](https://dlichy.github.io/ShapeAndMaterialAtHome/)
-* 自监督
-  * [Global Transport for Fluid Reconstruction with Learned Self-Supervision](https://arxiv.org/abs/2104.06031)<br>:open_mouth:oral:star:[code](https://github.com/tum-pbs/Global-Flow-Transport)
-* 目标检测
-  * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052)
-* 图像合成
-  * [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
-* 语音处理
-  * [Visually Informed Binaural Audio Generation without Binaural Audios](https://arxiv.org/abs/2104.06162)<br>:star:[code](https://github.com/SheldonTsui/PseudoBinaural_CVPR2021):house:[project](https://sheldontsui.github.io/projects/PseudoBinaural):tv:[video](https://youtu.be/r-uC2MyAWQc)
-* 未分
-  * [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
-
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[67.缺陷检测](#67)|[66.光流估计](#66)|[65.风格迁移](#65)|
+|[Workshop征稿](#*)|[68.CV 综合](#68)|[67.缺陷检测](#67)|[66.光流估计](#66)|[65.风格迁移](#65)|
 |[64.语音处理](#64)|[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
@@ -71,6 +67,13 @@
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
 
+<a name="68"/>
+
+## 68.CV 综合
+  * Stereo Matching-立体匹配
+    * [A Decomposition Model for Stereo Matching](https://arxiv.org/abs/2104.07516)
+  * Depth Completion-深度完成
+    * [Depth Completion using Plane-Residual Representation](https://arxiv.org/abs/2104.07350)
 
 <a name="67"/>
 
@@ -135,6 +138,7 @@
   * [Visual Room Rearrangement](https://arxiv.org/abs/2103.16544)<br>:open_mouth:oral:house:[project](https://ai2thor.allenai.org/rearrangement/):tv:[video](https://www.youtube.com/watch?v=1APxaOC9U-A)
   * [GATSBI: Generative Agent-centric Spatio-temporal Object Interaction](https://arxiv.org/abs/2104.04275)<br>:open_mouth:oral:star:[code](https://github.com/mch5048/gatsbi):tv:[video](https://www.youtube.com/watch?v=3urXFiU9kao)
   * [DexYCB: A Benchmark for Capturing Hand Grasping of Objects](https://arxiv.org/abs/2104.04631)<br>:star:[code](https://github.com/NVlabs/dex-ycb-toolkit):house:[project](https://dex-ycb.github.io/):tv:[video](https://youtu.be/Q4wyBaZeBw0)
+  * [ContactOpt: Optimizing Contact to Improve Grasps](https://arxiv.org/abs/2104.07267)<br>:star:[code](https://github.com/facebookresearch/contactopt)<br>机器人手抓取
 * AR
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿
@@ -188,17 +192,15 @@
 
 <a name="52"/>
 
-## 52.图像/视频生成Image Generation
+## 52.图像生成 Image Generation/Synthesis
 
 - [Spatially-Adaptive Pixelwise Networks for Fast Image Translation](https://arxiv.org/abs/2012.02992)<br>:house:[project](https://tamarott.github.io/ASAPNet_web/)<br>采用超网络和隐式函数，极快的图像到图像翻译速度（比基线快18倍）
 - [Image Generators with Conditionally-Independent Pixel Synthesis](https://arxiv.org/abs/2011.13775)<br>:open_mouth:oral:star:[code](https://github.com/saic-mdal/CIPS)
 * [Im2Vec: Synthesizing Vector Graphics without Vector Supervision](https://arxiv.org/abs/2102.02798)<br>:open_mouth:oral:star:[code](https://github.com/preddy5/Im2Vec):house:[project](http://geometry.cs.ucl.ac.uk/projects/2021/im2vec/)
-* 图像生成
-  * [Context-Aware Layout to Image Generation with Enhanced Object Appearance](https://arxiv.org/abs/2103.11897)<br>:star:[code](https://github.com/wtliao/layout2img) 
-  * [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
-* 视频生成
-  * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
-  * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)<br>解读：[颠覆视频压缩的不一定是新压缩算法，而可能是GAN！英伟达新算法最高压缩90%流量](https://mp.weixin.qq.com/s/UpfgxiIaSU4iIjbrkS--zA)<br>Nvidia的新研究，使用人脸关键点+GAN重建视频通话，相比传统的H.264节省90%流量。代码未开源，但英伟达的GAN框架开源了。
+* [Context-Aware Layout to Image Generation with Enhanced Object Appearance](https://arxiv.org/abs/2103.11897)<br>:star:[code](https://github.com/wtliao/layout2img) 
+* [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
+* [StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis](https://arxiv.org/abs/2104.07098)
+* [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
 
 <a name="51"/>
 
@@ -486,6 +488,9 @@
   * [Localizing Visual Sounds the Hard Way](https://arxiv.org/abs/2104.02691)<br>:star:[code](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way):house:[project](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
 * 视频分析
   * [Self-Supervised Learning for Semi-Supervised Temporal Action Proposal](https://arxiv.org/abs/2104.03214)<br>:star:[code](https://github.com/wangxiang1230/SSTAP)
+* 视频生成
+  * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
+  * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)<br>解读：[颠覆视频压缩的不一定是新压缩算法，而可能是GAN！英伟达新算法最高压缩90%流量](https://mp.weixin.qq.com/s/UpfgxiIaSU4iIjbrkS--zA)<br>Nvidia的新研究，使用人脸关键点+GAN重建视频通话，相比传统的H.264节省90%流量。代码未开源，但英伟达的GAN框架开源了。
 
 <a name="25"/>
 
@@ -519,6 +524,7 @@
   * [NeuralRecon: Real-Time Coherent 3D Reconstruction from Monocular Video](https://arxiv.org/abs/2104.00681)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/NeuralRecon):house:[project](https://zju3dv.github.io/neuralrecon/)
   * [Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction](https://arxiv.org/abs/2104.00858)
   * [CodedStereo: Learned Phase Masks for Large Depth-of-field Stereo](https://arxiv.org/abs/2104.04641)<br>:open_mouth:oral
+  * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
 * 语义场景补全
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
 
@@ -705,8 +711,6 @@
   * [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
   * [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
   * [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
-* 图像合成
-  * [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
 
 <a name="14"/> 
 
@@ -757,6 +761,7 @@
 
 * 图像恢复Image Restoration
   * [Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:star:[code](https://github.com/swz30/MPRNet)<br>
+  * [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
 * 去阴影Shadow Removal
   * [Auto-Exposure Fusion for Single-Image Shadow Removal](https://arxiv.org/abs/2103.01255)<br>:star:[code](https://github.com/tsingqguo/exposure-fusion-shadow-removal)<br>
   * [From Shadow Generation to Shadow Removal](https://arxiv.org/abs/2103.12997)<br>:star:[code](https://github.com/hhqweasd/G2R-ShadowNet)
@@ -840,6 +845,8 @@
   * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 人脸活体检测
   * [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>
+* 音频驱动合成赋有情感的人脸
+  * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
 
 <a name="10"/> 
 

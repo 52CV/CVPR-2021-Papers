@@ -21,7 +21,17 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月16日新增7篇
+### :fireworks::fireworks::fireworks:更新提示：4月19日新增4篇
+* 姿态
+  * [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration](https://arxiv.org/abs/2104.08160)<br>:star:[code](https://github.com/taconite/PTF):house:[project](https://taconite.github.io/PTF/website/PTF.html):tv:[video](https://youtu.be/XNk4o2Z0S2c)
+* 视频
+  * [Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos](https://arxiv.org/abs/2104.07905)
+* 计算成像
+  * [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://arxiv.org/abs/2104.08278)<br>:open_mouth:oral
+* 智能驾驶
+  * [Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction](https://arxiv.org/abs/2104.08277)<br>:open_mouth:oral
+
+:fireworks::fireworks::fireworks:更新提示：4月16日新增7篇
 * 人脸
   * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
 * 三维
@@ -35,24 +45,6 @@
 * CV 综合
   * [A Decomposition Model for Stereo Matching](https://arxiv.org/abs/2104.07516)
   * [Depth Completion using Plane-Residual Representation](https://arxiv.org/abs/2104.07350)
-
-
-:fireworks::fireworks::fireworks:更新提示：4月15日新增8篇
-* 分割
-  * [Zero-Shot Instance Segmentation](https://arxiv.org/abs/2104.06601)<br>:star:[code](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)<br>论文公开
-* 目标检测
-  * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>论文公开
-* 视图合成
-  * [Stereo Radiance Fields (SRF): Learning View Synthesis for Sparse Views of Novel Scenes](https://arxiv.org/abs/2104.06935)
-* 图像生成
-  * [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
-* 语义线检测
-  * [Harmonious Semantic Line Detection via Maximal Weight Clique Selection](https://arxiv.org/abs/2104.06903)<br>:star:[code](https://github.com/dongkwonjin)
-* GAN
-  * [Few-shot Image Generation via Cross-domain Correspondence](https://arxiv.org/abs/2104.06820)<br>:house:[project](https://utkarshojha.github.io/)
-  * [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)<br>:open_mouth:oral
-* Transformer
-  * [Pose Recognition with Cascade Transformers](https://arxiv.org/abs/2104.06976)<br>:star:[code](https://github.com/mlpc-ucsd/PRTR)
 
 # 目录
 
@@ -178,6 +170,8 @@
   * [Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging](https://arxiv.org/abs/2103.16693)<br>:house:[project](https://light.princeton.edu/publication/mask-tof/)
   * [Passive Inter-Photon Imaging](https://arxiv.org/abs/2104.00059)<br>:open_mouth:oral
   * [Shape and Material Capture at Home](https://arxiv.org/abs/2104.06397)<br>:star:[code](https://github.com/dlichy/ShapeAndMaterial):house:[project](https://dlichy.github.io/ShapeAndMaterialAtHome/)
+* 相机姿势
+  * [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://arxiv.org/abs/2104.08278)<br>:open_mouth:oral
 
 <a name="55"/>
 
@@ -450,6 +444,8 @@
   * [Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo](https://arxiv.org/abs/2104.02273)<br>:star:[code](https://github.com/jiahaoLjh/PlaneSweepPose)
 * 动物姿态估计
   * [From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/2103.14843)<br>:star:[code](https://github.com/chaneyddtt/UDA-Animal-Pose)
+* 3D人体网格配准
+  * [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration](https://arxiv.org/abs/2104.08160)<br>:star:[code](https://github.com/taconite/PTF):house:[project](https://taconite.github.io/PTF/website/PTF.html):tv:[video](https://youtu.be/XNk4o2Z0S2c)
 
 <a name="28"/>
 
@@ -497,6 +493,8 @@
 * 视频生成
   * [Playable Video Generation](https://arxiv.org/abs/2101.12195)<br>:open_mouth:oral:star:[code](https://github.com/willi-menapace/PlayableVideoGeneration):house:[project](https://willi-menapace.github.io/playable-video-generation-website/):tv:[video](https://www.youtube.com/watch?v=QtDjSyZERpg)
   * [One-Shot Free-View Neural Talking-Head Synthesis for Video Conferencing](https://arxiv.org/abs/2011.15126)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/imaginaire):house:[project](https://nvlabs.github.io/face-vid2vid/):tv:[video](https://youtu.be/nLYg9Waw72U)<br>解读：[颠覆视频压缩的不一定是新压缩算法，而可能是GAN！英伟达新算法最高压缩90%流量](https://mp.weixin.qq.com/s/UpfgxiIaSU4iIjbrkS--zA)<br>Nvidia的新研究，使用人脸关键点+GAN重建视频通话，相比传统的H.264节省90%流量。代码未开源，但英伟达的GAN框架开源了。
+* 视频视角切换
+  * [Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos](https://arxiv.org/abs/2104.07905)
 
 <a name="25"/>
 
@@ -549,6 +547,7 @@
 - [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://arxiv.org/abs/2101.06549)
 * 车道线预测
   * [LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents](https://arxiv.org/abs/2104.00249)
+  * [Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction](https://arxiv.org/abs/2104.08277)<br>:open_mouth:oral
 * 轨迹预测
   * [SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction](https://arxiv.org/abs/2104.01528)<br>:star:[code](https://github.com/shuaishiliu/SGCN)
 

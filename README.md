@@ -325,7 +325,7 @@
 
 ## 40.超像素
 
-- [Learning the Superpixel in a Non-iterative and Lifelong Manner](https://arxiv.org/abs/2103.10681)<br>论文公开
+- [Learning the Superpixel in a Non-iterative and Lifelong Manner](https://arxiv.org/abs/2103.10681)<br>:star:[code](https://github.com/zh460045050/LNSNet)
 
 <a name="39"/>
 

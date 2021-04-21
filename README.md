@@ -21,7 +21,25 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月20日新增15篇(1计数+1分割+1姿态+2质量+1视频+1域适应+1知识蒸馏+1自动驾驶+1对抗学习+1增量学习+16D+2GAN+1Transformer)
+### :fireworks::fireworks::fireworks:更新提示：4月21日新增8篇
+* 质量
+  * [Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network](https://arxiv.org/abs/2104.09556)<br>:star:[code](https://github.com/jnjaby/DISCNet):house:[project](https://jnjaby.github.io/projects/UDC/)
+* 视频
+  * [Learning Semantic-Aware Dynamics for Video Prediction](https://arxiv.org/abs/2104.09762)
+* 遥感
+  * [Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry](https://arxiv.org/abs/2104.09877)
+* 检索
+  * [T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval](https://arxiv.org/abs/2104.10054)
+* 点云
+  * [Variational Relational Point Completion Network](https://arxiv.org/abs/2104.10154)<br>:open_mouth:oral:star:[code](https://github.com/paul007pl/VRCNet):house:[project](https://paul007pl.github.io/projects/VRCNet.html)
+* 目标检测
+  * [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)
+* 风格迁移
+  * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
+* 未分
+  * [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)<br>:star:[code](https://github.com/junxuan-li/LRG_360Panoramic)
+
+:fireworks::fireworks::fireworks:更新提示：4月20日新增15篇(1计数+1分割+1姿态+2质量+1视频+1域适应+1知识蒸馏+1自动驾驶+1对抗学习+1增量学习+16D+2GAN+1Transformer)
 
 * Crowd Counting-计数
   * [Learning To Count Everything](https://arxiv.org/abs/2104.08391)<br>:star:[code](https://github.com/cvlab-stonybrook)
@@ -51,31 +69,6 @@
   * [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363)
 * Transformer
   * [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)<br>:star:[code](https://github.com/autonomousvision/transfuser)
-
-:fireworks::fireworks::fireworks:更新提示：4月19日新增4篇
-* 姿态
-  * [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration](https://arxiv.org/abs/2104.08160)<br>:star:[code](https://github.com/taconite/PTF):house:[project](https://taconite.github.io/PTF/website/PTF.html):tv:[video](https://youtu.be/XNk4o2Z0S2c)
-* 视频
-  * [Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos](https://arxiv.org/abs/2104.07905)
-* 计算成像
-  * [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://arxiv.org/abs/2104.08278)<br>:open_mouth:oral
-* 智能驾驶
-  * [Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction](https://arxiv.org/abs/2104.08277)<br>:open_mouth:oral
-
-:fireworks::fireworks::fireworks:更新提示：4月16日新增7篇
-* 人脸
-  * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
-* 三维
-  * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
-* 机器人
-  * [ContactOpt: Optimizing Contact to Improve Grasps](https://arxiv.org/abs/2104.07267)<br>:star:[code](https://github.com/facebookresearch/contactopt)
-* 图像合成
-  * [StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis](https://arxiv.org/abs/2104.07098)
-* 图像恢复
-  * [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
-* CV 综合
-  * [A Decomposition Model for Stereo Matching](https://arxiv.org/abs/2104.07516)
-  * [Depth Completion using Plane-Residual Representation](https://arxiv.org/abs/2104.07350)
 
 # 目录
 
@@ -129,6 +122,7 @@
   * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
   * [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral
   * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
+  * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
 
 <a name="64"/>
 
@@ -488,6 +482,7 @@
 * 多人人体重建
   * [Multi-person Implicit Reconstruction from a Single Image](https://arxiv.org/abs/2104.09283)
 
+
 <a name="28"/>
 
 ## 28.密集预测
@@ -519,6 +514,7 @@
   * [Less is More: CLIPBERT for Video-and-Language Learning via Sparse Sampling](https://arxiv.org/pdf/2102.06183.pdf)<br>:open_mouth:oral:star:[code](https://github.com/jayleicn/ClipBERT)<br>
 * 视频预测
   * [Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction](https://arxiv.org/abs/2103.04174)<br>:house:[project](https://sites.google.com/view/ghvae):tv:[video](https://youtu.be/C8_-z8SEGOU)
+  * [Learning Semantic-Aware Dynamics for Video Prediction](https://arxiv.org/abs/2104.09762)
 * 视频理解
   * [Context-aware Biaffine Localizing Network for Temporal Sentence Grounding](https://arxiv.org/abs/2103.11555)<br>:star:[code](https://github.com/liudaizong/CBLN)
   * [Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos](https://arxiv.org/abs/2103.12346)<br>:house:[project](https://sijiesong.github.io/co-grounding/)
@@ -705,6 +701,8 @@
   * [ReDet: A Rotation-equivariant Detector for Aerial Object Detection](https://arxiv.org/abs/2103.07733)<br>:star:[code](https://github.com/csuhan/ReDet)
 * 无人机检测
   * [Dogfight: Detecting Drones from Drones Videos](https://arxiv.org/abs/2103.17242)
+* 多视角卫星摄影测量
+  * [Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry](https://arxiv.org/abs/2104.09877)
 
 <a name="17"/> 
 
@@ -765,7 +763,6 @@
   * [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
   * [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
 
-
 <a name="14"/> 
 
 ## 14.小/零样本学习，域适应，域泛化
@@ -802,6 +799,7 @@
 ## 13.图像/视频检索
 * [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553)
 * [Convolutional Hough Matching](https://arxiv.org/abs/2103.16831)<br>:open_mouth:oral:house:[project](http://cvlab.postech.ac.kr/research/CHM/)
+* [T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval](https://arxiv.org/abs/2104.10054)
 * 图像检索
   * [Probabilistic Embeddings for Cross-Modal Retrieval](https://arxiv.org/abs/2101.05068)<br>
   * [QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval](https://arxiv.org/abs/2103.02927)
@@ -853,6 +851,8 @@
   * [De-rendering the World's Revolutionary Artefacts](https://arxiv.org/abs/2104.03954)<br>:house:[project](https://sorderender.github.io/):tv:[video](https://www.youtube.com/watch?v=pxkYyyw02H0)
 * 视频修复
   * [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/abs/2104.03507)<br>:star:[code](https://github.com/MaureenZOU/TSAM)<br>作者提出 Progressive Temporal Feature Alignment Network，利用光流从相邻帧中提取的特征逐步丰富当前帧的特征。纠正了时空特征传播阶段的 spatial misalignment，极大地提高了 inpainted videos 的视觉质量和时空一致性。在 DAVIS 和 FVI 数据集上实现了与现有深度学习方法相比的最先进性能。
+* 消除图像伪影
+  * [Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network](https://arxiv.org/abs/2104.09556)<br>:star:[code](https://github.com/jnjaby/DISCNet):house:[project](https://jnjaby.github.io/projects/UDC/) 
 
 <a name="11"/> 
 
@@ -1050,6 +1050,7 @@
 * [A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection](https://arxiv.org/abs/2103.17195)<br>:open_mouth:oral:house:[project](https://keshik6.github.io/Fourier-Discrepancies-CNN-Detection/)
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
 * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>
@@ -1141,6 +1142,7 @@
 * 点云补全
   * [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838)
   * [Denoise and Contrast for Category Agnostic Shape Completion](https://arxiv.org/abs/2103.16671)<br>:star:[code](https://github.com/antoalli/Deco)
+  * [Variational Relational Point Completion Network](https://arxiv.org/abs/2104.10154)<br>:open_mouth:oral:star:[code](https://github.com/paul007pl/VRCNet):house:[project](https://paul007pl.github.io/projects/VRCNet.html)
 * 点云关键点检测
   * [Skeleton Merger: an Unsupervised Aligned Keypoint Detector](https://arxiv.org/abs/2103.10814)<br>:star:[code](https://github.com/eliphatfs/SkeletonMerger)
 * 3D点云
@@ -1226,7 +1228,7 @@
 * [CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching](https://arxiv.org/abs/2104.04314)<br>:star:[code](https://github.com/gallenszl/CFNet)
 * [Neural Camera Simulators](https://arxiv.org/abs/2104.05237)
 * [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
-
+* [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)<br>:star:[code](https://github.com/junxuan-li/LRG_360Panoramic)
 
 
 <a name="*"/>

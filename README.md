@@ -21,7 +21,21 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月21日新增8篇
+### :fireworks::fireworks::fireworks:更新提示：4月22日新增6篇
+
+* 分割
+  * [Camouflaged Object Segmentation with Distraction Mining](https://arxiv.org/abs/2104.10475)<br>:house:[project](https://mhaiyang.github.io/CVPR2021_PFNet/index)
+  * [Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps](https://arxiv.org/abs/2104.10386)<br>:open_mouth:oral:star:[code](https://github.com/yuk6heo/GIS-RAmap)
+* 迁移学习
+  * [Visualizing Adapted Knowledge in Domain Transfer](https://arxiv.org/abs/2104.10602)<br>:star:[code](https://github.com/hou-yz/DA_visualization)
+* SR
+  * [SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation](https://arxiv.org/abs/2104.10325)<br>:star:[code](https://github.com/sanghyun-son/srwarp)
+* OCR
+  * [Fourier Contour Embedding for Arbitrary-Shaped Text Detection](https://arxiv.org/abs/2104.10442)
+* 未分
+  * [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics](https://arxiv.org/abs/2104.10631)<br>:open_mouth:oral
+
+:fireworks::fireworks::fireworks:更新提示：4月21日新增8篇
 * 质量
   * [Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network](https://arxiv.org/abs/2104.09556)<br>:star:[code](https://github.com/jnjaby/DISCNet):house:[project](https://jnjaby.github.io/projects/UDC/)
 * 视频
@@ -38,43 +52,13 @@
   * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
 * 未分
   * [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)<br>:star:[code](https://github.com/junxuan-li/LRG_360Panoramic)
-
-:fireworks::fireworks::fireworks:更新提示：4月20日新增15篇(1计数+1分割+1姿态+2质量+1视频+1域适应+1知识蒸馏+1自动驾驶+1对抗学习+1增量学习+16D+2GAN+1Transformer)
-
-* Crowd Counting-计数
-  * [Learning To Count Everything](https://arxiv.org/abs/2104.08391)<br>:star:[code](https://github.com/cvlab-stonybrook)
-* 分割
-  * [RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features](https://arxiv.org/abs/2104.08569)<br>:star:[code](https://github.com/zhanggang001/RefineMask)
-* 姿态
-  * [Multi-person Implicit Reconstruction from a Single Image](https://arxiv.org/abs/2104.09283)
-* 图像质量
-  * [Contrastive Learning for Compact Single Image Dehazing](https://arxiv.org/abs/2104.09367)<br>:star:[code](https://github.com/GlassyWu/AECR-Net)<br>论文公开
-  * [Image Inpainting with External-internal Learning and Monochromic Bottleneck](https://arxiv.org/abs/2104.09068)<br>:star:[code](https://github.com/Tengfei-Wang/external-internal-inpainting)
-* 视频
-  * [Temporal Query Networks for Fine-grained Video Understanding](https://arxiv.org/abs/2104.09496)<br>:open_mouth:oral:house:[project](https://www.robots.ox.ac.uk/~vgg/research/tqn/) 
-* 域适应
-  * [Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2104.09415)
-* 知识蒸馏
-  * [Distilling Knowledge via Knowledge Review](https://arxiv.org/abs/2104.09044)<br>:star:[code](https://github.com/Jia-Research-Lab/ReviewKD)
-* 自动驾驶
-  * [Self-Supervised Pillar Motion Learning for Autonomous Driving](https://arxiv.org/abs/2104.08683)<br>:star:[code](https://github.com/qcraftai/pillar-motion)
-* 对抗学习
-  * [LAFEAT: Piercing Through Adversarial Defenses with Latent Features](https://arxiv.org/abs/2104.09284)<br>:open_mouth:oral
-* 增量学习
-  * [On Learning the Geodesic Path for Incremental Learning](https://arxiv.org/abs/2104.08572)<br>:star:[code](https://github.com/chrysts/geodesic_continual_learning)
-* 6D
-  * [Single-view robot pose and joint angle estimation via render & compare](https://arxiv.org/abs/2104.09359)<br>:open_mouth:oral:star:[code](https://github.com/ylabbe/robopose):house:[project](https://www.di.ens.fr/willow/research/robopose/):tv:[video](https://www.youtube.com/watch?v=3yzwS99sgLI)
-* GAN
-  * [Surrogate Gradient Field for Latent Space Manipulation](https://arxiv.org/abs/2104.09065)
-  * [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363)
-* Transformer
-  * [Multi-Modal Fusion Transformer for End-to-End Autonomous Driving](https://arxiv.org/abs/2104.09224)<br>:star:[code](https://github.com/autonomousvision/transfuser)
-
+                    
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|[69.计数](#69)|[68.CV 综合](#68)|[67.缺陷检测](#67)|[66.光流估计](#66)|[65.风格迁移](#65)|
+|[Workshop征稿](#*)|
+|[70.迁移学习](#70)|[69.计数](#69)|[68.CV 综合](#68)|[67.缺陷检测](#67)|[66.光流估计](#66)|[65.风格迁移](#65)|
 |[64.语音处理](#64)|[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
 |[55.图匹配](#55)|[54.情感预测](#54)|[53.数据集](#53)|[52.图像/视频生成](#52)|[51.对比学习](#51)|
@@ -88,6 +72,12 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="70"/>
+
+## 70.迁移学习
+* 域迁移
+  * [Visualizing Adapted Knowledge in Domain Transfer](https://arxiv.org/abs/2104.10602)<br>:star:[code](https://github.com/hou-yz/DA_visualization) 
 
 <a name="69"/>
 
@@ -242,6 +232,7 @@
 
 ## 50.OCR
 
+* [Fourier Contour Embedding for Arbitrary-Shaped Text Detection](https://arxiv.org/abs/2104.10442)
 * 场景文本检测
   * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
   * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
@@ -718,9 +709,9 @@
 * [Temporal Modulation Network for Controllable Space-Time Video Super-Resolution]<br>[作者主页](https://csjunxu.github.io/)<br>基于时空特征可控插值的视频超分辨率网络<br>解读：[18](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * [Flow-based Kernel Prior with Application to Blind Super-Resolution](https://arxiv.org/abs/2103.15977)
 * [Unsupervised Degradation Representation Learning for Blind Super-Resolution](https://arxiv.org/abs/2104.00416)<br>:star:[code](https://github.com/LongguangWang/DASR)
+* [SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation](https://arxiv.org/abs/2104.10325)<br>:star:[code](https://github.com/sanghyun-son/srwarp)
 
 <a name="16"/> 
-
 
 ## 16.视觉问答
 
@@ -1018,6 +1009,7 @@
   * [Learning to Recommend Frame for Interactive Video Object Segmentation in the Wild](https://arxiv.org/abs/2103.10391)<br>:star:[code](https://github.com/svip-lab/IVOS-W)
   * [Efficient Regional Memory Network for Video Object Segmentation](https://arxiv.org/abs/2103.12934)<br>:star:[code](https://github.com/hzxie/RMNet):house:[project](https://infinitescript.com/project/rmnet)
   * [Learning Position and Target Consistency for Memory-based Video Object Segmentation](https://arxiv.org/abs/2104.04329)<br>在 DAVIS 和 Youtube-VOS 基准上都达到了最先进的性能，并在 DAVIS 2020 挑战半监督 VOS 任务中排名第一。
+  * [Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps](https://arxiv.org/abs/2104.10386)<br>:open_mouth:oral:star:[code](https://github.com/yuk6heo/GIS-RAmap)
   * 视频多目标分割
     * [Target-Aware Object Discovery and Association for Unsupervised Video Multi-Object Segmentation](https://arxiv.org/abs/2104.04782)
 * 视频实例分割
@@ -1026,6 +1018,8 @@
 * 小样本分割
   * [Self-Guided and Cross-Guided Learning for Few-Shot Segmentation](https://arxiv.org/abs/2103.16129)<br>:star:[code](https://github.com/zbf1991/SCL)
   * [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/abs/2104.01893)<br>:star:[code](https://github.com/Reagan1311/ASGNet)
+* 伪装目标分割
+  * [Camouflaged Object Segmentation with Distraction Mining](https://arxiv.org/abs/2104.10475)<br>:house:[project](https://mhaiyang.github.io/CVPR2021_PFNet/index)
 
 <a name="7"/> 
 
@@ -1229,7 +1223,7 @@
 * [Neural Camera Simulators](https://arxiv.org/abs/2104.05237)
 * [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
 * [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)<br>:star:[code](https://github.com/junxuan-li/LRG_360Panoramic)
-
+* [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics](https://arxiv.org/abs/2104.10631)<br>:open_mouth:oral
 
 <a name="*"/>
 

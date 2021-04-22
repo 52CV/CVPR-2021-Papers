@@ -21,19 +21,33 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月22日新增6篇
-
+### :fireworks::fireworks::fireworks:更新提示：4月22日新增14篇
+* 姿态
+  * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
 * 分割
   * [Camouflaged Object Segmentation with Distraction Mining](https://arxiv.org/abs/2104.10475)<br>:house:[project](https://mhaiyang.github.io/CVPR2021_PFNet/index)
   * [Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps](https://arxiv.org/abs/2104.10386)<br>:open_mouth:oral:star:[code](https://github.com/yuk6heo/GIS-RAmap)
 * 迁移学习
   * [Visualizing Adapted Knowledge in Domain Transfer](https://arxiv.org/abs/2104.10602)<br>:star:[code](https://github.com/hou-yz/DA_visualization)
+* 目标检测
+  * [PointAugmenting: Cross-Modal Augmentation for 3D Object Detection](https://vision.sjtu.edu.cn/files/cvpr21_pointaugmenting.pdf)<br>分享会
+* 人脸
+  * Information Bottleneck Disentanglement for Identity Swapping<br>分享会
+  * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
+* 图像生成
+  * Leveraging Line-point Consistence to Preserve Structures forWide Parallax Image Stitching<br>:star:[code](https://github.com/dut-media-lab/Image-Stitching)<br>分享会
+* 成像
+  * [Event-based Synthetic Aperture Imaging with a Hybrid Network](https://arxiv.org/abs/2103.02376)<br>分享会
+* 图像压缩
+  * [Deep Homography for Efficient Stereo Image Compression](http://buaamc2.net/pdf/cvpr21hesic.pdf)<br>:star:[code](https://github.com/ywz978020607/HESIC)<br>分享会
 * SR
   * [SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation](https://arxiv.org/abs/2104.10325)<br>:star:[code](https://github.com/sanghyun-son/srwarp)
 * OCR
   * [Fourier Contour Embedding for Arbitrary-Shaped Text Detection](https://arxiv.org/abs/2104.10442)
 * 未分
   * [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics](https://arxiv.org/abs/2104.10631)<br>:open_mouth:oral
+  * [Deep Stable Learning for Out-Of-Distribution](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)<br>分享会
+  * [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
 
 :fireworks::fireworks::fireworks:更新提示：4月21日新增8篇
 * 质量
@@ -190,6 +204,7 @@
   * [Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging](https://arxiv.org/abs/2103.16693)<br>:house:[project](https://light.princeton.edu/publication/mask-tof/)
   * [Passive Inter-Photon Imaging](https://arxiv.org/abs/2104.00059)<br>:open_mouth:oral
   * [Shape and Material Capture at Home](https://arxiv.org/abs/2104.06397)<br>:star:[code](https://github.com/dlichy/ShapeAndMaterial):house:[project](https://dlichy.github.io/ShapeAndMaterialAtHome/)
+  * [Event-based Synthetic Aperture Imaging with a Hybrid Network](https://arxiv.org/abs/2103.02376)<br>分享会
 * 相机姿势
   * [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://arxiv.org/abs/2104.08278)<br>:open_mouth:oral
 
@@ -221,6 +236,7 @@
 * [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
 * [StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis](https://arxiv.org/abs/2104.07098)
 * [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
+* Leveraging Line-point Consistence to Preserve Structures forWide Parallax Image Stitching<br>:star:[code](https://github.com/dut-media-lab/Image-Stitching)<br>分享会
 
 <a name="51"/>
 
@@ -447,7 +463,7 @@
 - [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
 - [Learning Compositional Representation for 4D Captures with Neural ODE](https://arxiv.org/abs/2103.08271)
 - [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-- [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)
+- [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)<br>:star:[code](https://github.com/HRNet/DEKR)
 - [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
 - [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 - [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)<br>解读：[Lite-HRNet：轻量级HRNet，FLOPs大幅下降](https://mp.weixin.qq.com/s/4V6EOYVSybMR9oxpcsWv9w)
@@ -472,7 +488,8 @@
   * [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration](https://arxiv.org/abs/2104.08160)<br>:star:[code](https://github.com/taconite/PTF):house:[project](https://taconite.github.io/PTF/website/PTF.html):tv:[video](https://youtu.be/XNk4o2Z0S2c)
 * 多人人体重建
   * [Multi-person Implicit Reconstruction from a Single Image](https://arxiv.org/abs/2104.09283)
-
+* 3D人体运动
+  * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
 
 <a name="28"/>
 
@@ -838,6 +855,7 @@
   * [Slimmable Compressive Autoencoders for Practical Neural Image Compression](https://arxiv.org/abs/2103.15726)<br>:star:[code](https://github.com/FireFYF/SlimCAE)
   * [Checkerboard Context Model for Efficient Learned Image Compression](https://arxiv.org/abs/2103.15306)
   * [Learning Scalable ℓ∞-constrained Near-lossless Image Compression via Joint Lossy Image and Residual Compression](https://arxiv.org/abs/2103.17015)<br>:star:[code](https://github.com/BYchao100/Scalable-Near-lossless-Image-Compression)
+  * [Deep Homography for Efficient Stereo Image Compression](http://buaamc2.net/pdf/cvpr21hesic.pdf)<br>:star:[code](https://github.com/ywz978020607/HESIC)<br>分享会
 * de-rendering
   * [De-rendering the World's Revolutionary Artefacts](https://arxiv.org/abs/2104.03954)<br>:house:[project](https://sorderender.github.io/):tv:[video](https://www.youtube.com/watch?v=pxkYyyw02H0)
 * 视频修复
@@ -893,6 +911,10 @@
   * [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>
 * 音频驱动合成赋有情感的人脸
   * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
+* 换脸
+  * Information Bottleneck Disentanglement for Identity Swapping<br>分享会
+* 人脸修复
+  * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
 
 <a name="10"/> 
 
@@ -946,7 +968,7 @@
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
   * [Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency](https://arxiv.org/abs/2103.12886)
   * [FAPIS: A Few-shot Anchor-free Part-based Instance Segmenter](https://arxiv.org/abs/2104.00073)
-  * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>
+  * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>:star:[code](https://github.com/hustvl/BoxCaseg)
   * [Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation](https://arxiv.org/abs/2104.05239)<br>:star:[code](https://github.com/tinyalpha/BPR)
   * [RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features](https://arxiv.org/abs/2104.08569)<br>:star:[code](https://github.com/zhanggang001/RefineMask)
 * 全景分割
@@ -1066,6 +1088,7 @@
   * [HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902)
   * [Objects are Different: Flexible Monocular 3D Object Detection](https://arxiv.org/abs/2104.02323)<br>:star:[code](https://github.com/zhangyp15/MonoFlex)
   * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052)
+  * [PointAugmenting: Cross-Modal Augmentation for 3D Object Detection](https://vision.sjtu.edu.cn/files/cvpr21_pointaugmenting.pdf)<br>分享会
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 * 目标定位
@@ -1224,6 +1247,8 @@
 * [Simpler Certified Radius Maximization by Propagating Covariances](https://arxiv.org/abs/2104.05888)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
 * [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)<br>:star:[code](https://github.com/junxuan-li/LRG_360Panoramic)
 * [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics](https://arxiv.org/abs/2104.10631)<br>:open_mouth:oral
+* [Deep Stable Learning for Out-Of-Distribution](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)<br>分享会
+* [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
 
 <a name="*"/>
 

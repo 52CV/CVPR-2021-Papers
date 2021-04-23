@@ -21,7 +21,23 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月22日新增14篇
+### :fireworks::fireworks::fireworks:更新提示：4月23日新增篇
+* 分割
+  * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
+* 人脸
+  * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)
+* 三维
+  * [KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control](https://arxiv.org/abs/2104.11224)<br>:open_mouth:oral:star:[code](https://github.com/tomasjakab/keypoint_deformer/):house:[project](https://tomasjakab.github.io/KeypointDeformer/):tv:[video](https://youtu.be/GdDX1ZFh1k0)
+* 视频
+  * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
+* 机器人
+  * [ManipulaTHOR: A Framework for Visual Object Manipulation](https://arxiv.org/abs/2104.11213)<br>:open_mouth:oral:star:[code](https://github.com/allenai/manipulathor/):house:[project](https://ai2thor.allenai.org/manipulathor/):tv:[video](https://www.youtube.com/watch?v=nINZ52nlzX0)
+* 对比学习
+  * [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955)<br>:star:[code](https://github.com/yanbeic/CCL)
+* 未分
+  * [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
+
+:fireworks::fireworks::fireworks:更新提示：4月22日新增14篇
 * 姿态
   * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
 * 分割
@@ -49,24 +65,6 @@
   * [Deep Stable Learning for Out-Of-Distribution](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)<br>分享会
   * [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
 
-:fireworks::fireworks::fireworks:更新提示：4月21日新增8篇
-* 质量
-  * [Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network](https://arxiv.org/abs/2104.09556)<br>:star:[code](https://github.com/jnjaby/DISCNet):house:[project](https://jnjaby.github.io/projects/UDC/)
-* 视频
-  * [Learning Semantic-Aware Dynamics for Video Prediction](https://arxiv.org/abs/2104.09762)
-* 遥感
-  * [Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry](https://arxiv.org/abs/2104.09877)
-* 检索
-  * [T2VLAD: Global-Local Sequence Alignment for Text-Video Retrieval](https://arxiv.org/abs/2104.10054)
-* 点云
-  * [Variational Relational Point Completion Network](https://arxiv.org/abs/2104.10154)<br>:open_mouth:oral:star:[code](https://github.com/paul007pl/VRCNet):house:[project](https://paul007pl.github.io/projects/VRCNet.html)
-* 目标检测
-  * [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)
-* 风格迁移
-  * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
-* 未分
-  * [Lighting, Reflectance and Geometry Estimation from 360∘ Panoramic Stereo](https://arxiv.org/abs/2104.09886)<br>:star:[code](https://github.com/junxuan-li/LRG_360Panoramic)
-                    
 # 目录
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
@@ -171,6 +169,7 @@
   * [GATSBI: Generative Agent-centric Spatio-temporal Object Interaction](https://arxiv.org/abs/2104.04275)<br>:open_mouth:oral:star:[code](https://github.com/mch5048/gatsbi):tv:[video](https://www.youtube.com/watch?v=3urXFiU9kao)
   * [DexYCB: A Benchmark for Capturing Hand Grasping of Objects](https://arxiv.org/abs/2104.04631)<br>:star:[code](https://github.com/NVlabs/dex-ycb-toolkit):house:[project](https://dex-ycb.github.io/):tv:[video](https://youtu.be/Q4wyBaZeBw0)
   * [ContactOpt: Optimizing Contact to Improve Grasps](https://arxiv.org/abs/2104.07267)<br>:star:[code](https://github.com/facebookresearch/contactopt)<br>机器人手抓取
+  * [ManipulaTHOR: A Framework for Visual Object Manipulation](https://arxiv.org/abs/2104.11213)<br>:open_mouth:oral:star:[code](https://github.com/allenai/manipulathor/):house:[project](https://ai2thor.allenai.org/manipulathor/):tv:[video](https://www.youtube.com/watch?v=nINZ52nlzX0)
 * AR
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿
@@ -243,7 +242,8 @@
 ## 51.对比学习
 * [AdCo: Adversarial Contrast for Efficient Learning of Unsupervised Representations from Self-Trained Negative Adversaries](https://arxiv.org/abs/2011.08435)<br>:star:[code](https://arxiv.org/abs/2011.08435)<br>解读:[CVPR 2021接收论文：AdCo基于对抗的对比学习](https://mp.weixin.qq.com/s/u7Lhzh8uYEEHfWiM32-4yQ)
 * [LAFEAT: Piercing Through Adversarial Defenses with Latent Features](https://arxiv.org/abs/2104.09284)<br>:open_mouth:oral
-
+* [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955)<br>:star:[code](https://github.com/yanbeic/CCL)
+ 
 <a name="50"/>
 
 ## 50.OCR
@@ -510,6 +510,7 @@
 
 * [VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905)<br>:star:[code](https://github.com/tinapan-pt/VideoMoCo)
 * [Learning by Aligning Videos in Time](https://arxiv.org/abs/2103.17260)
+* [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
@@ -577,6 +578,8 @@
   * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
 * 语义场景补全
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
+* 三维关键点
+  * [KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control](https://arxiv.org/abs/2104.11224)<br>:open_mouth:oral:star:[code](https://github.com/tomasjakab/keypoint_deformer/):house:[project](https://tomasjakab.github.io/KeypointDeformer/):tv:[video](https://youtu.be/GdDX1ZFh1k0)
 
 <a name="24"/> 
 
@@ -915,6 +918,8 @@
   * Information Bottleneck Disentanglement for Identity Swapping<br>分享会
 * 人脸修复
   * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
+* 人脸动画
+  * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)
 
 <a name="10"/> 
 
@@ -1000,6 +1005,7 @@
   * [Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2104.00905)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/BANA/)
   * [Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778)
   * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
+  * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
@@ -1249,6 +1255,7 @@
 * [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics](https://arxiv.org/abs/2104.10631)<br>:open_mouth:oral
 * [Deep Stable Learning for Out-Of-Distribution](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)<br>分享会
 * [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
+* [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
 
 <a name="*"/>
 

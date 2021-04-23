@@ -17,11 +17,11 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 619 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 631+8 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月23日新增篇
+### :fireworks::fireworks::fireworks:更新提示：4月23日新增8篇
 * 分割
   * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
   * [Deep Video Matting via Spatio-Temporal Alignment and Aggregation](https://arxiv.org/abs/2104.11208)<br>:sunflower:[dataset](https://github.com/nowsyn/DVM)
@@ -38,7 +38,7 @@
 * 未分
   * [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
 
-:fireworks::fireworks::fireworks:更新提示：4月22日新增14篇
+:fireworks::fireworks::fireworks:更新提示：4月22日新增15篇
 * 姿态
   * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
 * 分割

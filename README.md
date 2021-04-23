@@ -24,6 +24,7 @@
 ### :fireworks::fireworks::fireworks:更新提示：4月23日新增篇
 * 分割
   * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
+  * [Deep Video Matting via Spatio-Temporal Alignment and Aggregation](https://arxiv.org/abs/2104.11208)<br>:sunflower:[dataset](https://github.com/nowsyn/DVM)
 * 人脸
   * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)
 * 三维
@@ -1048,6 +1049,8 @@
   * [Adaptive Prototype Learning and Allocation for Few-Shot Segmentation](https://arxiv.org/abs/2104.01893)<br>:star:[code](https://github.com/Reagan1311/ASGNet)
 * 伪装目标分割
   * [Camouflaged Object Segmentation with Distraction Mining](https://arxiv.org/abs/2104.10475)<br>:house:[project](https://mhaiyang.github.io/CVPR2021_PFNet/index)
+* 视频抠图
+  * [Deep Video Matting via Spatio-Temporal Alignment and Aggregation](https://arxiv.org/abs/2104.11208)<br>:sunflower:[dataset](https://github.com/nowsyn/DVM)
 
 <a name="7"/> 
 

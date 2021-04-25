@@ -15,7 +15,11 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月23日新增8篇
+### :fireworks::fireworks::fireworks:更新提示：4月25日新增1篇
+* 姿态
+  * [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
+
+:fireworks::fireworks::fireworks:更新提示：4月23日新增8篇
 * 分割
   * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
   * [Deep Video Matting via Spatio-Temporal Alignment and Aggregation](https://arxiv.org/abs/2104.11208)<br>:sunflower:[dataset](https://github.com/nowsyn/DVM)
@@ -462,6 +466,7 @@
 - [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
 - [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 - [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)<br>解读：[Lite-HRNet：轻量级HRNet，FLOPs大幅下降](https://mp.weixin.qq.com/s/4V6EOYVSybMR9oxpcsWv9w)
+- [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移

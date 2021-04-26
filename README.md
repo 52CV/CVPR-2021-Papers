@@ -15,7 +15,17 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月25日新增1篇
+
+### :fireworks::fireworks::fireworks:更新提示：4月26日新增3篇
+
+* 图像对齐
+  * [Deep Lucas-Kanade Homography for Multimodal Image Alignment](https://arxiv.org/abs/2104.11693)<br>:star:[code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography)
+* 视频
+  * [Skip-Convolutions for Efficient Video Processing](https://arxiv.org/abs/2104.11487)
+* 动作识别
+  * [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280)<br>:star:[code](https://github.com/snap-research/articulated-animation):house:[project](https://snap-research.github.io/articulated-animation/):tv:[video](https://www.youtube.com/watch?v=gpBYN8t8_yY)
+
+:fireworks::fireworks::fireworks:更新提示：4月25日新增1篇
 * 姿态
   * [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
 
@@ -372,6 +382,7 @@
 - [No frame left behind: Full Video Action Recognition](https://arxiv.org/abs/2103.15395)
 * [Recognizing Actions in Videos from Unseen Viewpoints](https://arxiv.org/abs/2103.16516)
 * [Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories](https://arxiv.org/abs/2104.01198)
+* [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280)<br>:star:[code](https://github.com/snap-research/articulated-animation):house:[project](https://snap-research.github.io/articulated-animation/):tv:[video](https://www.youtube.com/watch?v=gpBYN8t8_yY)
 * 时序动作定位
   * [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -507,7 +518,7 @@
 <a name="26"/>
 
 ## 26.视频相关技术
-
+* [Skip-Convolutions for Efficient Video Processing](https://arxiv.org/abs/2104.11487)
 * [VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905)<br>:star:[code](https://github.com/tinapan-pt/VideoMoCo)
 * [Learning by Aligning Videos in Time](https://arxiv.org/abs/2103.17260)
 * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
@@ -865,7 +876,10 @@
   * [Progressive Temporal Feature Alignment Network for Video Inpainting](https://arxiv.org/abs/2104.03507)<br>:star:[code](https://github.com/MaureenZOU/TSAM)<br>作者提出 Progressive Temporal Feature Alignment Network，利用光流从相邻帧中提取的特征逐步丰富当前帧的特征。纠正了时空特征传播阶段的 spatial misalignment，极大地提高了 inpainted videos 的视觉质量和时空一致性。在 DAVIS 和 FVI 数据集上实现了与现有深度学习方法相比的最先进性能。
 * 消除图像伪影
   * [Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network](https://arxiv.org/abs/2104.09556)<br>:star:[code](https://github.com/jnjaby/DISCNet):house:[project](https://jnjaby.github.io/projects/UDC/) 
+* 图像对齐
+  * [Deep Lucas-Kanade Homography for Multimodal Image Alignment](https://arxiv.org/abs/2104.11693)<br>:star:[code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography)
 
+ 
 <a name="11"/> 
 
 ## 11. 人脸技术

@@ -15,8 +15,15 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：4月27日新增3篇
+* 分类
+  * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
+* 人脸
+  * [Practical Wide-Angle Portraits Correction with Deep Structured Models](https://arxiv.org/abs/2104.12464)<br>论文公开
+* 对抗学习
+  * [Delving into Data: Effectively Substitute Training for Black-box Attack](https://arxiv.org/abs/2104.12378)<br>论文公开
 
-### :fireworks::fireworks::fireworks:更新提示：4月26日新增3篇
+:fireworks::fireworks::fireworks:更新提示：4月26日新增3篇
 
 * 图像对齐
   * [Deep Lucas-Kanade Homography for Multimodal Image Alignment](https://arxiv.org/abs/2104.11693)<br>:star:[code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography)
@@ -271,7 +278,7 @@
 ## 49.对抗学习
 
 - [Simulating Unknown Target Models for Query-Efficient Black-box Attacks](https://arxiv.org/abs/2009.00960)<br>:star:[code](https://github.com/machanic/MetaSimulator)<br>黑盒对抗攻击
-- Delving into Data: Effectively Substitute Training for Black-box Attack<br>基于高效训练替代模型的黑盒攻击方法<br>解读：[8](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+- [Delving into Data: Effectively Substitute Training for Black-box Attack](https://arxiv.org/abs/2104.12378)<br>基于高效训练替代模型的黑盒攻击方法<br>解读：[8](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 - [LiBRe: A Practical Bayesian Approach to Adversarial Detection](https://arxiv.org/abs/2103.14835)<br>:star:[code](https://github.com/thudzj/ScalableBDL)
 
 <a name="48"/>
@@ -415,6 +422,7 @@
   * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project](https://www.kaihan.org/HybridLT/)
   * [Capsule Network is Not More Robust than Convolutional Network](https://arxiv.org/abs/2103.15459)
   * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
+  * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
 * 半监督图像分类
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
 * 长尾视觉识别
@@ -923,7 +931,7 @@
 * 人脸跟踪
   * [High-fidelity Face Tracking for AR/VR via Deep Lighting Adaptation](https://arxiv.org/abs/2103.15876)<br>:house:[project](https://www.cs.rochester.edu/u/lchen63/):tv:[video](https://www.youtube.com/watch?v=dtz1LgZR8cc)
 * 广角人脸矫正
-  * Practical Wide-Angle Portraits Correction with Deep Structured Models<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Practical Wide-Angle Portraits Correction with Deep Structured Models](https://arxiv.org/abs/2104.12464)<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 人脸活体检测
   * [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>
 * 音频驱动合成赋有情感的人脸

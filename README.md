@@ -15,13 +15,15 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-:fireworks::fireworks::fireworks:更新提示：4月28日新增3篇
+### :fireworks::fireworks::fireworks:更新提示：4月28日新增4篇
 * 三维
   * [Unsupervised 3D Shape Completion through GAN Inversion](https://arxiv.org/abs/2104.13366)<br>:star:[code](https://github.com/junzhezhang/shape-inversion):house:[project](https://junzhezhang.github.io/projects/ShapeInversion/)
 * 医学
   * [Every Annotation Counts: Multi-label Deep Supervision for Medical Image Segmentation](https://arxiv.org/abs/2104.13243)
 * Reid
   * [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://arxiv.org/abs/2104.12961)<br>:open_mouth:oral
+* 分割
+  * [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188)<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)<br>论文公开
 
 :fireworks::fireworks::fireworks:更新提示：4月27日新增3篇
 * 分类
@@ -983,7 +985,7 @@
   * [MetaCorrection: Domain-aware Meta Loss Correction for Unsupervised Domain Adaptation in Semantic Segmentation](https://arxiv.org/abs/2103.05254)<br>:star:[code](https://github.com/cyang-cityu/MetaCorrection)<br>语义分割中的无监督域适应的域感知元损失校正
   * [Continual Semantic Segmentation via Repulsion-Attraction of Sparse and Disentangled Latent Representations](https://arxiv.org/abs/2103.06342)
   * [Semantic Segmentation for Real Point Cloud Scenes via Bilateral Augmentation and Adaptive Fusion](https://arxiv.org/abs/2103.07074)<br>:star:[code](https://github.com/ShiQiu0419/BAAF-Net)
-  * [Rethinking BiSeNet For Real-time Semantic Segmentation]<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)
+  * [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188)<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)
   * [BBAM: Bounding Box Attribution Map for Weakly Supervised Semantic and Instance Segmentation](https://arxiv.org/abs/2103.08907)<br>:star:[code](https://github.com/jbeomlee93/BBAM)
   * [Anti-Adversarially Manipulated Attributions for Weakly and Semi-Supervised Semantic Segmentation](https://arxiv.org/abs/2103.08896)<br>:star:[code](https://github.com/jbeomlee93/AdvCAM)
   * [Cross-Dataset Collaborative Learning for Semantic Segmentation](https://arxiv.org/abs/2103.11351)

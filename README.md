@@ -11,11 +11,19 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 640 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 646 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月27日新增3篇
+:fireworks::fireworks::fireworks:更新提示：4月28日新增3篇
+* 三维
+  * [Unsupervised 3D Shape Completion through GAN Inversion](https://arxiv.org/abs/2104.13366)<br>:star:[code](https://github.com/junzhezhang/shape-inversion):house:[project](https://junzhezhang.github.io/projects/ShapeInversion/)
+* 医学
+  * [Every Annotation Counts: Multi-label Deep Supervision for Medical Image Segmentation](https://arxiv.org/abs/2104.13243)
+* Reid
+  * [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://arxiv.org/abs/2104.12961)<br>:open_mouth:oral
+
+:fireworks::fireworks::fireworks:更新提示：4月27日新增3篇
 * 分类
   * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
 * 人脸
@@ -35,51 +43,6 @@
 :fireworks::fireworks::fireworks:更新提示：4月25日新增1篇
 * 姿态
   * [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
-
-:fireworks::fireworks::fireworks:更新提示：4月23日新增8篇
-* 分割
-  * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
-  * [Deep Video Matting via Spatio-Temporal Alignment and Aggregation](https://arxiv.org/abs/2104.11208)<br>:sunflower:[dataset](https://github.com/nowsyn/DVM)
-* 人脸
-  * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)
-* 三维
-  * [KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control](https://arxiv.org/abs/2104.11224)<br>:open_mouth:oral:star:[code](https://github.com/tomasjakab/keypoint_deformer/):house:[project](https://tomasjakab.github.io/KeypointDeformer/):tv:[video](https://youtu.be/GdDX1ZFh1k0)
-* 视频
-  * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
-* 机器人
-  * [ManipulaTHOR: A Framework for Visual Object Manipulation](https://arxiv.org/abs/2104.11213)<br>:open_mouth:oral:star:[code](https://github.com/allenai/manipulathor/):house:[project](https://ai2thor.allenai.org/manipulathor/):tv:[video](https://www.youtube.com/watch?v=nINZ52nlzX0)
-* 对比学习
-  * [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955)<br>:star:[code](https://github.com/yanbeic/CCL)
-* 未分
-  * [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
-
-:fireworks::fireworks::fireworks:更新提示：4月22日新增15篇
-* 姿态
-  * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
-* 分割
-  * [Camouflaged Object Segmentation with Distraction Mining](https://arxiv.org/abs/2104.10475)<br>:house:[project](https://mhaiyang.github.io/CVPR2021_PFNet/index)
-  * [Guided Interactive Video Object Segmentation Using Reliability-Based Attention Maps](https://arxiv.org/abs/2104.10386)<br>:open_mouth:oral:star:[code](https://github.com/yuk6heo/GIS-RAmap)
-* 迁移学习
-  * [Visualizing Adapted Knowledge in Domain Transfer](https://arxiv.org/abs/2104.10602)<br>:star:[code](https://github.com/hou-yz/DA_visualization)
-* 目标检测
-  * [PointAugmenting: Cross-Modal Augmentation for 3D Object Detection](https://vision.sjtu.edu.cn/files/cvpr21_pointaugmenting.pdf)<br>分享会
-* 人脸
-  * Information Bottleneck Disentanglement for Identity Swapping<br>分享会
-  * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
-* 图像生成
-  * Leveraging Line-point Consistence to Preserve Structures forWide Parallax Image Stitching<br>:star:[code](https://github.com/dut-media-lab/Image-Stitching)<br>分享会
-* 成像
-  * [Event-based Synthetic Aperture Imaging with a Hybrid Network](https://arxiv.org/abs/2103.02376)<br>分享会
-* 图像压缩
-  * [Deep Homography for Efficient Stereo Image Compression](http://buaamc2.net/pdf/cvpr21hesic.pdf)<br>:star:[code](https://github.com/ywz978020607/HESIC)<br>分享会
-* SR
-  * [SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation](https://arxiv.org/abs/2104.10325)<br>:star:[code](https://github.com/sanghyun-son/srwarp)
-* OCR
-  * [Fourier Contour Embedding for Arbitrary-Shaped Text Detection](https://arxiv.org/abs/2104.10442)
-* 未分
-  * [MetricOpt: Learning to Optimize Black-Box Evaluation Metrics](https://arxiv.org/abs/2104.10631)<br>:open_mouth:oral
-  * [Deep Stable Learning for Out-Of-Distribution](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)<br>分享会
-  * [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
 
 # 目录
 
@@ -599,6 +562,8 @@
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
 * 三维关键点
   * [KeypointDeformer: Unsupervised 3D Keypoint Discovery for Shape Control](https://arxiv.org/abs/2104.11224)<br>:open_mouth:oral:star:[code](https://github.com/tomasjakab/keypoint_deformer/):house:[project](https://tomasjakab.github.io/KeypointDeformer/):tv:[video](https://youtu.be/GdDX1ZFh1k0)
+* 三维形状补全
+  * [Unsupervised 3D Shape Completion through GAN Inversion](https://arxiv.org/abs/2104.13366)<br>:star:[code](https://github.com/junzhezhang/shape-inversion):house:[project](https://junzhezhang.github.io/projects/ShapeInversion/)
 
 <a name="24"/> 
 
@@ -636,6 +601,7 @@
   * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet):sunflower:[dataset](https://github.com/aim-uofa/partially-labelled)
   * [DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation]<br>:open_mouth:oral(https://arxiv.org/abs/2103.15954)
   * [DARCNN: Domain Adaptive Region-based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images](https://arxiv.org/abs/2104.01325)<br>
+  * [Every Annotation Counts: Multi-label Deep Supervision for Medical Image Segmentation](https://arxiv.org/abs/2104.13243)
 * 医学图像合成
   * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
 
@@ -687,6 +653,7 @@
 * [Group-aware Label Transfer for Domain Adaptive Person Re-identification](https://arxiv.org/abs/2103.12366)<br>:star:[code](https://github.com/zkcys001/UDAStrongBaseline)|[code](https://github.com/JDAI-CV/fast-reid)
 * [Neural Feature Search for RGB-Infrared Person Re-Identification](https://arxiv.org/abs/2104.02366)
 * [Combined Depth Space based Architecture Search For Person Re-identification](https://arxiv.org/abs/2104.04163)
+* [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://arxiv.org/abs/2104.12961)<br>:open_mouth:oral
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 

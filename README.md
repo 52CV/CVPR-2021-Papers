@@ -15,7 +15,17 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月28日新增4篇
+### :fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
+* Transformer
+  * [HOTR: End-to-End Human-Object Interaction Detection with Transformers](https://arxiv.org/abs/2104.13682)<br>:open_mouth:oral
+* 视频
+  * [Shot Contrastive Self-Supervised Learning for Scene Boundary Detection](https://arxiv.org/abs/2104.13537)
+  * [FrameExit: Conditional Early Exiting for Efficient Video Recognition](https://arxiv.org/abs/2104.13400)<br>:open_mouth:oral
+* 未分
+  * [Extreme Rotation Estimation using Dense Correlation Volumes](https://arxiv.org/abs/2104.13530)<br>:house:[project](https://ruojincai.github.io/ExtremeRotation/)
+
+
+:fireworks::fireworks::fireworks:更新提示：4月28日新增4篇
 * 三维
   * [Unsupervised 3D Shape Completion through GAN Inversion](https://arxiv.org/abs/2104.13366)<br>:star:[code](https://github.com/junzhezhang/shape-inversion):house:[project](https://junzhezhang.github.io/projects/ShapeInversion/)
 * 医学
@@ -513,6 +523,8 @@
   * [Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos](https://arxiv.org/abs/2103.12346)<br>:house:[project](https://sijiesong.github.io/co-grounding/)
   * [Visual Semantic Role Labeling for Video Understanding](https://arxiv.org/abs/2104.00990)<br>:house:[project](https://vidsitu.org/)
   * [Temporal Query Networks for Fine-grained Video Understanding](https://arxiv.org/abs/2104.09496)<br>:open_mouth:oral:house:[project](https://www.robots.ox.ac.uk/~vgg/research/tqn/) 
+  * [Shot Contrastive Self-Supervised Learning for Scene Boundary Detection](https://arxiv.org/abs/2104.13537)
+  * [FrameExit: Conditional Early Exiting for Efficient Video Recognition](https://arxiv.org/abs/2104.13400)<br>:open_mouth:oral
 * 视频缩放
   * [Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling](https://arxiv.org/abs/2103.14858)<br>:star:[code](https://github.com/ding3820/MIMO-VRN):house:[project](https://ding3820.github.io/MIMO-VRN/)
 * 视频异常检测
@@ -622,6 +634,7 @@
   * [Pre-Trained Image Processing Transformer](https://arxiv.org/pdf/2012.00364.pdf)<br>
 * 人机交互
   * [End-to-End Human Object Interaction Detection with HOI Transformer](https://arxiv.org/abs/2103.04503)<br>:star:[code](https://github.com/bbepoch/HoiTransformer)
+  * [HOTR: End-to-End Human-Object Interaction Detection with Transformers](https://arxiv.org/abs/2104.13682)<br>:open_mouth:oral
 * 图像分割
   * [Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers](https://arxiv.org/abs/2012.15840)<br>:star:[code](https://github.com/fudan-zvg/SETR):house:[project](https://fudan-zvg.github.io/SETR/)<br>基于Transformers从序列到序列的角度重新思考语义分割<br>解读：[16](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)<br>解读：[Transformer 在语义分割中的应用，曾位ADE20K 榜首（44.42% mIoU）](https://zhuanlan.zhihu.com/p/341768446)
   * [VisTR: End-to-End Video Instance Segmentation with Transformers](https://arxiv.org/abs/2011.14503)<br>:open_mouth:oral:star:[code](https://github.com/Epiphqny/VisTR)
@@ -1249,6 +1262,7 @@
 * [Deep Stable Learning for Out-Of-Distribution](http://pengcui.thumedialab.com/papers/DeepStableLearning.pdf)<br>分享会
 * [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
 * [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
+* [Extreme Rotation Estimation using Dense Correlation Volumes](https://arxiv.org/abs/2104.13530)<br>:house:[project](https://ruojincai.github.io/ExtremeRotation/)
 
 <a name="*"/>
 

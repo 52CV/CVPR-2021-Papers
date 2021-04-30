@@ -15,7 +15,7 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月30日新增9篇
+### :fireworks::fireworks::fireworks:更新提示：4月30日新增10篇
 * 三维
   * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
 * 跟踪
@@ -34,7 +34,7 @@
   * [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://arxiv.org/abs/2104.14085)
 * 未分
   * [Decoupled Dynamic Filter Networks](https://arxiv.org/abs/2104.14107)<br>:house:[project](https://thefoxofsky.github.io/project_pages/ddf):tv:[video](https://youtu.be/QecJD5HUF7U)
-
+  * [MongeNet: Efficient Sampler for Geometric Deep Learning](https://arxiv.org/abs/2104.14554)<br>:star:[code](https://github.com/lebrat/MongeNet):house:[project](https://lebrat.github.io/MongeNet/)
 
 
 :fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
@@ -1276,6 +1276,7 @@
 * [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
 * [Extreme Rotation Estimation using Dense Correlation Volumes](https://arxiv.org/abs/2104.13530)<br>:house:[project](https://ruojincai.github.io/ExtremeRotation/)
 * [Decoupled Dynamic Filter Networks](https://arxiv.org/abs/2104.14107)<br>:house:[project](https://thefoxofsky.github.io/project_pages/ddf):tv:[video](https://youtu.be/QecJD5HUF7U)
+* [MongeNet: Efficient Sampler for Geometric Deep Learning](https://arxiv.org/abs/2104.14554)<br>:star:[code](https://github.com/lebrat/MongeNet):house:[project](https://lebrat.github.io/MongeNet/)
 
 <a name="*"/>
 

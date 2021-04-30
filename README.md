@@ -11,19 +11,21 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 654+12 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 654+14 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月30日新增12篇
+### :fireworks::fireworks::fireworks:更新提示：4月30日新增14篇
 * 去噪
   * [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/abs/2104.10546)<br>:star:[code](https://github.com/Yang-Liu1082/InvDN)
 * 姿态
   * [3D Human Action Representation Learning via Cross-View Consistency Pursuit](https://arxiv.org/abs/2104.14466)<br>:star:[code](https://github.com/LinguoLi/CrosSCLR)
+  * [Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)<br>:open_mouth:oral:house:[project](http://www.liuyebin.com/Function4D/Function4D.html)<br>论文公开
 * 三维
   * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
 * 跟踪
   * [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)
+  * [Track, Check, Repeat: An EM Approach to Unsupervised Tracking](http://www.cs.cmu.edu/~aharley/em_cvpr21.pdf)<br>:house:[project](http://www.cs.cmu.edu/~aharley/em_cvpr21/):tv:[video](https://youtu.be/Jg2f5fkgxZo)
 * 光流
   * [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:house:[project](https://autoflow-google.github.io/)
 * 无监督
@@ -487,13 +489,15 @@
   * [Reconstructing 3D Human Pose by Watching Humans in the Mirror](https://arxiv.org/abs/2104.00340)<br>:open_mouth:oral:star:[code](https://github.com/zju3dv/Mirrored-Human):house:[project](https://zju3dv.github.io/Mirrored-Human/)
   * [Multi-View Multi-Person 3D Pose Estimation with Plane Sweep Stereo](https://arxiv.org/abs/2104.02273)<br>:star:[code](https://github.com/jiahaoLjh/PlaneSweepPose)
 * 动物姿态估计
-  * [From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/2103.14843)<br>:star:[code](https://github.com/chaneyddtt/UDA-Animal-Pose)
+  * [From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/2103.14843)<br>:open_mouth:oral:star:[code](https://github.com/chaneyddtt/UDA-Animal-Pose):tv:[video](https://www.youtube.com/watch?v=uF8BE9J7wNw)
 * 3D人体网格配准
   * [Locally Aware Piecewise Transformation Fields for 3D Human Mesh Registration](https://arxiv.org/abs/2104.08160)<br>:star:[code](https://github.com/taconite/PTF):house:[project](https://taconite.github.io/PTF/website/PTF.html):tv:[video](https://youtu.be/XNk4o2Z0S2c)
 * 多人人体重建
   * [Multi-person Implicit Reconstruction from a Single Image](https://arxiv.org/abs/2104.09283)
 * 3D人体运动
   * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
+* 人体运动捕捉
+  * [Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)<br>:open_mouth:oral:house:[project](http://www.liuyebin.com/Function4D/Function4D.html)
 
 <a name="28"/>
 
@@ -963,6 +967,7 @@
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>
 - [Multiple Object Tracking with Correlation Learning](https://arxiv.org/abs/2104.03541)<br>提出 CorrTracker，一个统一的关联跟踪器，可以密集建模目标之间的关联，并通过关联传递信息。在 MOT17 上获得最先进的 MOTA 76.5% 和 IDF1 73.6%。
 - [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)<br>LightTrack：用神经架构搜索得到的轻量级跟踪网络，精度超过SiamRPN++ 和 Ocean，速度快12倍，参数量只有1/13，Flops仅有1/38。代码将开源。
+- [Track, Check, Repeat: An EM Approach to Unsupervised Tracking](https://arxiv.org/abs/2104.03424)<br>:house:[project](http://www.cs.cmu.edu/~aharley/em_cvpr21/):tv:[video](https://youtu.be/Jg2f5fkgxZo)
 * 多目标跟踪
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
   * [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)<br>:star:[code](https://github.com/JialianW/TraDeS):house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://youtu.be/oGNtSFHRZJA)<br>TraDeS ：CVPR 2021多目标跟踪算法，改进了目前联合检测与跟踪的在线方法，使用跟踪线索辅助检测，在多个数据集实现了大幅精度提升，作者来自纽约州立大学。代码已开源。
@@ -1222,7 +1227,6 @@
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
 - [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning]
 - [Semantic Palette: Guiding Scene Generation with Class Proportions]
-- Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors<br>:open_mouth:oral
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
 - [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)<br>:star:[code](https://github.com/ml-research/NeSyXIL)

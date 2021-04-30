@@ -11,11 +11,13 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 654 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 654+12 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月30日新增11篇
+### :fireworks::fireworks::fireworks:更新提示：4月30日新增12篇
+* 去噪
+  * [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/abs/2104.10546)<br>:star:[code](https://github.com/Yang-Liu1082/InvDN)
 * 姿态
   * [3D Human Action Representation Learning via Cross-View Consistency Pursuit](https://arxiv.org/abs/2104.14466)<br>:star:[code](https://github.com/LinguoLi/CrosSCLR)
 * 三维
@@ -854,6 +856,7 @@
 * 去噪Denoising
   * [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](https://arxiv.org/abs/2101.02824)<br>解读：[CVPR 2021 | Neighbor2Neighbor：仅需噪声图像即可训练任意降噪网络的方法](https://mp.weixin.qq.com/s/Eg7vbjTILSd1Si3HSyz3CA)
   * [NBNet: Noise Basis Learning for Image Denoising with Subspace Projection](https://arxiv.org/abs/2012.15028)<br>粗解：[9](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/abs/2104.10546)<br>:star:[code](https://github.com/Yang-Liu1082/InvDN)
 * 去雨Deraining
   * [Semi-Supervised Video Deraining with Dynamic Rain Generator](https://arxiv.org/abs/2103.07939)
   * [Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://arxiv.org/abs/2103.13660)

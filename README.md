@@ -15,7 +15,9 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月30日新增10篇
+### :fireworks::fireworks::fireworks:更新提示：4月30日新增11篇
+* 姿态
+  * [3D Human Action Representation Learning via Cross-View Consistency Pursuit](https://arxiv.org/abs/2104.14466)<br>:star:[code](https://github.com/LinguoLi/CrosSCLR)
 * 三维
   * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
 * 跟踪
@@ -466,6 +468,7 @@
 - [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 - [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)<br>解读：[Lite-HRNet：轻量级HRNet，FLOPs大幅下降](https://mp.weixin.qq.com/s/4V6EOYVSybMR9oxpcsWv9w)
 - [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
+- [3D Human Action Representation Learning via Cross-View Consistency Pursuit](https://arxiv.org/abs/2104.14466)<br>:star:[code](https://github.com/LinguoLi/CrosSCLR)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移
@@ -815,7 +818,6 @@
   * [Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2104.09415)
  
 <a name="13"/> 
-
 
 ## 13.图像/视频检索
 * [Thinking Fast and Slow: Efficient Text-to-Visual Retrieval with Transformers](https://arxiv.org/abs/2103.16553)

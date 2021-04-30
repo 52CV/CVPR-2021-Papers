@@ -11,11 +11,33 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 646 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 654 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
+### :fireworks::fireworks::fireworks:更新提示：4月30日新增9篇
+* 三维
+  * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
+* 跟踪
+  * [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)
+* 光流
+  * [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:house:[project](https://autoflow-google.github.io/)
+* 无监督
+  * [A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](https://arxiv.org/abs/2104.14558)<br>:star:[code](https://github.com/facebookresearch/SlowFast)
+* 动作检测
+  * [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2104.14135)
+* 视觉导航
+  * [Pushing it out of the Way: Interactive Visual Navigation](https://arxiv.org/abs/2104.14040)<br>:house:[project](https://prior.allenai.org/projects/interactive-visual-navigation):tv:[video](https://www.youtube.com/watch?v=GvTI5XCMvPw)
+* GAN
+  * [Ensembling with Deep Generative Views](https://arxiv.org/abs/2104.14551)<br>:star:[code](https://github.com/chail/gan-ensembling):house:[project](https://chail.github.io/gan-ensembling/)
+* VQA
+  * [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://arxiv.org/abs/2104.14085)
+* 未分
+  * [Decoupled Dynamic Filter Networks](https://arxiv.org/abs/2104.14107)<br>:house:[project](https://thefoxofsky.github.io/project_pages/ddf):tv:[video](https://youtu.be/QecJD5HUF7U)
+
+
+
+:fireworks::fireworks::fireworks:更新提示：4月29日新增4篇
 * Transformer
   * [HOTR: End-to-End Human-Object Interaction Detection with Transformers](https://arxiv.org/abs/2104.13682)<br>:open_mouth:oral
 * 视频
@@ -34,27 +56,6 @@
   * [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://arxiv.org/abs/2104.12961)<br>:open_mouth:oral
 * 分割
   * [Rethinking BiSeNet For Real-time Semantic Segmentation](https://arxiv.org/abs/2104.13188)<br>:star:[code](https://github.com/MichaelFan01/STDC-Seg)<br>论文公开
-
-:fireworks::fireworks::fireworks:更新提示：4月27日新增3篇
-* 分类
-  * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
-* 人脸
-  * [Practical Wide-Angle Portraits Correction with Deep Structured Models](https://arxiv.org/abs/2104.12464)<br>论文公开
-* 对抗学习
-  * [Delving into Data: Effectively Substitute Training for Black-box Attack](https://arxiv.org/abs/2104.12378)<br>论文公开
-
-:fireworks::fireworks::fireworks:更新提示：4月26日新增3篇
-
-* 图像对齐
-  * [Deep Lucas-Kanade Homography for Multimodal Image Alignment](https://arxiv.org/abs/2104.11693)<br>:star:[code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography)
-* 视频
-  * [Skip-Convolutions for Efficient Video Processing](https://arxiv.org/abs/2104.11487)
-* 动作识别
-  * [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280)<br>:star:[code](https://github.com/snap-research/articulated-animation):house:[project](https://snap-research.github.io/articulated-animation/):tv:[video](https://www.youtube.com/watch?v=gpBYN8t8_yY)
-
-:fireworks::fireworks::fireworks:更新提示：4月25日新增1篇
-* 姿态
-  * [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
 
 # 目录
 
@@ -103,19 +104,20 @@
 <a name="66"/>
 
 ## 66.光流估计
-  * [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)<br>:star:[code](https://github.com/zacjiang/scv)
-  * [Learning optical flow from still images](https://arxiv.org/abs/2104.03965)<br>:star:[code](https://github.com/mattpoggi/depthstillation):house:[project](https://mattpoggi.github.io/projects/cvpr2021aleotti/)
- 
+* [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)<br>:star:[code](https://github.com/zacjiang/scv)
+* [Learning optical flow from still images](https://arxiv.org/abs/2104.03965)<br>:star:[code](https://github.com/mattpoggi/depthstillation):house:[project](https://mattpoggi.github.io/projects/cvpr2021aleotti/)
+* [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:house:[project](https://autoflow-google.github.io/)
+
 <a name="65"/>
 
 ## 65.风格迁移
-  * [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
-  * [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
-  * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
-  * [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral
-  * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
-  * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
+* [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
+* [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
+* [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
+* [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral 
+* [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
+* [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
 
 <a name="64"/>
 
@@ -161,6 +163,8 @@
   * [DexYCB: A Benchmark for Capturing Hand Grasping of Objects](https://arxiv.org/abs/2104.04631)<br>:star:[code](https://github.com/NVlabs/dex-ycb-toolkit):house:[project](https://dex-ycb.github.io/):tv:[video](https://youtu.be/Q4wyBaZeBw0)
   * [ContactOpt: Optimizing Contact to Improve Grasps](https://arxiv.org/abs/2104.07267)<br>:star:[code](https://github.com/facebookresearch/contactopt)<br>机器人手抓取
   * [ManipulaTHOR: A Framework for Visual Object Manipulation](https://arxiv.org/abs/2104.11213)<br>:open_mouth:oral:star:[code](https://github.com/allenai/manipulathor/):house:[project](https://ai2thor.allenai.org/manipulathor/):tv:[video](https://www.youtube.com/watch?v=nINZ52nlzX0)
+  * 视觉导航
+    * [Pushing it out of the Way: Interactive Visual Navigation](https://arxiv.org/abs/2104.14040)<br>:house:[project](https://prior.allenai.org/projects/interactive-visual-navigation):tv:[video](https://www.youtube.com/watch?v=GvTI5XCMvPw)
 * AR
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿
@@ -372,7 +376,8 @@
   * [Temporal Context Aggregation Network for Temporal Action Proposal Refinement](https://arxiv.org/abs/2103.13141)
   * [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
   * [CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning](https://arxiv.org/abs/2103.16392)
-
+  * [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2104.14135)
+ 
 <a name="35"/>
 
 ## 35.图像聚类
@@ -563,6 +568,7 @@
   * [Depth Completion with Twin Surface Extrapolation at Occlusion Boundaries](https://arxiv.org/abs/2104.02253)<br>:star:[code](https://github.com/imransai/TWISE)
   * [Self-supervised Learning of Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2104.02972)<br>:star:[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
   * [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/abs/2104.03866)<br>:star:[code](https://github.com/fabiotosi92/SMD-Nets)
+  * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
   * [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449)<br>:house:[project](https://sites.google.com/view/humanmeshboa)
@@ -742,6 +748,7 @@
 * [Domain-robust VQA with diverse datasets and methods but no target labels](https://arxiv.org/abs/2103.15974)
 * 视频问答
   * [TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://arxiv.org/abs/2103.15538)<br>:star:[code](https://github.com/SUTDCV/SUTD-TrafficQA)
+  * [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://arxiv.org/abs/2104.14085)
 
 <a name="15"/> 
 
@@ -769,11 +776,13 @@
 * [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)<br>:open_mouth:oral
 * [Surrogate Gradient Field for Latent Space Manipulation](https://arxiv.org/abs/2104.09065)
 * [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363)
+* [Ensembling with Deep Generative Views](https://arxiv.org/abs/2104.14551)<br>:star:[code](https://github.com/chail/gan-ensembling):house:[project](https://chail.github.io/gan-ensembling/)
 * 图像到图像翻译
   * [Memory-guided Unsupervised Image-to-image Translation](https://arxiv.org/abs/2104.05170)
   * [Image-to-image Translation via Hierarchical Style Disentanglement](https://arxiv.org/abs/2103.01456)<br>:open_mouth:oral:star:[code](https://github.com/imlixinyang/HiSD)<br>在图像到图像翻译上实现层次风格解耦
   * [CoMoGAN: continuous model-guided image-to-image translation](https://arxiv.org/abs/2103.06879)<br>:open_mouth:oral:star:[code](https://github.com/cv-rits/CoMoGAN)
   * [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
+
 
 <a name="14"/> 
 
@@ -948,6 +957,7 @@
 
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>
 - [Multiple Object Tracking with Correlation Learning](https://arxiv.org/abs/2104.03541)<br>提出 CorrTracker，一个统一的关联跟踪器，可以密集建模目标之间的关联，并通过关联传递信息。在 MOT17 上获得最先进的 MOTA 76.5% 和 IDF1 73.6%。
+- [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)
 * 多目标跟踪
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
   * [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)<br>:star:[code](https://github.com/JialianW/TraDeS):house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://youtu.be/oGNtSFHRZJA)<br>TraDeS ：CVPR 2021多目标跟踪算法，改进了目前联合检测与跟踪的在线方法，使用跟踪线索辅助检测，在多个数据集实现了大幅精度提升，作者来自纽约州立大学。代码已开源。
@@ -1148,6 +1158,8 @@
   * [SOLD2: Self-supervised Occlusion-aware Line Description and Detection](https://arxiv.org/abs/2104.03362)<br>:open_mouth:oral:star:[code](https://github.com/cvg/SOLD2)
   * [All Labels Are Not Created Equal: Enhancing Semi-supervision via Label Grouping and Co-training](https://arxiv.org/abs/2104.05248)<br>:star:[code](https://github.com/islam-nassar/semco)
   * [Global Transport for Fluid Reconstruction with Learned Self-Supervision](https://arxiv.org/abs/2104.06031)<br>:open_mouth:oral:star:[code](https://github.com/tum-pbs/Global-Flow-Transport)
+* 无监督
+  * [A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](https://arxiv.org/abs/2104.14558)<br>:star:[code](https://github.com/facebookresearch/SlowFast)
 
 <a name="3"/> 
 
@@ -1263,6 +1275,7 @@
 * [Learning a Self-Expressive Network for Subspace Clustering](http://www.pris.net.cn/wp-content/uploads/2021/04/SENet-CVPR-2021.pdf)<br>分享会
 * [Heterogeneous Grid Convolution for Adaptive, Efficient, and Controllable Computation](https://arxiv.org/abs/2104.11176)
 * [Extreme Rotation Estimation using Dense Correlation Volumes](https://arxiv.org/abs/2104.13530)<br>:house:[project](https://ruojincai.github.io/ExtremeRotation/)
+* [Decoupled Dynamic Filter Networks](https://arxiv.org/abs/2104.14107)<br>:house:[project](https://thefoxofsky.github.io/project_pages/ddf):tv:[video](https://youtu.be/QecJD5HUF7U)
 
 <a name="*"/>
 

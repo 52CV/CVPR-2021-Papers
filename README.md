@@ -111,7 +111,7 @@
 * [UPFlow:Upsampling Pyramid for Unsupervised Optical Flow Learning](https://arxiv.org/abs/2012.00212)<br>粗解：[8](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * [Learning Optical Flow from a Few Matches](https://arxiv.org/abs/2104.02166)<br>:star:[code](https://github.com/zacjiang/scv)
 * [Learning optical flow from still images](https://arxiv.org/abs/2104.03965)<br>:star:[code](https://github.com/mattpoggi/depthstillation):house:[project](https://mattpoggi.github.io/projects/cvpr2021aleotti/)
-* [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:house:[project](https://autoflow-google.github.io/)
+* [AutoFlow: Learning a Better Training Set for Optical Flow](https://arxiv.org/abs/2104.14544)<br>:open_mouth::house:[project](https://autoflow-google.github.io/)<br>AutoFlow ：CVPR 2021 Oral ,作者发明了一种专为光流算法训练而设计的数据渲染方法，所训练得到的PWC-Net 与 RAFT光流算法达到了SOTA,代码和数据将开源。
 
 <a name="65"/>
 
@@ -962,7 +962,7 @@
 
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>
 - [Multiple Object Tracking with Correlation Learning](https://arxiv.org/abs/2104.03541)<br>提出 CorrTracker，一个统一的关联跟踪器，可以密集建模目标之间的关联，并通过关联传递信息。在 MOT17 上获得最先进的 MOTA 76.5% 和 IDF1 73.6%。
-- [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)
+- [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)<br>LightTrack：用神经架构搜索得到的轻量级跟踪网络，精度超过SiamRPN++ 和 Ocean，速度快12倍，参数量只有1/13，Flops仅有1/38。代码将开源。
 * 多目标跟踪
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>
   * [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)<br>:star:[code](https://github.com/JialianW/TraDeS):house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://youtu.be/oGNtSFHRZJA)<br>TraDeS ：CVPR 2021多目标跟踪算法，改进了目前联合检测与跟踪的在线方法，使用跟踪线索辅助检测，在多个数据集实现了大幅精度提升，作者来自纽约州立大学。代码已开源。
@@ -1024,7 +1024,7 @@
   * [Background-Aware Pooling and Noise-Aware Loss for Weakly-Supervised Semantic Segmentation](https://arxiv.org/abs/2104.00905)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/BANA/)
   * [Progressive Semantic Segmentation](https://arxiv.org/abs/2104.03778)
   * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
-  * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)
+  * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)<br>实现夜间语义分割最先进性能，已开源。
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)

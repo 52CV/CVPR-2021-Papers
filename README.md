@@ -14,8 +14,12 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 654+14 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：5月1日新增1篇
+* reid
+  * [Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos](https://arxiv.org/abs/2104.08241)<br>:open_mouth:oral
 
-### :fireworks::fireworks::fireworks:更新提示：4月30日新增14篇
+
+:fireworks::fireworks::fireworks:更新提示：4月30日新增14篇
 * 去噪
   * [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/abs/2104.10546)<br>:star:[code](https://github.com/Yang-Liu1082/InvDN)
 * 姿态
@@ -684,6 +688,7 @@
 * [Neural Feature Search for RGB-Infrared Person Re-Identification](https://arxiv.org/abs/2104.02366)
 * [Combined Depth Space based Architecture Search For Person Re-identification](https://arxiv.org/abs/2104.04163)
 * [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://arxiv.org/abs/2104.12961)<br>:open_mouth:oral
+* [Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos](https://arxiv.org/abs/2104.08241)<br>:open_mouth:oral
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
 
@@ -1079,7 +1084,7 @@
 
 ## 7.目标检测
 
-- [Multiple Instance Active Learning for Object Detection](https://github.com/yuantn/MIAL/raw/master/paper.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
+- [Multiple Instance Active Learning for Object Detection](https://arxiv.org/pdf/2104.02324.pdf)<br>:star:[code](https://github.com/yuantn/MIAL)<br>
 - Positive-Unlabeled Data Purification in the Wild for Object Detection<br>
 - [Depth from Camera Motion and Object Detection](https://arxiv.org/abs/2103.01468)<br>:star:[github](https://github.com/griffbr/ODMD):tv:[video](https://www.youtube.com/watch?v=GruhbdJ2l7k)<br>通过使用“普通手机摄像头运动+目标检测的包围框”数据，设计RNN网络实现了达到最先进精度的目标深度估计。<br>
 - [Towards Open World Object Detection](https://arxiv.org/abs/2103.02603)<br>:open_mouth:oral:star:[code](https://github.com/JosephKJ/OWOD)<br>

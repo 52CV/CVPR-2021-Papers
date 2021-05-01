@@ -1103,7 +1103,6 @@
 * [A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection](https://arxiv.org/abs/2103.17195)<br>:open_mouth:oral:house:[project](https://keshik6.github.io/Fourier-Discrepancies-CNN-Detection/)
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
 * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-* [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>
@@ -1126,6 +1125,7 @@
   * [Objects are Different: Flexible Monocular 3D Object Detection](https://arxiv.org/abs/2104.02323)<br>:star:[code](https://github.com/zhangyp15/MonoFlex)
   * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052)
   * [PointAugmenting: Cross-Modal Augmentation for 3D Object Detection](https://vision.sjtu.edu.cn/files/cvpr21_pointaugmenting.pdf)<br>分享会
+  * [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)<br>提出 Self-Ensembling Single-Stage object Detector（SE-SSD），用于在室外点云中进行准确和有效的 3D 目标检测。关键在于利用 soft 和 hard targets 与所制定的约束条件来共同优化模型，而不在推理中引入额外的计算。与之前的所有作品相比，SE-SSD 达到了顶级性能。此外，它在 KITTI 基准中的汽车检测中获得了最高的精度（分别在 BEV 和 3D 排行榜上排名第一和第二），并具有超高的推理速度。
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 * 目标定位

@@ -11,12 +11,13 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 669 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 694 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月7日新增9篇
-
+* 人脸
+  * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)
 * 姿态
   * [Body Meshes as Points](https://arxiv.org/abs/2105.02467)<br>:star:[code](https://github.com/jfzhang95/BMP)
   * [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2105.02465)<br>:open_mouth:oral:star:[code](https://github.com/jfzhang95/PoseAug)
@@ -940,6 +941,7 @@
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
   * [Riggable 3D Face Reconstruction via In-Network Optimization](https://arxiv.org/abs/2104.03493)<br>:star:[code](https://github.com/zqbai-jeremy/INORig)<br>本文通过一个嵌入了网络内优化的端到端可训练网络，解决了从单目 RGB 图像中 riggable 3D 人脸重建。并且达到了最先进的重建精度，合理的鲁棒性和泛化能力，可以应用于标准的 face rig 应用，如重定位。
   * [Pixel Codec Avatars](https://arxiv.org/abs/2104.04638)<br>:open_mouth:oral
+  * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)
 * 人脸表情识别
   * [Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition](https://arxiv.org/abs/2103.13372)<br>
   * [Dive into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition](https://arxiv.org/abs/2104.00232)

@@ -15,6 +15,19 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：5月10日新增6篇
+* 分割
+  * [A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation](https://arxiv.org/abs/2105.03186)
+* 字幕
+  * [Towards Accurate Text-based Image Captioning with Content Diversity Exploration](https://arxiv.org/abs/2105.03236)<br>:star:[code](https://github.com/guanghuixu/AnchorCaptioner)
+* 三维
+  * [Neural 3D Scene Compression via Model Compression](https://arxiv.org/abs/2105.03120)
+  * [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)<br>:house:[project](https://lasr-google.github.io/)
+* 轨迹预测
+  * [Interpretable Social Anchors for Human Trajectory Forecasting in Crowds](https://arxiv.org/abs/2105.03136)
+* 未分
+  * [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/abs/2105.03211)<br>:star:[code](https://github.com/zhou13/nerd)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月7日新增9篇
 * 人脸
   * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)
@@ -73,7 +86,7 @@
 
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
-|[Workshop征稿](#*)|
+|[Workshop征稿](#*)|[71.轨迹预测](#71)|
 |[70.迁移学习](#70)|[69.计数](#69)|[68.CV 综合](#68)|[67.缺陷检测](#67)|[66.光流估计](#66)|[65.风格迁移](#65)|
 |[64.语音处理](#64)|[63.图像处理](#63)|[62.手绘草图识别](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.度量学习](#58)|[57.手语识别](#57)|[56.光学、几何、光场成像](#56)|
@@ -88,6 +101,12 @@
 |[15.GAN](#15)|[14.小/零样本学习，域适应，域泛化](#14)|[13.图像检索](#13)|[12.图像增广](#12)|[11.人脸技术](#11)|
 |[10.神经架构搜索](#10)|[9.目标跟踪](#9)|[8.图像分割](#8)|[7.目标检测](#7)|[6.数据增强](#6)|
 |[5.异常检测](#5)|[4.自/半/弱监督学习](#4)|[3.点云](#3)|[2.图卷积网络GNN](#2)|[1.未分类](#1)|
+
+<a name="71"/>
+
+## 71.轨迹预测
+* 人体轨迹预测
+  * [Interpretable Social Anchors for Human Trajectory Forecasting in Crowds](https://arxiv.org/abs/2105.03136)
 
 <a name="70"/>
 
@@ -314,6 +333,7 @@
 - [Open-book Video Captioning with Retrieve-Copy-Generate Network](https://arxiv.org/abs/2103.05284)
 * 图像字幕
   * [Human-like Controllable Image Captioning with Verb-specific Semantic Roles](https://arxiv.org/abs/2103.12204)<br>:star:[code](https://github.com/mad-red/VSR-guided-CIC)
+  * [Towards Accurate Text-based Image Captioning with Content Diversity Exploration](https://arxiv.org/abs/2105.03236)<br>:star:[code](https://github.com/guanghuixu/AnchorCaptioner)
 
 <a name="43"/>
 
@@ -599,6 +619,7 @@
   * [Fully Understanding Generic Objects: Modeling, Segmentation, and Reconstruction](https://arxiv.org/abs/2104.00858)
   * [CodedStereo: Learned Phase Masks for Large Depth-of-field Stereo](https://arxiv.org/abs/2104.04641)<br>:open_mouth:oral
   * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
+  * [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)<br>:house:[project](https://lasr-google.github.io/)
 * 语义场景补全
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
 * 三维关键点
@@ -607,6 +628,8 @@
   * [Unsupervised 3D Shape Completion through GAN Inversion](https://arxiv.org/abs/2104.13366)<br>:star:[code](https://github.com/junzhezhang/shape-inversion):house:[project](https://junzhezhang.github.io/projects/ShapeInversion/)
 * 三维形状适配
   * [Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images](https://arxiv.org/abs/2105.02047)<br>:star:[code](https://github.com/fkluger/cuboids_revisited)
+* 三维压缩
+  * [Neural 3D Scene Compression via Model Compression](https://arxiv.org/abs/2105.03120)
 
 <a name="24"/> 
 
@@ -1022,6 +1045,7 @@
   * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>:star:[code](https://github.com/hustvl/BoxCaseg)
   * [Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation](https://arxiv.org/abs/2104.05239)<br>:star:[code](https://github.com/tinyalpha/BPR)
   * [RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features](https://arxiv.org/abs/2104.08569)<br>:star:[code](https://github.com/zhanggang001/RefineMask)
+  * [A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation](https://arxiv.org/abs/2105.03186)
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>
@@ -1320,6 +1344,8 @@
 * [A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts](https://arxiv.org/abs/2105.00290)
 * [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060)<br>:open_mouth:oral
 * [Faster Meta Update Strategy for Noise-Robust Deep Learning](https://arxiv.org/abs/2104.15092)<br>:star:[code](https://github.com/youjiangxu/FaMUS)
+* [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/abs/2105.03211)<br>:star:[code](https://github.com/zhou13/nerd)
+
 
 <a name="*"/>
 

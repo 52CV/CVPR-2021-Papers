@@ -15,6 +15,15 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
+* 视频
+  * [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
+  * [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
+* 姿态
+  * [Unsupervised Human Pose Estimation through Transforming Shape Templates](https://arxiv.org/abs/2105.04154)<br>:house:[project](https://infantmotion.github.io/)
+* 目标检测
+  * [Domain-Specific Suppression for Adaptive Object Detection](https://arxiv.org/abs/2105.03570)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月10日新增6篇
 * 分割
   * [A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation](https://arxiv.org/abs/2105.03186)
@@ -499,6 +508,7 @@
 - [Deep Dual Consecutive Network for Human Pose Estimation](https://arxiv.org/abs/2103.07254)
 - [3D Human Action Representation Learning via Cross-View Consistency Pursuit](https://arxiv.org/abs/2104.14466)<br>:star:[code](https://github.com/LinguoLi/CrosSCLR)
 - [Body Meshes as Points](https://arxiv.org/abs/2105.02467)<br>:star:[code](https://github.com/jfzhang95/BMP)
+- [Unsupervised Human Pose Estimation through Transforming Shape Templates](https://arxiv.org/abs/2105.04154)<br>:house:[project](https://infantmotion.github.io/)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移
@@ -547,6 +557,8 @@
 * [VideoMoCo: Contrastive Video Representation Learning with Temporally Adversarial Examples](https://arxiv.org/abs/2103.05905)<br>:star:[code](https://github.com/tinapan-pt/VideoMoCo)
 * [Learning by Aligning Videos in Time](https://arxiv.org/abs/2103.17260)
 * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
+* [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
+* [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
@@ -728,7 +740,6 @@
  
 <a name="19"/> 
 
-
 ## 19.量化、剪枝、蒸馏、模型压缩/扩展与优化
 
 - Learning Student Networks in the Wild<br>
@@ -771,7 +782,6 @@
   * [Dogfight: Detecting Drones from Drones Videos](https://arxiv.org/abs/2103.17242)
 * 多视角卫星摄影测量
   * [Shadow Neural Radiance Fields for Multi-view Satellite Photogrammetry](https://arxiv.org/abs/2104.09877)
-
 
 <a name="17"/> 
 
@@ -1145,6 +1155,7 @@
 * [A Closer Look at Fourier Spectrum Discrepancies for CNN-generated Images Detection](https://arxiv.org/abs/2103.17195)<br>:open_mouth:oral:house:[project](https://keshik6.github.io/Fourier-Discrepancies-CNN-Detection/)
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
 * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [Domain-Specific Suppression for Adaptive Object Detection](https://arxiv.org/abs/2105.03570)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>

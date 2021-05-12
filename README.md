@@ -15,8 +15,9 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：5月12日新增3篇
-
+### :fireworks::fireworks::fireworks:更新提示：5月12日新增4篇
+* 人脸
+  * [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932)<br>:sunflower:[dataset](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
 * 动作识别
   * [Home Action Genome: Cooperative Compositional Action Understanding](https://arxiv.org/abs/2105.05226)
 * 表示学习
@@ -939,6 +940,7 @@
   * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
 * 换脸
   * Information Bottleneck Disentanglement for Identity Swapping<br>分享会
+  * [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932)<br>:sunflower:[dataset](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
 * 人脸修复
   * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
 * 人脸动画

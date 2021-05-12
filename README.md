@@ -15,7 +15,16 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
+### :fireworks::fireworks::fireworks:更新提示：5月12日新增3篇
+
+* 动作识别
+  * [Home Action Genome: Cooperative Compositional Action Understanding](https://arxiv.org/abs/2105.05226)
+* 表示学习
+  * [Representation Learning via Global Temporal Alignment and Cycle-Consistency](https://arxiv.org/abs/2105.05217)<br>:star:[code](https://github.com/hadjisma/VideoAlignment)
+* VQA
+  * [Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules](https://arxiv.org/abs/2105.04836)<br>:star:[code](https://github.com/aurooj/WeakGroundedVQA_Capsules)
+
+:fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
 * 视频
   * [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
   * [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
@@ -24,72 +33,6 @@
 * 目标检测
   * [Domain-Specific Suppression for Adaptive Object Detection](https://arxiv.org/abs/2105.03570)
 
-### :fireworks::fireworks::fireworks:更新提示：5月10日新增6篇
-* 分割
-  * [A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation](https://arxiv.org/abs/2105.03186)
-* 字幕
-  * [Towards Accurate Text-based Image Captioning with Content Diversity Exploration](https://arxiv.org/abs/2105.03236)<br>:star:[code](https://github.com/guanghuixu/AnchorCaptioner)
-* 三维
-  * [Neural 3D Scene Compression via Model Compression](https://arxiv.org/abs/2105.03120)
-  * [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)<br>:house:[project](https://lasr-google.github.io/)
-* 轨迹预测
-  * [Interpretable Social Anchors for Human Trajectory Forecasting in Crowds](https://arxiv.org/abs/2105.03136)
-* 未分
-  * [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/abs/2105.03211)<br>:star:[code](https://github.com/zhou13/nerd)
-
-### :fireworks::fireworks::fireworks:更新提示：5月7日新增9篇
-* 人脸
-  * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)
-* 姿态
-  * [Body Meshes as Points](https://arxiv.org/abs/2105.02467)<br>:star:[code](https://github.com/jfzhang95/BMP)
-  * [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2105.02465)<br>:open_mouth:oral:star:[code](https://github.com/jfzhang95/PoseAug)
-* 三维
-  * [Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition](https://arxiv.org/abs/2105.02875)<br>:open_mouth:oral
-* 视频
-  * [Weakly Supervised Action Selection Learning in Video](https://arxiv.org/abs/2105.02439)<br>:star:[code](https://github.com/layer6ai-labs/ASL)
-* 无监督
-  * [Unsupervised Visual Representation Learning by Tracking Patches in Video](https://arxiv.org/abs/2105.02545)<br>:star:[code](https://github.com/microsoft/CtP)
-* 无人机/卫星
-  * [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://arxiv.org/abs/2105.02440)<br>:star:[code](https://github.com/VisDrone/DroneCrowd)
-  * [SIPSA-Net: Shift-Invariant Pan Sharpening with Moving Object Alignment for Satellite Imagery](https://arxiv.org/abs/2105.02400)<br>:star:[code](https://github.com/brachiohyup/SIPSA)
-* 未分
-  * [Multi-Perspective LSTM for Joint Visual Representation Learning](https://arxiv.org/abs/2105.02802)<br>:star:[code](https://github.com/arsm/MPLSTM)
-  * [Quantum Permutation Synchronization](https://arxiv.org/pdf/2101.07755.pdf)
-
-### :fireworks::fireworks::fireworks:更新提示：5月6日新增6篇
-* 场景流估计
-  * [Self-Supervised Multi-Frame Monocular Scene Flow](https://arxiv.org/abs/2105.02216)<br>:star:[code](https://github.com/visinf/multi-mono-sf)
-* 修复
-  * [PD-GAN: Probabilistic Diverse GAN for Image Inpainting](https://arxiv.org/abs/2105.02201)<br>:star:[code](https://github.com/KumapowerLIU/PD-GAN)
-* 三维
-  * [Learning Feature Aggregation for Deep 3D Morphable Models](https://arxiv.org/abs/2105.02173)<br>:star:[code](https://github.com/zxchen110/Deep3DMM/)
-  * [Cuboids Revisited: Learning Robust 3D Shape Fitting to Single RGB Images](https://arxiv.org/abs/2105.02047)<br>:star:[code](https://github.com/fkluger/cuboids_revisited)
-* 点云
-  * [VoxelContext-Net: An Octree based Framework for Point Cloud Compression](https://arxiv.org/abs/2105.02158)
-* 目标检测
-  * [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879)<br>:star:[code](https://github.com/deeplearning-wisc/large_scale_ood)
-
-### :fireworks::fireworks::fireworks:更新提示：5月4日新增3篇
-* 未分
-  * [A Peek Into the Reasoning of Neural Networks: Interpreting with Structural Visual Concepts](https://arxiv.org/abs/2105.00290)
-* 分割
-  * [Self-supervised Augmentation Consistency for Adapting Semantic Segmentation](https://arxiv.org/abs/2105.00097)(https://github.com/visinf/da-sac)
-* GAN
-  * [Continuous Face Aging via Self-estimated Residual Age Embedding](https://arxiv.org/abs/2105.00020)
-
-### :fireworks::fireworks::fireworks:更新提示：5月3日新增6篇
-
-* 未分
-  * [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060)<br>:open_mouth:oral
-  * [Faster Meta Update Strategy for Noise-Robust Deep Learning](https://arxiv.org/abs/2104.15092)<br>:star:[code](https://github.com/youjiangxu/FaMUS)
-* Reid
-  * [BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification](https://arxiv.org/abs/2104.14783)<br>:star:[code](https://github.com/blue-blue272/BiCnet-TKS)
-* GAN
-  * [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754)<br>:star:[code](https://github.com/naver-ai/StyleMapGAN):tv:[video](https://www.youtube.com/watch?v=qCapNyRA_Ng)
-* 目标检测
-  * [MOOD: Multi-level Out-of-distribution Detection](https://arxiv.org/abs/2104.14726)<br>:star:[code](https://github.com/deeplearning-wisc/MOOD)
-* 姿态
-  * [AGORA: Avatars in Geography Optimized for Regression Analysis](https://arxiv.org/abs/2104.14643)<br>:house:[project](https://agora.is.tue.mpg.de/)
 
 # 目录
 
@@ -362,6 +305,7 @@
 
 - [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
 - [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)<br>:open_mouth:oral
+- [Representation Learning via Global Temporal Alignment and Cycle-Consistency](https://arxiv.org/abs/2105.05217)<br>:star:[code](https://github.com/hadjisma/VideoAlignment)
 
 <a name="40"/>
 
@@ -409,6 +353,7 @@
 * [Recognizing Actions in Videos from Unseen Viewpoints](https://arxiv.org/abs/2103.16516)
 * [Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories](https://arxiv.org/abs/2104.01198)
 * [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280)<br>:star:[code](https://github.com/snap-research/articulated-animation):house:[project](https://snap-research.github.io/articulated-animation/):tv:[video](https://www.youtube.com/watch?v=gpBYN8t8_yY)
+* [Home Action Genome: Cooperative Compositional Action Understanding](https://arxiv.org/abs/2105.05226)
 * 时序动作定位
   * [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -417,7 +362,7 @@
   * [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
   * [CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning](https://arxiv.org/abs/2103.16392)
   * [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2104.14135)
- 
+
 <a name="35"/>
 
 ## 35.图像聚类
@@ -792,7 +737,7 @@
 - [Cross-MPI: Cross-scale Stereo for Image Super-Resolution using Multiplane Images](https://arxiv.org/abs/2011.14631)<br>:house:[project](http://www.liuyebin.com/crossMPI/crossMPI.html):tv:[video](http://www.liuyebin.com/crossMPI/assets/supp_vid.mp4)<br>[CVPR 2021，Cross-MPI以底层场景结构为线索的端到端网络，在大分辨率（x8）差距下也可完成高保真的超分辨率](https://zhuanlan.zhihu.com/p/354752197)
 - [ClassSR: A General Framework to Accelerate Super-Resolution Networks by Data Characteristic](https://arxiv.org/abs/2103.04039)<br>:star:[code](https://github.com/Xiangtaokong/ClassSR)
 * Robust Reference-based Super-Resolution via C²-Matching
-* [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)<br>:open_mouth:oral:house:[project](https://ckkelvinchan.github.io/projects/GLEAN/)
+* [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)<br>:open_mouth:oral:house:[project](https://ckkelvinchan.github.io/projects/GLEAN/)<br>解读：[CVPR 2021 Oral | GLEAN: 基于隐式生成库的高倍率图像超分辨率](https://mp.weixin.qq.com/s/ZdfoS_VkFfQVsRhA4g6Yog)
 * [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)<br>:star:[code](https://github.com/ckkelvinchan/BasicVSR-IconVSR):house:[project](https://ckkelvinchan.github.io/projects/BasicVSR/)
 * [Temporal Modulation Network for Controllable Space-Time Video Super-Resolution]<br>[作者主页](https://csjunxu.github.io/)<br>基于时空特征可控插值的视频超分辨率网络<br>解读：[18](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * [Flow-based Kernel Prior with Application to Blind Super-Resolution](https://arxiv.org/abs/2103.15977)
@@ -807,6 +752,7 @@
 * [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)<br>:star:[code](https://github.com/yuleiniu/cfvqa)
 * [AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning](https://arxiv.org/abs/2103.16002)
 * [Domain-robust VQA with diverse datasets and methods but no target labels](https://arxiv.org/abs/2103.15974)
+* [Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules](https://arxiv.org/abs/2105.04836)<br>:star:[code](https://github.com/aurooj/WeakGroundedVQA_Capsules)
 * 视频问答
   * [TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://arxiv.org/abs/2103.15538)<br>:star:[code](https://github.com/SUTDCV/SUTD-TrafficQA)
   * [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://arxiv.org/abs/2104.14085)

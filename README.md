@@ -15,6 +15,12 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：5月13日新增2篇
+* 分割
+  * [Incremental Few-Shot Instance Segmentation](https://arxiv.org/abs/2105.05312)<br>:star:[code](https://github.com/danganea/iMTFA)
+* OCR
+  * [TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text](https://arxiv.org/abs/2105.05486)<br>:house:[project](https://textvqa.org/textocr)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月12日新增4篇
 * 人脸
   * [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932)<br>:sunflower:[dataset](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
@@ -233,6 +239,7 @@
   * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
   * [MOST: A Multi-Oriented Scene Text Detector with Localization Refinement](https://arxiv.org/abs/2104.01070)
   * [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552)<br>:star:[code](https://github.com/lanfeng4659/STR-TDSL)
+  * [TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text](https://arxiv.org/abs/2105.05486)<br>:house:[project](https://textvqa.org/textocr)
 * 手写文本识别
   * [MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition](https://arxiv.org/abs/2104.01876)
 
@@ -1004,6 +1011,7 @@
   * [Look Closer to Segment Better: Boundary Patch Refinement for Instance Segmentation](https://arxiv.org/abs/2104.05239)<br>:star:[code](https://github.com/tinyalpha/BPR)
   * [RefineMask: Towards High-Quality Instance Segmentation with Fine-Grained Features](https://arxiv.org/abs/2104.08569)<br>:star:[code](https://github.com/zhanggang001/RefineMask)
   * [A^2-FPN: Attention Aggregation based Feature Pyramid Network for Instance Segmentation](https://arxiv.org/abs/2105.03186)
+  * [Incremental Few-Shot Instance Segmentation](https://arxiv.org/abs/2105.05312)<br>:star:[code](https://github.com/danganea/iMTFA)
 * 全景分割
   * [4D Panoptic LiDAR Segmentation](https://arxiv.org/abs/2102.12472)<br>
   * [Cross-View Regularization for Domain Adaptive Panoptic Segmentation](https://arxiv.org/abs/2103.02584)<br>:open_mouth:oral<br>用于域自适应全景分割的跨视图正则化方法<br>

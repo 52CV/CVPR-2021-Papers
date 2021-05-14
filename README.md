@@ -14,6 +14,15 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 710 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：5月14日新增4篇
+* 检索
+  * [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047)
+* 姿态
+  * [When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks](https://arxiv.org/abs/2105.06152)
+* 点云
+  * [3D Spatial Recognition without Spatially Labeled 3D](https://arxiv.org/abs/2105.06461)<br>:house:[project](https://facebookresearch.github.io/WyPR/)
+* 虚拟试穿
+  * [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/abs/2105.06462)<br>:house:[project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/):tv:[video](https://youtu.be/9AnBNco6i2U)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月13日新增2篇
 * 分割
@@ -159,6 +168,7 @@
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿
     * [VITON-HD: High-Resolution Virtual Try-On via Misalignment-Aware Normalization](https://arxiv.org/abs/2103.16874)
+    * [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/abs/2105.06462)<br>:house:[project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/):tv:[video](https://youtu.be/9AnBNco6i2U)
 
 <a name="59"/>
 
@@ -462,6 +472,7 @@
 - [3D Human Action Representation Learning via Cross-View Consistency Pursuit](https://arxiv.org/abs/2104.14466)<br>:star:[code](https://github.com/LinguoLi/CrosSCLR)
 - [Body Meshes as Points](https://arxiv.org/abs/2105.02467)<br>:star:[code](https://github.com/jfzhang95/BMP)
 - [Unsupervised Human Pose Estimation through Transforming Shape Templates](https://arxiv.org/abs/2105.04154)<br>:house:[project](https://infantmotion.github.io/)
+- [When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks](https://arxiv.org/abs/2105.06152)
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移
@@ -844,6 +855,8 @@
   * [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://arxiv.org/abs/2103.15706)
 * 视频检索
   * [On Semantic Similarity in Video Retrieval](https://arxiv.org/abs/2103.10095)<br>:star:[code](https://github.com/mwray/Semantic-Video-Retrieval):house:[project](https://mwray.github.io/SSVR/):tv:[video](https://youtu.be/pS9qa_B771I)
+* 视觉搜索
+  * [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047)
 
 <a name="12"/> 
 
@@ -1220,6 +1233,8 @@
   * [Equivariant Point Network for 3D Point Cloud Analysis](https://arxiv.org/abs/2103.14147)<br>:star:[code](https://github.com/nintendops/EPN_PointCloud)
 * 点云压缩
   * [VoxelContext-Net: An Octree based Framework for Point Cloud Compression](https://arxiv.org/abs/2105.02158)
+* 点云识别
+  * [3D Spatial Recognition without Spatially Labeled 3D](https://arxiv.org/abs/2105.06461)<br>:house:[project](https://facebookresearch.github.io/WyPR/)
 
 <a name="2"/> 
 

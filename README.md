@@ -69,7 +69,7 @@
 |[65.Style Transfer(风格迁移)](#65)|[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|
 |[55.Graph Matching(图匹配)](#55)|[54.Emotion Perception(情绪感知/情感预测)](#54)|[53.Dataset(数据集)](#53)|[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|
-|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|[48.Image Representation(图像表示)](#48)|[47.vision-language(视觉语言)](#47)|[46.human-object interaction(人物交互)](#46)|
+|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|[48.Image Representation(图像表示)](#48)|[47.Vision-Language(视觉语言)](#47)|[46.Human-Object Interaction(人物交互)](#46)|
 |[45.Camera Localization(相机定位)](#45)|[44. Image/video Captioning(图像/视频字幕)](#44)|[43.Active Learning(主动学习)](#43)|[42.Scene Flow Estimation(场景流估计)](#42)|[41. Representation Learning(表示学习（图像+字幕）)](#41)|
 |[40.Superpixel (超像素)](#40)|[39.Debiasing(去偏见)](#39)|[38.Class-Incremental learning(类增量学习)](#38)|[37.Continual Learning(持续学习)](#37)|[36.Action Detection and Recognition(动作检测与识别)](#36)|
 |[35.Image Clustering(图像聚类) ](#35)|[34.Image/Fine-Grained Classification(图像分类/细粒度分类)](#34)|[33.6D Pose Estimation(6D位姿估计)](#33)|[32.View Synthesis(视图合成)](#32)|[31.Open-Set Recognition(开放集识别)](#31)|
@@ -195,7 +195,7 @@
 
 <a name="56"/>
 
-## 56.(光学、几何、光场成像)
+## 56.Computational Photography(光学、几何、光场成像、计算摄影)
   * [Deep Gaussian Scale Mixture Prior for Spectral Compressive Imaging](https://arxiv.org/abs/2103.07152)<br>:star:[code](https://github.com/TaoHuang95/DGSMP):house:[project](https://see.xidian.edu.cn/faculty/wsdong/Projects/DGSM-SCI.htm)
   * [Mask-ToF: Learning Microlens Masks for Flying Pixel Correction in Time-of-Flight Imaging](https://arxiv.org/abs/2103.16693)<br>:house:[project](https://light.princeton.edu/publication/mask-tof/)
   * [Passive Inter-Photon Imaging](https://arxiv.org/abs/2104.00059)<br>:open_mouth:oral
@@ -271,7 +271,7 @@
 
 <a name="47"/>
 
-## 47.vision-language(视觉语言)
+## 47.Vision-Language(视觉语言)
 
 - [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)<br>:star:[code](https://github.com/HanqingWangAI/SSM-VLN)
 * [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110)<br>
@@ -279,7 +279,7 @@
 
 <a name="46"/>
 
-## 46.human-object interaction(人物交互)
+## 46.Human-Object Interaction(人物交互)
 
 - [Learning Asynchronous and Sparse Human-Object Interaction in Videos](https://arxiv.org/abs/2103.02758)
 - [QPIC: Query-Based Pairwise Human-Object Interaction Detection with Image-Wide Contextual Information](https://arxiv.org/abs/2103.05399)<br>:star:[code](https://github.com/hitachi-rd-cv/qpic)
@@ -387,7 +387,7 @@
 
 <a name="35"/>
 
-## 35.(图像聚类) Image Clustering
+## 35.Image Clustering(图像聚类) 
 
 - [Improving Unsupervised Image Clustering With Robust Learning](https://arxiv.org/abs/2012.11150)<br>:star:[code](https://github.com/deu30303/RUC)<br>利用鲁棒学习改进无监督图像聚类技术<br>
 - [Jigsaw Clustering for Unsupervised Visual Representation Learning](https://arxiv.org/abs/2104.00323)<br>:open_mouth:oral:star:[code](https://github.com/Jia-Research-Lab/JigsawClustering)

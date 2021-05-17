@@ -65,9 +65,9 @@
 |:cat:|:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|------|
 |[Workshop征稿](#*)|
-|[Trajectory Forecasting(轨迹预测)](#70)|[69.Transfer learning(迁移学习)](#69)|[Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|
-|[65.Style Transfer(风格迁移)](#65)|[64.Speech processing(语音处理)](#64)|[Image Processing(图像处理)](#63)|[Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
-|[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|
+|[70.Trajectory Forecasting(轨迹预测)](#70)|[69.Transfer learning(迁移学习)](#69)|[68.Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|
+|[65.Style Transfer(风格迁移)](#65)|[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
+|[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|
 |[55.Graph Matching(图匹配)](#55)|[54.Emotion Perception(情绪感知/情感预测)](#54)|[53.Dataset(数据集)](#53)|[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|
 |[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|[48.Image Representation(图像表示)](#48)|[47.vision-language(视觉语言)](#47)|[46.human-object interaction(人物交互)](#46)|
 |[45.Camera Localization(相机定位)](#45)|[44. Image/video Captioning(图像/视频字幕)](#44)|[43.Active Learning(主动学习)](#43)|[42.Scene Flow Estimation(场景流估计)](#42)|[41. Representation Learning(表示学习（图像+字幕）)](#41)|

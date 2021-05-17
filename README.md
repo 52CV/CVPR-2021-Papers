@@ -14,6 +14,16 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 714 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：5月17日新增3篇
+
+* 分割
+  * [Omnimatte: Associating Objects and Their Effects in Video](https://arxiv.org/abs/2105.06993)<br>:open_mouth:oral:house:[project](https://omnimatte.github.io/)
+* 动作检测
+  * [Collaborative Spatial-Temporal Modeling for Language-Queried Video Actor Segmentation](https://arxiv.org/abs/2105.06818)
+* 三维
+  * [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月14日新增4篇
 * 检索
   * [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047)
@@ -380,6 +390,8 @@
   * [Learning Salient Boundary Feature for Anchor-free Temporal Action Localization](https://arxiv.org/abs/2103.13137)
   * [CoLA: Weakly-Supervised Temporal Action Localization with Snippet Contrastive Learning](https://arxiv.org/abs/2103.16392)
   * [Action Unit Memory Network for Weakly Supervised Temporal Action Localization](https://arxiv.org/abs/2104.14135)
+* Video Actor Segmentation
+  * [Collaborative Spatial-Temporal Modeling for Language-Queried Video Actor Segmentation](https://arxiv.org/abs/2105.06818)
 
 <a name="35"/>
 
@@ -596,6 +608,7 @@
   * [CodedStereo: Learned Phase Masks for Large Depth-of-field Stereo](https://arxiv.org/abs/2104.04641)<br>:open_mouth:oral
   * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
   * [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)<br>:house:[project](https://lasr-google.github.io/)
+  * [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663)
 * 语义场景补全
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
 * 三维关键点
@@ -1015,6 +1028,7 @@
 - [Boundary IoU: Improving Object-Centric Image Segmentation Evaluation](https://arxiv.org/abs/2103.16562)<br>:star:[code](https://github.com/bowenc0221/boundary-iou-api):house:[project](https://bowenc0221.github.io/boundary-iou/)
 * [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://arxiv.org/abs/2103.16284)
 * [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
+* [Omnimatte: Associating Objects and Their Effects in Video](https://arxiv.org/abs/2105.06993)<br>:open_mouth:oral:house:[project](https://omnimatte.github.io/)
 * 实例分割
   * [Zero-Shot Instance Segmentation](https://arxiv.org/abs/2104.06601)<br>:star:[code](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)

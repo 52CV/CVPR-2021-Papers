@@ -28,7 +28,7 @@
 * 场景流估计
   * [HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding](https://arxiv.org/abs/2105.07751)
 * SLAM
-  * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593):house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
+  * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593)<br>:house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月17日新增3篇
 
@@ -146,7 +146,7 @@
   * [ManipulaTHOR: A Framework for Visual Object Manipulation](https://arxiv.org/abs/2104.11213)<br>:open_mouth:oral:star:[code](https://github.com/allenai/manipulathor/):house:[project](https://ai2thor.allenai.org/manipulathor/):tv:[video](https://www.youtube.com/watch?v=nINZ52nlzX0)
   * 视觉导航
     * [Pushing it out of the Way: Interactive Visual Navigation](https://arxiv.org/abs/2104.14040)<br>:house:[project](https://prior.allenai.org/projects/interactive-visual-navigation):tv:[video](https://www.youtube.com/watch?v=GvTI5XCMvPw)
-    * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593):house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
+    * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593)<br>:house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
 * AR
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿

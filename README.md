@@ -15,6 +15,21 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：5月18日新增6篇
+
+* 检索
+  * [Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing](https://arxiv.org/abs/2105.07553)<br>:star:[code](https://github.com/xunguangwang/ProS-GAN)
+* 域适应
+  * [Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830)<br>:star:[code](https://github.com/susaha/ctrl-uda)
+* 无监督
+  * [SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)<br>:star:[code](https://github.com/google-research/google-research/tree/master/smurf)
+* 连续学习
+  * [Layerwise Optimization by Gradient Decomposition for Continual Learning](https://arxiv.org/abs/2105.07561)
+* 场景流估计
+  * [HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding](https://arxiv.org/abs/2105.07751)
+* SLAM
+  * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593):house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月17日新增3篇
 
 * 分割
@@ -23,41 +38,6 @@
   * [Collaborative Spatial-Temporal Modeling for Language-Queried Video Actor Segmentation](https://arxiv.org/abs/2105.06818)
 * 三维
   * [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663)
-
-### :fireworks::fireworks::fireworks:更新提示：5月14日新增4篇
-* 检索
-  * [Compatibility-aware Heterogeneous Visual Search](https://arxiv.org/abs/2105.06047)
-* 姿态
-  * [When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks](https://arxiv.org/abs/2105.06152)
-* 点云
-  * [3D Spatial Recognition without Spatially Labeled 3D](https://arxiv.org/abs/2105.06461)<br>:house:[project](https://facebookresearch.github.io/WyPR/)
-* 虚拟试穿
-  * [Self-Supervised Collision Handling via Generative 3D Garment Models for Virtual Try-On](https://arxiv.org/abs/2105.06462)<br>:house:[project](http://mslab.es/projects/SelfSupervisedGarmentCollisions/):tv:[video](https://youtu.be/9AnBNco6i2U)
-
-### :fireworks::fireworks::fireworks:更新提示：5月13日新增2篇
-* 分割
-  * [Incremental Few-Shot Instance Segmentation](https://arxiv.org/abs/2105.05312)<br>:star:[code](https://github.com/danganea/iMTFA)
-* OCR
-  * [TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text](https://arxiv.org/abs/2105.05486)<br>:house:[project](https://textvqa.org/textocr)
-
-### :fireworks::fireworks::fireworks:更新提示：5月12日新增4篇
-* 人脸
-  * [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932)<br>:sunflower:[dataset](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
-* 动作识别
-  * [Home Action Genome: Cooperative Compositional Action Understanding](https://arxiv.org/abs/2105.05226)
-* 表示学习
-  * [Representation Learning via Global Temporal Alignment and Cycle-Consistency](https://arxiv.org/abs/2105.05217)<br>:star:[code](https://github.com/hadjisma/VideoAlignment)
-* VQA
-  * [Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules](https://arxiv.org/abs/2105.04836)<br>:star:[code](https://github.com/aurooj/WeakGroundedVQA_Capsules)
-
-:fireworks::fireworks::fireworks:更新提示：5月11日新增4篇
-* 视频
-  * [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
-  * [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
-* 姿态
-  * [Unsupervised Human Pose Estimation through Transforming Shape Templates](https://arxiv.org/abs/2105.04154)<br>:house:[project](https://infantmotion.github.io/)
-* 目标检测
-  * [Domain-Specific Suppression for Adaptive Object Detection](https://arxiv.org/abs/2105.03570)
 
 
 # 目录
@@ -166,6 +146,7 @@
   * [ManipulaTHOR: A Framework for Visual Object Manipulation](https://arxiv.org/abs/2104.11213)<br>:open_mouth:oral:star:[code](https://github.com/allenai/manipulathor/):house:[project](https://ai2thor.allenai.org/manipulathor/):tv:[video](https://www.youtube.com/watch?v=nINZ52nlzX0)
   * 视觉导航
     * [Pushing it out of the Way: Interactive Visual Navigation](https://arxiv.org/abs/2104.14040)<br>:house:[project](https://prior.allenai.org/projects/interactive-visual-navigation):tv:[video](https://www.youtube.com/watch?v=GvTI5XCMvPw)
+    * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593):house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
 * AR
   * Stay Positive: Non-Negative Image Synthesis for Augmented Reality<br>:open_mouth:oral
   * 虚拟试穿
@@ -318,6 +299,7 @@
 ## 42.Scene Flow Estimation(场景流估计)
 * 场景流估计
   * [Self-Supervised Multi-Frame Monocular Scene Flow](https://arxiv.org/abs/2105.02216)<br>:star:[code](https://github.com/visinf/multi-mono-sf)
+  * [HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding](https://arxiv.org/abs/2105.07751)
 
 <a name="41"/>
 
@@ -358,6 +340,7 @@
 * [Efficient Feature Transformations for Discriminative and Generative Continual Learning](https://arxiv.org/abs/2103.13558)
 * [Rainbow Memory: Continual Learning with a Memory of Diverse Samples](https://arxiv.org/abs/2103.17230) 
 * [Rectification-based Knowledge Retention for Continual Learning](https://arxiv.org/abs/2103.16597) 
+* [Layerwise Optimization by Gradient Decomposition for Continual Learning](https://arxiv.org/abs/2105.07561)
 
 <a name="36"/>
 
@@ -850,6 +833,7 @@
   * [Unsupervised Multi-source Domain Adaptation Without Access to Source Data](https://arxiv.org/abs/2104.01845)
   * [Domain Adaptation with Auxiliary Target Domain-Oriented Classifier](https://arxiv.org/pdf/2007.04171.pdf)<br>:star:[code](https://github.com/tim-learn/ATDOC)
   * [Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2104.09415)
+  * [Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830)<br>:star:[code](https://github.com/susaha/ctrl-uda)
  
 <a name="13"/> 
 
@@ -862,6 +846,7 @@
   * [QAIR: Practical Query-efficient Black-Box Attacks for Image Retrieval](https://arxiv.org/abs/2103.02927)
   * [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://arxiv.org/abs/2103.13990)<br>:star:[code](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
   * [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://arxiv.org/abs/2103.15706)
+  * [Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing](https://arxiv.org/abs/2105.07553)<br>:star:[code](https://github.com/xunguangwang/ProS-GAN)
 * 视频检索
   * [On Semantic Similarity in Video Retrieval](https://arxiv.org/abs/2103.10095)<br>:star:[code](https://github.com/mwray/Semantic-Video-Retrieval):house:[project](https://mwray.github.io/SSVR/):tv:[video](https://youtu.be/pS9qa_B771I)
 * 视觉搜索
@@ -1211,7 +1196,8 @@
 * 无监督
   * [A Large-Scale Study on Unsupervised Spatiotemporal Representation Learning](https://arxiv.org/abs/2104.14558)<br>:star:[code](https://github.com/facebookresearch/SlowFast)
 * [Unsupervised Visual Representation Learning by Tracking Patches in Video](https://arxiv.org/abs/2105.02545)<br>:star:[code](https://github.com/microsoft/CtP)
- 
+* [SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)<br>:star:[code](https://github.com/google-research/google-research/tree/master/smurf)
+
 <a name="3"/> 
 
 ## 3.Point Cloud(点云)

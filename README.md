@@ -15,6 +15,18 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：5月19日新增5篇
+* 分割
+  * [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)<br>:star:[code](https://github.com/jd730/EOPSN):house:[project](https://cv.snu.ac.kr/research/EOPSN/)
+* 域适应
+  * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128)
+* 数据集
+  * [SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data](https://arxiv.org/abs/2105.08612)<br>:open_mouth:oral:sunflower:[dataset](http://sailvos.web.illinois.edu/_site/index.html)
+* 场景流估计
+  * [Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk](https://arxiv.org/abs/2105.08248)<br>:open_mouth:oral
+* VQA
+  * [NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions](https://arxiv.org/abs/2105.08276)<br>:star:[code](https://github.com/doc-doc/NExT-QA)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月18日新增6篇
 
 * 检索
@@ -201,7 +213,8 @@
   * [Conceptual 12M: Pushing Web-Scale Image-Text Pre-Training To Recognize Long-Tail Visual Concepts](https://arxiv.org/abs/2102.08981)<br>:sunflower:[dataset](https://github.com/google-research-datasets/conceptual-12m)
   * [Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark](https://arxiv.org/abs/2103.10895)<br>:house:[project](https://vap.aau.dk/sewer-ml/)
   * [Benchmarking Representation Learning for Natural World Image Collections](https://arxiv.org/abs/2103.16483)<br>:sunflower:[dataset](https://github.com/visipedia/newt)
-
+  * [SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data](https://arxiv.org/abs/2105.08612)<br>:open_mouth:oral:sunflower:[dataset](http://sailvos.web.illinois.edu/_site/index.html)
+ 
 <a name="52"/>
 
 ## 52. Image Generation/Synthesis(图像生成)
@@ -300,6 +313,7 @@
 * 场景流估计
   * [Self-Supervised Multi-Frame Monocular Scene Flow](https://arxiv.org/abs/2105.02216)<br>:star:[code](https://github.com/visinf/multi-mono-sf)
   * [HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding](https://arxiv.org/abs/2105.07751)
+  * [Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk](https://arxiv.org/abs/2105.08248)<br>:open_mouth:oral
 
 <a name="41"/>
 
@@ -767,6 +781,7 @@
 * 视频问答
   * [TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://arxiv.org/abs/2103.15538)<br>:star:[code](https://github.com/SUTDCV/SUTD-TrafficQA)
   * [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://arxiv.org/abs/2104.14085)
+  * [NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions](https://arxiv.org/abs/2105.08276)<br>:star:[code](https://github.com/doc-doc/NExT-QA)
 
 <a name="15"/> 
 
@@ -834,7 +849,8 @@
   * [Domain Adaptation with Auxiliary Target Domain-Oriented Classifier](https://arxiv.org/pdf/2007.04171.pdf)<br>:star:[code](https://github.com/tim-learn/ATDOC)
   * [Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2104.09415)
   * [Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830)<br>:star:[code](https://github.com/susaha/ctrl-uda)
- 
+  * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128)
+
 <a name="13"/> 
 
 ## 13.Image/Video Retrieval(图像/视频检索)
@@ -1028,6 +1044,7 @@
   * [Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation](https://arxiv.org/abs/2103.14962)<br>:star:[code](https://github.com/edwardzhou130/Panoptic-PolarNet)
   * [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)<br>:open_mouth:oral:star:[code](https://github.com/yanwei-li/PanopticFCN)<br>粗解：[11](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
   * [Panoptic Segmentation Forecasting](https://arxiv.org/abs/2104.03962)
+  * [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)<br>:star:[code](https://github.com/jd730/EOPSN):house:[project](https://cv.snu.ac.kr/research/EOPSN/)
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>:star:[code](https://github.com/arthurdouillard/CVPR2021_PLOP)
   * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:sunflower:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>

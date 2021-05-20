@@ -14,6 +14,9 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 728 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：5月20日新增篇
+* 图像到图像翻译
+  * [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月19日新增5篇
 * 分割
@@ -54,23 +57,31 @@
 
 # 目录
 
-|:cat:|:dog:|:mouse:|:hamster:|:tiger:|
-|------|------|------|------|------|
-|[Workshop征稿](#*)|
-|[70.Trajectory Forecasting(轨迹预测)](#70)|[69.Transfer learning(迁移学习)](#69)|[68.Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|
-|[65.Style Transfer(风格迁移)](#65)|[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
-|[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|
-|[55.Graph Matching(图匹配)](#55)|[54.Emotion Perception(情绪感知/情感预测)](#54)|[53.Dataset(数据集)](#53)|[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|
-|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|[48.Image Representation(图像表示)](#48)|[47.Vision-Language(视觉语言)](#47)|[46.Human-Object Interaction(人物交互)](#46)|
-|[45.Camera Localization(相机定位)](#45)|[44. Image/video Captioning(图像/视频字幕)](#44)|[43.Active Learning(主动学习)](#43)|[42.Scene Flow Estimation(场景流估计)](#42)|[41. Representation Learning(表示学习（图像+字幕）)](#41)|
-|[40.Superpixel (超像素)](#40)|[39.Debiasing(去偏见)](#39)|[38.Class-Incremental learning(类增量学习)](#38)|[37.Continual Learning(持续学习)](#37)|[36.Action Detection and Recognition(动作检测与识别)](#36)|
-|[35.Image Clustering(图像聚类) ](#35)|[34.Image/Fine-Grained Classification(图像分类/细粒度分类)](#34)|[33.6D Pose Estimation(6D位姿估计)](#33)|[32.View Synthesis(视图合成)](#32)|[31.Open-Set Recognition(开放集识别)](#31)|
-|[30.Neural rendering(神经渲染)](#30)|[29.Human Pose Estimation(人体姿态估计)](#29)|[28.Dense prediction(密集预测)](#28)|[27.Semantic Line Detection(语义线检测)](#27)|[26.Video Processing(视频相关技术)](#26)|
-|[25.3D(三维视觉)](#25)|[24.Reinforcement Learning(强化学习)](#24)|[23.Autonomous Driving(自动驾驶)](#23)|[22.Medical Imaging(医学影像)](#22)|[21.Transformer/Self-attention](#21)|
-|[20.Person Re-Identification(人员重识别)](#20)|[19.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#19)|[18.Aeria/Drones/Satellite/RS Image(航空影像/无人机)](#18)|[17.Super-Resolution(超分辨率)](#17)|[16.Visual Question Answering(视觉问答)](#16)|
-|[15.GAN](#15)|[14.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#14)|[13.Image/Video Retrieval(图像/视频检索)](#13)|[12.Image Quality Assessment(图像质量评估)](#12)|[11. Face(人脸技术)](#11)|
-|[10.Neural Architecture Search(神经架构搜索)](#10)|[9.Object Tracking(目标跟踪)](#9)|[8.Image Segmentation(图像分割)](#8)|[7.Object Detection(目标检测)](#7)|[6.Data Augmentation(数据增广)](#6)|
-|[5.Anomaly Detection(异常检测)](#5)|[4.Weakly Supervised/Semi-Supervised/Self-supervised/Unsupervised Learning(自/半/弱监督学习)](#4)|[3.Point Cloud(点云)](#3)|[2.Graph Neural Networks(图卷积网络GNN)](#2)|[1.Unkown(未分类)](#1)|
+|:dog:|:mouse:|:hamster:|:tiger:|
+|------|------|------|------|
+|[Workshop征稿](#*)|[71.Image-to-Image Translation(图像到图像翻译)](#71)|[70.Trajectory Forecasting(轨迹预测)](#70)|[69.Transfer learning(迁移学习)](#69)|
+|[68.Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|[65.Style Transfer(风格迁移)](#65)
+|[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
+|[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|
+|[56.Computational Photography(光学、几何、光场成像、计算摄影)](#56)|[55.Graph Matching(图匹配)](#55)|[54.Emotion Perception(情绪感知/情感预测)](#54)|[53.Dataset(数据集)](#53)|
+|[52. Image Generation/Synthesis(图像生成)](#52)|[51.Contrastive Learning(对比学习)](#51)|[50.OCR](#50)|[49.Adversarial Learning(对抗学习)](#49)|
+|[48.Image Representation(图像表示)](#48)|[47.Vision-Language(视觉语言)](#47)|[46.Human-Object Interaction(人物交互)](#46)|[45.Camera Localization(相机定位)](#45)|
+|[44. Image/video Captioning(图像/视频字幕)](#44)|[43.Active Learning(主动学习)](#43)|[42.Scene Flow Estimation(场景流估计)](#42)|[41. Representation Learning(表示学习（图像+字幕）)](#41)|
+|[40.Superpixel (超像素)](#40)|[39.Debiasing(去偏见)](#39)|[38.Class-Incremental learning(类增量学习)](#38)|[37.Continual Learning(持续学习)](#37)|
+|[36.Action Detection and Recognition(动作检测与识别)](#36)|[35.Image Clustering(图像聚类) ](#35)|[34.Image/Fine-Grained Classification(图像分类/细粒度分类)](#34)|[33.6D Pose Estimation(6D位姿估计)](#33)|
+|[32.View Synthesis(视图合成)](#32)|[31.Open-Set Recognition(开放集识别)](#31)|[30.Neural rendering(神经渲染)](#30)|[29.Human Pose Estimation(人体姿态估计)](#29)|
+|[28.Dense prediction(密集预测)](#28)|[27.Semantic Line Detection(语义线检测)](#27)|[26.Video Processing(视频相关技术)](#26)|[25.3D(三维视觉)](#25)|
+|[24.Reinforcement Learning(强化学习)](#24)|[23.Autonomous Driving(自动驾驶)](#23)|[22.Medical Imaging(医学影像)](#22)|[21.Transformer/Self-attention](#21)|
+|[20.Person Re-Identification(人员重识别)](#20)|[19.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#19）|[18.Aeria/Drones/Satellite/RS Image(航空影像/无人机)](#18)|[17.Super-Resolution(超分辨率)](#17)|
+|[16.Visual Question Answering(视觉问答)](#16)|[15.GAN](#15)|[14.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#14)|[13.Image/Video Retrieval(图像/视频检索)](#13)|
+|[12.Image Quality Assessment(图像质量评估)](#12)|[11. Face(人脸技术)](#11)|[10.Neural Architecture Search(神经架构搜索)](#10)|[9.Object Tracking(目标跟踪)](#9)
+|[8.Image Segmentation(图像分割)](#8)|[7.Object Detection(目标检测)](#7)|[6.Data Augmentation(数据增广)](#6)|[5.Anomaly Detection(异常检测)](#5)|
+|[4.Weakly Supervised/Semi-Supervised/Self-supervised/Unsupervised Learning(自/半/弱监督学习)](#4)|[3.Point Cloud(点云)](#3)|[2.Graph Neural Networks(图卷积网络GNN)](#2)|[1.Unkown(未分类)](#1)|
+
+<a name="71"/>
+
+## 71.Image-to-Image Translation(图像到图像翻译)
+* [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
 
 <a name="70"/>
 

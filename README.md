@@ -14,9 +14,15 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 728 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
-### :fireworks::fireworks::fireworks:更新提示：5月20日新增篇
+### :fireworks::fireworks::fireworks:更新提示：5月20日新增4篇
 * 图像到图像翻译
   * [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
+* 数据集
+  * [PPR10K: A Large-Scale Portrait Photo Retouching Dataset with Human-Region Mask and Group-Level Consistency](https://arxiv.org/abs/2105.09180)<br>:star:[code](https://github.com/csjliang/PPR10K)
+* Reid
+  * [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://arxiv.org/abs/2105.09156)
+* 分割
+  * [Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2105.08965)<br>:star:[code](https://github.com/halbielee/EPS)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月19日新增5篇
 * 分割
@@ -225,7 +231,9 @@
   * [Sewer-ML: A Multi-Label Sewer Defect Classification Dataset and Benchmark](https://arxiv.org/abs/2103.10895)<br>:house:[project](https://vap.aau.dk/sewer-ml/)
   * [Benchmarking Representation Learning for Natural World Image Collections](https://arxiv.org/abs/2103.16483)<br>:sunflower:[dataset](https://github.com/visipedia/newt)
   * [SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data](https://arxiv.org/abs/2105.08612)<br>:open_mouth:oral:sunflower:[dataset](http://sailvos.web.illinois.edu/_site/index.html)
- 
+ * 人脸图像修饰数据集
+  * [PPR10K: A Large-Scale Portrait Photo Retouching Dataset with Human-Region Mask and Group-Level Consistency](https://arxiv.org/abs/2105.09180)<br>:star:[code](https://github.com/csjliang/PPR10K)
+
 <a name="52"/>
 
 ## 52. Image Generation/Synthesis(图像生成)
@@ -716,6 +724,7 @@
 * [Unsupervised Multi-Source Domain Adaptation for Person Re-Identification](https://arxiv.org/abs/2104.12961)<br>:open_mouth:oral
 * [Spatial-Temporal Correlation and Topology Learning for Person Re-Identification in Videos](https://arxiv.org/abs/2104.08241)<br>:open_mouth:oral
 * [BiCnet-TKS: Learning Efficient Spatial-Temporal Representation for Video Person Re-Identification](https://arxiv.org/abs/2104.14783)<br>:star:[code](https://github.com/blue-blue272/BiCnet-TKS)
+* [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://arxiv.org/abs/2105.09156)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
  
@@ -1079,6 +1088,7 @@
   * [Semantic Segmentation with Generative Models: Semi-Supervised Learning and Strong Out-of-Domain Generalization](https://arxiv.org/abs/2104.05833)<br>:house:[project](https://nv-tlabs.github.io/semanticGAN/)
   * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)<br>实现夜间语义分割最先进性能，已开源。
   * [Self-supervised Augmentation Consistency for Adapting Semantic Segmentation](https://arxiv.org/abs/2105.00097)(https://github.com/visinf/da-sac)
+  * [Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2105.08965)<br>:star:[code](https://github.com/halbielee/EPS)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)

@@ -1294,7 +1294,7 @@
 - Single-Stage Instance Shadow Detection with Bidirectional Relation Learning<br>:open_mouth:oral:star:[code](https://github.com/stevewongv/SSIS)
 - [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/abs/2012.04324)<br>:open_mouth:oral
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
-- [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning]
+- [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning](https://arxiv.org/abs/2012.11552)<br>:star:[code](https://github.com/valeoai/obow):house:[project](https://valeoai.github.io/blog/publications/obow/)<br>
 - [Semantic Palette: Guiding Scene Generation with Class Proportions]
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)

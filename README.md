@@ -72,7 +72,7 @@
 |[32.View Synthesis(视图合成)](#32)|[31.Open-Set Recognition(开放集识别)](#31)|[30.Neural rendering(神经渲染)](#30)|[29.Human Pose Estimation(人体姿态估计)](#29)|
 |[28.Dense prediction(密集预测)](#28)|[27.Semantic Line Detection(语义线检测)](#27)|[26.Video Processing(视频相关技术)](#26)|[25.3D(三维视觉)](#25)|
 |[24.Reinforcement Learning(强化学习)](#24)|[23.Autonomous Driving(自动驾驶)](#23)|[22.Medical Imaging(医学影像)](#22)|[21.Transformer/Self-attention](#21)|
-|[20.Person Re-Identification(人员重识别)](#20)|[19.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#19）|[18.Aeria/Drones/Satellite/RS Image(航空影像/无人机)](#18)|[17.Super-Resolution(超分辨率)](#17)|
+|[20.Person Re-Identification(人员重识别)](#20)|[19.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)](#19)|[18.Aeria/Drones/Satellite/RS Image(航空影像/无人机)](#18)|[17.Super-Resolution(超分辨率)](#17)|
 |[16.Visual Question Answering(视觉问答)](#16)|[15.GAN](#15)|[14.Few-Shot/Zero-Shot Learning,Domain Generalization/Adaptation(小/零样本学习，域适应，域泛化)](#14)|[13.Image/Video Retrieval(图像/视频检索)](#13)|
 |[12.Image Quality Assessment(图像质量评估)](#12)|[11. Face(人脸技术)](#11)|[10.Neural Architecture Search(神经架构搜索)](#10)|[9.Object Tracking(目标跟踪)](#9)
 |[8.Image Segmentation(图像分割)](#8)|[7.Object Detection(目标检测)](#7)|[6.Data Augmentation(数据增广)](#6)|[5.Anomaly Detection(异常检测)](#5)|

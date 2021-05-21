@@ -14,6 +14,17 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 732 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：5月21日新增4篇
+* 视频压缩
+  * [FVC: A New Framework towards Deep Video Compression in Feature Space](https://arxiv.org/abs/2105.09600)<br>:open_mouth:oral
+* 目标检测
+  * [Generalized Few-Shot Object Detection without Forgetting](https://arxiv.org/abs/2105.09491)
+* 三维
+  * [Birds of a Feather: Capturing Avian Shape Models from Images](https://arxiv.org/abs/2105.09396)<br>:house:[project](https://yufu-wang.github.io/aves/):tv:[video](https://youtu.be/TDR2LC7mFpw)
+* Gaze Estimation
+  * [Weakly-Supervised Physically Unconstrained Gaze Estimation](https://arxiv.org/abs/2105.09803)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/weakly-supervised-gaze)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月20日新增4篇
 * 图像到图像翻译
   * [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
@@ -65,7 +76,8 @@
 
 |:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|
-|[Workshop征稿](#*)|[71.Image-to-Image Translation(图像到图像翻译)](#71)|[70.Trajectory Forecasting(轨迹预测)](#70)|[69.Transfer learning(迁移学习)](#69)|
+|[Workshop征稿](#*)|
+|[72.Gaze Estimation(视线估计)](#72)|[71.Image-to-Image Translation(图像到图像翻译)](#71)|[70.Trajectory Forecasting(轨迹预测)](#70)|[69.Transfer learning(迁移学习)](#69)|
 |[68.Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|[65.Style Transfer(风格迁移)](#65)
 |[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
 |[60. SLAM/AR/机器人](#60)|[59.深度学习模型](#59)|[58.Metric Learning(度量学习/相似度学习)](#58)|[57.Sign Language Recognition(手语识别)](#57)|
@@ -83,6 +95,11 @@
 |[12.Image Quality Assessment(图像质量评估)](#12)|[11. Face(人脸技术)](#11)|[10.Neural Architecture Search(神经架构搜索)](#10)|[9.Object Tracking(目标跟踪)](#9)
 |[8.Image Segmentation(图像分割)](#8)|[7.Object Detection(目标检测)](#7)|[6.Data Augmentation(数据增广)](#6)|[5.Anomaly Detection(异常检测)](#5)|
 |[4.Weakly Supervised/Semi-Supervised/Self-supervised/Unsupervised Learning(自/半/弱监督学习)](#4)|[3.Point Cloud(点云)](#3)|[2.Graph Neural Networks(图卷积网络GNN)](#2)|[1.Unkown(未分类)](#1)|
+
+<a name="72"/>
+
+## 72.Gaze Estimation(视线估计)
+* [Weakly-Supervised Physically Unconstrained Gaze Estimation](https://arxiv.org/abs/2105.09803)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/weakly-supervised-gaze)
 
 <a name="71"/>
 
@@ -548,6 +565,7 @@
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
 * 视频编解码
   * [MetaSCI: Scalable and Adaptive Reconstruction for Video Compressive Sensing](https://arxiv.org/abs/2103.01786)<br>:star:[code](https://github.com/xyvirtualgroup/MetaSCI-CVPR2021)
+  * [FVC: A New Framework towards Deep Video Compression in Feature Space](https://arxiv.org/abs/2105.09600)<br>:open_mouth:oral
 * 视频插帧
   * [FLAVR: Flow-Agnostic Video Representations for Fast Frame Interpolation](https://arxiv.org/pdf/2012.08512.pdf)<br>:star:[code](https://tarun005.github.io/FLAVR/Code):house:[project](https://tarun005.github.io/FLAVR/)<br>
   * [Deep Animation Video Interpolation in the Wild](https://arxiv.org/abs/2104.02495)<br>:star:[code](https://github.com/lisiyao21/AnimeInterp/)
@@ -617,6 +635,7 @@
   * [SCALE: Modeling Clothed Humans with a Surface Codec of Articulated Local Elements](https://arxiv.org/abs/2104.07660)<br>:house:[project](https://qianlim.github.io/SCALE):tv:[video](https://www.youtube.com/watch?v=-EvWqFCUb7U)
   * [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)<br>:house:[project](https://lasr-google.github.io/)
   * [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663)
+  * [Birds of a Feather: Capturing Avian Shape Models from Images](https://arxiv.org/abs/2105.09396)<br>:house:[project](https://yufu-wang.github.io/aves/):tv:[video](https://youtu.be/TDR2LC7mFpw)
 * 语义场景补全
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
 * 三维关键点
@@ -1162,7 +1181,7 @@
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>
   * [FSCE: Few-Shot Object Detection via Contrastive Proposal Encoding](https://arxiv.org/abs/2103.05950)<br>:star:[code](https://github.com/bsun0802/FSCE)
-  * [Generalized Few-Shot Object Detection without Forgetting]<br>粗解：[16](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Generalized Few-Shot Object Detection without Forgetting](https://arxiv.org/abs/2105.09491)<br>粗解：[16](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 多目标检测
   * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](http://multimodal-distill.cs.uni-freiburg.de/)<br>
 * 3D目标检测

@@ -15,6 +15,15 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+
+### :fireworks::fireworks::fireworks:更新提示：5月24日新增3篇
+* 分割
+  * [Omni-supervised Point Cloud Segmentation via Gradual Receptive Field Component Reasoning](https://arxiv.org/abs/2105.10203)
+* NAS
+  * [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://arxiv.org/abs/2105.10154)
+* 分类
+  * [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305)<br>:open_mouth:oral:star:[code](https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月21日新增4篇
 * 视频压缩
   * [FVC: A New Framework towards Deep Video Compression in Feature Space](https://arxiv.org/abs/2105.09600)<br>:open_mouth:oral
@@ -443,6 +452,7 @@
   * [Capsule Network is Not More Robust than Convolutional Network](https://arxiv.org/abs/2103.15459)
   * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
   * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
+  * [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305)<br>:open_mouth:oral:star:[code](https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet)
 * 半监督图像分类
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
 * 长尾视觉识别
@@ -1031,6 +1041,7 @@
 * [NetAdaptV2: Efficient Neural Architecture Search with Fast Super-Network Training and Architecture Optimization](https://arxiv.org/abs/2104.00031)<br>:house:[project](http://web.mit.edu/netadapt/)
 * [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * [Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search](https://arxiv.org/abs/2104.05309)<br>:star:[code](https://github.com/kcyu2014/nas-landmarkreg)
+* [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://arxiv.org/abs/2105.10154)
 
 <a name="9"/> 
 
@@ -1152,6 +1163,8 @@
   * [Camouflaged Object Segmentation with Distraction Mining](https://arxiv.org/abs/2104.10475)<br>:house:[project](https://mhaiyang.github.io/CVPR2021_PFNet/index)
 * 视频抠图
   * [Deep Video Matting via Spatio-Temporal Alignment and Aggregation](https://arxiv.org/abs/2104.11208)<br>:sunflower:[dataset](https://github.com/nowsyn/DVM)
+* 点云分割
+  * [Omni-supervised Point Cloud Segmentation via Gradual Receptive Field Component Reasoning](https://arxiv.org/abs/2105.10203)
 
 <a name="7"/> 
 

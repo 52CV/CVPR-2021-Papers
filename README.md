@@ -14,7 +14,17 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 736+3 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：5月25日新增5篇
 
+* 模型压缩
+  * [Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
+  * [BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)
+* 域泛化
+  * [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120)<br>:open_mouth:oral
+* 人脸
+  * [Dynamic Class Queue for Large Scale Face Recognition In the Wild](https://arxiv.org/abs/2105.11113)<br>:star:[code](https://github.com/bilylee/DCQ)
+* 去噪
+  * [FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise](https://arxiv.org/abs/2105.10967)<br>:star:[code](https://github.com/csm9493/FBI-Denoiser)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月24日新增3篇
 * 分割
@@ -769,6 +779,8 @@
   * [Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
   * [Neural Response Interpretation through the Lens of Critical Pathways](https://arxiv.org/abs/2103.16886)<br>:star:[code](https://github.com/CAMP-eXplain-AI/PathwayGrad)|[code](https://github.com/CAMP-eXplain-AI/RoarTorch)
   * [Riggable 3D Face Reconstruction via In-Network Optimization](https://arxiv.org/abs/2104.03438)
+  * [Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
+  * [BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)
 * 模型扩展
   * [Fast and Accurate Model Scaling](https://arxiv.org/abs/2103.06877)<br>:star:[code](https://github.com/facebookresearch/pycls)
 * 量化  
@@ -880,6 +892,7 @@
   * [Domain Generalization via Inference-time Label-Preserving Target Projections](https://arxiv.org/abs/2103.01134)
   * [Adaptive Methods for Real-World Domain Generalization](https://arxiv.org/abs/2103.15796)<br>:open_mouth: Oral
   * [Progressive Domain Expansion Network for Single Domain Generalization](https://arxiv.org/abs/2103.16050)<br>:star:[code](https://github.com/lileicv/PDEN)
+  * [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120)<br>:open_mouth:oral
 * 零样本学习
   * [Goal-Oriented Gaze Estimation for Zero-Shot Learning](https://arxiv.org/abs/2103.03433):star:[code](https://github.com/osierboy/GEM-ZSL)
   * [Contrastive Embedding for Generalized Zero-Shot Learning](https://arxiv.org/abs/2103.16173)<br>:star:[code](https://github.com/Hanzy1996/CE-GZSL)
@@ -941,6 +954,7 @@
   * [Neighbor2Neighbor: Self-Supervised Denoising from Single Noisy Images](https://arxiv.org/abs/2101.02824)<br>解读：[CVPR 2021 | Neighbor2Neighbor：仅需噪声图像即可训练任意降噪网络的方法](https://mp.weixin.qq.com/s/Eg7vbjTILSd1Si3HSyz3CA)
   * [NBNet: Noise Basis Learning for Image Denoising with Subspace Projection](https://arxiv.org/abs/2012.15028)<br>粗解：[9](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
   * [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/abs/2104.10546)<br>:star:[code](https://github.com/Yang-Liu1082/InvDN)
+  * [FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise](https://arxiv.org/abs/2105.10967)<br>:star:[code](https://github.com/csm9493/FBI-Denoiser)
 * 去雨Deraining
   * [Semi-Supervised Video Deraining with Dynamic Rain Generator](https://arxiv.org/abs/2103.07939)
   * [Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://arxiv.org/abs/2103.13660)
@@ -987,6 +1001,7 @@
   * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
   * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
   * [FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems](https://arxiv.org/abs/2104.04107)
+  * [Dynamic Class Queue for Large Scale Face Recognition In the Wild](https://arxiv.org/abs/2105.11113)<br>:star:[code](https://github.com/bilylee/DCQ)
 * 合成人脸（Deepfake/Face Forgery）检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
   * [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)

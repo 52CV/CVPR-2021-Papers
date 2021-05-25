@@ -14,8 +14,10 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 736+3 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
-### :fireworks::fireworks::fireworks:更新提示：5月25日新增5篇
+### :fireworks::fireworks::fireworks:更新提示：5月25日新增6篇
 
+* 视觉定位
+  * [VS-Net: Voting with Segmentation for Visual Localization](https://arxiv.org/abs/2105.10886)<br>:star:[code](https://github.com/zju3dv/VS-Net):house:[project](https://drinkingcoder.github.io/publication/vs-net/):tv:[video](https://youtu.be/5WLEyyLdxAs)
 * 模型压缩
   * [Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
   * [BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)
@@ -344,6 +346,8 @@
 - [Robust Neural Routing Through Space Partitions for Camera Relocalization in Dynamic Indoor Environments](https://arxiv.org/abs/2012.04746)<br>:open_mouth:oral
 - [Back to the Feature: Learning Robust Camera Localization from Pixels to Pose](https://arxiv.org/abs/2103.09213)<br>:star:[code](https://github.com/cvg/pixloc)
 - [Learning Camera Localization via Dense Scene Matching](https://arxiv.org/abs/2103.16792)<br>:star:[code](https://github.com/Tangshitao/Dense-Scene-Matching)
+* 视觉定位
+  * [VS-Net: Voting with Segmentation for Visual Localization](https://arxiv.org/abs/2105.10886)<br>:star:[code](https://github.com/zju3dv/VS-Net):house:[project](https://drinkingcoder.github.io/publication/vs-net/):tv:[video](https://youtu.be/5WLEyyLdxAs)
 
 <a name="44"/>
 

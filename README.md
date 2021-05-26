@@ -14,6 +14,14 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 739+6 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：5月26日新增3篇
+* NAS
+  * [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://arxiv.org/abs/2105.11871)<br>:sunflower:[dataset](https://download.mindspore.cn/dataset/TransNAS-Bench-101/)
+* 三维
+  * [Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance](https://arxiv.org/abs/2105.11599)<br>:star:[code](https://github.com/za-cheng/PM-PMVS/)
+* 跟踪
+  * [SiamMOT: Siamese Multi-Object Tracking](https://arxiv.org/abs/2105.11595)<br>:star:[code](https://github.com/amazon-research/siam-mot)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月25日新增6篇
 
 * 视觉定位
@@ -660,6 +668,7 @@
   * [LASR: Learning Articulated Shape Reconstruction from a Monocular Video](https://arxiv.org/abs/2105.02976)<br>:house:[project](https://lasr-google.github.io/)
   * [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663)
   * [Birds of a Feather: Capturing Avian Shape Models from Images](https://arxiv.org/abs/2105.09396)<br>:house:[project](https://yufu-wang.github.io/aves/):tv:[video](https://youtu.be/TDR2LC7mFpw)
+  * [Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance](https://arxiv.org/abs/2105.11599)<br>:star:[code](https://github.com/za-cheng/PM-PMVS/)
 * 语义场景补全
   * [Semantic Scene Completion via Integrating Instances and Scene in-the-Loop](https://arxiv.org/abs/2104.03640)<br>:star:[code](https://github.com/yjcaimeow/SISNet)
 * 三维关键点
@@ -1061,6 +1070,7 @@
 * [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * [Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search](https://arxiv.org/abs/2104.05309)<br>:star:[code](https://github.com/kcyu2014/nas-landmarkreg)
 * [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://arxiv.org/abs/2105.10154)
+* [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://arxiv.org/abs/2105.11871)<br>:sunflower:[dataset](https://download.mindspore.cn/dataset/TransNAS-Bench-101/)
 
 <a name="9"/> 
 
@@ -1077,6 +1087,7 @@
   * [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)<br>:star:[code](https://github.com/daip13/LPC_MOT)
   * [Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking](https://arxiv.org/abs/2103.16178)<br>:star:[code](https://github.com/jiaweihe1996/GMTracker)
   * [Online Multiple Object Tracking with Cross-Task Synergy](https://arxiv.org/abs/2104.00380)<br>:star:[code](https://github.com/songguocode/TADAM)
+  * [SiamMOT: Siamese Multi-Object Tracking](https://arxiv.org/abs/2105.11595)<br>:star:[code](https://github.com/amazon-research/siam-mot)
 * 视觉目标跟踪
   * [IoU Attack: Towards Temporally Coherent Black-Box Adversarial Attack for Visual Object Tracking](https://arxiv.org/abs/2103.14938)<br>:star:[code](https://github.com/VISION-SJTU/IoUattack)
   * [Learning to Track Instances without Video Annotations](https://arxiv.org/abs/2104.00287)<br>:open_mouth:oral:house:[project](https://oasisyang.github.io/projects/semi-track/index.html):tv:[video](https://youtu.be/-S7xtk-7pGk)

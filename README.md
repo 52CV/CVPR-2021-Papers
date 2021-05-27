@@ -14,6 +14,15 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 748 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：5月27日新增3篇
+* 动作识别
+  * [Anticipating human actions by correlating past with the future with Jaccard similarity measures](https://arxiv.org/abs/2105.12414)
+* 分割
+  * [Unsupervised Part Segmentation through Disentangling Appearance and Shape](https://arxiv.org/abs/2105.12405)
+* 手语
+  * [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](https://arxiv.org/abs/2105.12397)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月26日新增3篇
 * NAS
   * [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://arxiv.org/abs/2105.11871)<br>:sunflower:[dataset](https://download.mindspore.cn/dataset/TransNAS-Bench-101/)
@@ -43,62 +52,6 @@
   * [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://arxiv.org/abs/2105.10154)
 * 分类
   * [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305)<br>:open_mouth:oral:star:[code](https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet)
-
-### :fireworks::fireworks::fireworks:更新提示：5月21日新增4篇
-* 视频压缩
-  * [FVC: A New Framework towards Deep Video Compression in Feature Space](https://arxiv.org/abs/2105.09600)<br>:open_mouth:oral
-* 目标检测
-  * [Generalized Few-Shot Object Detection without Forgetting](https://arxiv.org/abs/2105.09491)
-* 三维
-  * [Birds of a Feather: Capturing Avian Shape Models from Images](https://arxiv.org/abs/2105.09396)<br>:house:[project](https://yufu-wang.github.io/aves/):tv:[video](https://youtu.be/TDR2LC7mFpw)
-* Gaze Estimation
-  * [Weakly-Supervised Physically Unconstrained Gaze Estimation](https://arxiv.org/abs/2105.09803)<br>:open_mouth:oral:star:[code](https://github.com/NVlabs/weakly-supervised-gaze)
-
-### :fireworks::fireworks::fireworks:更新提示：5月20日新增4篇
-* 图像到图像翻译
-  * [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
-* 数据集
-  * [PPR10K: A Large-Scale Portrait Photo Retouching Dataset with Human-Region Mask and Group-Level Consistency](https://arxiv.org/abs/2105.09180)<br>:star:[code](https://github.com/csjliang/PPR10K)
-* Reid
-  * [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://arxiv.org/abs/2105.09156)
-* 分割
-  * [Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2105.08965)<br>:star:[code](https://github.com/halbielee/EPS)
-
-### :fireworks::fireworks::fireworks:更新提示：5月19日新增5篇
-* 分割
-  * [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)<br>:star:[code](https://github.com/jd730/EOPSN):house:[project](https://cv.snu.ac.kr/research/EOPSN/)
-* 域适应
-  * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128)
-* 数据集
-  * [SAIL-VOS 3D: A Synthetic Dataset and Baselines for Object Detection and 3D Mesh Reconstruction from Video Data](https://arxiv.org/abs/2105.08612)<br>:open_mouth:oral:sunflower:[dataset](http://sailvos.web.illinois.edu/_site/index.html)
-* 场景流估计
-  * [Self-Point-Flow: Self-Supervised Scene Flow Estimation from Point Clouds with Optimal Transport and Random Walk](https://arxiv.org/abs/2105.08248)<br>:open_mouth:oral
-* VQA
-  * [NExT-QA: Next Phase of Question-Answering to Explaining Temporal Actions](https://arxiv.org/abs/2105.08276)<br>:star:[code](https://github.com/doc-doc/NExT-QA)
-
-### :fireworks::fireworks::fireworks:更新提示：5月18日新增6篇
-
-* 检索
-  * [Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing](https://arxiv.org/abs/2105.07553)<br>:star:[code](https://github.com/xunguangwang/ProS-GAN)
-* 域适应
-  * [Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830)<br>:star:[code](https://github.com/susaha/ctrl-uda)
-* 无监督
-  * [SMURF: Self-Teaching Multi-Frame Unsupervised RAFT with Full-Image Warping](https://arxiv.org/abs/2105.07014)<br>:star:[code](https://github.com/google-research/google-research/tree/master/smurf)
-* 连续学习
-  * [Layerwise Optimization by Gradient Decomposition for Continual Learning](https://arxiv.org/abs/2105.07561)
-* 场景流估计
-  * [HCRF-Flow: Scene Flow from Point Clouds with Continuous High-order CRFs and Position-aware Flow Embedding](https://arxiv.org/abs/2105.07751)
-* SLAM
-  * [Differentiable SLAM-net: Learning Particle SLAM for Visual Navigation](https://arxiv.org/abs/2105.07593)<br>:house:[project](https://sites.google.com/view/slamnet):tv:[video](https://youtu.be/dk1fdtf3fNI)
-
-### :fireworks::fireworks::fireworks:更新提示：5月17日新增3篇
-
-* 分割
-  * [Omnimatte: Associating Objects and Their Effects in Video](https://arxiv.org/abs/2105.06993)<br>:open_mouth:oral:house:[project](https://omnimatte.github.io/)
-* 动作检测
-  * [Collaborative Spatial-Temporal Modeling for Language-Queried Video Actor Segmentation](https://arxiv.org/abs/2105.06818)
-* 三维
-  * [Sketch2Model: View-Aware 3D Modeling from Single Free-Hand Sketches](https://arxiv.org/abs/2105.06663)
 
 
 # 目录
@@ -248,6 +201,8 @@
   * [Skeleton Based Sign Language Recognition Using Whole-body Keypoints](https://arxiv.org/abs/2103.08833)<br>:star:[code](https://github.com/jackyjsy/CVPR21Chal-SLR)
   * [Read and Attend: Temporal Localisation in Sign Language Videos](https://arxiv.org/abs/2103.16481)<br>:house:[project](https://www.robots.ox.ac.uk/~vgg/research/bslattend/)
   * [Fingerspelling Detection in American Sign Language](https://arxiv.org/abs/2104.01291)
+* 手语翻译
+  * [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](https://arxiv.org/abs/2105.12397)
 
 <a name="56"/>
 
@@ -438,6 +393,7 @@
 * [Beyond Short Clips: End-to-End Video-Level Learning with Collaborative Memories](https://arxiv.org/abs/2104.01198)
 * [Motion Representations for Articulated Animation](https://arxiv.org/abs/2104.11280)<br>:star:[code](https://github.com/snap-research/articulated-animation):house:[project](https://snap-research.github.io/articulated-animation/):tv:[video](https://www.youtube.com/watch?v=gpBYN8t8_yY)
 * [Home Action Genome: Cooperative Compositional Action Understanding](https://arxiv.org/abs/2105.05226)
+* [Anticipating human actions by correlating past with the future with Jaccard similarity measures](https://arxiv.org/abs/2105.12414)
 * 时序动作定位
   * [Modeling Multi-Label Action Dependencies for Temporal Action Localization](https://arxiv.org/abs/2103.03027)<br>:open_mouth:oral<br>提出基于注意力的网络架构来学习视频中的动作依赖性，用于解决多标签时间动作定位任务。
   * Learning Salient Boundary Feature for Anchor-free Temporal Action Localization<br>基于显著边界特征学习的无锚框时序动作定位<br>解读：[10](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -1106,6 +1062,7 @@
 * [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://arxiv.org/abs/2103.16284)
 * [InverseForm: A Loss Function for Structured Boundary-Aware Segmentation](https://arxiv.org/abs/2104.02745)<br>:open_mouth:oral
 * [Omnimatte: Associating Objects and Their Effects in Video](https://arxiv.org/abs/2105.06993)<br>:open_mouth:oral:house:[project](https://omnimatte.github.io/)
+* [Unsupervised Part Segmentation through Disentangling Appearance and Shape](https://arxiv.org/abs/2105.12405)
 * 实例分割
   * [Zero-Shot Instance Segmentation](https://arxiv.org/abs/2104.06601)<br>:star:[code](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)

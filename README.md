@@ -15,6 +15,15 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+
+### :fireworks::fireworks::fireworks:更新提示：5月28日新增3篇
+
+* 未分
+  * [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
+* 目标检测
+  * [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://arxiv.org/abs/2105.12990)
+  * [Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation](https://arxiv.org/abs/2105.12971)
+
 ### :fireworks::fireworks::fireworks:更新提示：5月27日新增3篇
 * 动作识别
   * [Anticipating human actions by correlating past with the future with Jaccard similarity measures](https://arxiv.org/abs/2105.12414)
@@ -1177,6 +1186,8 @@
 * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
 * [IQDet: Instance-wise Quality Distribution Sampling for Object Detection](https://arxiv.org/abs/2104.06936)<br>粗解：[20](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * [Domain-Specific Suppression for Adaptive Object Detection](https://arxiv.org/abs/2105.03570)
+* [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://arxiv.org/abs/2105.12990)
+* [Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation](https://arxiv.org/abs/2105.12971)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>
@@ -1380,7 +1391,7 @@
 * [DriveGAN: Towards a Controllable High-Quality Neural Simulation](https://arxiv.org/abs/2104.15060)<br>:open_mouth:oral
 * [Faster Meta Update Strategy for Noise-Robust Deep Learning](https://arxiv.org/abs/2104.15092)<br>:star:[code](https://github.com/youjiangxu/FaMUS)
 * [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/abs/2105.03211)<br>:star:[code](https://github.com/zhou13/nerd)
-
+* [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
 
 <a name="*"/>
 

@@ -14,7 +14,13 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 754 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
-
+### :fireworks::fireworks::fireworks:更新提示：5月31日新增3篇
+* 深度估计
+  * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:house:[project](http://yaksoy.github.io/highresdepth/)
+* 场景图合成
+  * [Linguistic Structures as Weak Supervision for Visual Scene Graph Generation](https://arxiv.org/abs/2105.13994)<br>:star:[code](https://github.com/yekeren/WSSGG)
+* 车道线检测
+  * [Focus on Local: Detecting Lane Marker from Bottom Up via Key Point](https://arxiv.org/abs/2105.13680)
 
 ### :fireworks::fireworks::fireworks:更新提示：5月28日新增3篇
 
@@ -621,6 +627,8 @@
   * [Self-supervised Learning of Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2104.02972)<br>:star:[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
   * [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/abs/2104.03866)<br>:star:[code](https://github.com/fabiotosi92/SMD-Nets)
   * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
+  * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:house:[project](http://yaksoy.github.io/highresdepth/)
+* 场景图合成
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
   * [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449)<br>:house:[project](https://sites.google.com/view/humanmeshboa)
@@ -666,6 +674,7 @@
 * 车道线预测
   * [LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents](https://arxiv.org/abs/2104.00249)
   * [Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction](https://arxiv.org/abs/2104.08277)<br>:open_mouth:oral
+  * [Focus on Local: Detecting Lane Marker from Bottom Up via Key Point](https://arxiv.org/abs/2105.13680)
 * 轨迹预测
   * [SGCN:Sparse Graph Convolution Network for Pedestrian Trajectory Prediction](https://arxiv.org/abs/2104.01528)<br>:star:[code](https://github.com/shuaishiliu/SGCN)
 
@@ -1127,6 +1136,7 @@
     * [Exploiting Edge-Oriented Reasoning for 3D Point-based Scene Graph Analysis](https://arxiv.org/abs/2103.05558)<br>:house:[project](https://sggpoint.github.io/)<br>利用面向边缘的推理进行基于3D点的场景图分析---场景理解
     * [Fully Convolutional Scene Graph Generation](https://arxiv.org/abs/2103.16083)<br>:open_mouth:oral
     * [Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation](https://arxiv.org/abs/2104.00308)<br>:star:[code](https://github.com/Scarecrow0/BGNN-SGG)
+    * [Linguistic Structures as Weak Supervision for Visual Scene Graph Generation](https://arxiv.org/abs/2105.13994)<br>:star:[code](https://github.com/yekeren/WSSGG)
 * 抠图
   * [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）<br>解读：[单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位](https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA)<br>[最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）](https://zhuanlan.zhihu.com/p/337028483)
 * 动作分割

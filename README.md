@@ -1206,19 +1206,19 @@
 * 多目标检测
   * [There is More than Meets the Eye: Self-Supervised Multi-Object Detection and Tracking with Sound by Distilling Multimodal Knowledge](https://arxiv.org/abs/2103.01353)<br>:house:[project](http://multimodal-distill.cs.uni-freiburg.de/)<br>
 * 3D目标检测
-  * [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>:open_mouth:oral<br>
+  * [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>:open_mouth:oral:star:[code](https://github.com/TRAILab/CaDDN)
   * [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2012.04355)<br>:star:[code](https://github.com/thu17cyz/3DIoUMatch):house:[project](https://thu17cyz.github.io/3DIoUMatch/):tv:[video](https://youtu.be/nuARjhkQN2U)<br>更多：[CVPR 2021|利用IoU预测进行半监督式3D目标检测](https://zhuanlan.zhihu.com/p/354618636)
   * [ST3D: Self-training for Unsupervised Domain Adaptation on 3D ObjectDetection](https://arxiv.org/abs/2103.05346)<br>:star:[code](https://github.com/CVMI-Lab/ST3D)
   * [Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16470)<br>:star:[code](https://github.com/fudan-zvg/DDMP)
   * [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
   * [M3DSSD: Monocular 3D Single Stage Object Detector](https://arxiv.org/abs/2103.13164)<br>:star:[code](https://github.com/mumianyuxin/M3DSSD)
-  * [GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection](https://arxiv.org/abs/2103.17202)<br>:star:[code](https://github.com/abhi1kumar/groomed_nms):tv:[video](https://www.youtube.com/watch?v=PWctKkyWrno)<br>作者提出并集成GrooMeD-NMS--一种新颖的分组数学可区分的NMS，用于单眼3D物体检测，在KITTI基准数据集上实现了最先进的单眼3D物体检测结果，表现与基于单眼视频的方法相当。
+  * [GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection](https://arxiv.org/abs/2103.17202)<br>:star:[code](https://github.com/abhi1kumar/groomed_nms):tv:[video](https://www.youtube.com/watch?v=PWctKkyWrno)<br>提出并集成 GrooMeD-NMS，用于单目3D目标检测。解决了训练和推理管道之间的不匹配问题，在 KITTI 基准数据集上实现最先进的单目3D目标检测结果，表现与基于单目视频的方法相当。
   * [LiDAR R-CNN: An Efficient and Universal 3D Object Detector](https://arxiv.org/abs/2103.15297)<br>:star:[code](https://github.com/tusimple/LiDAR_RCNN)
   * [Exploring intermediate representation for monocular vehicle pose estimation](https://arxiv.org/abs/2011.08464)<br>:star:[code](https://github.com/Nicholasli1995/EgoNet)
   * [Delving into Localization Errors for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16237)<br>:star:[code](https://github.com/xinzhuma/monodle)
-  * [HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902)
+  * [HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/HVPR/)
   * [Objects are Different: Flexible Monocular 3D Object Detection](https://arxiv.org/abs/2104.02323)<br>:star:[code](https://github.com/zhangyp15/MonoFlex)
-  * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052)
+  * [Back-tracing Representative Points for Voting-based 3D Object Detection in Point Clouds](https://arxiv.org/abs/2104.06114)<br>:star:[code](https://github.com/cheng052/BRNet)
   * [PointAugmenting: Cross-Modal Augmentation for 3D Object Detection](https://vision.sjtu.edu.cn/files/cvpr21_pointaugmenting.pdf)<br>分享会
   * [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)<br>提出 Self-Ensembling Single-Stage object Detector（SE-SSD），用于在室外点云中进行准确和有效的 3D 目标检测。关键在于利用 soft 和 hard targets 与所制定的约束条件来共同优化模型，而不在推理中引入额外的计算。与之前的所有作品相比，SE-SSD 达到了顶级性能。此外，它在 KITTI 基准中的汽车检测中获得了最高的精度（分别在 BEV 和 3D 排行榜上排名第一和第二），并具有超高的推理速度。
 * 旋转目标检测

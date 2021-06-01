@@ -1312,6 +1312,7 @@
   * [Cycle4Completion: Unpaired Point Cloud Completion using Cycle Transformation with Missing Region Coding](https://arxiv.org/abs/2103.07838)
   * [Denoise and Contrast for Category Agnostic Shape Completion](https://arxiv.org/abs/2103.16671)<br>:star:[code](https://github.com/antoalli/Deco)
   * [Variational Relational Point Completion Network](https://arxiv.org/abs/2104.10154)<br>:open_mouth:oral:star:[code](https://github.com/paul007pl/VRCNet):house:[project](https://paul007pl.github.io/projects/VRCNet.html)
+  * [Unsupervised 3D Shape Completion through GAN Inversion](https://arxiv.org/abs/2104.13366)<br>:star:[code](https://github.com/junzhezhang/shape-inversion):house:[project](https://junzhezhang.github.io/projects/ShapeInversion/)
 * 点云关键点检测
   * [Skeleton Merger: an Unsupervised Aligned Keypoint Detector](https://arxiv.org/abs/2103.10814)<br>:star:[code](https://github.com/eliphatfs/SkeletonMerger)
 * 3D点云

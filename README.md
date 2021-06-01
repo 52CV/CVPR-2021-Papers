@@ -14,6 +14,15 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 757 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：6月1日新增3篇
+* 未分
+  * [Scene-aware Generative Network for Human Motion Synthesis](https://arxiv.org/abs/2105.14804)
+* 视频描述
+  * [Towards Diverse Paragraph Captioning for Untrimmed Videos](https://arxiv.org/abs/2105.14477)<br>:star:[code](https://github.com/syuqings/video-paragraph)
+* 姿态估计
+  * [FCPose: Fully Convolutional Multi-Person Pose Estimation with Dynamic Instance-Aware Convolutions](https://arxiv.org/abs/2105.14185)<br>:star:[code](https://git.io/AdelaiDet)<br>FCPose，无 ROI 和无分组的端到端可训练人体姿势估计器可以达到更好的准确性和速度，在 COCO 数据集上，使用 DLA-34 主干的 FCPose 实时版本比 Mask R-CNN（ResNet-101）快 4.5 倍（41.67FPS vs. 9.26FPS），同时实现了性能的提高。与最近的自上而下和自下而上的方法相比，FCPose 还实现了更好的速度/准确度权衡。
+
 ### :fireworks::fireworks::fireworks:更新提示：5月31日新增3篇
 * 深度估计
   * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:house:[project](http://yaksoy.github.io/highresdepth/)
@@ -540,6 +549,8 @@
   * [We are More than Our Joints: Predicting how 3D Bodies Move](https://arxiv.org/pdf/2012.00619.pdf)<br>:house:[project](https://yz-cnsdqz.github.io/MOJO/MOJO.html):tv:[video](https://youtu.be/5DqLWAb37X0)<br>分享会
 * 人体运动捕捉
   * [Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)<br>:open_mouth:oral:house:[project](http://www.liuyebin.com/Function4D/Function4D.html):tv:[video](https://www.youtube.com/watch?v=-rWUn4fEQNU)
+* 多人姿态估计
+  * [FCPose: Fully Convolutional Multi-Person Pose Estimation with Dynamic Instance-Aware Convolutions](https://arxiv.org/abs/2105.14185)<br>:star:[code](https://git.io/AdelaiDet)<br>FCPose，无 ROI 和无分组的端到端可训练人体姿势估计器可以达到更好的准确性和速度，在 COCO 数据集上，使用 DLA-34 主干的 FCPose 实时版本比 Mask R-CNN（ResNet-101）快 4.5 倍（41.67FPS vs. 9.26FPS），同时实现了性能的提高。与最近的自上而下和自下而上的方法相比，FCPose 还实现了更好的速度/准确度权衡。
 
 <a name="28"/>
 
@@ -599,6 +610,8 @@
   * [Ego-Exo: Transferring Visual Representations from Third-person to First-person Videos](https://arxiv.org/abs/2104.07905)
 * Action Selection Learning
   * [Weakly Supervised Action Selection Learning in Video](https://arxiv.org/abs/2105.02439)<br>:star:[code](https://github.com/layer6ai-labs/ASL)
+* 视频描述
+  * [Towards Diverse Paragraph Captioning for Untrimmed Videos](https://arxiv.org/abs/2105.14477)<br>:star:[code](https://github.com/syuqings/video-paragraph)
 
 <a name="25"/>
 
@@ -1402,6 +1415,7 @@
 * [Faster Meta Update Strategy for Noise-Robust Deep Learning](https://arxiv.org/abs/2104.15092)<br>:star:[code](https://github.com/youjiangxu/FaMUS)
 * [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/abs/2105.03211)<br>:star:[code](https://github.com/zhou13/nerd)
 * [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
+* [Scene-aware Generative Network for Human Motion Synthesis](https://arxiv.org/abs/2105.14804)
 
 <a name="*"/>
 

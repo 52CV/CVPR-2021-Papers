@@ -640,7 +640,7 @@
   * [Self-supervised Learning of Depth Inference for Multi-view Stereo](https://arxiv.org/abs/2104.02972)<br>:star:[code](https://github.com/JiayuYANG/Self-supervised-CVP-MVSNet)
   * [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/abs/2104.03866)<br>:star:[code](https://github.com/fabiotosi92/SMD-Nets)
   * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
-  * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:house:[project](http://yaksoy.github.io/highresdepth/)
+  * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:star:[code](https://github.com/compphoto/BoostingMonocularDepth):house:[project](http://yaksoy.github.io/highresdepth/):tv:[video](https://youtu.be/lDeI17pHlqo)
 * 场景图合成
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)

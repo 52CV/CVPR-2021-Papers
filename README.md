@@ -15,6 +15,15 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+
+### :fireworks::fireworks::fireworks:更新提示：6月3日新增3篇
+* 分割
+  * [Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision](https://arxiv.org/abs/2106.01226)<br>:star:[code](https://github.com/charlesCXK/TorchSemiSeg)
+* 分类
+  * [Towards Robust Classification Model by Counterfactual and Invariant Data Generation](https://arxiv.org/abs/2106.01127)<br>:star:[code](https://github.com/zzzace2000/robust_cls_model)
+* 医学
+  * [Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035)<br>:star:[code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment)
+
 ### :fireworks::fireworks::fireworks:更新提示：6月1日新增3篇
 * 未分
   * [Scene-aware Generative Network for Human Motion Synthesis](https://arxiv.org/abs/2105.14804)
@@ -23,59 +32,6 @@
 * 姿态估计
   * [FCPose: Fully Convolutional Multi-Person Pose Estimation with Dynamic Instance-Aware Convolutions](https://arxiv.org/abs/2105.14185)<br>:star:[code](https://git.io/AdelaiDet)<br>FCPose，无 ROI 和无分组的端到端可训练人体姿势估计器可以达到更好的准确性和速度，在 COCO 数据集上，使用 DLA-34 主干的 FCPose 实时版本比 Mask R-CNN（ResNet-101）快 4.5 倍（41.67FPS vs. 9.26FPS），同时实现了性能的提高。与最近的自上而下和自下而上的方法相比，FCPose 还实现了更好的速度/准确度权衡。
 
-### :fireworks::fireworks::fireworks:更新提示：5月31日新增3篇
-* 深度估计
-  * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:house:[project](http://yaksoy.github.io/highresdepth/)
-* 场景图合成
-  * [Linguistic Structures as Weak Supervision for Visual Scene Graph Generation](https://arxiv.org/abs/2105.13994)<br>:star:[code](https://github.com/yekeren/WSSGG)
-* 车道线检测
-  * [Focus on Local: Detecting Lane Marker from Bottom Up via Key Point](https://arxiv.org/abs/2105.13680)
-
-### :fireworks::fireworks::fireworks:更新提示：5月28日新增3篇
-
-* 未分
-  * [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
-* 目标检测
-  * [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://arxiv.org/abs/2105.12990)
-  * [Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation](https://arxiv.org/abs/2105.12971)
-
-### :fireworks::fireworks::fireworks:更新提示：5月27日新增3篇
-* 动作识别
-  * [Anticipating human actions by correlating past with the future with Jaccard similarity measures](https://arxiv.org/abs/2105.12414)
-* 分割
-  * [Unsupervised Part Segmentation through Disentangling Appearance and Shape](https://arxiv.org/abs/2105.12405)
-* 手语
-  * [Improving Sign Language Translation with Monolingual Data by Sign Back-Translation](https://arxiv.org/abs/2105.12397)
-
-### :fireworks::fireworks::fireworks:更新提示：5月26日新增3篇
-* NAS
-  * [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://arxiv.org/abs/2105.11871)<br>:sunflower:[dataset](https://download.mindspore.cn/dataset/TransNAS-Bench-101/)
-* 三维
-  * [Multi-view 3D Reconstruction of a Texture-less Smooth Surface of Unknown Generic Reflectance](https://arxiv.org/abs/2105.11599)<br>:star:[code](https://github.com/za-cheng/PM-PMVS/)
-* 跟踪
-  * [SiamMOT: Siamese Multi-Object Tracking](https://arxiv.org/abs/2105.11595)<br>:star:[code](https://github.com/amazon-research/siam-mot)
-
-### :fireworks::fireworks::fireworks:更新提示：5月25日新增6篇
-
-* 视觉定位
-  * [VS-Net: Voting with Segmentation for Visual Localization](https://arxiv.org/abs/2105.10886)<br>:star:[code](https://github.com/zju3dv/VS-Net):house:[project](https://drinkingcoder.github.io/publication/vs-net/):tv:[video](https://youtu.be/5WLEyyLdxAs)
-* 模型压缩
-  * [Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
-  * [BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)
-* 域泛化
-  * [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120)<br>:open_mouth:oral
-* 人脸
-  * [Dynamic Class Queue for Large Scale Face Recognition In the Wild](https://arxiv.org/abs/2105.11113)<br>:star:[code](https://github.com/bilylee/DCQ)
-* 去噪
-  * [FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise](https://arxiv.org/abs/2105.10967)<br>:star:[code](https://github.com/csm9493/FBI-Denoiser)
-
-### :fireworks::fireworks::fireworks:更新提示：5月24日新增3篇
-* 分割
-  * [Omni-supervised Point Cloud Segmentation via Gradual Receptive Field Component Reasoning](https://arxiv.org/abs/2105.10203)
-* NAS
-  * [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://arxiv.org/abs/2105.10154)
-* 分类
-  * [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305)<br>:open_mouth:oral:star:[code](https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet)
 
 
 # 目录
@@ -455,6 +411,7 @@
   * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
   * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
   * [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305)<br>:open_mouth:oral:star:[code](https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet)
+  * [Towards Robust Classification Model by Counterfactual and Invariant Data Generation](https://arxiv.org/abs/2106.01127)<br>:star:[code](https://github.com/zzzace2000/robust_cls_model)
 * 半监督图像分类
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
 * 长尾视觉识别
@@ -710,6 +667,8 @@
   * [Every Annotation Counts: Multi-label Deep Supervision for Medical Image Segmentation](https://arxiv.org/abs/2104.13243)
 * 医学图像合成
   * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
+* 手术技能评估
+  * [Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035)<br>:star:[code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment)
 
 <a name="21"/> 
 
@@ -1137,6 +1096,7 @@
   * [DANNet: A One-Stage Domain Adaptation Network for Unsupervised Nighttime Semantic Segmentation](https://arxiv.org/abs/2104.10834)<br>:open_mouth:oral:star:[code](https://github.com/W-zx-Y/DANNet)<br>实现夜间语义分割最先进性能，已开源。
   * [Self-supervised Augmentation Consistency for Adapting Semantic Segmentation](https://arxiv.org/abs/2105.00097)(https://github.com/visinf/da-sac)
   * [Railroad is not a Train: Saliency as Pseudo-pixel Supervision for Weakly Supervised Semantic Segmentation](https://arxiv.org/abs/2105.08965)<br>:star:[code](https://github.com/halbielee/EPS)
+  * [Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision](https://arxiv.org/abs/2106.01226)<br>:star:[code](https://github.com/charlesCXK/TorchSemiSeg)
 * 场景理解/场景解析
   * [Exploring Data Efficient 3D Scene Understanding with Contrastive Scene Contexts](https://arxiv.org/abs/2012.09165)<br>:open_mouth:oral:house:[project](https://sekunde.github.io/project_efficient/):tv:[video](https://youtu.be/E70xToZLgs4)
   * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)

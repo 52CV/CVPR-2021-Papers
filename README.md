@@ -15,6 +15,14 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
+### :fireworks::fireworks::fireworks:更新提示：6月4日新增4篇
+* 深度估计
+  * [Single Image Depth Estimation using Wavelet Decomposition](https://arxiv.org/abs/2106.02022)<br>:star:[code](https://github.com/nianticlabs/wavelet-monodepth)
+* 域泛化/域适应
+  * [Adversarially Adaptive Normalization for Single Domain Generalization](https://arxiv.org/abs/2106.01899)
+  * [Generalized Domain Adaptation](https://arxiv.org/abs/2106.01656)<br>:star:[code](https://github.com/nttcslab/Generalized-Domain-Adaptation)
+* 未分
+  * [Semantic Palette: Guiding Scene Generation with Class Proportions](https://arxiv.org/abs/2106.01629)<br>论文公开
 
 ### :fireworks::fireworks::fireworks:更新提示：6月3日新增3篇
 * 分割
@@ -598,7 +606,7 @@
   * [SMD-Nets: Stereo Mixture Density Networks](https://arxiv.org/abs/2104.03866)<br>:star:[code](https://github.com/fabiotosi92/SMD-Nets)
   * [The Temporal Opportunist: Self-Supervised Multi-Frame Monocular Depth](https://arxiv.org/abs/2104.14540)
   * [Boosting Monocular Depth Estimation Models to High-Resolution via Content-Adaptive Multi-Resolution Merging](https://arxiv.org/abs/2105.14021)<br>:star:[code](https://github.com/compphoto/BoostingMonocularDepth):house:[project](http://yaksoy.github.io/highresdepth/):tv:[video](https://youtu.be/lDeI17pHlqo)
-* 场景图合成
+  * [Single Image Depth Estimation using Wavelet Decomposition](https://arxiv.org/abs/2106.02022)<br>:star:[code](https://github.com/nianticlabs/wavelet-monodepth)
 * 三维重建
   * [Deep Implicit Moving Least-Squares Functions for 3D Reconstruction](https://arxiv.org/abs/2103.12266)<br>:star:[code](https://github.com/Andy97/DeepMLS)
   * [Bilevel Online Adaptation for Out-of-Domain Human Mesh Reconstruction](https://arxiv.org/abs/2103.16449)<br>:house:[project](https://sites.google.com/view/humanmeshboa)
@@ -852,6 +860,7 @@
   * [Adaptive Methods for Real-World Domain Generalization](https://arxiv.org/abs/2103.15796)<br>:open_mouth: Oral
   * [Progressive Domain Expansion Network for Single Domain Generalization](https://arxiv.org/abs/2103.16050)<br>:star:[code](https://github.com/lileicv/PDEN)
   * [A Fourier-based Framework for Domain Generalization](https://arxiv.org/abs/2105.11120)<br>:open_mouth:oral
+  * [Adversarially Adaptive Normalization for Single Domain Generalization](https://arxiv.org/abs/2106.01899)
 * 零样本学习
   * [Goal-Oriented Gaze Estimation for Zero-Shot Learning](https://arxiv.org/abs/2103.03433):star:[code](https://github.com/osierboy/GEM-ZSL)
   * [Contrastive Embedding for Generalized Zero-Shot Learning](https://arxiv.org/abs/2103.16173)<br>:star:[code](https://github.com/Hanzy1996/CE-GZSL)
@@ -870,7 +879,8 @@
   * [Domain Adaptation with Auxiliary Target Domain-Oriented Classifier](https://arxiv.org/pdf/2007.04171.pdf)<br>:star:[code](https://github.com/tim-learn/ATDOC)
   * [Cross-Domain Adaptive Clustering for Semi-Supervised Domain Adaptation](https://arxiv.org/abs/2104.09415)
   * [Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830)<br>:star:[code](https://github.com/susaha/ctrl-uda)
-  * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128)
+  * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128) 
+  * [Generalized Domain Adaptation](https://arxiv.org/abs/2106.01656)<br>:star:[code](https://github.com/nttcslab/Generalized-Domain-Adaptation)
 
 <a name="13"/> 
 
@@ -1309,7 +1319,7 @@
 - [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/abs/2012.04324)<br>:open_mouth:oral
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
 - [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning](https://arxiv.org/abs/2012.11552)<br>:star:[code](https://github.com/valeoai/obow):house:[project](https://valeoai.github.io/blog/publications/obow/)<br>
-- [Semantic Palette: Guiding Scene Generation with Class Proportions]
+- [Semantic Palette: Guiding Scene Generation with Class Proportions](https://arxiv.org/abs/2106.01629)
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
 - [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)<br>:star:[code](https://github.com/ml-research/NeSyXIL)

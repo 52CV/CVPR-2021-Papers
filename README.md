@@ -14,6 +14,9 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 767 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：6月7日新增1篇
+* SR
+  * [MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution](https://arxiv.org/abs/2106.02299)<br>:star:[code](https://github.com/dvlab-research/MASA-SR)<br>作者提出用于 RefSR 的新方法：MASA 网络，包含两个新设计的模块。其中 Match （匹配）和 Extraction（提取）模块大大降低了计算成本。Spatial Adaptation（空间适应）模块用来学习 LR 和 Ref 图像之间的分布差异，并以空间适应的方式将参考特征的分布 remaps（重新映射）为 LR特征的分布。以此更加鲁棒地处理不同的参考图像。
 
 ### :fireworks::fireworks::fireworks:更新提示：6月4日新增4篇
 * 深度估计
@@ -796,6 +799,7 @@
 * [Flow-based Kernel Prior with Application to Blind Super-Resolution](https://arxiv.org/abs/2103.15977)
 * [Unsupervised Degradation Representation Learning for Blind Super-Resolution](https://arxiv.org/abs/2104.00416)<br>:star:[code](https://github.com/LongguangWang/DASR)
 * [SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation](https://arxiv.org/abs/2104.10325)<br>:star:[code](https://github.com/sanghyun-son/srwarp)
+* [MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution](https://arxiv.org/abs/2106.02299)<br>:star:[code](https://github.com/dvlab-research/MASA-SR)<br>作者提出用于 RefSR 的新方法：MASA 网络，包含两个新设计的模块。其中 Match （匹配）和 Extraction（提取）模块大大降低了计算成本。Spatial Adaptation（空间适应）模块用来学习 LR 和 Ref 图像之间的分布差异，并以空间适应的方式将参考特征的分布 remaps（重新映射）为 LR特征的分布。以此更加鲁棒地处理不同的参考图像。
 
 <a name="16"/> 
 

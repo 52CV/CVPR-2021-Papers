@@ -14,6 +14,17 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 767 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：6月8日新增4篇
+* 姿态
+  * [Learning Dynamics via Graph Neural Networks for Human Pose Estimation and Tracking](https://arxiv.org/abs/2106.03772) 
+* 域适应
+  * [Multi-Target Domain Adaptation with Collaborative Consistency Learning](https://arxiv.org/abs/2106.03418)<br>:star:[code](https://github.com/junpan19/MTDA)
+* 表示学习
+  * [SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331)
+* 图像和谐化
+  * [Region-aware Adaptive Instance Normalization for Image Harmonization](https://arxiv.org/abs/2106.02853)<br>:star:[code](https://github.com/junleen/RainNet)
+
 ### :fireworks::fireworks::fireworks:更新提示：6月7日新增1篇
 * SR
   * [MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution](https://arxiv.org/abs/2106.02299)<br>:star:[code](https://github.com/dvlab-research/MASA-SR)<br>作者提出用于 RefSR 的新方法：MASA 网络，包含两个新设计的模块。其中 Match （匹配）和 Extraction（提取）模块大大降低了计算成本。Spatial Adaptation（空间适应）模块用来学习 LR 和 Ref 图像之间的分布差异，并以空间适应的方式将参考特征的分布 remaps（重新映射）为 LR特征的分布。以此更加鲁棒地处理不同的参考图像。
@@ -335,6 +346,7 @@
 - [VirTex: Learning Visual Representations from Textual Annotations](https://arxiv.org/abs/2006.06666)<br>:star:[code](https://github.com/kdexd/virtex)
 - [Exploring Simple Siamese Representation Learning](https://arxiv.org/abs/2011.10566)<br>:open_mouth:oral
 - [Representation Learning via Global Temporal Alignment and Cycle-Consistency](https://arxiv.org/abs/2105.05217)<br>:star:[code](https://github.com/hadjisma/VideoAlignment)
+* [SelfDoc: Self-Supervised Document Representation Learning](https://arxiv.org/abs/2106.03331)
 
 <a name="40"/>
 
@@ -490,6 +502,7 @@
 - [Body Meshes as Points](https://arxiv.org/abs/2105.02467)<br>:star:[code](https://github.com/jfzhang95/BMP)
 - [Unsupervised Human Pose Estimation through Transforming Shape Templates](https://arxiv.org/abs/2105.04154)<br>:house:[project](https://infantmotion.github.io/)
 - [When Human Pose Estimation Meets Robustness: Adversarial Algorithms and Benchmarks](https://arxiv.org/abs/2105.06152)
+- [Learning Dynamics via Graph Neural Networks for Human Pose Estimation and Tracking](https://arxiv.org/abs/2106.03772) 
 * 3D手部重建
   * [Model-based 3D Hand Reconstruction via Self-Supervised Learning](https://arxiv.org/abs/2103.11703)
 * 人体运动迁移
@@ -885,6 +898,7 @@
   * [Learning to Relate Depth and Semantics for Unsupervised Domain Adaptation](https://arxiv.org/abs/2105.07830)<br>:star:[code](https://github.com/susaha/ctrl-uda)
   * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128) 
   * [Generalized Domain Adaptation](https://arxiv.org/abs/2106.01656)<br>:star:[code](https://github.com/nttcslab/Generalized-Domain-Adaptation)
+  * [Multi-Target Domain Adaptation with Collaborative Consistency Learning](https://arxiv.org/abs/2106.03418)<br>:star:[code](https://github.com/junpan19/MTDA)
 
 <a name="13"/> 
 
@@ -954,6 +968,8 @@
   * [Removing Diffraction Image Artifacts in Under-Display Camera via Dynamic Skip Connection Network](https://arxiv.org/abs/2104.09556)<br>:star:[code](https://github.com/jnjaby/DISCNet):house:[project](https://jnjaby.github.io/projects/UDC/) 
 * 图像对齐
   * [Deep Lucas-Kanade Homography for Multimodal Image Alignment](https://arxiv.org/abs/2104.11693)<br>:star:[code](https://github.com/placeforyiming/CVPR21-Deep-Lucas-Kanade-Homography)
+* 图像和谐化
+  * [Region-aware Adaptive Instance Normalization for Image Harmonization](https://arxiv.org/abs/2106.02853)<br>:star:[code](https://github.com/junleen/RainNet)
 
 <a name="11"/> 
 

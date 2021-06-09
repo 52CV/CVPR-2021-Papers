@@ -14,6 +14,17 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 772 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：6月9日新增5篇
+* 全景分割
+  * [Hierarchical Lovasz Embeddings for Proposal-free Panoptic Segmentation](https://arxiv.org/abs/2106.04555)
+* 未分
+  * [Stochastic Whitening Batch Normalization](https://arxiv.org/abs/2106.04413)
+* 人脸
+  * [LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization](https://arxiv.org/abs/2106.04185)<br>:tv:[video](https://www.youtube.com/watch?v=L1StbX9OznY)
+* 域适应
+  * [Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation](https://arxiv.org/abs/2106.04151)<br>:star:[code](https://github.com/lijin118/CGDM)
+* Reid
+  * [Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer](https://arxiv.org/abs/2106.04095)
 
 ### :fireworks::fireworks::fireworks:更新提示：6月8日新增4篇
 * 姿态
@@ -749,6 +760,8 @@
 * [Generalizable Person Re-identification with Relevance-aware Mixture of Experts](https://arxiv.org/abs/2105.09156)
 * 拥挤人群计数
   * [Cross-Modal Collaborative Representation Learning and a Large-Scale RGBT Benchmark for Crowd Counting](https://arxiv.org/abs/2012.04529)
+ * 基于 Transformer
+  * [Diverse Part Discovery: Occluded Person Re-identification with Part-Aware Transformer](https://arxiv.org/abs/2106.04095)
  
 <a name="19"/> 
 
@@ -899,6 +912,8 @@
   * [PixMatch: Unsupervised Domain Adaptation via Pixelwise Consistency Training](https://arxiv.org/abs/2105.08128) 
   * [Generalized Domain Adaptation](https://arxiv.org/abs/2106.01656)<br>:star:[code](https://github.com/nttcslab/Generalized-Domain-Adaptation)
   * [Multi-Target Domain Adaptation with Collaborative Consistency Learning](https://arxiv.org/abs/2106.03418)<br>:star:[code](https://github.com/junpan19/MTDA)
+  * 无监督域适应
+    * [Cross-Domain Gradient Discrepancy Minimization for Unsupervised Domain Adaptation](https://arxiv.org/abs/2106.04151)<br>:star:[code](https://github.com/lijin118/CGDM)
 
 <a name="13"/> 
 
@@ -1028,6 +1043,8 @@
   * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
 * 人脸动画
   * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)
+* 3D Talking Faces
+  * [LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization](https://arxiv.org/abs/2106.04185)<br>:tv:[video](https://www.youtube.com/watch?v=L1StbX9OznY)
 
 <a name="10"/> 
 
@@ -1102,6 +1119,7 @@
   * [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)<br>:open_mouth:oral:star:[code](https://github.com/yanwei-li/PanopticFCN)<br>粗解：[11](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
   * [Panoptic Segmentation Forecasting](https://arxiv.org/abs/2104.03962)
   * [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)<br>:star:[code](https://github.com/jd730/EOPSN):house:[project](https://cv.snu.ac.kr/research/EOPSN/)
+  * [Hierarchical Lovasz Embeddings for Proposal-free Panoptic Segmentation](https://arxiv.org/abs/2106.04555)
 * 语义分割
   * [PLOP: Learning without Forgetting for Continual Semantic Segmentation](https://arxiv.org/abs/2011.11390)<br>:star:[code](https://github.com/arthurdouillard/CVPR2021_PLOP)
   * [Towards Semantic Segmentation of Urban-Scale 3D Point Clouds: A Dataset, Benchmarks and Challenges](https://arxiv.org/abs/2009.03137)<br>:sunflower:[dataset](https://github.com/QingyongHu/SensatUrban):tv:[video](https://www.youtube.com/watch?v=IG0tTdqB3L8)<br>
@@ -1407,6 +1425,7 @@
 * [NeRD: Neural 3D Reflection Symmetry Detector](https://arxiv.org/abs/2105.03211)<br>:star:[code](https://github.com/zhou13/nerd)
 * [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
 * [Scene-aware Generative Network for Human Motion Synthesis](https://arxiv.org/abs/2105.14804)
+* [Stochastic Whitening Batch Normalization](https://arxiv.org/abs/2106.04413)
 
 <a name="*"/>
 

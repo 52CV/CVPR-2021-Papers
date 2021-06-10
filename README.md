@@ -15,7 +15,7 @@
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
-### :fireworks::fireworks::fireworks:更新提示：6月10日新增3篇
+### :fireworks::fireworks::fireworks:更新提示：6月10日新增4篇
 
 * 手-物交互姿态估计
   * [Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time](https://arxiv.org/abs/2106.05266)
@@ -23,6 +23,8 @@
   * [CLCC: Contrastive Learning for Color Constancy](https://arxiv.org/abs/2106.04989)
 * 点云
   * [Point Cloud Upsampling via Disentangled Refinement](https://arxiv.org/abs/2106.04779)<br>:star:[code](https://github.com/liruihui/Dis-PU)
+* 视频
+  * [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning ](https://arxiv.org/abs/2104.00924)<br>:star:[code](https://github.com/sangmin-git/LMC-Memory)
 
 ### :fireworks::fireworks::fireworks:更新提示：6月9日新增5篇
 * 全景分割
@@ -578,6 +580,7 @@
 * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
 * [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 * [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
+* [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning ](https://arxiv.org/abs/2104.00924)<br>:star:[code](https://github.com/sangmin-git/LMC-Memory)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)

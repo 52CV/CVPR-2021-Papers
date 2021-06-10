@@ -580,7 +580,6 @@
 * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
 * [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 * [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
-* [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning ](https://arxiv.org/abs/2104.00924)<br>:star:[code](https://github.com/sangmin-git/LMC-Memory)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
@@ -595,6 +594,7 @@
 * 视频预测
   * [Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction](https://arxiv.org/abs/2103.04174)<br>:house:[project](https://sites.google.com/view/ghvae):tv:[video](https://youtu.be/C8_-z8SEGOU)
   * [Learning Semantic-Aware Dynamics for Video Prediction](https://arxiv.org/abs/2104.09762)
+  * [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning ](https://arxiv.org/abs/2104.00924)<br>:star:[code](https://github.com/sangmin-git/LMC-Memory)
 * 视频理解
   * [Context-aware Biaffine Localizing Network for Temporal Sentence Grounding](https://arxiv.org/abs/2103.11555)<br>:star:[code](https://github.com/liudaizong/CBLN)
   * [Co-Grounding Networks with Semantic Attention for Referring Expression Comprehension in Videos](https://arxiv.org/abs/2103.12346)<br>:house:[project](https://sijiesong.github.io/co-grounding/)

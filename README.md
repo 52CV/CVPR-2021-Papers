@@ -14,6 +14,16 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 777 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：6月10日新增3篇
+
+* 手-物交互姿态估计
+  * [Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time](https://arxiv.org/abs/2106.05266)
+* 未分
+  * [CLCC: Contrastive Learning for Color Constancy](https://arxiv.org/abs/2106.04989)
+* 点云
+  * [Point Cloud Upsampling via Disentangled Refinement](https://arxiv.org/abs/2106.04779)<br>:star:[code](https://github.com/liruihui/Dis-PU)
+
 ### :fireworks::fireworks::fireworks:更新提示：6月9日新增5篇
 * 全景分割
   * [Hierarchical Lovasz Embeddings for Proposal-free Panoptic Segmentation](https://arxiv.org/abs/2106.04555)
@@ -543,6 +553,8 @@
   * [Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)<br>:open_mouth:oral:house:[project](http://www.liuyebin.com/Function4D/Function4D.html):tv:[video](https://www.youtube.com/watch?v=-rWUn4fEQNU)
 * 多人姿态估计
   * [FCPose: Fully Convolutional Multi-Person Pose Estimation with Dynamic Instance-Aware Convolutions](https://arxiv.org/abs/2105.14185)<br>:star:[code](https://git.io/AdelaiDet)<br>FCPose，无 ROI 和无分组的端到端可训练人体姿势估计器可以达到更好的准确性和速度，在 COCO 数据集上，使用 DLA-34 主干的 FCPose 实时版本比 Mask R-CNN（ResNet-101）快 4.5 倍（41.67FPS vs. 9.26FPS），同时实现了性能的提高。与最近的自上而下和自下而上的方法相比，FCPose 还实现了更好的速度/准确度权衡。
+* 手-物交互姿态估计
+  * [Semi-Supervised 3D Hand-Object Poses Estimation with Interactions in Time](https://arxiv.org/abs/2106.05266)
 
 <a name="28"/>
 
@@ -1309,6 +1321,7 @@
 - [Point2Skeleton: Learning Skeletal Representations from Point Clouds](https://arxiv.org/abs/2012.00230)<br>:open_mouth:oral:star:[code](https://github.com/clinplayer/Point2Skeleton):house:[project](https://enigma-li.github.io/projects/point2skeleton/point2skeleton.html)
 - [FESTA: Flow Estimation via Spatial-Temporal Attention for Scene Point Clouds](https://arxiv.org/abs/2104.00798)
 - [RPSRNet: End-to-End Trainable Rigid Point Set Registration Network using Barnes-Hut 2D-Tree Representation](https://arxiv.org/abs/2104.05328) 
+- [Point Cloud Upsampling via Disentangled Refinement](https://arxiv.org/abs/2106.04779)<br>:star:[code](https://github.com/liruihui/Dis-PU)
 * 点云配准
   * [PREDATOR: Registration of 3D Point Clouds with Low Overlap](https://arxiv.org/pdf/2011.13005.pdf)<br>:open_mouth:oral:star:[code](https://github.com/ShengyuH/OverlapPredator):house:[project](https://overlappredator.github.io/)<br>
   * [SpinNet: Learning a General Surface Descriptor for 3D Point Cloud Registration](https://arxiv.org/abs/2011.12149)<br>:star:[code](https://github.com/QingyongHu/SpinNet)
@@ -1426,6 +1439,7 @@
 * [SSAN: Separable Self-Attention Network for Video Representation Learning](https://arxiv.org/abs/2105.13033)
 * [Scene-aware Generative Network for Human Motion Synthesis](https://arxiv.org/abs/2105.14804)
 * [Stochastic Whitening Batch Normalization](https://arxiv.org/abs/2106.04413)
+* [CLCC: Contrastive Learning for Color Constancy](https://arxiv.org/abs/2106.04989)
 
 <a name="*"/>
 

@@ -11,9 +11,20 @@
 
 * [CVPR 2021 接收论文列表！27%接受率！](https://zhuanlan.zhihu.com/p/353686917)
 
-## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 777 篇。
+## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 781 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+
+### :fireworks::fireworks::fireworks:更新提示：6月11日新增4篇
+
+* 自动驾驶
+  * [Learning by Watching](https://arxiv.org/abs/2106.05966)
+* OCR
+  * [Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter](https://arxiv.org/abs/2106.05920)
+* 人脸识别
+  * [Consistent Instance False Positive Improves Fairness in Face Recognition](https://arxiv.org/abs/2106.05519)<br>:star:[code](https://github.com/Tencent/TFace)
+* 三维
+  * [Plan2Scene: Converting Floorplans to 3D Scenes](https://arxiv.org/abs/2106.05375)<br>:star:[code](https://github.com/3dlg-hcvc/plan2scene):house:[project](https://3dlg-hcvc.github.io/plan2scene/):tv:[video](https://youtu.be/rTgnW7AobLs)
 
 ### :fireworks::fireworks::fireworks:更新提示：6月10日新增4篇
 
@@ -285,6 +296,7 @@
 ## 50.OCR
 
 * [Fourier Contour Embedding for Arbitrary-Shaped Text Detection](https://arxiv.org/abs/2104.10442)
+* [Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter](https://arxiv.org/abs/2106.05920)
 * 场景文本检测
   * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
   * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
@@ -636,6 +648,7 @@
 * [S3: Neural Shape, Skeleton, and Skinning Fields for 3D Human Modeling](https://arxiv.org/abs/2101.06571)
 * [Deep Polarization Imaging for 3D Shape and SVBRDF Acquisition](https://arxiv.org/abs/2105.02875)<br>:open_mouth:oral
 * [Learning Feature Aggregation for Deep 3D Morphable Models](https://arxiv.org/abs/2105.02173)<br>:star:[code](https://github.com/zxchen110/Deep3DMM/)
+* [Plan2Scene: Converting Floorplans to 3D Scenes](https://arxiv.org/abs/2106.05375)<br>:star:[code](https://github.com/3dlg-hcvc/plan2scene):house:[project](https://3dlg-hcvc.github.io/plan2scene/):tv:[video](https://youtu.be/rTgnW7AobLs)
 * 深度估计
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
@@ -691,6 +704,7 @@
 - [Patch-NetVLAD: Multi-Scale Fusion of Locally-Global Descriptors for Place Recognition](https://arxiv.org/abs/2103.01486)<br>:star:[code](https://github.com/QVPR/Patch-NetVLAD)<br>ECCV 2020 Facebook Mapillary Visual Place Recognition Challenge 冠军方案
 - [AdvSim: Generating Safety-Critical Scenarios for Self-Driving Vehicles](https://arxiv.org/abs/2101.06549)
 - [Self-Supervised Pillar Motion Learning for Autonomous Driving](https://arxiv.org/abs/2104.08683)<br>:star:[code](https://github.com/qcraftai/pillar-motion)
+- [Learning by Watching](https://arxiv.org/abs/2106.05966)
 * 车道线预测
   * [LaPred: Lane-Aware Prediction of Multi-Modal Future Trajectories of Dynamic Agents](https://arxiv.org/abs/2104.00249)
   * [Divide-and-Conquer for Lane-Aware Diverse Trajectory Prediction](https://arxiv.org/abs/2104.08277)<br>:open_mouth:oral
@@ -1021,6 +1035,7 @@
   * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
   * [FACESEC: A Fine-grained Robustness Evaluation Framework for Face Recognition Systems](https://arxiv.org/abs/2104.04107)
   * [Dynamic Class Queue for Large Scale Face Recognition In the Wild](https://arxiv.org/abs/2105.11113)<br>:star:[code](https://github.com/bilylee/DCQ)
+  * [Consistent Instance False Positive Improves Fairness in Face Recognition](https://arxiv.org/abs/2106.05519)<br>:star:[code](https://github.com/Tencent/TFace)
 * 合成人脸（Deepfake/Face Forgery）检测
   * [Multi-attentional Deepfake Detection](https://arxiv.org/abs/2103.02406)<br>
   * [Frequency-aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)

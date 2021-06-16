@@ -14,6 +14,15 @@
 ## 📗📗📗下载已公开论文在【我爱计算机视觉】后台回复“CVPR2021”，即可收到。目前已公开 806 篇。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
+### :fireworks::fireworks::fireworks:更新提示：6月16日新增4篇
+* 目标检测
+  * [Dynamic Head: Unifying Object Detection Heads with Attentions](https://arxiv.org/abs/2106.08322)
+* 视频
+  * [Gradient Forward-Propagation for Large-Scale Temporal Video Modelling](https://arxiv.org/abs/2106.08318)
+* 人脸
+  * [Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection](https://arxiv.org/abs/2106.07852)<br>论文公开<br>:open_mouth:oral:star:[code](https://github.com/TencentYoutuResearch/3DFaceReconstruction-LAP)
+* 未分
+  * [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/abs/2106.07771)
 
 ### :fireworks::fireworks::fireworks:更新提示：6月15日新增21篇
 * 未分
@@ -570,6 +579,7 @@
 * [Hierarchical Motion Understanding via Motion Programs](https://arxiv.org/abs/2104.11216)<br>:house:[project](https://sumith1896.github.io/motion2prog/):tv:[video](https://youtu.be/OpyY-s0LKAs)
 * [Stochastic Image-to-Video Synthesis using cINNs](https://arxiv.org/abs/2105.04551)<br>:star:[code](https://github.com/CompVis/image2video-synthesis-using-cINNs):house:[project](https://compvis.github.io/image2video-synthesis-using-cINNs/)
 * [Spoken Moments: Learning Joint Audio-Visual Representations from Video Descriptions](https://arxiv.org/abs/2105.04489)<br>:house:[project](http://moments.csail.mit.edu/spoken.html)
+* [Gradient Forward-Propagation for Large-Scale Temporal Video Modelling](https://arxiv.org/abs/2106.08318)
 * 视频摘要
   * [Learning Discriminative Prototypes with Dynamic Time Warping](https://arxiv.org/abs/2103.09458)<br>:star:[code](https://github.com/BorealisAI/TSC-Disc-Proto)
   * [Learning Triadic Belief Dynamics in Nonverbal Communication from Videos](https://arxiv.org/abs/2104.02841)<br>:open_mouth:oral:star:[code](https://github.com/LifengFan/Triadic-Belief-Dynamics)
@@ -1031,11 +1041,11 @@
 * 人脸质量评估
   * [SDD-FIQA: Unsupervised Face Image Quality Assessment with Similarity Distribution Distance](https://arxiv.org/abs/2103.05977)<br>基于相似度分布距离的无监督人脸质量评估<br>解读：[6](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * 3D人脸重建
-  * Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection<br>:open_mouth:oral<br>在开放的人像集合中学习3D人脸的聚合与特异化重建
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
   * [Riggable 3D Face Reconstruction via In-Network Optimization](https://arxiv.org/abs/2104.03493)<br>:star:[code](https://github.com/zqbai-jeremy/INORig)<br>本文通过一个嵌入了网络内优化的端到端可训练网络，解决了从单目 RGB 图像中 riggable 3D 人脸重建。并且达到了最先进的重建精度，合理的鲁棒性和泛化能力，可以应用于标准的 face rig 应用，如重定位。
   * [Pixel Codec Avatars](https://arxiv.org/abs/2104.04638)<br>:open_mouth:oral
   * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)
+  * [Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection](https://arxiv.org/abs/2106.07852)<br>在开放的人像集合中学习3D人脸的聚合与特异化重建<br>:open_mouth:oral:star:[code](https://github.com/TencentYoutuResearch/3DFaceReconstruction-LAP)
 * 人脸表情识别
   * [Affective Processes: stochastic modelling of temporal context for emotion and facial expression recognition](https://arxiv.org/abs/2103.13372)<br>
   * [Dive into Ambiguity: Latent Distribution Mining and Pairwise Uncertainty Estimation for Facial Expression Recognition](https://arxiv.org/abs/2104.00232)
@@ -1241,6 +1251,7 @@
 * [Domain-Specific Suppression for Adaptive Object Detection](https://arxiv.org/abs/2105.03570)
 * [PSRR-MaxpoolNMS: Pyramid Shifted MaxpoolNMS with Relationship Recovery](https://arxiv.org/abs/2105.12990)
 * [Joint-DetNAS: Upgrade Your Detector with NAS, Pruning and Dynamic Distillation](https://arxiv.org/abs/2105.12971)
+* [Dynamic Head: Unifying Object Detection Heads with Attentions](https://arxiv.org/abs/2106.08322)
 * 小样本目标检测
   * [Semantic Relation Reasoning for Shot-Stable Few-Shot Object Detection](https://arxiv.org/abs/2103.01903)<br>首个研究少样本检测任务的语义关系推理，并证明它可提升强基线的潜。 <br> 
   * [Dense Relation Distillation with Context-aware Aggregation for Few-Shot Object Detection](https://arxiv.org/abs/2103.17115)<br>:star:[code](https://github.com/hzhupku/DCNet)<br>北京大学人工智能研究院机器学习研究中心<br>
@@ -1458,6 +1469,7 @@
 * [MP3: A Unified Model To Map, Perceive, Predict and Plan](https://arxiv.org/abs/2101.06806)
 * [NewtonianVAE: Proportional Control and Goal Identification From Pixels via Physical Latent Spaces](https://arxiv.org/abs/2006.01959)
 * [Fast End-to-End Learning on Protein Surfaces](https://www.biorxiv.org/content/10.1101/2020.12.28.424589v1)
+* [Flow Guided Transformable Bottleneck Networks for Motion Retargeting](https://arxiv.org/abs/2106.07771)
 
 <a name="*"/>
 

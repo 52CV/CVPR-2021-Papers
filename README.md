@@ -16,12 +16,47 @@
 ### :exclamation::exclamation::exclamation:注：后续论文也会全部在此一一整理。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
-
-
-<br>:open_mouth:oral
-<br>:star:[code]()
-<br>:house:[project]()
-:tv:[video]()
+# 第七弹
+* SR
+  * [Exploring Sparsity in Image Super-Resolution for Efficient Inference](https://arxiv.org/abs/2006.09603)<br>:star:[code](https://github.com/LongguangWang/SMSR)
+  * [Neural Side-by-Side: Predicting Human Preferences for No-Reference Super-Resolution Evaluation](https://openaccess.thecvf.com/content/CVPR2021/papers/Khrulkov_Neural_Side-by-Side_Predicting_Human_Preferences_for_No-Reference_Super-Resolution_Evaluation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/KhrulkovV/NeuralSBS)
+* A-V
+  * [Positive Sample Propagation Along the Audio-Visual Event Line](https://arxiv.org/abs/2104.00239)<br>:star:[code](https://github.com/jasongief/PSP_CVPR_2021)
+* 人脸
+  * [Variational Prototype Learning for Deep Face Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_Variational_Prototype_Learning_for_Deep_Face_Recognition_CVPR_2021_paper.pdf)
+* 量化
+  * [Optimal Quantization Using Scaled Codebook](https://openaccess.thecvf.com/content/CVPR2021/papers/Idelbayev_Optimal_Quantization_Using_Scaled_Codebook_CVPR_2021_paper.pdf)
+* 目标检测
+  * [RPN Prototype Alignment for Domain Adaptive Object Detector](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.pdf)
+  * [Unsupervised Object Detection With LIDAR Clues](https://openaccess.thecvf.com/content/CVPR2021/papers/Tian_Unsupervised_Object_Detection_With_LIDAR_Clues_CVPR_2021_paper.pdf)
+* OCR
+  * [Semantic-Aware Video Text Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Feng_Semantic-Aware_Video_Text_Detection_CVPR_2021_paper.pdf)
+* 抠图
+  * [Real-Time High-Resolution Background Matting](https://arxiv.org/abs/2012.07810)  
+* 轨迹预测
+  * [Trajectory Prediction With Latent Belief Energy-Based Model](https://arxiv.org/abs/2104.03086)<br>:star:[code](https://github.com/bpucla/lbebm)
+* 图像字幕
+  * [Image Change Captioning by Learning From an Auxiliary Task](https://openaccess.thecvf.com/content/CVPR2021/papers/Hosseinzadeh_Image_Change_Captioning_by_Learning_From_an_Auxiliary_Task_CVPR_2021_paper.pdf)
+* reid
+  * [Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification](https://arxiv.org/abs/2012.00417)<br>:star:[code](https://github.com/HeliosZhao/M3L)
+  * [Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification](https://arxiv.org/abs/2104.02862)
+* 跟踪
+  * [Discriminative Appearance Modeling With Multi-Track Pooling for Real-Time Multi-Object Tracking](http://arxiv.org/abs/2101.12159)<br>:star:[code](https://github.com/chkim403/blstm-mtp)
+* 自/半监督
+  * [Exponential Moving Average Normalization for Self-Supervised and Semi-Supervised Learning](https://arxiv.org/abs/2101.08482)
+* 数据集(人类意图研究)
+  * [Intentonomy: A Dataset and Study Towards Human Intent Understanding](https://arxiv.org/abs/2011.05558)<br>:open_mouth:oral:star:[code](https://github.com/kmnp/intentonomy)
+* 图像恢复
+  * [Controllable Image Restoration for Under-Display Camera in Smartphones](https://openaccess.thecvf.com/content/CVPR2021/papers/Kwon_Controllable_Image_Restoration_for_Under-Display_Camera_in_Smartphones_CVPR_2021_paper.pdf)
+* 姿势跟踪
+  * [TesseTrack: End-to-End Learnable Multi-Person Articulated 3D Pose Tracking](https://openaccess.thecvf.com/content/CVPR2021/papers/Reddy_TesseTrack_End-to-End_Learnable_Multi-Person_Articulated_3D_Pose_Tracking_CVPR_2021_paper.pdf)<br>:house:[project](http://www.cs.cmu.edu/~ILIM/projects/IM/TesseTrack/)
+* 自动驾驶
+  * [SOE-Net: A Self-Attention and Orientation Encoding Network for Point Cloud Based Place Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Xia_SOE-Net_A_Self-Attention_and_Orientation_Encoding_Network_for_Point_Cloud_CVPR_2021_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/Yan-Xia/SOE-Net)
+* 未分
+  * [Understanding the Behaviour of Contrastive Loss](https://arxiv.org/abs/2012.09740)
+  * [Dual Contradistinctive Generative Autoencoder](https://arxiv.org/abs/2011.10063)<br>:star:[code](https://github.com/mlpc-ucsd/DC-VAE)
+  * [Metadata Normalization](https://arxiv.org/abs/2104.09052)<br>:star:[code](https://github.com/mlu355/MetadataNorm)
+  * [End-to-End Rotation Averaging With Multi-Source Propagation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_End-to-End_Rotation_Averaging_With_Multi-Source_Propagation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/sfu-gruvi-3dv/msp_rot_avg)
 
 # 第六弹
 
@@ -1309,7 +1344,7 @@
 * [Few-shot Image Generation via Cross-domain Correspondence](https://arxiv.org/abs/2104.06820)<br>:house:[project](https://utkarshojha.github.io/)
 * [DatasetGAN: Efficient Labeled Data Factory with Minimal Human Effort](https://arxiv.org/abs/2104.06490)<br>:open_mouth:oral
 * [Surrogate Gradient Field for Latent Space Manipulation](https://arxiv.org/abs/2104.09065)
-* [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363)
+* [StylePeople: A Generative Model of Fullbody Human Avatars](https://arxiv.org/abs/2104.08363)<br>:house:[project](https://saic-violet.github.io/style-people/)
 * [Ensembling with Deep Generative Views](https://arxiv.org/abs/2104.14551)<br>:star:[code](https://github.com/chail/gan-ensembling):house:[project](https://chail.github.io/gan-ensembling/)
 * [Continuous Face Aging via Self-estimated Residual Age Embedding](https://arxiv.org/abs/2105.00020)
 * [Blur, Noise, and Compression Robust Generative Adversarial Networks](https://arxiv.org/abs/2003.07849)
@@ -1885,7 +1920,7 @@
 - POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
 - [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)<br>:star:[code](https://github.com/ml-research/NeSyXIL)
-- Simpler Certified Radius Maximization by Propagating Covariances<br>:open_mouth:oral:tv:[video](https://www.youtube.com/watch?v=1V9sBzlfuwY)
+- [Simpler Certified Radius Maximization by Propagating Covariances](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhen_Simpler_Certified_Radius_Maximization_by_Propagating_Covariances_CVPR_2021_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
 - [Nutrition5k: Towards Automatic Nutritional Understanding of Generic Food](https://arxiv.org/abs/2103.03375)
 - [Discovering Hidden Physics Behind Transport Dynamics](https://arxiv.org/abs/2011.12222)<br>:open_mouth:oral
 - [Soft-IntroVAE: Analyzing and Improving the Introspective Variational Autoencoder](https://arxiv.org/abs/2012.13253)<br>:open_mouth:oral:star:[code](https://github.com/taldatech/soft-intro-vae-pytorch):house:[project](https://taldatech.github.io/soft-intro-vae-web/)

@@ -16,11 +16,58 @@
 ### :exclamation::exclamation::exclamation:注：后续论文也会全部在此一一整理。
 
 # CVPR2021最新信息及已接收论文/代码(持续更新)
-
 <br>:star:[code]
 <br>:open_mouth:oral:star:[code]()
 :tv:[video]()
 <br>:house:[project]()
+
+# 第九弹
+
+* 三维
+  * [NeuroMorph: Unsupervised Shape Interpolation and Correspondence in One Go](https://openaccess.thecvf.com/content/CVPR2021/papers/Eisenberger_NeuroMorph_Unsupervised_Shape_Interpolation_and_Correspondence_in_One_Go_CVPR_2021_paper.pdf)
+* 数据集
+  * [Zillow Indoor Dataset: Annotated Floor Plans With 360deg Panoramas and 3D Room Layouts](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf)
+* OCR
+  * [Progressive Contour Regression for Arbitrary-Shape Scene Text Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/dpengwen/PCR)
+* 对抗
+  * [MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation](https://arxiv.org/abs/2005.03161)
+  * [Universal Spectral Adversarial Attacks for Deformable Shapes](https://arxiv.org/abs/2104.03356)
+* 姿态
+  * [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/Jeff-sjtu/HybrIK)
+* 人体去遮挡
+  * [Human De-Occlusion: Invisible Perception and Recovery for Humans](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Human_De-Occlusion_Invisible_Perception_and_Recovery_for_Humans_CVPR_2021_paper.pdf)<br>:house:[project](https://sydney0zq.github.io/ahp/)
+* 去噪
+  * [The Neural Tangent Link Between CNN Denoisers and Non-Local Filters](https://arxiv.org/abs/2006.02379)<br>:star:[code](https://gitlab.com/Tachella/neural_tangent_denoiser)
+* 分类
+  * [Achieving Robustness in Classification Using Optimal Transport With Hinge Regularization](https://openaccess.thecvf.com/content/CVPR2021/papers/Serrurier_Achieving_Robustness_in_Classification_Using_Optimal_Transport_With_Hinge_Regularization_CVPR_2021_paper.pdf)
+* 对比学习
+  * [Jo-SRC: A Contrastive Approach for Combating Noisy Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_Jo-SRC_A_Contrastive_Approach_for_Combating_Noisy_Labels_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
+* 医学图像
+  * [clDice - A Novel Topology-Preserving Loss Function for Tubular Structure Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Shit_clDice_-_A_Novel_Topology-Preserving_Loss_Function_for_Tubular_Structure_CVPR_2021_paper.pdf)
+* GAN
+  * [Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.pdf)
+  * [GANmut: Learning Interpretable Conditional Space for Gamut of Emotions](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/stefanodapolito/GANmut)
+  * [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation](https://arxiv.org/abs/2011.12799)
+* 检索
+  * [CoSMo: Content-Style Modulation for Image Retrieval With Text Feedback](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_CoSMo_Content-Style_Modulation_for_Image_Retrieval_With_Text_Feedback_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/postBG/CosMo.pytorch)
+* 分割
+  * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/idiap/model-uncertainty-for-adaptation)
+  * [DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/2003.11883)
+  * [Unsupervised Part Segmentation Through Disentangling Appearance and Shape](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Unsupervised_Part_Segmentation_Through_Disentangling_Appearance_and_Shape_CVPR_2021_paper.pdf)
+* 图像恢复
+  * [Zero-Shot Single Image Restoration Through Controlled Perturbation of Koschmieder's Model](https://openaccess.thecvf.com/content/CVPR2021/papers/Kar_Zero-Shot_Single_Image_Restoration_Through_Controlled_Perturbation_of_Koschmieders_Model_CVPR_2021_paper.pdf)<br>:house:[project](https://aupendu.github.io/zero-restore)
+* 相机姿态估计
+  * [Uncertainty-Aware Camera Pose Estimation From Points and Lines](https://openaccess.thecvf.com/content/CVPR2021/papers/Vakhitov_Uncertainty-Aware_Camera_Pose_Estimation_From_Points_and_Lines_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/alexandervakhitov/uncertain-pnp):house:[project](https://alexandervakhitov.github.io/uncertain-pnp/)
+ * SR
+   * [Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/yhjo09/AdaTarget)
+* VQA
+  * [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.pdf)
+* 对抗
+  * [Adversarial Imaging Pipelines](https://arxiv.org/abs/2102.03728)
+* 目标检测
+  * [From Semantic Categories to Fixations: A Novel Weakly-Supervised Visual-Auditory Saliency Detection Approach](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/guotaowang/STANet)
+* 未分
+  * [UV-Net: Learning From Boundary Representations](https://openaccess.thecvf.com/content/CVPR2021/papers/Jayaraman_UV-Net_Learning_From_Boundary_Representations_CVPR_2021_paper.pdf)
 
 
 # 第八弹
@@ -636,6 +683,7 @@
 * 相机姿势
   * [Fusing the Old with the New: Learning Relative Camera Pose with Geometry-Guided Uncertainty](https://arxiv.org/abs/2104.08278)<br>:open_mouth:oral
   * [Learning Neural Representation of Camera Pose with Matrix Representation of Pose Shift via View Synthesis](https://arxiv.org/abs/2104.01508)<br>:star:[code](https://github.com/AlvinZhuyx/camera_pose_representation)
+  * [Uncertainty-Aware Camera Pose Estimation From Points and Lines](https://openaccess.thecvf.com/content/CVPR2021/papers/Vakhitov_Uncertainty-Aware_Camera_Pose_Estimation_From_Points_and_Lines_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/alexandervakhitov/uncertain-pnp):house:[project](https://alexandervakhitov.github.io/uncertain-pnp/) 
 
 <a name="55"/>
 
@@ -664,6 +712,7 @@
   * [Rich Features for Perceptual Quality Assessment of UGC Videos](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Rich_Features_for_Perceptual_Quality_Assessment_of_UGC_Videos_CVPR_2021_paper.pdf)<br>:sunflower:[dataset](https://media.withyoutube.com/ugc-dataset)
 * 室内定位数据集
   * [Large-Scale Localization Datasets in Crowded Indoor Spaces](https://arxiv.org/abs/2105.08941)<br>:sunflower:[dataset](https://naverlabs.com/datasets)
+  * [Zillow Indoor Dataset: Annotated Floor Plans With 360deg Panoramas and 3D Room Layouts](https://openaccess.thecvf.com/content/CVPR2021/papers/Cruz_Zillow_Indoor_Dataset_Annotated_Floor_Plans_With_360deg_Panoramas_and_CVPR_2021_paper.pdf)
 * 数据集(人类意图研究)
   * [Intentonomy: A Dataset and Study Towards Human Intent Understanding](https://arxiv.org/abs/2011.05558)<br>:open_mouth:oral:star:[code](https://github.com/kmnp/intentonomy)
 
@@ -692,7 +741,9 @@
 * [LAFEAT: Piercing Through Adversarial Defenses with Latent Features](https://arxiv.org/abs/2104.09284)<br>:open_mouth:oral
 * [Distilling Audio-Visual Knowledge by Compositional Contrastive Learning](https://arxiv.org/abs/2104.10955)<br>:star:[code](https://github.com/yanbeic/CCL)
 * [Mining Better Samples for Contrastive Learning of Temporal Correspondence](https://openaccess.thecvf.com/content/CVPR2021/papers/Jeon_Mining_Better_Samples_for_Contrastive_Learning_of_Temporal_Correspondence_CVPR_2021_paper.pdf)
- 
+* [Jo-SRC: A Contrastive Approach for Combating Noisy Labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Yao_Jo-SRC_A_Contrastive_Approach_for_Combating_Noisy_Labels_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/NUST-Machine-Intelligence-Laboratory/Jo-SRC)
+
+  
 <a name="50"/>
 
 ## 50.OCR
@@ -707,6 +758,7 @@
   * [MOST: A Multi-Oriented Scene Text Detector with Localization Refinement](https://arxiv.org/abs/2104.01070)
   * [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552)<br>:star:[code](https://github.com/lanfeng4659/STR-TDSL)
   * [TextOCR: Towards large-scale end-to-end reasoning for arbitrary-shaped scene text](https://arxiv.org/abs/2105.05486)<br>:house:[project](https://textvqa.org/textocr)
+  * [Progressive Contour Regression for Arbitrary-Shape Scene Text Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Dai_Progressive_Contour_Regression_for_Arbitrary-Shape_Scene_Text_Detection_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/dpengwen/PCR)
 * 手写文本识别
   * [MetaHTR: Towards Writer-Adaptive Handwritten Text Recognition](https://arxiv.org/abs/2104.01876)
 * 文本分割
@@ -726,8 +778,9 @@
 * [Natural Adversarial Examples](https://arxiv.org/abs/1907.07174)<br>:star:[code](https://github.com/hendrycks/natural-adv-examples)
 * [SurFree: A Fast Surrogate-Free Black-Box Attack](https://arxiv.org/abs/2011.12807)<br>:star:[code](https://github.com/t-maho/SurFree)
 * [Regularizing Neural Networks via Adversarial Model Perturbation](https://arxiv.org/abs/2010.04925)<br>:star:[code](https://github.com/hiyouga/AMP-Regularizer)
-
-
+* [Adversarial Imaging Pipelines](https://arxiv.org/abs/2102.03728)
+* [MAZE: Data-Free Model Stealing Attack Using Zeroth-Order Gradient Estimation](https://arxiv.org/abs/2005.03161)
+* [Universal Spectral Adversarial Attacks for Deformable Shapes](https://arxiv.org/abs/2104.03356)
 
 <a name="48"/>
 
@@ -767,6 +820,8 @@
 - [Privacy Preserving Localization and Mapping From Uncalibrated Cameras](https://openaccess.thecvf.com/content/CVPR2021/papers/Geppert_Privacy_Preserving_Localization_and_Mapping_From_Uncalibrated_Cameras_CVPR_2021_paper.pdf)
 * 视觉定位
   * [VS-Net: Voting with Segmentation for Visual Localization](https://arxiv.org/abs/2105.10886)<br>:star:[code](https://github.com/zju3dv/VS-Net):house:[project](https://drinkingcoder.github.io/publication/vs-net/):tv:[video](https://youtu.be/5WLEyyLdxAs)
+
+
 
 <a name="44"/>
 
@@ -897,6 +952,7 @@
 
 - [Re-labeling ImageNet: from Single to Multi-Labels, from Global to Localized Labels](https://arxiv.org/abs/2101.05022)<br>:star:[code](https://github.com/naver-ai/relabel_imagenet)<br>
 - [Differentiable Patch Selection for Image Recognition](https://arxiv.org/abs/2104.03059)<br>:star:[code](https://github.com/google-research/google-research/tree/master/ptopk_patch_selection/)
+- [Achieving Robustness in Classification Using Optimal Transport With Hinge Regularization](https://openaccess.thecvf.com/content/CVPR2021/papers/Serrurier_Achieving_Robustness_in_Classification_Using_Optimal_Transport_With_Hinge_Regularization_CVPR_2021_paper.pdf)
 * 细粒度分类
   * [Fine-grained Angular Contrastive Learning with Coarse Labels](https://arxiv.org/abs/2012.03515)<br>:open_mouth:oral<br>使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。
   * [Graph-based High-Order Relation Discovery for Fine-grained Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf)<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
@@ -1008,6 +1064,7 @@
   * [PoseAug: A Differentiable Pose Augmentation Framework for 3D Human Pose Estimation](https://arxiv.org/abs/2105.02465)<br>:open_mouth:oral:star:[code](https://github.com/jfzhang95/PoseAug)
   * [AGORA: Avatars in Geography Optimized for Regression Analysis](https://arxiv.org/abs/2104.14643)<br>:house:[project](https://agora.is.tue.mpg.de/)
   * [Intelligent Carpet: Inferring 3D Human Pose From Tactile Signals](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Intelligent_Carpet_Inferring_3D_Human_Pose_From_Tactile_Signals_CVPR_2021_paper.pdf)
+  * [HybrIK: A Hybrid Analytical-Neural Inverse Kinematics Solution for 3D Human Pose and Shape Estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_HybrIK_A_Hybrid_Analytical-Neural_Inverse_Kinematics_Solution_for_3D_Human_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/Jeff-sjtu/HybrIK)
 * 动物姿态估计
   * [From Synthetic to Real: Unsupervised Domain Adaptation for Animal Pose Estimation](https://arxiv.org/abs/2103.14843)<br>:open_mouth:oral:star:[code](https://github.com/chaneyddtt/UDA-Animal-Pose):tv:[video](https://www.youtube.com/watch?v=uF8BE9J7wNw)
 * 3D人体网格配准
@@ -1133,6 +1190,7 @@
 * [Shelf-Supervised Mesh Prediction in the Wild](https://arxiv.org/abs/2102.06195)<br>:house:[project](https://judyye.github.io/ShSMesh/)
 * [Unsupervised Learning of 3D Object Categories From Videos in the Wild](https://arxiv.org/abs/2103.16552)
 * [DeepVideoMVS: Multi-View Stereo on Video With Recurrent Spatio-Temporal Fusion](https://arxiv.org/abs/2012.02177)<br>:star:[code](https://github.com/ardaduz/deep-video-mvs):tv:[video](https://www.youtube.com/watch?v=ikpotjxwcp4)
+* [NeuroMorph: Unsupervised Shape Interpolation and Correspondence in One Go](https://openaccess.thecvf.com/content/CVPR2021/papers/Eisenberger_NeuroMorph_Unsupervised_Shape_Interpolation_and_Correspondence_in_One_Go_CVPR_2021_paper.pdf)
 * 深度估计
   * [PLADE-Net: Towards Pixel-Level Accuracy for Self-Supervised Single-View Depth Estimation with Neural Positional Encoding and Distilled Matting Loss](https://arxiv.org/abs/2103.07362)
   * [Beyond Image to Depth: Improving Depth Prediction using Echoes](https://arxiv.org/abs/2103.08468)<br>:star:[code](https://github.com/krantiparida/beyond-image-to-depth):house:[project](https://krantiparida.github.io/projects/bimgdepth.html)
@@ -1237,14 +1295,17 @@
 * 医学图像分割
   * [FedDG: Federated Domain Generalization on Medical Image Segmentation via Episodic Learning in Continuous Frequency Space](https://arxiv.org/abs/2103.06030)<br>:star:[code](https://github.com/liuquande/FedDG-ELCFS)
   * [DoDNet: Learning to segment multi-organ and tumors from multiple partially labeled datasets](https://arxiv.org/abs/2011.10217)<br>:star:[code](https://github.com/jianpengz/DoDNet):sunflower:[dataset](https://github.com/aim-uofa/partially-labelled)
-  * [DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation]<br>:open_mouth:oral(https://arxiv.org/abs/2103.15954)
+  * [DiNTS: Differentiable Neural Network Topology Search for 3D Medical Image Segmentation](https://arxiv.org/abs/2103.15954)<br>:open_mouth:oral
   * [DARCNN: Domain Adaptive Region-based Convolutional Neural Network for Unsupervised Instance Segmentation in Biomedical Images](https://arxiv.org/abs/2104.01325)<br>
   * [Every Annotation Counts: Multi-label Deep Supervision for Medical Image Segmentation](https://arxiv.org/abs/2104.13243)
   * [Learning Calibrated Medical Image Segmentation via Multi-Rater Agreement Modeling](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Learning_Calibrated_Medical_Image_Segmentation_via_Multi-Rater_Agreement_Modeling_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/jiwei0921/MRNet/)
+  * [clDice - A Novel Topology-Preserving Loss Function for Tubular Structure Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Shit_clDice_-_A_Novel_Topology-Preserving_Loss_Function_for_Tubular_Structure_CVPR_2021_paper.pdf)
 * 医学图像合成
   * [Brain Image Synthesis with Unsupervised Multivariate Canonical CSCℓ4Net](https://arxiv.org/abs/2103.11587)<br>:open_mouth:oral
 * 手术技能评估
   * [Towards Unified Surgical Skill Assessment](https://arxiv.org/abs/2106.01035)<br>:star:[code](https://github.com/Finspire13/Towards-Unified-Surgical-Skill-Assessment)
+
+
 
 <a name="21"/> 
 
@@ -1377,13 +1438,14 @@
 * Robust Reference-based Super-Resolution via C²-Matching
 * [GLEAN: Generative Latent Bank for Large-Factor Image Super-Resolution](https://arxiv.org/abs/2012.00739)<br>:open_mouth:oral:house:[project](https://ckkelvinchan.github.io/projects/GLEAN/)<br>解读：[CVPR 2021 Oral | GLEAN: 基于隐式生成库的高倍率图像超分辨率](https://mp.weixin.qq.com/s/ZdfoS_VkFfQVsRhA4g6Yog)
 * [BasicVSR: The Search for Essential Components in Video Super-Resolution and Beyond](https://arxiv.org/abs/2012.02181)<br>:star:[code](https://github.com/ckkelvinchan/BasicVSR-IconVSR):house:[project](https://ckkelvinchan.github.io/projects/BasicVSR/)
-* [Temporal Modulation Network for Controllable Space-Time Video Super-Resolution]<br>[作者主页](https://csjunxu.github.io/)<br>基于时空特征可控插值的视频超分辨率网络<br>解读：[18](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+* [Temporal Modulation Network for Controllable Space-Time Video Super-Resolution](https://arxiv.org/abs/2104.10642)<br>:star:[code](https://github.com/CS-GangXu/TMNet)[作者主页](https://csjunxu.github.io/)<br>基于时空特征可控插值的视频超分辨率网络<br>解读：[18](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * [Unsupervised Degradation Representation Learning for Blind Super-Resolution](https://arxiv.org/abs/2104.00416)<br>:star:[code](https://github.com/LongguangWang/DASR)
 * [SRWarp: Generalized Image Super-Resolution under Arbitrary Transformation](https://arxiv.org/abs/2104.10325)<br>:star:[code](https://github.com/sanghyun-son/srwarp)
 * [MASA-SR: Matching Acceleration and Spatial Adaptation for Reference-Based Image Super-Resolution](https://arxiv.org/abs/2106.02299)<br>:star:[code](https://github.com/dvlab-research/MASA-SR)<br>作者提出用于 RefSR 的新方法：MASA 网络，包含两个新设计的模块。其中 Match （匹配）和 Extraction（提取）模块大大降低了计算成本。Spatial Adaptation（空间适应）模块用来学习 LR 和 Ref 图像之间的分布差异，并以空间适应的方式将参考特征的分布 remaps（重新映射）为 LR特征的分布。以此更加鲁棒地处理不同的参考图像。
 * [Towards Fast and Accurate Real-World Depth Super-Resolution: Benchmark Dataset and Baseline](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Towards_Fast_and_Accurate_Real-World_Depth_Super-Resolution_Benchmark_Dataset_and_CVPR_2021_paper.pdf)
 * [Exploring Sparsity in Image Super-Resolution for Efficient Inference](https://arxiv.org/abs/2006.09603)<br>:star:[code](https://github.com/LongguangWang/SMSR)
 * [Neural Side-by-Side: Predicting Human Preferences for No-Reference Super-Resolution Evaluation](https://openaccess.thecvf.com/content/CVPR2021/papers/Khrulkov_Neural_Side-by-Side_Predicting_Human_Preferences_for_No-Reference_Super-Resolution_Evaluation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/KhrulkovV/NeuralSBS)
+* [Tackling the Ill-Posedness of Super-Resolution Through Adaptive Target Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jo_Tackling_the_Ill-Posedness_of_Super-Resolution_Through_Adaptive_Target_Generation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/yhjo09/AdaTarget)
 * 盲超分辨
   * [Learning the Non-Differentiable Optimization for Blind Super-Resolution](https://openaccess.thecvf.com/content/CVPR2021/papers/Hui_Learning_the_Non-Differentiable_Optimization_for_Blind_Super-Resolution_CVPR_2021_paper.pdf)
   * [Flow-based Kernel Prior with Application to Blind Super-Resolution](https://arxiv.org/abs/2103.15977)<br>:star:[code](https://github.com/JingyunLiang/FKP)
@@ -1398,6 +1460,7 @@
 * [AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning](https://arxiv.org/abs/2103.16002)
 * [Domain-robust VQA with diverse datasets and methods but no target labels](https://arxiv.org/abs/2103.15974)
 * [Found a Reason for me? Weakly-supervised Grounded Visual Question Answering using Capsules](https://arxiv.org/abs/2105.04836)<br>:star:[code](https://github.com/aurooj/WeakGroundedVQA_Capsules)
+* [Perception Matters: Detecting Perception Failures of VQA Models Using Metamorphic Testing](https://openaccess.thecvf.com/content/CVPR2021/papers/Yuan_Perception_Matters_Detecting_Perception_Failures_of_VQA_Models_Using_Metamorphic_CVPR_2021_paper.pdf)
 * 视频问答
   * [TrafficQA: A Question Answering Benchmark and an Efficient Network for Video Reasoning over Traffic Events](https://arxiv.org/abs/2103.15538)<br>:star:[code](https://github.com/SUTDCV/SUTD-TrafficQA)
   * [Bridge to Answer: Structure-aware Graph Interaction Network for Video Question Answering](https://arxiv.org/abs/2104.14085)
@@ -1441,6 +1504,9 @@
 * [House-GAN++: Generative Adversarial Layout Refinement Network towards Intelligent Computational Agent for Professional Architects](https://openaccess.thecvf.com/content/CVPR2021/papers/Nauata_House-GAN_Generative_Adversarial_Layout_Refinement_Network_towards_Intelligent_Computational_Agent_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/ennauata/houseganpp):house:[project](https://ennauata.github.io/houseganpp/page.html)
 * [Roof-GAN: Learning To Generate Roof Geometry and Relations for Residential Houses](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_Roof-GAN_Learning_To_Generate_Roof_Geometry_and_Relations_for_Residential_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/yi-ming-qian/roofgan)
 * [Exploring Adversarial Fake Images on Face Manifold](https://arxiv.org/abs/2101.03272)
+* [Hyper-LifelongGAN: Scalable Lifelong Learning for Image Conditioned Generation](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhai_Hyper-LifelongGAN_Scalable_Lifelong_Learning_for_Image_Conditioned_Generation_CVPR_2021_paper.pdf)
+* [GANmut: Learning Interpretable Conditional Space for Gamut of Emotions](https://openaccess.thecvf.com/content/CVPR2021/papers/dApolito_GANmut_Learning_Interpretable_Conditional_Space_for_Gamut_of_Emotions_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/stefanodapolito/GANmut)
+* [StyleSpace Analysis: Disentangled Controls for StyleGAN Image Generation](https://arxiv.org/abs/2011.12799)
 * 无监督图像合成
   * [Posterior Promoted GAN With Distribution Discriminator for Unsupervised Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Posterior_Promoted_GAN_With_Distribution_Discriminator_for_Unsupervised_Image_Synthesis_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/bioinf-jku/TTUR)
 * 图像到图像翻译
@@ -1450,6 +1516,7 @@
   * [Encoding in Style: a StyleGAN Encoder for Image-to-Image Translation](https://arxiv.org/abs/2008.00951)<br>:star:[code](https://github.com/eladrich/pixel2style2pixel):house:[project](https://eladrich.github.io/pixel2style2pixel/)<br>
 * 图像编辑
   * [StyleMapGAN: Exploiting Spatial Dimensions of Latent in GAN for Real-time Image Editing](https://arxiv.org/abs/2104.14754)<br>:star:[code](https://github.com/naver-ai/StyleMapGAN):tv:[video](https://www.youtube.com/watch?v=qCapNyRA_Ng)
+
 
 <a name="14"/> 
 
@@ -1510,6 +1577,7 @@
   * [More Photos are All You Need: Semi-Supervised Learning for Fine-Grained Sketch Based Image Retrieval](https://arxiv.org/abs/2103.13990)<br>:star:[code](https://github.com/AyanKumarBhunia/semisupervised-FGSBIR)
   * [StyleMeUp: Towards Style-Agnostic Sketch-Based Image Retrieval](https://arxiv.org/abs/2103.15706)
   * [Prototype-supervised Adversarial Network for Targeted Attack of Deep Hashing](https://arxiv.org/abs/2105.07553)<br>:star:[code](https://github.com/xunguangwang/ProS-GAN)
+  * [CoSMo: Content-Style Modulation for Image Retrieval With Text Feedback](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_CoSMo_Content-Style_Modulation_for_Image_Retrieval_With_Text_Feedback_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/postBG/CosMo.pytorch)
 * 视频检索
   * [On Semantic Similarity in Video Retrieval](https://arxiv.org/abs/2103.10095)<br>:star:[code](https://github.com/mwray/Semantic-Video-Retrieval):house:[project](https://mwray.github.io/SSVR/):tv:[video](https://youtu.be/pS9qa_B771I)
 * 视觉搜索
@@ -1524,6 +1592,7 @@
   * [Multi-Stage Progressive Image Restoration](https://arxiv.org/abs/2102.02808)<br>:star:[code](https://github.com/swz30/MPRNet)<br>
   * [See through Gradients: Image Batch Recovery via GradInversion](https://arxiv.org/abs/2104.07586)
   * [Controllable Image Restoration for Under-Display Camera in Smartphones](https://openaccess.thecvf.com/content/CVPR2021/papers/Kwon_Controllable_Image_Restoration_for_Under-Display_Camera_in_Smartphones_CVPR_2021_paper.pdf)
+  * [Zero-Shot Single Image Restoration Through Controlled Perturbation of Koschmieder's Model](https://openaccess.thecvf.com/content/CVPR2021/papers/Kar_Zero-Shot_Single_Image_Restoration_Through_Controlled_Perturbation_of_Koschmieders_Model_CVPR_2021_paper.pdf)<br>:house:[project](https://aupendu.github.io/zero-restore)
 * 去阴影Shadow Removal
   * [Auto-Exposure Fusion for Single-Image Shadow Removal](https://arxiv.org/abs/2103.01255)<br>:star:[code](https://github.com/tsingqguo/exposure-fusion-shadow-removal)<br>
   * [From Shadow Generation to Shadow Removal](https://arxiv.org/abs/2103.12997)<br>:star:[code](https://github.com/hhqweasd/G2R-ShadowNet)
@@ -1545,6 +1614,7 @@
   * [Invertible Denoising Network: A Light Solution for Real Noise Removal](https://arxiv.org/abs/2104.10546)<br>:star:[code](https://github.com/Yang-Liu1082/InvDN)
   * [FBI-Denoiser: Fast Blind Image Denoiser for Poisson-Gaussian Noise](https://arxiv.org/abs/2105.10967)<br>:star:[code](https://github.com/csm9493/FBI-Denoiser)
   * [Recorrupted-to-Recorrupted: Unsupervised Deep Learning for Image Denoising](https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Recorrupted-to-Recorrupted_Unsupervised_Deep_Learning_for_Image_Denoising_CVPR_2021_paper.pdf)
+  * [The Neural Tangent Link Between CNN Denoisers and Non-Local Filters](https://arxiv.org/abs/2006.02379)<br>:star:[code](https://gitlab.com/Tachella/neural_tangent_denoiser)
 * 去雨Deraining
   * [Semi-Supervised Video Deraining with Dynamic Rain Generator](https://arxiv.org/abs/2103.07939)
   * [Closing the Loop: Joint Rain Generation and Removal via Disentangled Image Translation](https://arxiv.org/abs/2103.13660)
@@ -1584,6 +1654,9 @@
   * [Digital Gimbal: End-to-end Deep Image Stabilization with Learnable Exposure Times](http://arxiv.org/abs/2012.04515)
 * 去散焦模糊
   * [Iterative Filter Adaptive Network for Single Image Defocus Deblurring](https://openaccess.thecvf.com/content/CVPR2021/papers/Lee_Iterative_Filter_Adaptive_Network_for_Single_Image_Defocus_Deblurring_CVPR_2021_paper.pdf)
+* 去遮挡
+  * [Human De-Occlusion: Invisible Perception and Recovery for Humans](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Human_De-Occlusion_Invisible_Perception_and_Recovery_for_Humans_CVPR_2021_paper.pdf)<br>:house:[project](https://sydney0zq.github.io/ahp/)
+
 
 <a name="11"/> 
 
@@ -1731,6 +1804,8 @@
 * [Unsupervised Part Segmentation through Disentangling Appearance and Shape](https://arxiv.org/abs/2105.12405)
 * [Encoder Fusion Network With Co-Attention Embedding for Referring Image Segmentation](https://arxiv.org/abs/2105.01839)
 * [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/incredibleXM/BUSNet)
+* [DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/2003.11883)
+* [Unsupervised Part Segmentation Through Disentangling Appearance and Shape](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Unsupervised_Part_Segmentation_Through_Disentangling_Appearance_and_Shape_CVPR_2021_paper.pdf)
 * 实例分割
   * [Zero-Shot Instance Segmentation](https://arxiv.org/abs/2104.06601)<br>:star:[code](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
   * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
@@ -1783,6 +1858,7 @@
   * [Cluster, Split, Fuse, and Update: Meta-Learning for Open Compound Domain Adaptive Semantic Segmentation](https://arxiv.org/abs/2012.08278)
   * [Semi-Supervised Semantic Segmentation With Directional Context-Aware Consistency](https://openaccess.thecvf.com/content/CVPR2021/papers/Lai_Semi-Supervised_Semantic_Segmentation_With_Directional_Context-Aware_Consistency_CVPR_2021_paper.pdf)
   * [Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.pdf) 
+  * [Uncertainty Reduction for Model Adaptation in Semantic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/S_Uncertainty_Reduction_for_Model_Adaptation_in_Semantic_Segmentation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/idiap/model-uncertainty-for-adaptation)
 * 场景理解/场景解析
   * [Bidirectional Projection Network for Cross Dimension Scene Understanding](https://arxiv.org/abs/2103.14326)<br>:open_mouth:oral:star:[code](https://github.com/wbhu/BPNet)
   * [RobustNet: Improving Domain Generalization in Urban-Scene Segmentation via Instance Selective Whitening](https://arxiv.org/abs/2103.15597)<br>:open_mouth:oral:star:[code](https://github.com/shachoi/RobustNet)
@@ -1796,7 +1872,7 @@
     * [Fully Convolutional Scene Graph Generation](https://arxiv.org/abs/2103.16083)<br>:open_mouth:oral
     * [Bipartite Graph Network with Adaptive Message Passing for Unbiased Scene Graph Generation](https://arxiv.org/abs/2104.00308)<br>:star:[code](https://github.com/Scarecrow0/BGNN-SGG)
     * [Linguistic Structures as Weak Supervision for Visual Scene Graph Generation](https://arxiv.org/abs/2105.13994)<br>:star:[code](https://github.com/yekeren/WSSGG)
-    * [Energy-Based Learning for Scene Graph Generation](https://arxiv.org/abs/2103.02221)
+    * [Energy-Based Learning for Scene Graph Generation](https://arxiv.org/abs/2103.02221)<br>:star:[code](https://github.com/mods333/energy-based-scene-graph)
   * 3D 场景理解
     * [Holistic 3D Scene Understanding From a Single Image With Implicit Representation](https://arxiv.org/abs/2103.06422)<br>:star:[code](https://github.com/chengzhag/Implicit3DUnderstanding):house:[project](https://chengzhag.github.io/publication/im3d/):tv:[video](https://youtu.be/Kg0du7mFu60)
     * [Monte Carlo Scene Search for 3D Scene Understanding](https://arxiv.org/abs/2103.07969)
@@ -1902,6 +1978,7 @@
   * [Weakly Supervised Video Salient Object Detection](https://arxiv.org/abs/2104.02391)<br>:star:[code](https://github.com/wangbo-zhao/WSVSOD)
   * [Uncertainty-aware Joint Salient Object and Camouflaged Object Detection](https://arxiv.org/abs/2104.02628)<br>:star:[code](https://github.com/JingZhang617/Joint_COD_SOD)
   * [Calibrated RGB-D Salient Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Ji_Calibrated_RGB-D_Salient_Object_Detection_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/jiwei0921/DCF)
+  * [From Semantic Categories to Fixations: A Novel Weakly-Supervised Visual-Auditory Saliency Detection Approach](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_From_Semantic_Categories_to_Fixations_A_Novel_Weakly-Supervised_Visual-Auditory_Saliency_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/guotaowang/STANet)
   * co-saliency detection(协同显著目标检测)
     * [DeepACG: Co-Saliency Detection via Semantic-Aware Contrast Gromov-Wasserstein Distance](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DeepACG_Co-Saliency_Detection_via_Semantic-Aware_Contrast_Gromov-Wasserstein_Distance_CVPR_2021_paper.pdf)
     * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
@@ -1924,6 +2001,8 @@
   * [Unsupervised Object Detection With LIDAR Clues](https://openaccess.thecvf.com/content/CVPR2021/papers/Tian_Unsupervised_Object_Detection_With_LIDAR_Clues_CVPR_2021_paper.pdf)
 * 域适应目标检测
   * [RPN Prototype Alignment for Domain Adaptive Object Detector](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.pdf)
+
+
 
 <a name="6"/> 
 
@@ -2134,7 +2213,7 @@
 * [Dual Contradistinctive Generative Autoencoder](https://arxiv.org/abs/2011.10063)<br>:star:[code](https://github.com/mlpc-ucsd/DC-VAE)
 * [Metadata Normalization](https://arxiv.org/abs/2104.09052)<br>:star:[code](https://github.com/mlu355/MetadataNorm)
 * [End-to-End Rotation Averaging With Multi-Source Propagation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_End-to-End_Rotation_Averaging_With_Multi-Source_Propagation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/sfu-gruvi-3dv/msp_rot_avg)
-
+* [UV-Net: Learning From Boundary Representations](https://openaccess.thecvf.com/content/CVPR2021/papers/Jayaraman_UV-Net_Learning_From_Boundary_Representations_CVPR_2021_paper.pdf)
 * Visual Grounding
   * [Look Before You Leap: Learning Landmark Features for One-Stage Visual Grounding](https://arxiv.org/abs/2104.04386)<br>:star:[code](https://github.com/svip-lab/LBYLNet)
 * 语义匹配

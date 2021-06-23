@@ -3437,7 +3437,6 @@ paper.cross_modal_focal_loss_cvpr2021)
 * 行人和车辆相互作用
   * [Euro-PVI: Pedestrian Vehicle Interactions in Dense Urban Centers](https://openaccess.thecvf.com/content/CVPR2021/papers/Bhattacharyya_Euro-PVI_Pedestrian_Vehicle_Interactions_in_Dense_Urban_Centers_CVPR_2021_paper.pdf)  
 
-  
 
 ## 扫码CV君微信（注明：CVPR）入微信交流群：
 

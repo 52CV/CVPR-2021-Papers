@@ -23,6 +23,65 @@
 <br>:house:[project]()
 <br>:sunflower:[dataset]()
 
+* 目标检测
+  * [RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_RSN_Range_Sparse_Net_for_Efficient_Accurate_LiDAR_3D_Object_CVPR_2021_paper.pdf)
+* HDR Deghosting(HDR去伪影)
+  * [Labeled From Unlabeled: Exploiting Unlabeled Data for Few-Shot Deep HDR Deghosting](https://openaccess.thecvf.com/content/CVPR2021/papers/Prabhakar_Labeled_From_Unlabeled_Exploiting_Unlabeled_Data_for_Few-Shot_Deep_HDR_CVPR_2021_paper.pdf)
+* 知识蒸馏
+  * [Wasserstein Contrastive Representation Distillation](https://arxiv.org/abs/2012.08674)
+* 视频
+  * [Deep Learning in Latent Space for Video Prediction and Compression](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Deep_Learning_in_Latent_Space_for_Video_Prediction_and_Compression_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/BowenL0218/Video_Compression)
+* 点云
+  * [PWCLO-Net: Deep LiDAR Odometry in 3D Point Clouds Using Hierarchical Embedding Mask Optimization](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_PWCLO-Net_Deep_LiDAR_Odometry_in_3D_Point_Clouds_Using_Hierarchical_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/IRMVLab/PWCLONet)
+  * [PointNetLK Revisited](https://arxiv.org/abs/2008.09527)<br>:open_mouth:oral:star:[code](https://github.com/Lilac-Lee/PointNetLK_Revisited)
+* 连续学习
+  * [ORDisCo: Effective and Efficient Usage of Incremental Unlabeled Data for Semi-Supervised Continual Learning](https://arxiv.org/abs/2101.00407)
+* 去模糊
+  * [Explore Image Deblurring via Encoded Blur Kernel Space](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_Explore_Image_Deblurring_via_Encoded_Blur_Kernel_Space_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/VinAIResearch/blur-kernel-space-exploring)
+* 相机姿势
+  * [Camera Pose Matters: Improving Depth Prediction by Mitigating Pose Distribution Bias](https://arxiv.org/abs/2007.03887)<br>:open_mouth:oral
+* 类增量
+  * [Adaptive Aggregation Networks for Class-Incremental Learning](https://arxiv.org/abs/2010.05063)<br>:star:[code](https://github.com/yaoyao-liu/class-incremental-learning)
+* 增量学习
+  * [Incremental Learning via Rate Reduction](https://arxiv.org/abs/2011.14593)
+* 姿势
+  * [Neural Descent for Visual 3D Human Pose and Shape](https://arxiv.org/abs/2008.06910)
+* VL
+  * [Transitional Adaptation of Pretrained Models for Visual Storytelling](https://openaccess.thecvf.com/content/CVPR2021/papers/Yu_Transitional_Adaptation_of_Pretrained_Models_for_Visual_Storytelling_CVPR_2021_paper.pdf)
+* 分割
+  * [Improving Panoptic Segmentation at All Scales](https://arxiv.org/abs/2012.07717)
+  * [One Thing One Click: A Self-Training Approach for Weakly Supervised 3D Semantic Segmentation](https://arxiv.org/abs/2104.02246)
+* 量化
+  * [Scalability vs. Utility: Do We Have to Sacrifice One for the Other in Data Importance Quantification?](https://arxiv.org/abs/1911.07128)<br>:star:[code](https://github.com/AI-secure/Shapley-Study)
+* GCN
+  * [Hierarchical Layout-Aware Graph Convolutional Network for Unified Aesthetics Assessment](https://openaccess.thecvf.com/content/CVPR2021/papers/She_Hierarchical_Layout-Aware_Graph_Convolutional_Network_for_Unified_Aesthetics_Assessment_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/days1011/HLAGCN)
+* GAN
+  * [Normalized Avatar Synthesis Using StyleGAN and Perceptual Refinement](https://openaccess.thecvf.com/content/CVPR2021/papers/Luo_Normalized_Avatar_Synthesis_Using_StyleGAN_and_Perceptual_Refinement_CVPR_2021_paper.pdf)
+* 风格迁移
+  * [CT-Net: Complementary Transfering Network for Garment Transfer With Arbitrary Geometric Changes](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_CT-Net_Complementary_Transfering_Network_for_Garment_Transfer_With_Arbitrary_Geometric_CVPR_2021_paper.pdf)
+* 去噪
+  * [Deep Convolutional Dictionary Learning for Image Denoising](https://openaccess.thecvf.com/content/CVPR2021/papers/Zheng_Deep_Convolutional_Dictionary_Learning_for_Image_Denoising_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/natezhenghy/DCDicL_denoising)
+* OCR
+  * [TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption](https://arxiv.org/abs/2012.04638)
+* 图像质量
+  * [Quality-Agnostic Image Recognition via Invertible Decoder](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Quality-Agnostic_Image_Recognition_via_Invertible_Decoder_CVPR_2021_paper.pdf)
+* 三维
+  * [Hybrid Rotation Averaging: A Fast and Robust Rotation Averaging Approach](https://arxiv.org/abs/2101.09116)
+* OOD检测
+  * [Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/zaeemzadeh/OOD)
+
+* 未分
+  * [Efficient Deformable Shape Correspondence via Multiscale Spectral Manifold Wavelets Preservation](https://openaccess.thecvf.com/content/CVPR2021/papers/Hu_Efficient_Deformable_Shape_Correspondence_via_Multiscale_Spectral_Manifold_Wavelets_Preservation_CVPR_2021_paper.pdf)
+  * [TearingNet: Point Cloud Autoencoder To Learn Topology-Friendly Representations](https://arxiv.org/abs/2006.10187)
+  * [Boosting Ensemble Accuracy by Revisiting Ensemble Diversity Metrics](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Boosting_Ensemble_Accuracy_by_Revisiting_Ensemble_Diversity_Metrics_CVPR_2021_paper.pdf)
+  * [Convolutional Dynamic Alignment Networks for Interpretable Classifications](https://arxiv.org/abs/2104.00032)<br>:open_mouth:oral:star:[code](https://github.com/moboehle/CoDA-Nets)
+  * [EDNet: Efficient Disparity Estimation With Cost Volume Combination and Attention-Based Spatial Residual](https://arxiv.org/abs/2010.13338)
+  * [How Robust are Randomized Smoothing based Defenses to Data Poisoning?](https://arxiv.org/abs/2012.01274)<br>:star:[code](https://github.com/akshaymehra24/poisoning_certified_defenses)
+  * [Generative Interventions for Causal Learning](https://arxiv.org/abs/2012.12265)
+  * [Learning to Identify Correct 2D-2D Line Correspondences on Sphere](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Learning_To_Identify_Correct_2D-2D_Line_Correspondences_on_Sphere_CVPR_2021_paper.pdf)
+  * [Domain-Independent Dominance of Adaptive Methods](https://arxiv.org/abs/1912.01823)<br>:star:[code](https://github.com/lolemacs/avagrad)
+
+
 # 第二十一弹
 
 * GAN
@@ -1361,7 +1420,7 @@
 ## 65.Style Transfer(风格迁移)
 * [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
 * [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
-* [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)
+* [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)<br>:star:[code](https://github.com/VinAIResearch/CPM)
 * [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral 
 * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
 * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
@@ -1580,7 +1639,7 @@
 * [A Multiplexed Network for End-to-End, Multilingual OCR](https://arxiv.org/abs/2103.15992)
 * [Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf)
 * 场景文本检测
-  * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)
+  * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)<br>:star:[code](https://github.com/ku21fan/STR-Fewer-Labels)
   * [Read Like Humans: Autonomous, Bidirectional and Iterative Language Modeling for Scene Text Recognition](https://arxiv.org/abs/2103.06495)<br>:open_mouth:oral:star:[code](https://github.com/FangShancheng/ABINet)
   * [MOST: A Multi-Oriented Scene Text Detector with Localization Refinement](https://arxiv.org/abs/2104.01070)
   * [Scene Text Retrieval via Joint Text Detection and Similarity Learning](https://arxiv.org/abs/2104.01552)<br>:star:[code](https://github.com/lanfeng4659/STR-TDSL)
@@ -1632,7 +1691,7 @@
 
 - [Structured Scene Memory for Vision-Language Navigation](https://arxiv.org/abs/2103.03454)<br>:star:[code](https://github.com/HanqingWangAI/SSM-VLN)
 * [Kaleido-BERT: Vision-Language Pre-training on Fashion Domain](https://arxiv.org/abs/2103.16110)<br>
-* [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135)
+* [Seeing Out of tHe bOx: End-to-End Pre-training for Vision-Language Representation Learning](https://arxiv.org/abs/2104.03135)<br>:star:[code](https://github.com/researchmm/soho)
 * [UC2: Universal Cross-Lingual Cross-Modal Vision-and-Language Pre-Training](https://arxiv.org/abs/2104.00332)
 * [VinVL: Revisiting Visual Representations in Vision-Language Models](https://arxiv.org/abs/2101.00529)<br>:star:[code](https://github.com/pzzhang/VinVL)
 * [Connecting What To Say With Where To Look by Modeling Human Attention Traces](https://arxiv.org/abs/2105.05964)<br>:star:[code](https://github.com/facebookresearch/connect-caption-and-trace):house:[project](http://pages.cs.wisc.edu/~zihangm/connect_caption_trace)
@@ -1829,7 +1888,7 @@
   * [PML: Progressive Margin Loss for Long-tailed Age Classification](https://arxiv.org/abs/2103.02140)<br>
   * [Contrastive Learning based Hybrid Networks for Long-Tailed Image Classification](https://arxiv.org/abs/2103.14267)<br>:house:[project](https://www.kaihan.org/HybridLT/)
   * [Capsule Network is Not More Robust than Convolutional Network](https://arxiv.org/abs/2103.15459)
-  * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)
+  * [Model-Contrastive Federated Learning](https://arxiv.org/abs/2103.16257)<br>:star:[code](https://github.com/QinbinLi/MOON)
   * [Towards Good Practices for Efficiently Annotating Large-Scale Image Classification Datasets](https://arxiv.org/abs/2104.12690)<br>:open_mouth:oral:star:[code](https://github.com/fidler-lab/efficient-annotation-cookbook):house:[project](https://fidler-lab.github.io/efficient-annotation-cookbook/)
   * [Correlated Input-Dependent Label Noise in Large-Scale Image Classification](https://arxiv.org/abs/2105.10305)<br>:open_mouth:oral:star:[code](https://github.com/google/uncertainty-baselines/tree/master/baselines/imagenet)
   * [Towards Robust Classification Model by Counterfactual and Invariant Data Generation](https://arxiv.org/abs/2106.01127)<br>:star:[code](https://github.com/zzzace2000/robust_cls_model)
@@ -2825,7 +2884,7 @@ paper.cross_modal_focal_loss_cvpr2021)
   * [Information Bottleneck Disentanglement for Identity Swapping](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Information_Bottleneck_Disentanglement_for_Identity_Swapping_CVPR_2021_paper.pdf)<br>分享会
   * [One Shot Face Swapping on Megapixels](https://arxiv.org/abs/2105.04932)<br>:sunflower:[dataset](https://github.com/zyainfal/One-Shot-Face-Swapping-on-Megapixels)
 * 人脸修复
-  * FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains<br>分享会
+  * [FaceInpainter: High Fidelity Face Adaptation to Heterogeneous Domains](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_FaceInpainter_High_Fidelity_Face_Adaptation_to_Heterogeneous_Domains_CVPR_2021_paper.pdf)<br>分享会
   * [Progressive Semantic-Aware Style Transformation for Blind Face Restoration](https://arxiv.org/abs/2009.08709)<br>:star:[code](https://github.com/chaofengc/PSFRGAN)
   * [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070)<br>:star:[code](https://github.com/yangxy/GPEN)
   * [Towards Real-World Blind Face Restoration With Generative Facial Prior](https://arxiv.org/abs/2101.04061)<br>:star:[code](https://github.com/TencentARC/GFPGAN)
@@ -3347,7 +3406,7 @@ paper.cross_modal_focal_loss_cvpr2021)
 * [Removing the Background by Adding the Background: Towards a Background Robust Self-supervised Video Representation Learning](https://arxiv.org/abs/2009.05769)<br>通过添加背景来去除背景影响：背景鲁棒的自监督视频表征学习<br>解读：[11](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * [Representative Batch Normalization with Feature Calibration](https://openaccess.thecvf.com/content/CVPR2021/papers/Gao_Representative_Batch_Normalization_With_Feature_Calibration_CVPR_2021_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/ShangHua-Gao/RBN):house:[project](http://mmcheng.net/rbn/)<br>[作者主页](https://duoli.org/)<br>基于特征校准的表征批规范化方法解读：[4](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 * [Involution: Inverting the Inherence of Convolution for Visual Recognition](https://arxiv.org/abs/2103.06255)<br>:star:[code](https://github.com/d-li14/involution)<br>解读：[CVPR'21 | involution：超越convolution和self-attention的神经网络新算子](https://mp.weixin.qq.com/s/Kn7QJdldLhyBfYS1KiCdcA)
-* [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)
+* [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)<br>:star:[code](https://github.com/kakaobrain/scrl)
 * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)<br>:star:[code](https://github.com/collin-burns/feature-alignment)
 * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)
 * CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)

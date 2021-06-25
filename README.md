@@ -1,8 +1,6 @@
 # CVPR2021最新信息及已接收论文/代码(持续更新)
 
 
-本贴是对 CVPR2021 已接受论文的粗略汇总，后期会有更详细的总结。期待ing......
-
 官网链接：http://cvpr2021.thecvf.com<br>
 开会时间：2021年6月19日-6月25日<br>
 论文接收公布时间：2021年2月28日<br>
@@ -22,7 +20,6 @@
 
 |:dog:|:mouse:|:hamster:|:tiger:|
 |------|------|------|------|
-|[Workshop征稿](#*)|
 |[73.Object Re-identification(物体重识别)](#73)|[72.Gaze Estimation(视线估计)](#72)|[71.Image-to-Image Translation(图像到图像翻译)](#71)|[70.NLP(自然语言处理)](#70)|[69.Transfer learning(迁移学习)](#69)|
 |[68.Crowd Counting(计数)](#68)|[67.Defect Detection(缺陷检测)](#67)|[66.Optical Flow Estimation(光流估计)](#66)|[65.Style Transfer(风格迁移)](#65)
 |[64.Speech processing(语音处理)](#64)|[63.Image Processing(图像处理)](#63)|[62.Free-Hand Sketches(手绘草图识别)](#62)|[61.算法](#61)|
@@ -309,7 +306,6 @@
 * [Adversarial Generation of Continuous Images](https://arxiv.org/pdf/2011.12026.pdf)<br>:star:[code](https://github.com/universome/inr-gan)
 * [StEP: Style-based Encoder Pre-training for Multi-modal Image Synthesis](https://arxiv.org/abs/2104.07098)
 * [IMAGINE: Image Synthesis by Image-Guided Model Inversion](https://arxiv.org/abs/2104.05895)
-* Leveraging Line-point Consistence to Preserve Structures forWide Parallax Image Stitching<br>:star:[code](https://github.com/dut-media-lab/Image-Stitching)<br>分享会
 * [SSN: Soft Shadow Network for Image Compositing](https://arxiv.org/abs/2007.08211)
 * [Mask-Embedded Discriminator With Region-Based Semantic Regularization for Semi-Supervised Class-Conditional Image Synthesis](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Mask-Embedded_Discriminator_With_Region-Based_Semantic_Regularization_for_Semi-Supervised_Class-Conditional_Image_CVPR_2021_paper.pdf)
 * [Learning Semantic Person Image Generation by Region-Adaptive Normalization](https://arxiv.org/abs/2104.06650)<br>:star:[code](https://github.com/cszy98/SPGNet)
@@ -590,7 +586,6 @@
 * 细粒度分类
   * [Fine-grained Angular Contrastive Learning with Coarse Labels](https://arxiv.org/abs/2012.03515)<br>:open_mouth:oral<br>:star:[code](https://github.com/guybuk/ANCOR)<br>使用自监督进行 Coarse Labels（粗标签）的细粒度分类方面的工作。粗标签与细粒度标签相比，更容易和更便宜，因为细粒度标签通常需要域专家。
   * [Graph-based High-Order Relation Discovery for Fine-grained Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Graph-Based_High-Order_Relation_Discovery_for_Fine-Grained_Recognition_CVPR_2021_paper.pdf)<br>基于特征间高阶关系挖掘的细粒度识别方法<br>解读：[20](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-  * Fine-Grained Few-Shot Classification with Feature Map Reconstruction Networks
   * [Few-Shot Classification with Feature Map Reconstruction Networks](https://arxiv.org/abs/2012.01506)<br>:star:[code](https://github.com/Tsingularity/FRN):tv:[video](https://www.youtube.com/watch?v=kbsRsbQKTRc)
   * [A Realistic Evaluation of Semi-Supervised Learning for Fine-Grained Classification](https://arxiv.org/abs/2104.00679)<br>:open_mouth:oral
   * [GLAVNet: Global-Local Audio-Visual Cues for Fine-Grained Material Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Shi_GLAVNet_Global-Local_Audio-Visual_Cues_for_Fine-Grained_Material_Recognition_CVPR_2021_paper.pdf)
@@ -691,8 +686,7 @@
 - [Monocular Real-time Full Body Capture with Inter-part Correlations](https://arxiv.org/abs/2012.06087)<br>:tv:[video](https://www.youtube.com/watch?v=pAcywTUTv-E)<br>在电影动作特效中，人体运动捕捉是关键技术，高质量的捕捉往往需要特殊设备，而如果能使用普通RGB相机进行运动捕捉，将会使人人都是特效师。该视频来自清华、马普所等单位的学者发表于CVPR2021的论文结果，使用单目RGB相机的动作捕捉。
 - [Behavior-Driven Synthesis of Human Dynamics](https://arxiv.org/abs/2103.04677)<br>:star:[code](https://github.com/CompVis/behavior-driven-video-synthesis):house:[project](https://compvis.github.io/behavior-driven-video-synthesis/)
 - [Rethinking the Heatmap Regression for Bottom-up Human Pose Estimation](https://arxiv.org/abs/2012.15175)<br>:star:[code](https://github.com/greatlog/SWAHR-HumanPose)<br>粗解：[2](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-- [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)<br>:star:[code](https://g
-- ithub.com/HRNet/DEKR)
+- [Bottom-Up Human Pose Estimation Via Disentangled Keypoint Regression](https://arxiv.org/abs/2104.02300)<br>:star:[code](https://github.com/HRNet/DEKR)
 - [SCANimate: Weakly Supervised Learning of Skinned Clothed Avatar Networks](https://arxiv.org/abs/2104.03313)<br>:open_mouth:oral:house:[project](https://scanimate.is.tue.mpg.de/)
 - [On Self-Contact and Human Pose](https://arxiv.org/abs/2104.03176)<br>:house:[project](https://tuch.is.tue.mpg.de/)
 - [Lite-HRNet: A Lightweight High-Resolution Network](https://arxiv.org/abs/2104.06403)<br>:star:[code](https://github.com/HRNet/)<br>解读：[Lite-HRNet：轻量级HRNet，FLOPs大幅下降](https://mp.weixin.qq.com/s/4V6EOYVSybMR9oxpcsWv9w)
@@ -711,7 +705,7 @@
   * [High-Fidelity Neural Human Motion Transfer from Monocular Video](https://arxiv.org/abs/2012.10974)
 * 3D人体姿态估计
   * [CanonPose: Self-supervised Monocular 3D Human Pose Estimation in the Wild](https://arxiv.org/abs/2011.14679)<br>:star:[code](https://github.com/bastianwandt/CanonPose)
-  * Context Modeling in 3D Human Pose Estimation: A Unified Perspective
+  * [Context Modeling in 3D Human Pose Estimation: A Unified Perspective](https://arxiv.org/abs/2103.15507)
   * [PCLs: Geometry-aware Neural Reconstruction of 3D Pose with Perspective Crop Layers](https://arxiv.org/abs/2011.13607)<br>:star:[code](https://github.com/yu-frank/PerspectiveCropLayers):tv:[video](https://twitter.com/i/status/1334395954644930560)<br>通过消除 location-dependent 透视效果来改进3D人体姿势估计技术工作。<br>
   * [Graph Stacked Hourglass Networks for 3D Human Pose Estimation](https://arxiv.org/abs/2103.16385)
   * [Human POSEitioning System (HPS): 3D Human Pose Estimation and Self-localization in Large Scenes from Body-Mounted Sensors](https://arxiv.org/abs/2103.17265)<br>:open_mouth:oral:house:[project](http://virtualhumans.mpi-inf.mpg.de/hps/)
@@ -1078,12 +1072,10 @@
 - [Transformer Interpretability Beyond Attention Visualization](https://arxiv.org/pdf/2012.09838.pdf)<br>:star:[code](https://github.com/hila-chefer/Transformer-Explainability)<br> 
 - [MIST: Multiple Instance Spatial Transformer Network](https://arxiv.org/abs/1811.10725)<br>:star:[code](https://github.com/ubc-vision/mist)<br>试图从热图中进行可微的top-K选择(MIST)（目前在自然图像上也有了一些结果；) 用它可以在没有任何定位监督的情况下进行检测和分类（并不是它唯一能做的事情!）
 - [Variational Transformer Networks for Layout Generation](https://arxiv.org/abs/2104.02416)
-- * [Lesion-Aware Transformers for Diabetic Retinopathy Grading](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.pdf)
+- [Lesion-Aware Transformers for Diabetic Retinopathy Grading](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_Lesion-Aware_Transformers_for_Diabetic_Retinopathy_Grading_CVPR_2021_paper.pdf)
 - [Gaussian Context Transformer](https://openaccess.thecvf.com/content/CVPR2021/papers/Ruan_Gaussian_Context_Transformer_CVPR_2021_paper.pdf)
-* 动作识别检测
-  * 3D Vision Transformers for Action Recognition<br>用于动作识别的3D视觉Transformer
-  * 小样本动作识别
-    * [Temporal-Relational CrossTransformers for Few-Shot Action Recognition](https://arxiv.org/abs/2101.06184)<br>:star:[code](https://github.com/tobyperrett/TRX)
+* 小样本动作识别
+  * [Temporal-Relational CrossTransformers for Few-Shot Action Recognition](https://arxiv.org/abs/2101.06184)<br>:star:[code](https://github.com/tobyperrett/TRX)
 * 目标检测
   * [UP-DETR: Unsupervised Pre-training for Object Detection with Transformers](https://arxiv.org/pdf/2011.09094.pdf)<br>:open_mouth:oral:star:[code](https://github.com/dddzg/up-detr)
   * 单样本目标检测

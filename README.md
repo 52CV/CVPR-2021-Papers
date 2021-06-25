@@ -61,7 +61,7 @@
 
 ## 71.Image-to-Image Translation(图像到图像翻译)
 * [High-Resolution Photorealistic Image Translation in Real-Time: A Laplacian Pyramid Translation Network](https://arxiv.org/abs/2105.09188)<br>:star:[code](https://github.com/csjliang/LPTN)
-* [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/abs/2012.02047)<br>:open_mouth:oral:house:[project](https://tmux.top/publication/geosim/)
+* [CoCosNet v2: Full-Resolution Correspondence Learning for Image Translation](https://arxiv.org/abs/2012.02047)<br>:open_mouth:oral:house:[project](https://tmux.top/publication/geosim/)<br>解读：[CoCosNet v2解锁“高配版”图像翻译](https://mp.weixin.qq.com/s/UIxdBXGN7sO8m01Q83PLew)
 * [Smoothing the Disentangled Latent Style Space for Unsupervised Image-to-Image Translation](https://arxiv.org/abs/2106.09016)
 * [Saliency-Guided Image Translation](https://openaccess.thecvf.com/content/CVPR2021/papers/Jiang_Saliency-Guided_Image_Translation_CVPR_2021_paper.pdf)
 * [Not Just Compete, but Collaborate: Local Image-to-Image Translation via Cooperative Mask Prediction](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Not_Just_Compete_but_Collaborate_Local_Image-to-Image_Translation_via_Cooperative_CVPR_2021_paper.pdf) 
@@ -110,7 +110,7 @@
 * [Rethinking Style Transfer: From Pixels to Parameterized Brushstrokes](https://arxiv.org/abs/2103.17185)<br>:star:[code](https://github.com/CompVis/brushstroke-parameterized-style-transfer)
 * [ArtFlow: Unbiased Image Style Transfer via Reversible Neural Flows](https://arxiv.org/abs/2103.16877)<br>:star:[code](https://github.com/pkuanjie/ArtFlow) 
 * [Lipstick ain't enough: Beyond Color Matching for In-the-Wild Makeup Transfer](https://arxiv.org/abs/2104.01867)<br>:star:[code](https://github.com/VinAIResearch/CPM)
-* [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral 
+* [Rethinking and Improving the Robustness of Image Style Transfer](https://arxiv.org/abs/2104.05623)<br>:open_mouth:oral<br>解读：[CVPR2021 最佳论文候选—提高图像风格迁移的鲁棒性](https://mp.weixin.qq.com/s/OMu941IynGtY9GU8dh4Icg)
 * [Drafting and Revision: Laplacian Pyramid Network for Fast High-Quality Artistic Style Transfer](https://arxiv.org/abs/2104.05376)<br>:star:[code](https://github.com/PaddlePaddle/PaddleGAN/)
 * [Style-Aware Normalized Loss for Improving Arbitrary Style Transfer](https://arxiv.org/abs/2104.10064)<br>:open_mouth:oral
 * [In the Light of Feature Distributions: Moment Matching for Neural Style Transfer](https://arxiv.org/abs/2103.07208)<br>:star:[code](https://github.com/D1noFuzi/cmd_styletransfer):house:[project](https://cmdnst.github.io/)
@@ -520,7 +520,7 @@
 - [Coarse-Fine Networks for Temporal Activity Detection in Videos](https://arxiv.org/abs/2103.01302)<br>:star:[code](https://github.com/kkahatapitiya/Coarse-Fine-Networks)
 - [3D CNNs with Adaptive Temporal Feature Resolutions](https://arxiv.org/abs/2011.08652)<br>:star:[code](https://github.com/SimilarityGuidedSampling/Similarity-Guided-Sampling):house:[project](https://similarityguidedsampling.github.io/)
 - [Understanding the Robustness of Skeleton-based Action Recognition under Adversarial Attack](https://arxiv.org/abs/2103.05347)<br>:tv:[video](https://www.youtube.com/watch?v=DeMkN3efp9s)
-- [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)<br>:tv:[video](https://www.youtube.com/watch?v=PjWgwnAkV8g)
+- [BASAR:Black-box Attack on Skeletal Action Recognition](https://arxiv.org/abs/2103.05266)<br>:house:[project](http://drhewang.com/pages/AAHAR.html):tv:[video](https://www.youtube.com/watch?v=PjWgwnAkV8g)<br>解读：[对抗攻防新方向：动作识别算法容易被攻击！](https://mp.weixin.qq.com/s/AKxGfguKZK5QAT_k0CdbtQ)
 - [TDN: Temporal Difference Networks for Efficient Action Recognition]( https://arxiv.org/abs/2012.10071)<br>:star:[code](https://github.com/MCG-NJU/TDN)
 - [ACTION-Net: Multipath Excitation for Action Recognition](https://arxiv.org/abs/2103.07372)<br>:star:[code](https://github.com/V-Sense/ACTION-Net)<br>解读：[CVPR 2021 | 用于动作识别，即插即用、混合注意力机制的 ACTION 模块](https://mp.weixin.qq.com/s/L2_lkhKbVhW8fjAaDdsyWQ)<br>解读：[CVPR 2021 ｜针对强时序依赖，即插即用、混合注意力机制的 ACTION 模块](https://mp.weixin.qq.com/s/tonyk649KzU1Y_c6p8isuQ)
 - [No frame left behind: Full Video Action Recognition](https://arxiv.org/abs/2103.15395)
@@ -804,7 +804,7 @@
 * 视频预测
   * [Greedy Hierarchical Variational Autoencoders for Large-Scale Video Prediction](https://arxiv.org/abs/2103.04174)<br>:house:[project](https://sites.google.com/view/ghvae):tv:[video](https://youtu.be/C8_-z8SEGOU)
   * [Learning Semantic-Aware Dynamics for Video Prediction](https://arxiv.org/abs/2104.09762)
-  * [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning ](https://arxiv.org/abs/2104.00924)<br>:star:[code](https://github.com/sangmin-git/LMC-Memory)
+  * [Video Prediction Recalling Long-term Motion Context via Memory Alignment Learning ](https://arxiv.org/abs/2104.00924)<br>:star:[code](https://github.com/sangmin-git/LMC-Memory)<br>解读：[引入记忆模块，突破长距离依赖视频预测的性能瓶颈](https://mp.weixin.qq.com/s/GXcoHk9ks_ekVv-o14fVGg)
   * [Learning Goals from Failure](https://arxiv.org/abs/2006.15657)<br>:star:[code](https://github.com/cvlab-columbia/aha):house:[project](https://aha.cs.columbia.edu/)
   * [MotionRNN: A Flexible Model for Video Prediction With Spacetime-Varying Motions](https://arxiv.org/abs/2103.02243)
 * 视频理解
@@ -819,7 +819,7 @@
   * [Video Rescaling Networks with Joint Optimization Strategies for Downscaling and Upscaling](https://arxiv.org/abs/2103.14858)<br>:star:[code](https://github.com/ding3820/MIMO-VRN):house:[project](https://ding3820.github.io/MIMO-VRN/)
 * 视频异常检测
   * [MIST: Multiple Instance Self-Training Framework for Video Anomaly Detection](https://arxiv.org/abs/2104.01633)
-  * [Learning Normal Dynamics in Videos With Meta Prototype Network](https://arxiv.org/abs/2104.06689)<br>:star:[code](https://github.com/ktr-hubrt/MPN/)
+  * [Learning Normal Dynamics in Videos With Meta Prototype Network](https://arxiv.org/abs/2104.06689)<br>:star:[code](https://github.com/ktr-hubrt/MPN/)<br>[又好又快的视频异常检测，引入元学习的动态原型学习组件](https://mp.weixin.qq.com/s/osEi-MtD6ViYT9_mzWDS-Q)
   * [Anomaly Detection in Video via Self-Supervised and Multi-Task Learning](https://arxiv.org/abs/2011.07491)
 * 视频声源定位
   * [Localizing Visual Sounds the Hard Way](https://arxiv.org/abs/2104.02691)<br>:star:[code](https://github.com/hche11/Localizing-Visual-Sounds-the-Hard-Way):house:[project](https://www.robots.ox.ac.uk/~vgg/research/lvs/)
@@ -1099,7 +1099,7 @@
 * 动作预测
   * [Multimodal Motion Prediction with Stacked Transformers](https://arxiv.org/abs/2103.11624)<br>:star:[code](https://github.com/Mrmoore98/mmTransformer-Multimodal-Motion-Prediction-with-Stacked-Transformers):house:[project](https://decisionforce.github.io/mmTransformer/):tv:[video](https://youtu.be/ytqS8dgVcx0)  
 * Self-attention自注意力机制
-  * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral
+  * [Scaling Local Self-Attention For Parameter Efficient Visual Backbones](https://arxiv.org/abs/2103.12731)<br>:open_mouth:oral<br>解读：[超越卷积的自注意力模型，谷歌、UC伯克利提出HaloNet](https://mp.weixin.qq.com/s/EBg7_MM_c-Pi0G1fc8xaag)
 * 检索
   * [Revamping Cross-Modal Recipe Retrieval with Hierarchical Transformers and Self-supervised Learning](https://arxiv.org/abs/2103.13061)<br>:star:[code](https://github.com/amzn/image-to-recipe-transformers)
 * 特征匹配
@@ -1643,7 +1643,7 @@
   * [3DCaricShop: A Dataset and A Baseline Method for Single-view 3D Caricature Face Reconstruction](https://arxiv.org/abs/2103.08204)<br>:star:[code](https://github.com/qiuyuda/3DCaricShop):house:[project](https://qiuyuda.github.io/3DCaricShop/)
   * [Riggable 3D Face Reconstruction via In-Network Optimization](https://arxiv.org/abs/2104.03493)<br>:star:[code](https://github.com/zqbai-jeremy/INORig)<br>本文通过一个嵌入了网络内优化的端到端可训练网络，解决了从单目 RGB 图像中 riggable 3D 人脸重建。并且达到了最先进的重建精度，合理的鲁棒性和泛化能力，可以应用于标准的 face rig 应用，如重定位。
   * [Pixel Codec Avatars](https://arxiv.org/abs/2104.04638)<br>:open_mouth:oral
-  * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)
+  * [Inverting Generative Adversarial Renderer for Face Reconstruction](https://arxiv.org/pdf/2105.02431.pdf)<br>:star:[code](https://github.com/WestlyPark/StyleRenderer)<br>解读：[商汤、港中文实现单目人脸重建新突破： 基于生成网络的渲染器！几何形状更精准！渲染效果更真实！](https://mp.weixin.qq.com/s/H2zdQGVBFY4N0x4MmLf55g)
   * [Learning to Aggregate and Personalize 3D Face from In-the-Wild Photo Collection](https://arxiv.org/abs/2106.07852)<br>在开放的人像集合中学习3D人脸的聚合与特异化重建<br>:open_mouth:oral:star:[code](https://github.com/TencentYoutuResearch/3DFaceReconstruction-LAP)
   * [Monocular Reconstruction of Neural Face Reflectance Fields](https://arxiv.org/abs/2008.10247)<br>:house:[project](http://gvv.mpi-inf.mpg.de/projects/FaceReflectanceFields/)
   * [Learning Complete 3D Morphable Face Models From Images and Videos](https://arxiv.org/abs/2010.01679)<br>:house:[project](https://gvv.mpi-inf.mpg.de/projects/LeMoMo/)
@@ -1673,7 +1673,7 @@
   * [GAN Prior Embedded Network for Blind Face Restoration in the Wild](https://arxiv.org/abs/2105.06070)<br>:star:[code](https://github.com/yangxy/GPEN)
   * [Towards Real-World Blind Face Restoration With Generative Facial Prior](https://arxiv.org/abs/2101.04061)<br>:star:[code](https://github.com/TencentARC/GFPGAN)
 * 人脸动画
-  * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)
+  * [Pose-Controllable Talking Face Generation by Implicitly Modularized Audio-Visual Representation](https://arxiv.org/abs/2104.11116)<br>:star:[code](https://github.com/Hangz-nju-cuhk/Talking-Face_PC-AVS):house:[project](https://hangz-nju-cuhk.github.io/projects/PC-AVS):tv:[video](https://www.youtube.com/watch?v=lNQQHIggnUg)<br>解读：[ “以音动人”：姿态可控的语音驱动说话人脸](https://mp.weixin.qq.com/s/uYC3HgBiiH_X_vemuyk2Gg)
 * 3D Talking Faces
   * [LipSync3D: Data-Efficient Learning of Personalized 3D Talking Faces from Video using Pose and Lighting Normalization](https://arxiv.org/abs/2106.04185)<br>:tv:[video](https://www.youtube.com/watch?v=L1StbX9OznY)
 * 人脸认证
@@ -1711,7 +1711,7 @@
 - [Prioritized Architecture Sampling with Monto-Carlo Tree Search](https://arxiv.org/abs/2103.11922)<br>:star:[code](https://github.com/xiusu/NAS-Bench-Macro)
 * [One-Shot Neural Ensemble Architecture Search by Diversity-Guided Search Space Shrinking](https://arxiv.org/abs/2104.00597)<br>:star:[code](https://github.com/researchmm/NEAS)
 * [NetAdaptV2: Efficient Neural Architecture Search with Fast Super-Network Training and Architecture Optimization](https://arxiv.org/abs/2104.00031)<br>:house:[project](http://web.mit.edu/netadapt/)
-* [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+* [Neural Architecture Search with Random Labels](https://arxiv.org/abs/2101.11834)<br>粗解：[1](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)<br>解读：[基于随机标签的神经架构搜索](https://mp.weixin.qq.com/s/hNwwzgmiR505AMomenUoFg)
 * [Landmark Regularization: Ranking Guided Super-Net Training in Neural Architecture Search](https://arxiv.org/abs/2104.05309)<br>:star:[code](https://github.com/kcyu2014/nas-landmarkreg)
 * [ViPNAS: Efficient Video Pose Estimation via Neural Architecture Search](https://arxiv.org/abs/2105.10154)
 * [TransNAS-Bench-101: Improving Transferability and Generalizability of Cross-Task Neural Architecture Search](https://arxiv.org/abs/2105.11871)<br>:star:[code](https://www.noahlab.com.hk/opensource/vega/page/doc.html?path=datasets/transnasbench101):sunflower:[dataset](https://download.mindspore.cn/dataset/TransNAS-Bench-101/)
@@ -1789,7 +1789,7 @@
 * [DyStaB: Unsupervised Object Segmentation via Dynamic-Static Bootstrapping](https://arxiv.org/abs/2008.07012)
 * 实例分割
   * [Zero-Shot Instance Segmentation](https://arxiv.org/abs/2104.06601)<br>:star:[code](https://github.com/zhengye1995/Zero-shot-Instance-Segmentation)<br>创新奇智首次提出零样本实例分割，助力解决工业场景数据瓶颈难题
-  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)
+  * [Deep Occlusion-Aware Instance Segmentation with Overlapping BiLayers](https://arxiv.org/abs/2103.12340)<br>:star:[code](https://github.com/lkeab/BCNet)<br>解读：[双图层实例分割，大幅提升遮挡处理性能](https://mp.weixin.qq.com/s/LL3uw1ZVxio20wrvzM8Vag)
   * [Weakly Supervised Instance Segmentation for Videos with Temporal Mask Consistency](https://arxiv.org/abs/2103.12886)
   * [FAPIS: A Few-shot Anchor-free Part-based Instance Segmenter](https://arxiv.org/abs/2104.00073)
   * [Weakly-supervised Instance Segmentation via Class-agnostic Learning with Salient Images](https://arxiv.org/abs/2104.01526)<br>:star:[code](https://github.com/hustvl/BoxCaseg)

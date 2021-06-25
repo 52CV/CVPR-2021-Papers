@@ -335,7 +335,6 @@
 * [Implicit Feature Alignment: Learn to Convert Text Recognizer to Text Spotter](https://arxiv.org/abs/2106.05920)
 * [Sequence-to-Sequence Contrastive Learning for Text Recognition](http://arxiv.org/abs/2012.10873)
 * [A Multiplexed Network for End-to-End, Multilingual OCR](https://arxiv.org/abs/2103.15992)
-* [Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf)
 * [TAP: Text-Aware Pre-Training for Text-VQA and Text-Caption](https://arxiv.org/abs/2012.04638)
 * 场景文本检测
   * [What If We Only Use Real Datasets for Scene Text Recognition? Toward Scene Text Recognition With Fewer Labels](https://arxiv.org/abs/2103.04400)<br>:star:[code](https://github.com/ku21fan/STR-Fewer-Labels)
@@ -439,7 +438,8 @@
   * [Image Change Captioning by Learning From an Auxiliary Task](https://openaccess.thecvf.com/content/CVPR2021/papers/Hosseinzadeh_Image_Change_Captioning_by_Learning_From_an_Auxiliary_Task_CVPR_2021_paper.pdf)
   * [FAIEr: Fidelity and Adequacy Ensured Image Caption Evaluation](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_FAIEr_Fidelity_and_Adequacy_Ensured_Image_Caption_Evaluation_CVPR_2021_paper.pdf)<br>:star:[code](https://vipl.ict.ac.cn/view_database.php?id=6)
   * [Towards Bridging Event Captioner and Sentence Localizer for Weakly Supervised Dense Event Captioning](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Towards_Bridging_Event_Captioner_and_Sentence_Localizer_for_Weakly_Supervised_CVPR_2021_paper.pdf)
- 
+  * [Improving OCR-Based Image Captioning by Incorporating Geometrical Relationship](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Improving_OCR-Based_Image_Captioning_by_Incorporating_Geometrical_Relationship_CVPR_2021_paper.pdf)
+  
 <a name="43"/>
 
 ## 43.Active Learning(主动学习)

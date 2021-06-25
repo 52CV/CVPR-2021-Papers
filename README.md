@@ -1137,7 +1137,6 @@
 - [Meta Batch-Instance Normalization for Generalizable Person Re-Identification](https://arxiv.org/abs/2011.14670)<br>:star:[code](https://github.com/bismex/MetaBIN)
 - [Watching You: Global-guided Reciprocal Learning for Video-based Person Re-identification](https://arxiv.org/abs/2103.04337)
 - [Joint Noise-Tolerant Learning and Meta Camera Shift Adaptation for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.04618)<br>:star:[code](https://github.com/FlyingRoastDuck/MetaCam_DSCE)
-- [Self-supervised 3D Reconstruction and Re-Projection for Texture Insensitive Person Re-identification]<br>基于自监督三维重建和重投影的纹理不敏感行人重识别<br>解读：[12](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
 - [Intra-Inter Camera Similarity for Unsupervised Person Re-Identification](https://arxiv.org/abs/2103.11658)<br>:star:[code](https://github.com/SY-Xuan/IICS)<br>论文公开
 - [Anchor-Free Person Search](https://arxiv.org/abs/2103.11617)<br>:star:[code](https://github.com/daodaofr/AlignPS)
 * [Lifelong Person Re-Identification via Adaptive Knowledge Accumulation](https://arxiv.org/abs/2103.12462)<br>:star:[code](https://github.com/TPCD/LifelongReID)
@@ -1151,7 +1150,7 @@
 * [Person30K: A Dual-Meta Generalization Network for Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Bai_Person30K_A_Dual-Meta_Generalization_Network_for_Person_Re-Identification_CVPR_2021_paper.pdf)
 * [Prototype-Guided Saliency Feature Learning for Person Search](https://openaccess.thecvf.com/content/CVPR2021/papers/Kim_Prototype-Guided_Saliency_Feature_Learning_for_Person_Search_CVPR_2021_paper.pdf)
 * [UnrealPerson: An Adaptive Pipeline Towards Costless Person Re-Identification](http://arxiv.org/abs/2012.04268)<br>:star:[code](https://github.com/FlyHighest/UnrealPerson)
-[Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification](https://arxiv.org/abs/2012.00417)<br>:star:[code](https://github.com/HeliosZhao/M3L)
+* [Learning to Generalize Unseen Domains via Memory-based Multi-Source Meta-Learning for Person Re-Identification](https://arxiv.org/abs/2012.00417)<br>:star:[code](https://github.com/HeliosZhao/M3L)
 * [Farewell to Mutual Information: Variational Distillation for Cross-Modal Person Re-Identification](https://arxiv.org/abs/2104.02862)
 * [Learning 3D Shape Feature for Texture-Insensitive Person Re-Identification](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_3D_Shape_Feature_for_Texture-Insensitive_Person_Re-Identification_CVPR_2021_paper.pdf)
 * [Partial Person Re-Identification With Part-Part Correspondence Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/He_Partial_Person_Re-Identification_With_Part-Part_Correspondence_Learning_CVPR_2021_paper.pdf)
@@ -1181,7 +1180,7 @@
 
 ## 19.Quantization/Pruning/Knowledge Distillation/Model Compression(量化、剪枝、蒸馏、模型压缩/扩展与优化)
 
-- [Learning Student Networks in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Student_Networks_in_the_Wild_CVPR_2021_paper.pdf)<br><br>:star:[code](https://github.com/huawei-noah/Data-Efficient-Model-Compression)
+- [Learning Student Networks in the Wild](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Learning_Student_Networks_in_the_Wild_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/huawei-noah/Data-Efficient-Model-Compression)
 - [ReXNet: Diminishing Representational Bottleneck on Convolutional Neural Network](https://arxiv.org/abs/2007.00992)<br>:star:[code](https://github.com/clovaai/rexnet)<br>
 - [RepVGG: Making VGG-style ConvNets Great Again](https://arxiv.org/abs/2101.03697)<br>:star:[code](https://github.com/megvii-model/RepVGG)<br>
 - [Coordinate Attention for Efficient Mobile Network Design](https://arxiv.org/abs/2103.02907)<br>:star:[code](https://github.com/Andrew-Qibin/CoordAttention)
@@ -1230,7 +1229,6 @@
 
 ## 18.Aerial/Drones/Satellite/RS Image(航空影像/无人机)
 
-- Dogfight: Detecting Drones from Drone Videos<br>
 - [UAV-Human: A Large Benchmark for Human Behavior Understanding with Unmanned Aerial Vehicles](https://arxiv.org/abs/2104.00946)
 - [Detection, Tracking, and Counting Meets Drones in Crowds: A Benchmark](https://arxiv.org/abs/2105.02440)<br>:star:[code](https://github.com/VisDrone/DroneCrowd)
 - [SIPSA-Net: Shift-Invariant Pan Sharpening with Moving Object Alignment for Satellite Imagery](https://arxiv.org/abs/2105.02400)<br>:star:[code](https://github.com/brachiohyup/SIPSA)
@@ -1286,7 +1284,6 @@
 
 ## 16.Visual Question Answering(视觉问答)
 
-- Weakly-supervised Grounded Visual Question Answering using Capsules<br>
 * [Counterfactual VQA: A Cause-Effect Look at Language Bias](https://arxiv.org/abs/2006.04315)<br>:star:[code](https://github.com/yuleiniu/cfvqa)
 * [AGQA: A Benchmark for Compositional Spatio-Temporal Reasoning](https://arxiv.org/abs/2103.16002)<br>:house:[project](https://cs.stanford.edu/people/ranjaykrishna/agqa/):tv:[video](https://youtu.be/6Rw1QF9Hono)
 * [Domain-robust VQA with diverse datasets and methods but no target labels](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_Domain-Robust_VQA_With_Diverse_Datasets_and_Methods_but_No_Target_CVPR_2021_paper.pdf)<br>:house:[project](https://people.cs.pitt.edu/~mzhang/domain-robust-vqa/)
@@ -1614,7 +1611,7 @@
   * [MagFace: A Universal Representation for Face Recognition and Quality Assessment](https://arxiv.org/abs/2103.06627)<br>:open_mouth:oral:star:[code](https://github.com/IrvingMeng/MagFace)<br>人脸识别+质量，今年的Oral presentation。 代码待整理
   * [WebFace260M: A Benchmark Unveiling the Power of Million-Scale Deep Face Recognition](https://arxiv.org/abs/2103.04098)<br>:house:[project](https://www.face-benchmark.org/)
   * [ForgeryNet: A Versatile Benchmark for Comprehensive Forgery Analysis](https://arxiv.org/abs/2103.05630)<br>:open_mouth:oral:house:[project](https://yinanhe.github.io/projects/forgerynet.html):tv:[video](https://youtu.be/e8XIL3Di2Y8) 
-  * Spherical Confidence Learning for Face Recognition<br>:open_mouth:oral<br>基于超球流形置信度学习的人脸识别
+  * [Spherical Confidence Learning for Face Recognition](https://openaccess.thecvf.com/content/CVPR2021/papers/Li_Spherical_Confidence_Learning_for_Face_Recognition_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/MathsShen/SCF/)<br>:open_mouth:oral<br>基于超球流形置信度学习的人脸识别
   * [CRFace: Confidence Ranker for Model-Agnostic Face Detection Refinement](https://arxiv.org/abs/2103.07017)
   * [Cross-Domain Similarity Learning for Face Recognition in Unseen Domains](https://arxiv.org/abs/2103.07503)
   * [HLA-Face: Joint High-Low Adaptation for Low Light Face Detection](https://arxiv.org/abs/2104.01984)<br>:house:[project](https://daooshee.github.io/HLA-Face-Website/)
@@ -1664,8 +1661,7 @@
 * 广角人脸矫正
   * [Practical Wide-Angle Portraits Correction with Deep Structured Models](https://arxiv.org/abs/2104.12464)<br>:star:[code](https://github.com/TanJing94/Deep_Portraits_Correction)<br>粗解：[7](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
 * 人脸活体检测
-  * [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>:star:[code](https://gitlab.idiap.ch/bob/bob.
-paper.cross_modal_focal_loss_cvpr2021)
+  * [Cross Modal Focal Loss for RGBD Face Anti-Spoofing](https://arxiv.org/abs/2103.00948)<br>:star:[code](https://gitlab.idiap.ch/bob/bob.paper.cross_modal_focal_loss_cvpr2021)
 * 音频驱动合成赋有情感的人脸
   * [Audio-Driven Emotional Video Portraits](https://arxiv.org/abs/2104.07452)<br>:star:[code](https://github.com/jixinya/EVP/):house:[project](https://jixinya.github.io/projects/evp/)
 * 换脸
@@ -1688,9 +1684,8 @@ paper.cross_modal_focal_loss_cvpr2021)
   * [img2pose: Face Alignment and Detection via 6DoF, Face Pose Estimation](https://arxiv.org/abs/2012.07791)<br>:star:[code](https://github.com/vitoralbiero/img2pose) 
 * 人脸老龄化
   * [Continuous Face Aging via Self-Estimated Residual Age Embedding](https://arxiv.org/abs/2105.00020)
-* Facial Action Unit Detection
-  * [Hybrid Message Passing With Performance-Driven Structures for Facial Action Unit Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Hybrid_Message_Passing_With_Performance-Driven_Structures_for_Facial_Action_Unit_CVPR_2021_paper.pdf) 
 * Facial Action Unit Detection(面部运动单元检测)
+  * [Hybrid Message Passing With Performance-Driven Structures for Facial Action Unit Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Hybrid_Message_Passing_With_Performance-Driven_Structures_for_Facial_Action_Unit_CVPR_2021_paper.pdf) 
   * [Exploiting Semantic Embedding and Visual Feature for Facial Action Unit Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Exploiting_Semantic_Embedding_and_Visual_Feature_for_Facial_Action_Unit_CVPR_2021_paper.pdf)
   * [Dynamic Probabilistic Graph Convolution for Facial Action Unit Intensity Estimation](https://openaccess.thecvf.com/content/CVPR2021/papers/Song_Dynamic_Probabilistic_Graph_Convolution_for_Facial_Action_Unit_Intensity_Estimation_CVPR_2021_paper.pdf)
 * 人脸重建
@@ -1736,7 +1731,6 @@ paper.cross_modal_focal_loss_cvpr2021)
 ## 9.Object Tracking(目标跟踪)
 
 - [Rotation Equivariant Siamese Networks for Tracking](https://arxiv.org/abs/2012.13078)<br>:star:[code](https://github.com/dkgupta90/re-siamnet)
-- [Multiple Object Tracking with Correlation Learning](https://arxiv.org/abs/2104.03541)<br>提出 CorrTracker，一个统一的关联跟踪器，可以密集建模目标之间的关联，并通过关联传递信息。在 MOT17 上获得最先进的 MOTA 76.5% 和 IDF1 73.6%。
 - [LightTrack: Finding Lightweight Neural Networks for Object Tracking via One-Shot Architecture Search](https://arxiv.org/abs/2104.14545)<br>:star:[code](https://github.com/researchmm/LightTrack)<br>LightTrack：用神经架构搜索得到的轻量级跟踪网络，精度超过SiamRPN++ 和 Ocean，速度快12倍，参数量只有1/13，Flops仅有1/38。代码将开源。
 - [Track, Check, Repeat: An EM Approach to Unsupervised Tracking](https://arxiv.org/abs/2104.03424)<br>:house:[project](http://www.cs.cmu.edu/~aharley/em_cvpr21/):tv:[video](https://youtu.be/Jg2f5fkgxZo)
 - [Learning To Filter: Siamese Relation Network for Robust Tracking](https://arxiv.org/abs/2104.00829)<br>:star:[code](https://github.com/hqucv/siamrn)
@@ -1748,7 +1742,7 @@ paper.cross_modal_focal_loss_cvpr2021)
 * 多目标跟踪
   * [Probabilistic Tracklet Scoring and Inpainting for Multiple Object Tracking](https://arxiv.org/abs/2012.02337)<br>:star:[code](https://github.com/fatemeh-slh/ArTIST)
   * [Track to Detect and Segment: An Online Multi-Object Tracker](https://arxiv.org/abs/2103.08808)<br>:star:[code](https://github.com/JialianW/TraDeS):house:[project](https://jialianwu.com/projects/TraDeS.html):tv:[video](https://youtu.be/oGNtSFHRZJA)<br>TraDeS ：CVPR 2021多目标跟踪算法，改进了目前联合检测与跟踪的在线方法，使用跟踪线索辅助检测，在多个数据集实现了大幅精度提升，作者来自纽约州立大学。代码已开源。
-  * Multiple Object Tracking with Correlation Learning
+  * [Multiple Object Tracking with Correlation Learning](https://arxiv.org/abs/2104.03541)<br>提出 CorrTracker，一个统一的关联跟踪器，可以密集建模目标之间的关联，并通过关联传递信息。在 MOT17 上获得最先进的 MOTA 76.5% 和 IDF1 73.6%。
   * [Learning a Proposal Classifier for Multiple Object Tracking](https://arxiv.org/abs/2103.07889)<br>:star:[code](https://github.com/daip13/LPC_MOT)
   * [Learnable Graph Matching: Incorporating Graph Partitioning with Deep Feature Learning for Multiple Object Tracking](https://arxiv.org/abs/2103.16178)<br>:star:[code](https://github.com/jiaweihe1996/GMTracker)
   * [Online Multiple Object Tracking with Cross-Task Synergy](https://arxiv.org/abs/2104.00380)<br>:star:[code](https://github.com/songguocode/TADAM)
@@ -2216,18 +2210,17 @@ paper.cross_modal_focal_loss_cvpr2021)
 
 ## 1.Unkown(未分类)
 
-- Inverting the Inherence of Convolution for Visual Recognition<br>
-- UC2: Universal Cross-lingual Cross-modal Vision-and-Language Pretraining<br>
+
+
 - [Reconsidering Representation Alignment for Multi-view Clustering](https://arxiv.org/abs/2103.07738)<br>:star:[code](https://github.com/DanielTrosten/mvc)
 - [Self-supervised Simultaneous Multi-Step Prediction of Road Dynamics and Cost Map](https://arxiv.org/abs/2103.01039)<br>
-- Model-Contrastive Federated Learning<br>提出模型对比学习来解决联合学习中的非IID数据问题<br>
 - [Neural Geometric Level of Detail:Real-time Rendering with Implicit 3D Surfaces](https://arxiv.org/abs/2101.10994)<br>:open_mouth:Oral:star:[code](https://github.com/nv-tlabs/nglod):house:[project](https://nv-tlabs.github.io/nglod/)<br>
 - [Data-Free Model Extraction](https://arxiv.org/abs/2011.14779)<br>:star:[code](https://github.com/cake-lab/datafree-model-extraction)<br>
 - [Continual Adaptation of Visual Representations via Domain Randomization and Meta-learning](https://arxiv.org/abs/2012.04324)<br>:open_mouth:oral
 - [PatchmatchNet: Learned Multi-View Patchmatch Stereo](https://arxiv.org/abs/2012.01411)<br>:open_mouth:oral:star:[code](https://github.com/FangjinhuaWang/PatchmatchNet)
 - [Online Bag-of-Visual-Words Generation for Unsupervised Representation Learning](https://arxiv.org/abs/2012.11552)<br>:star:[code](https://github.com/valeoai/obow):house:[project](https://valeoai.github.io/blog/publications/obow/)<br>
 - [Semantic Palette: Guiding Scene Generation with Class Proportions](https://arxiv.org/abs/2106.01629)
-- POSEFusion:Pose-guided Selective Fusion for Single-view Human Volumetric Capture<br>:open_mouth:oral
+
 - [Multi-Objective Interpolation Training for Robustness to Label Noise](https://arxiv.org/abs/2012.04462)<br>:star:[code](https://github.com/DiegoOrtego/LabelNoiseMOIT)
 - [Right for the Right Concept: Revising Neuro-Symbolic Concepts by Interacting with their Explanations](https://arxiv.org/abs/2011.12854)<br>:star:[code](https://github.com/ml-research/NeSyXIL)
 - [Simpler Certified Radius Maximization by Propagating Covariances](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhen_Simpler_Certified_Radius_Maximization_by_Propagating_Covariances_CVPR_2021_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/zhenxingjian/Propagating_Covariance):tv:[video](https://www.youtube.com/watch?v=m1ya2oNf5iE)
@@ -2246,7 +2239,6 @@ paper.cross_modal_focal_loss_cvpr2021)
 * [Spatially Consistent Representation Learning](https://arxiv.org/abs/2103.06122)<br>:star:[code](https://github.com/kakaobrain/scrl)
 * [Limitations of Post-Hoc Feature Alignment for Robustness](https://arxiv.org/abs/2103.05898)<br>:star:[code](https://github.com/collin-burns/feature-alignment)
 * [AutoDO: Robust AutoAugment for Biased Data with Label Noise via Scalable Probabilistic Implicit Differentiation](https://arxiv.org/abs/2103.05863)<br>:star:[code](https://github.com/gudovskiy/autodo)
-* CFNet: Cascade and Fused Cost Volume for Robust Stereo Matching<br>:star:[code](https://github.com/gallenszl/CFNet)
 * [Augmentation Strategies for Learning with Noisy Labels](https://arxiv.org/abs/2103.02130)<br>:star:[code](https://github.com/KentoNishi/Augmentation-for-LNL)
 * [PGT: A Progressive Method for Training Models on Long Videos](https://arxiv.org/abs/2103.11313)<br>:open_mouth:oral:star:[code](https://github.com/BoPang1996/PGT)
 * [Generic Perceptual Loss for Modeling Structured Output Dependencies](https://arxiv.org/abs/2103.10571)

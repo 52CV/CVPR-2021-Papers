@@ -1024,7 +1024,8 @@
     * [HDMapGen: A Hierarchical Graph Generative Model of High Definition Maps](https://openaccess.thecvf.com/content/CVPR2021/papers/Mi_HDMapGen_A_Hierarchical_Graph_Generative_Model_of_High_Definition_Maps_CVPR_2021_paper.pdf)
 * 车辆检测
   * [Robust Multimodal Vehicle Detection in Foggy Weather Using Complementary Lidar and Radar Signals](https://openaccess.thecvf.com/content/CVPR2021/papers/Qian_Robust_Multimodal_Vehicle_Detection_in_Foggy_Weather_Using_Complementary_Lidar_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/qiank10/MVDNet)
-
+* 车辆姿态估计
+  * [Exploring intermediate representation for monocular vehicle pose estimation](https://arxiv.org/abs/2011.08464)<br>:star:[code](https://github.com/Nicholasli1995/EgoNet)
 
 <a name="22"/> 
 
@@ -1992,13 +1993,10 @@
 * 3D目标检测
   * [Categorical Depth Distribution Network for Monocular 3D Object Detection](https://arxiv.org/abs/2103.01100)<br>:open_mouth:oral:star:[code](https://github.com/TRAILab/CaDDN)
   * [3DIoUMatch: Leveraging IoU Prediction for Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2012.04355)<br>:star:[code](https://github.com/thu17cyz/3DIoUMatch):house:[project](https://thu17cyz.github.io/3DIoUMatch/):tv:[video](https://youtu.be/nuARjhkQN2U)<br>更多：[CVPR 2021|利用IoU预测进行半监督式3D目标检测](https://zhuanlan.zhihu.com/p/354618636)
-  * [ST3D: Self-training for Unsupervised Domain Adaptation on 3D ObjectDetection](https://arxiv.org/abs/2103.05346)<br>:star:[code](https://github.com/CVMI-Lab/ST3D)
   * [Depth-conditioned Dynamic Message Propagation for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16470)<br>:star:[code](https://github.com/fudan-zvg/DDMP)
-  * [MonoRUn: Monocular 3D Object Detection by Self-Supervised Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
   * [M3DSSD: Monocular 3D Single Stage Object Detector](https://arxiv.org/abs/2103.13164)<br>:star:[code](https://github.com/mumianyuxin/M3DSSD)
   * [GrooMeD-NMS: Grouped Mathematically Differentiable NMS for Monocular 3D Object Detection](https://arxiv.org/abs/2103.17202)<br>:star:[code](https://github.com/abhi1kumar/groomed_nms):tv:[video](https://www.youtube.com/watch?v=PWctKkyWrno)<br>提出并集成 GrooMeD-NMS，用于单目3D目标检测。解决了训练和推理管道之间的不匹配问题，在 KITTI 基准数据集上实现最先进的单目3D目标检测结果，表现与基于单目视频的方法相当。
   * [LiDAR R-CNN: An Efficient and Universal 3D Object Detector](https://arxiv.org/abs/2103.15297)<br>:star:[code](https://github.com/tusimple/LiDAR_RCNN)
-  * [Exploring intermediate representation for monocular vehicle pose estimation](https://arxiv.org/abs/2011.08464)<br>:star:[code](https://github.com/Nicholasli1995/EgoNet)
   * [Delving into Localization Errors for Monocular 3D Object Detection](https://arxiv.org/abs/2103.16237)<br>:star:[code](https://github.com/xinzhuma/monodle)
   * [HVPR: Hybrid Voxel-Point Representation for Single-stage 3D Object Detection](https://arxiv.org/abs/2104.00902)<br>:house:[project](https://cvlab.yonsei.ac.kr/projects/HVPR/)
   * [Objects are Different: Flexible Monocular 3D Object Detection](https://arxiv.org/abs/2104.02323)<br>:star:[code](https://github.com/zhangyp15/MonoFlex)

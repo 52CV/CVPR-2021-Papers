@@ -1816,7 +1816,7 @@
   * [Toward Joint Thing-and-Stuff Mining for Weakly Supervised Panoptic Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Shen_Toward_Joint_Thing-and-Stuff_Mining_for_Weakly_Supervised_Panoptic_Segmentation_CVPR_2021_paper.pdf)<br>联合物体和物质挖掘的弱监督全景分割<br>解读：[15](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [Panoptic-PolarNet: Proposal-free LiDAR Point Cloud Panoptic Segmentation](https://arxiv.org/abs/2103.14962)<br>:star:[code](https://github.com/edwardzhou130/Panoptic-PolarNet)
   * [Fully Convolutional Networks for Panoptic Segmentation](https://arxiv.org/abs/2012.00720)<br>:open_mouth:oral:star:[code](https://github.com/yanwei-li/PanopticFCN)<br>粗解：[11](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
-  * [Panoptic Segmentation Forecasting](https://arxiv.org/abs/2104.03962)
+  * [Panoptic Segmentation Forecasting](https://arxiv.org/abs/2104.03962)<br>:star:[code](https://github.com/nianticlabs/panoptic-forecasting)
   * [Exemplar-Based Open-Set Panoptic Segmentation Network](https://arxiv.org/abs/2105.08336)<br>:star:[code](https://github.com/jd730/EOPSN):house:[project](https://cv.snu.ac.kr/research/EOPSN/)
   * [Hierarchical Lovasz Embeddings for Proposal-free Panoptic Segmentation](https://arxiv.org/abs/2106.04555)
   * [Part-aware Panoptic Segmentation](https://arxiv.org/abs/2106.06351)<br>论文公开<br>:star:[code](https://github.com/pmeletis/panoptic_parts)
@@ -2007,7 +2007,7 @@
   * [SE-SSD: Self-Ensembling Single-Stage Object Detector From Point Cloud](https://arxiv.org/abs/2104.09804)<br>:star:[code](https://github.com/Vegeta2020/SE-SSD)<br>提出 Self-Ensembling Single-Stage object Detector（SE-SSD），用于在室外点云中进行准确和有效的 3D 目标检测。关键在于利用 soft 和 hard targets 与所制定的约束条件来共同优化模型，而不在推理中引入额外的计算。与之前的所有作品相比，SE-SSD 达到了顶级性能。此外，它在 KITTI 基准中的汽车检测中获得了最高的精度（分别在 BEV 和 3D 排行榜上排名第一和第二），并具有超高的推理速度。
   * [Offboard 3D Object Detection From Point Cloud Sequences](https://arxiv.org/abs/2103.05073)
   * [Monocular 3D Object Detection: An Extrinsic Parameter Free Approach](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhou_Monocular_3D_Object_Detection_An_Extrinsic_Parameter_Free_Approach_CVPR_2021_paper.pdf)
-  * [SRDAN: Scale-Aware and Range-Aware Domain Adaptation Network for Cross-Dataset 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Graber_Panoptic_Segmentation_Forecasting_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/nianticlabs/panoptic-forecasting)
+  * [SRDAN: Scale-Aware and Range-Aware Domain Adaptation Network for Cross-Dataset 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_SRDAN_Scale-Aware_and_Range-Aware_Domain_Adaptation_Network_for_Cross-Dataset_3D_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/nianticlabs/panoptic-forecasting)
   * [PVGNet: A Bottom-Up One-Stage 3D Object Detector With Integrated Multi-Level Features](https://openaccess.thecvf.com/content/CVPR2021/papers/Miao_PVGNet_A_Bottom-Up_One-Stage_3D_Object_Detector_With_Integrated_Multi-Level_CVPR_2021_paper.pdf)
   * [MonoRUn: Monocular 3D Object Detection by Reconstruction and Uncertainty Propagation](https://arxiv.org/abs/2103.12605)<br>:star:[code](https://github.com/tjiiv-cprg/MonoRUn)
   * [LiDAR-Aug: A General Rendering-Based Augmentation Framework for 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Fang_LiDAR-Aug_A_General_Rendering-Based_Augmentation_Framework_for_3D_Object_Detection_CVPR_2021_paper.pdf)

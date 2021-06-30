@@ -1188,7 +1188,7 @@
 * 剪枝
   * [Manifold Regularized Dynamic Network Pruning](https://arxiv.org/abs/2103.05861)
   * [Neural Response Interpretation through the Lens of Critical Pathways](https://arxiv.org/abs/2103.16886)<br>:star:[code](https://github.com/CAMP-eXplain-AI/PathwayGrad)|[code](https://github.com/CAMP-eXplain-AI/RoarTorch)
-  * [Riggable 3D Face Reconstruction via In-Network Optimization](https://arxiv.org/abs/2104.03438)
+  * [Riggable 3D Face Reconstruction via In-Network Optimization](https://zqbai-jeremy.github.io/files/INORig.pdf)<br>:star:[code](https://github.com/zqbai-jeremy/INORig)
   * [Towards Compact CNNs via Collaborative Compression](https://arxiv.org/abs/2105.11228)
   * [BCNet: Searching for Network Width with Bilaterally Coupled Network](https://arxiv.org/abs/2105.10533)
   * [The Lottery Ticket Hypothesis for Object Recognition](https://arxiv.org/abs/2012.04643)

@@ -1967,7 +1967,6 @@
 * [DetectoRS: Detecting Objects With Recursive Feature Pyramid and Switchable Atrous Convolution](https://arxiv.org/abs/2006.02334)<br>:star:[code](https://github.com/joe-siyuan-qiao/DetectoRS)
 * [RankDetNet: Delving Into Ranking Constraints for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_RankDetNet_Delving_Into_Ranking_Constraints_for_Object_Detection_CVPR_2021_paper.pdf)
 * [AQD: Towards Accurate Quantized Object Detection](https://arxiv.org/abs/2007.06919)<br>:open_mouth:oral:star:[code](https://github.com/aim-uofa/model-quantization)
-* [3D-MAN: 3D Multi-Frame Attention Network for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_3D-MAN_3D_Multi-Frame_Attention_Network_for_Object_Detection_CVPR_2021_paper.pdf)
 * [Class-Aware Robust Adversarial Training for Object Detection](https://arxiv.org/abs/2103.16148)
 * [Scaled-YOLOv4: Scaling Cross Stage Partial Network](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Scaled-YOLOv4_Scaling_Cross_Stage_Partial_Network_CVPR_2021_paper.pdf)
 * [Improved Handling of Motion Blur in Online Object Detection](https://arxiv.org/abs/2011.14448)<br>:house:[project](http://visual.cs.ucl.ac.uk/pubs/handlingMotionBlur/)
@@ -2014,6 +2013,7 @@
   * [3D Object Detection with Pointformer](https://arxiv.org/abs/2012.11409)<br>:star:[code](https://github.com/Vladimir2506/Pointformer)
   * [To the Point: Efficient 3D Object Detection in the Range Image With Graph Convolution Kernels](https://openaccess.thecvf.com/content/CVPR2021/papers/Chai_To_the_Point_Efficient_3D_Object_Detection_in_the_Range_CVPR_2021_paper.pdf)
   * [RSN: Range Sparse Net for Efficient, Accurate LiDAR 3D Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_RSN_Range_Sparse_Net_for_Efficient_Accurate_LiDAR_3D_Object_CVPR_2021_paper.pdf)
+  * [3D-MAN: 3D Multi-Frame Attention Network for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_3D-MAN_3D_Multi-Frame_Attention_Network_for_Object_Detection_CVPR_2021_paper.pdf)
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
 * 目标定位

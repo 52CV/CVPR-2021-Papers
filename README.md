@@ -2016,14 +2016,14 @@
   * [3D-MAN: 3D Multi-Frame Attention Network for Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_3D-MAN_3D_Multi-Frame_Attention_Network_for_Object_Detection_CVPR_2021_paper.pdf)
 * 旋转目标检测
   * [Dense Label Encoding for Boundary Discontinuity Free Rotation Detection](https://arxiv.org/abs/2011.09670)<br>:star:[code](https://github.com/Thinklab-SJTU/DCL_RetinaNet_Tensorflow)
-* 目标定位
+* 弱监督目标定位
   * [Shallow Feature Matters for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content/CVPR2021/papers/Wei_Shallow_Feature_Matters_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf)
-  * 弱监督目标定位
-    * [Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523)<br>:star:[code](https://github.com/Panxjia/SPA_CVPR2021)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
-    * [Strengthen Learning Tolerance for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf)<br>:house:[project](https://nwpu-brainlab.gitee.io/index_en)
+  * [Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523)<br>:star:[code](https://github.com/Panxjia/SPA_CVPR2021)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
+  * [Strengthen Learning Tolerance for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf)<br>:house:[project](https://nwpu-brainlab.gitee.io/index_en)
 * 密集目标检测
   * [Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection]()<br>:star:[code](https://github.com/implus/GFocalV2)<br>解读：[目标检测无痛涨点之 Generalized Focal Loss V2](https://mp.weixin.qq.com/s/H3LuCuqKCUNFldzqiPWQXg)
   * [VarifocalNet: An IoU-Aware Dense Object Detector](https://arxiv.org/abs/2008.13367)<br>:open_mouth:oral:star:[code](https://github.com/hyz-xmaster/VarifocalNet)
+  * [Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.pdf)
 * 显著目标检测
   * [Deep RGB-D Saliency Detection with Depth-Sensitive Attention and Automatic Multi-Modal Fusion](https://arxiv.org/abs/2103.11832)<br>:open_mouth:oral
   * [Weakly Supervised Video Salient Object Detection](https://arxiv.org/abs/2104.02391)<br>:star:[code](https://github.com/wangbo-zhao/WSVSOD)
@@ -2050,14 +2050,12 @@
 * 单阶目标检测
   * [I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors](https://arxiv.org/abs/2103.13757)
 * 阴影检测
-  * [Triple-Cooperative Video Shadow Detection](https://arxiv.org/abs/2103.06533):star:[code](https://github.com/eraserNut/ViSha)
+  * [Triple-Cooperative Video Shadow Detection](https://arxiv.org/abs/2103.06533)<br>:star:[code](https://github.com/eraserNut/ViSha)
   * [Single-Stage Instance Shadow Detection with Bidirectional Relation Learning](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Single-Stage_Instance_Shadow_Detection_With_Bidirectional_Relation_Learning_CVPR_2021_paper.pdf)<br>:open_mouth:oral:star:[code](https://github.com/stevewongv/SSIS)
 * 无监督目标检测
   * [Unsupervised Object Detection With LIDAR Clues](https://openaccess.thecvf.com/content/CVPR2021/papers/Tian_Unsupervised_Object_Detection_With_LIDAR_Clues_CVPR_2021_paper.pdf)
 * 域适应目标检测
   * [RPN Prototype Alignment for Domain Adaptive Object Detector](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_RPN_Prototype_Alignment_for_Domain_Adaptive_Object_Detector_CVPR_2021_paper.pdf)
-* 密集物体检测
-  * [Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.pdf)
 * glass surface detection
   * [Rich Context Aggregation With Reflection Prior for Glass Surface Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Rich_Context_Aggregation_With_Reflection_Prior_for_Glass_Surface_Detection_CVPR_2021_paper.pdf)
 * 伪装物体检测

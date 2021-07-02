@@ -2034,10 +2034,10 @@
     * [DeepACG: Co-Saliency Detection via Semantic-Aware Contrast Gromov-Wasserstein Distance](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_DeepACG_Co-Saliency_Detection_via_Semantic-Aware_Contrast_Gromov-Wasserstein_Distance_CVPR_2021_paper.pdf)
     * [Group Collaborative Learning for Co-Salient Object Detection](https://arxiv.org/abs/2104.01108)<br>:star:[code](https://github.com/fanq15/GCoNet)
 * 半监督目标检测
- * [Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection](https://arxiv.org/abs/2103.16368)
- * [Points As Queries: Weakly Semi-Supervised Object Detection by Points](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Points_As_Queries_Weakly_Semi-Supervised_Object_Detection_by_Points_CVPR_2021_paper.pdf)<br>粗解：[6](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
- * [Interactive Self-Training With Mean Teachers for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
- * [Humble Teachers Teach Better Students for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
+  * [Data-Uncertainty Guided Multi-Phase Learning for Semi-Supervised Object Detection](https://arxiv.org/abs/2103.16368)
+  * [Points As Queries: Weakly Semi-Supervised Object Detection by Points](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Points_As_Queries_Weakly_Semi-Supervised_Object_Detection_by_Points_CVPR_2021_paper.pdf)<br>粗解：[6](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
+  * [Interactive Self-Training With Mean Teachers for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
+  * [Humble Teachers Teach Better Students for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
 * 弱监督目标检测
   * [DAP: Detection-Aware Pre-training with Weak Supervision](https://arxiv.org/abs/2103.16651)
 * 长尾目标检测 

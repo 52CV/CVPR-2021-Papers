@@ -608,6 +608,7 @@
   * [Background Splitting: Finding Rare Classes in a Sea of Background](https://arxiv.org/abs/2008.12873)
   * [Permuted AdaIN: Reducing the Bias Towards Global Statistics in Image Classification](https://arxiv.org/abs/2010.05785)
   * [Self-Supervised Wasserstein Pseudo-Labeling for Semi-Supervised Image Classification](https://openaccess.thecvf.com/content/CVPR2021/papers/Taherkhani_Self-Supervised_Wasserstein_Pseudo-Labeling_for_Semi-Supervised_Image_Classification_CVPR_2021_paper.pdf)
+  * [DAP: Detection-Aware Pre-training with Weak Supervision](https://arxiv.org/abs/2103.16651)
 * 半监督图像分类
   * [SimPLE: Similar Pseudo Label Exploitation for Semi-Supervised Classification](https://arxiv.org/abs/2103.16725)<br>:star:[code](https://github.com/zijian-hu/SimPLE)
 * 视觉识别 
@@ -2038,8 +2039,6 @@
   * [Points As Queries: Weakly Semi-Supervised Object Detection by Points](https://openaccess.thecvf.com/content/CVPR2021/papers/Chen_Points_As_Queries_Weakly_Semi-Supervised_Object_Detection_by_Points_CVPR_2021_paper.pdf)<br>粗解：[6](https://mp.weixin.qq.com/s/lL1cz_L523TSdYJFfHA2lQ)
   * [Interactive Self-Training With Mean Teachers for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Interactive_Self-Training_With_Mean_Teachers_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
   * [Humble Teachers Teach Better Students for Semi-Supervised Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Tang_Humble_Teachers_Teach_Better_Students_for_Semi-Supervised_Object_Detection_CVPR_2021_paper.pdf)
-* 弱监督目标检测
-  * [DAP: Detection-Aware Pre-training with Weak Supervision](https://arxiv.org/abs/2103.16651)
 * 长尾目标检测 
   * [Adaptive Class Suppression Loss for Long-Tail Object Detection](https://arxiv.org/abs/2104.00885)<br>:star:[code](https://github.com/CASIA-IVA-Lab/ACSL)
   * [Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection](https://arxiv.org/abs/2012.08548)<br>:star:[code](https://github.com/tztztztztz/eqlv2)

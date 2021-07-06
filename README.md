@@ -2022,7 +2022,7 @@
   * [Unveiling the Potential of Structure Preserving for Weakly Supervised Object Localization](https://arxiv.org/abs/2103.04523)<br>:star:[code](https://github.com/Panxjia/SPA_CVPR2021)<br>基于结构信息保持的弱监督目标定位<br>解读：[13](https://mp.weixin.qq.com/s/yNDkHMhOIb76b4KcEhx4XQ)
   * [Strengthen Learning Tolerance for Weakly Supervised Object Localization](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Strengthen_Learning_Tolerance_for_Weakly_Supervised_Object_Localization_CVPR_2021_paper.pdf)<br>:house:[project](https://nwpu-brainlab.gitee.io/index_en)
 * 密集目标检测
-  * [Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection]()<br>:star:[code](https://github.com/implus/GFocalV2)<br>解读：[目标检测无痛涨点之 Generalized Focal Loss V2](https://mp.weixin.qq.com/s/H3LuCuqKCUNFldzqiPWQXg)
+  * [Generalized Focal Loss V2: Learning Reliable Localization Quality Estimation for Dense Object Detection](https://arxiv.org/abs/2011.12885)<br>:star:[code](https://github.com/implus/GFocalV2)<br>解读：[目标检测无痛涨点之 Generalized Focal Loss V2](https://mp.weixin.qq.com/s/H3LuCuqKCUNFldzqiPWQXg)
   * [VarifocalNet: An IoU-Aware Dense Object Detector](https://arxiv.org/abs/2008.13367)<br>:open_mouth:oral:star:[code](https://github.com/hyz-xmaster/VarifocalNet)
   * [Beyond Bounding-Box: Convex-Hull Feature Adaptation for Oriented and Densely Packed Object Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Guo_Beyond_Bounding-Box_Convex-Hull_Feature_Adaptation_for_Oriented_and_Densely_Packed_CVPR_2021_paper.pdf)
 * 显著目标检测

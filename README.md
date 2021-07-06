@@ -623,7 +623,10 @@
   * [Object Classification From Randomized EEG Trials](https://arxiv.org/abs/2004.06046)
 * Nearest Neighbor Matching(最近邻匹配)
   * [Nearest Neighbor Matching for Deep Clustering](https://openaccess.thecvf.com/content/CVPR2021/papers/Dang_Nearest_Neighbor_Matching_for_Deep_Clustering_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/ZhiyuanDang/NNM) 
-
+* OOD检测
+  * [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879)<br>:open_mouth:oral:star:[code](https://github.com/deeplearning-wisc/large_scale_ood)
+  * [MOOD: Multi-level Out-of-distribution Detection](https://arxiv.org/abs/2104.14726)<br>:star:[code](https://github.com/deeplearning-wisc/MOOD)
+  * [Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/zaeemzadeh/OOD)
  
 <a name="33"/>
 
@@ -2042,10 +2045,6 @@
 * 长尾目标检测 
   * [Adaptive Class Suppression Loss for Long-Tail Object Detection](https://arxiv.org/abs/2104.00885)<br>:star:[code](https://github.com/CASIA-IVA-Lab/ACSL)
   * [Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection](https://arxiv.org/abs/2012.08548)<br>:star:[code](https://github.com/tztztztztz/eqlv2)
-* OOD检测
-  * [MOS: Towards Scaling Out-of-distribution Detection for Large Semantic Space](https://arxiv.org/abs/2105.01879)<br>:star:[code](https://github.com/deeplearning-wisc/large_scale_ood)
-  * [MOOD: Multi-level Out-of-distribution Detection](https://arxiv.org/abs/2104.14726)<br>:star:[code](https://github.com/deeplearning-wisc/MOOD)
-  * [Out-of-Distribution Detection Using Union of 1-Dimensional Subspaces](https://openaccess.thecvf.com/content/CVPR2021/papers/Zaeemzadeh_Out-of-Distribution_Detection_Using_Union_of_1-Dimensional_Subspaces_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/zaeemzadeh/OOD)
 * 单阶目标检测
   * [I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors](https://arxiv.org/abs/2103.13757)
 * 阴影检测

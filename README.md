@@ -1808,7 +1808,6 @@
   * [Robust Instance Segmentation Through Reasoning About Multi-Object Occlusion](https://arxiv.org/abs/2012.02107)<br>:star:[code](https://github.com/XD7479/Multi-Object-Occlusion)
   * [Deeply Shape-Guided Cascade for Instance Segmentation](https://arxiv.org/abs/1911.11263)<br>:star:[code](https://github.com/hding2455/DSC)
   * [ColorRL: Reinforced Coloring for End-to-End Instance Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Tuan_ColorRL_Reinforced_Coloring_for_End-to-End_Instance_Segmentation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/anhtuanhsgs/ColorRL)
-  * [Seesaw Loss for Long-Tailed Instance Segmentation](https://arxiv.org/abs/2008.10032)<br>:star:[code](https://github.com/open-mmlab/mmdetection)
   * [Unsupervised Discovery of the Long-Tail in Instance Segmentation Using Hierarchical Self-Supervision](https://arxiv.org/abs/2104.01257)
   * [DyCo3D: Robust Instance Segmentation of 3D Point Clouds through Dynamic Convolution](https://arxiv.org/abs/2011.13328)<br>:star:[code](https://github.com/aim-uofa/DyCo3D)
   * [BoxInst: High-Performance Instance Segmentation With Box Annotations](https://arxiv.org/abs/2012.02310)<br>:star:[code](https://github.com/aim-uofa/AdelaiDet/)
@@ -2041,6 +2040,7 @@
 * 长尾目标检测 
   * [Adaptive Class Suppression Loss for Long-Tail Object Detection](https://arxiv.org/abs/2104.00885)<br>:star:[code](https://github.com/CASIA-IVA-Lab/ACSL)
   * [Equalization Loss v2: A New Gradient Balance Approach for Long-Tailed Object Detection](https://arxiv.org/abs/2012.08548)<br>:star:[code](https://github.com/tztztztztz/eqlv2)
+  * [Seesaw Loss for Long-Tailed Instance Segmentation](https://arxiv.org/abs/2008.10032)<br>:star:[code](https://github.com/open-mmlab/mmdetection)
 * 单阶目标检测
   * [I^3Net: Implicit Instance-Invariant Network for Adapting One-Stage Object Detectors](https://arxiv.org/abs/2103.13757)
 * 阴影检测

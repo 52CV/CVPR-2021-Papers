@@ -1890,7 +1890,6 @@
   * [Real-Time High Resolution Background Matting](https://arxiv.org/abs/2012.07810)<br>:star:[code](https://github.com/PeterL1n/BackgroundMattingV2):house:[project](https://grail.cs.washington.edu/projects/background-matting-v2/):tv:[video](https://youtu.be/oMfPTeYDF9g)<br>最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）<br>解读：[单块GPU实现4K分辨率每秒30帧，华盛顿大学实时视频抠图再升级，毛发细节到位](https://mp.weixin.qq.com/s/0OJR3Y5cPfeHhdTdI3BgEA)<br>[最新开源抠图技术，实时快速高分辨率，4k(30fps)、现代GPU（60fps）](https://zhuanlan.zhihu.com/p/337028483)
   * [Mask Guided Matting via Progressive Refinement Network](https://arxiv.org/abs/2012.06722)<br>:star:[code](https://github.com/yucornetto/MGMatting)
   * [Semantic Image Matting](http://arxiv.org/abs/2104.08201)<br>:star:[code](https://github.com/nowsyn/SIM)
-  * [Real-Time High-Resolution Background Matting](https://arxiv.org/abs/2012.07810)  
   * [Improved Image Matting via Real-Time User Clicks and Uncertainty Estimation](https://arxiv.org/abs/2012.08323)<br>:tv:[video](https://www.youtube.com/watch?v=pAXydeN-LpQ)
   * [Learning Affinity-Aware Upsampling for Deep Image Matting](https://arxiv.org/abs/2011.14288)
 * 雷达分割

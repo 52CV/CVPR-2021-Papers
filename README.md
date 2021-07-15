@@ -1780,7 +1780,6 @@
 ## 8.Image Segmentation(图像分割)
 
 - [Information-Theoretic Segmentation by Inpainting Error Maximization](https://arxiv.org/abs/2012.07287)<br>
-- [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04011)<br>:star:[code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
 - [Capturing Omni-Range Context for Omnidirectional Segmentation](https://arxiv.org/abs/2103.05687)<br>:star:[code](https://github.com/elnino9ykl/WildPASS)
 - [Boundary IoU: Improving Object-Centric Image Segmentation Evaluation](https://arxiv.org/abs/2103.16562)<br>:star:[code](https://github.com/bowenc0221/boundary-iou-api):house:[project](https://bowenc0221.github.io/boundary-iou/)
 * [Locate then Segment: A Strong Pipeline for Referring Image Segmentation](https://arxiv.org/abs/2103.16284)
@@ -1790,7 +1789,6 @@
 * [Encoder Fusion Network With Co-Attention Embedding for Referring Image Segmentation](https://arxiv.org/abs/2105.01839)
 * [Bottom-Up Shift and Reasoning for Referring Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Yang_Bottom-Up_Shift_and_Reasoning_for_Referring_Image_Segmentation_CVPR_2021_paper.pdf)<br>:star:[code](https://github.com/incredibleXM/BUSNet)
 * [DCNAS: Densely Connected Neural Architecture Search for Semantic Image Segmentation](https://arxiv.org/abs/2003.11883)
-* [Unsupervised Part Segmentation Through Disentangling Appearance and Shape](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Unsupervised_Part_Segmentation_Through_Disentangling_Appearance_and_Shape_CVPR_2021_paper.pdf)
 * [ATSO: Asynchronous Teacher-Student Optimization for Semi-Supervised Image Segmentation](https://openaccess.thecvf.com/content/CVPR2021/papers/Huo_ATSO_Asynchronous_Teacher-Student_Optimization_for_Semi-Supervised_Image_Segmentation_CVPR_2021_paper.pdf)
 * [DyStaB: Unsupervised Object Segmentation via Dynamic-Static Bootstrapping](https://arxiv.org/abs/2008.07012)
 * 实例分割
@@ -2052,6 +2050,7 @@
   * [Rich Context Aggregation With Reflection Prior for Glass Surface Detection](https://openaccess.thecvf.com/content/CVPR2021/papers/Lin_Rich_Context_Aggregation_With_Reflection_Prior_for_Glass_Surface_Detection_CVPR_2021_paper.pdf)
 * 伪装物体检测
   * [Mutual Graph Learning for Camouflaged Object Detection](http://arxiv.org/abs/2104.02613)<br>:star:[code](https://github.com/fanyang587/MGL)
+  * [Simultaneously Localize, Segment and Rank the Camouflaged Objects](https://arxiv.org/abs/2103.04011)<br>:star:[code](https://github.com/JingZhang617/COD-Rank-Localize-and-Segment)
 * Any-Shot目标检测 
   * [UniT: Unified Knowledge Transfer for Any-Shot Object Detection and Segmentation](https://arxiv.org/abs/2006.07502)<br>:star:[code](https://github.com/ubc-vision/UniT)
 

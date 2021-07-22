@@ -1640,7 +1640,6 @@
   * [Representative Forgery Mining for Fake Face Detection](https://arxiv.org/abs/2104.06609)<br>:star:[code](https://github.com/crywang/RFM)
   * [Exploring Adversarial Fake Images on Face Manifold](https://arxiv.org/abs/2101.03272)
   * [Spatial-Phase Shallow Learning: Rethinking Face Forgery Detection in Frequency Domain](https://arxiv.org/abs/2103.01856)
-  * [Frequency-Aware Discriminative Feature Learning Supervised by Single-Center Loss for Face Forgery Detection](https://arxiv.org/abs/2103.09096)
   * [Generalizing Face Forgery Detection With High-Frequency Features](https://arxiv.org/abs/2103.12376)
   * [Face Forgery Detection by 3D Decomposition](https://arxiv.org/abs/2011.09737)
 * 人脸质量评估
